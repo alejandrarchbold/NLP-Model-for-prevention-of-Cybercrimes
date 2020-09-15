@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "key-affinity-288505",
+  "private_key_id": "7941bb73685e7c6c4cac65e27e8043d1e64e8a1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAhC5xztgnDXy9\nYV5rCt6z693+MlZizJCrC4sdhoeFWzRo2qe1t9fuDSbo7Q0p1oaHdnD/qcVg2ofP\nYr1rCtmUqgmGNZZMJQ1NB4Bol1TPcIaurzg7BMKlwxgujyOCP3JW/WjuT0Fy3gzH\nSNpZ2mFzHNvywDqxOxVzdEl+5V5FO/jutUzo5sqo2DyJONTX/8apyEnR9mrHzzl+\nA8U3S+oMerKnjicWjmovBj7IwFfQbNDQz2xgW/RWMlwKnLzOq7KqVlKTV7G6qUYC\nILr8MYOTaaXfkZpQqINjDku5eAyxlvyL65dEifwa/xvWv3HMGncKKnoCb9v406H5\nXKBqvoSNAgMBAAECggEAAKZoOi/+B5b39N05p3d52gJploChD4H6gahgy2F6J8lr\nIKJM/ZSGYDfVaLR3BzKphVSohfcXOSakkqEy0LAz7E2opBvBpJT8g7Ecu20fumsQ\nUpiWSyXBlFLBfvc7b0fDPCHWe34zRg3aYlkDjFkIqzfXpmH3c4Zz3Yd1UyPJG28P\nZat1joNZN89gczrs79l867o4wuEqxzRAFEZuu5qIQjhO8dxMNmXXZPOLc0SdXWl3\nRQba+otoIe8sKCl/brxvYmlqauhDBT6Ppu2lbIeNo8urmnKI9MtDX4vV7IPST+pN\nQfIYvlrBMAIAyz8wry73l/WOKkEaGYkk3fhSL6S5KQKBgQDl2wuuhbt2XFttoE7k\n/n4I3psLAuiPohApBC1KUx5JGvOT/0uXgBRj2Y0GQEd6yehfp7PGBsfAYmWtLXdm\npWVJraRr+AXXEOfsAK7o+m+NSO/1ld7mkZ8qZ7TYASMmOV/Bcpx63bI4U9NPuM67\n7Llt4Q+YQag+dq3rCNkGbnLzBQKBgQDWaeMFc6UStiw5P8iuxqKCafGHiQk0pUeT\n6YNf87LrTOx3LDkaByFqJ79YkGAdq5a2TX6yTcN9ctpuJnBaxH196xWR8LYjPYW2\nY43gSNo68PJmikN700mUmitH+KdRlhK1c7bkRQk5AfEJIfAcpvIImPX1DUYaiB5T\nyNUzUswR6QKBgCjWrlCnuhLhfe0QWnQdM09oHavrLF64sJ5Y+6ME+ZCLlVNqPIgC\nXZ0P/hpqOUj7rqmwJiS896ia0u3d8iTupfxdOaVlP8RiYJJx3KHQPRmhJ+E+a4gT\nv2/NVTg7m38jGnxIXL0Hvq57VkQH1dNVz+xR3G902uueMnBb9hNKdGnxAoGAM9ot\nnb7m18yYi0vCk4nT+Sf30igwwruJwNqC++xqg3753KQkNwgsa4irPJbFt8csTnAV\nSLeHpEnnSyYem8TS+GWmtMF6urEBKiePQwM7S2/Dn0qmoUZqj/Zsqx4WEKPzaFBQ\nlYmgflna2bOMZtF0zOF48cdBAd+TPf3emWfXlCkCgYBhVMwcFSBS//KlRiCl6YCA\nm/yGlauu6DVQ7Cs+QReGIhSd8Zmnnw3dB6VQXfXA4IL59MazlyN2vEhARNYWawEi\nMYWWBK8rDF8VuAZHNHqSjegdmupOmrPHxy41bjZMHIUYl0/jchOsvEUFM3Ys+Cg8\ny9cLRTrylCR+LU+38mxSeg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "myproject-trata@key-affinity-288505.iam.gserviceaccount.com",
+  "client_id": "109266477333394954318",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myproject-trata%40key-affinity-288505.iam.gserviceaccount.com"
+}
