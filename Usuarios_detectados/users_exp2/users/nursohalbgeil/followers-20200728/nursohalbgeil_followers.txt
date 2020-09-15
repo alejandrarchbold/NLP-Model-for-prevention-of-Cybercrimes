@@ -1,0 +1,89 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,01:57
+,>>> Analyzed user:,nursohalbgeil
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,313129119,G.Braun,GuenterBraun,"🇩🇪Was ich teile, muss nicht meine Zustimmung haben. was ich Like muss nicht richtig sein, ein Jeder möge selbst entscheiden...🇩🇪nicht links und nicht rechts",http://pbs.twimg.com/profile_images/1277688883900305412/pfgloxtZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-08 05:45:33,Deutschland,,False,742,1842,1208,0,403,False,
+2,1276931731413700608,The-Evil-Returns,TheEvilReturns2,The first evil,http://pbs.twimg.com/profile_images/1276932744266817543/lMmYwt0j_normal.jpg,,2020-06-27 17:33:58,,,False,20,143,705,0,1414,False,
+3,1248681927957241858,Ginette Hub,HubGinette,"Rigtige venner er svære at finde,
+sværere at forlade,
+men umuligt at glemme.",http://pbs.twimg.com/profile_images/1273998255236530183/16LEPE9H_normal.jpg,,2020-04-10 18:39:25,,,False,592,4023,0,1,2,False,
+4,1055837190079594496,Pipi,Pipi22392823,"Ne Meinung haben, dahinter stehn, den Weg von Anfang zu Ende gehn, wenn's sein muß, ganz allein da oben stehn.",http://pbs.twimg.com/profile_images/1256927432541638656/GiGwtjR1_normal.jpg,,2018-10-26 15:02:57,,,False,454,643,7640,1,7027,False,
+5,1232810499118682125,Hubert W. Meier,HubertWMeier,,http://pbs.twimg.com/profile_images/1243873871658463232/p3-PW0YJ_normal.jpg,,2020-02-26 23:32:04,,,False,1059,5000,11844,3,14626,False,
+6,4788247534,Mc Schlosser Klarname 🇩🇪🇵🇱,McNeuhoff,,http://pbs.twimg.com/profile_images/698617165382053889/W-RKfnO9_normal.jpg,,2016-01-12 22:12:47,"Nordrhein-Westfalen, Deutschland",,False,1203,3437,58126,29,56147,False,
+7,24363209,Eddie Graf,Eddie_1412,"Wer mich listet - wird geblockt! 
+Dummschwätzer werden ohne weitere Anhörung sofort blockiert.",http://pbs.twimg.com/profile_images/1165980739197919233/MjXtU2uH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-14 12:47:42,,,False,6491,4202,86943,1,182035,False,
+8,1284431148,D.-Dominik Hennig,DiDoHenn,#teamdennenmoser,http://pbs.twimg.com/profile_images/1276244205027942407/PpH0dCcU_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-20 22:34:10,,,False,618,1147,4746,12,25726,False,
+9,869926857071878144,Simon Dennenmoser,SimonDennen,AfD-Kreisvorsitzender Göppingen,http://pbs.twimg.com/profile_images/1269754686573293573/XPCtyl-a_normal.jpg,,2017-05-31 14:41:39,,,False,756,837,1360,7,9027,False,
+10,1198531536951242752,Animatoren Unterstützer,animatorger,"Wir unterstützen Animatoren, um ein besseres Arbeitsumfeld zu schaffen.",http://pbs.twimg.com/profile_images/1198531966645108736/Jntir3qW_normal.jpg,,2019-11-24 09:19:28,,,False,1368,4634,5,0,30,False,
+11,1182414079387996163,therealrudi,therealrudi1,"🇩🇪🇺🇸 🇮🇱 Deutscher Patriot, Hamburger, Amerikafreund, nie wieder Sozialismus auf deutschem Boden, Keep America Great!",http://pbs.twimg.com/profile_images/1192137811668934656/sKEaLhFO_normal.jpg,,2019-10-10 21:54:33,,,False,2581,4327,28138,1,16071,False,
+12,1100774307758858240,Dachbäcker,bashthebush,"Von der alten Schule-Patriot-🇩🇪 dies ist ein neuer Account im Aufbau, ein Gewinn ist aber noch lange kein Endsieg🇩🇪",http://pbs.twimg.com/profile_images/1100776625115971590/q22YMi8f_normal.jpg,,2019-02-27 15:07:01,Deutschland,,False,1160,1929,217,1,639,False,
+13,1141438003774140416,Véronica Bertin,VronicaBertin1,segretario del credito diretto bancario,http://pbs.twimg.com/profile_images/1251050364994048000/jUvirbK4_normal.jpg,,2019-06-19 20:10:01,Naples,,False,513,3478,0,1,1,False,
+14,1015985977263886336,tinschu😉,tina_schu0601,"Wer die Diktatur schon erlebt hat, der weiß, dass diese Politik ein noch verheerenderes  Ziel verfolgt.",http://pbs.twimg.com/profile_images/1170412238383079426/hWbwCHRd_normal.jpg,,2018-07-08 15:48:27,,,False,246,309,1433,0,1196,False,
+15,607159536,Zeitgeschehen,Zeitgeschehen_,"Tweets rund um das Zeitgeschehen, Politik und Medien. Gegen den Strom – wider den Zeitgeist. Das Maß der Mitte im politischen Denken,
+Entscheiden und Handeln.",http://pbs.twimg.com/profile_images/1267369306062454791/-xiemoBs_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-06-13 10:07:38,Alemania,,False,24514,13017,96293,136,26793,False,
+16,48761826,BerlinBanana,berlinbanana,Hakuna Matata,http://pbs.twimg.com/profile_images/1245610360616280064/Ps31bACC_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-06-19 17:05:11,,,False,9,438,45,0,335,False,
+17,1189660560343863300,"Artemi, Patriotin von Geburt",artemi_ecrit,Lehrerin mit Vaterlandsliebe. Tweets für patriotische Seelen. An der Wirklichkeit entlang u an der Zensur vorbei. Recht-rational. Volk mir doch,http://pbs.twimg.com/profile_images/1192180338983931904/jzjnlrug_normal.jpg,,2019-10-30 21:50:21,,,False,7990,8424,8184,8,46027,False,
+18,360848637,mercy lozano,akshattrippin,,http://pbs.twimg.com/profile_images/1184041807337922560/1WMSts6w_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-23 21:22:39,,,False,1175,4839,54,0,0,False,
+19,1163799078066671618,Papa Bär 💙 aus Sachsen,Carsten216,Ich sage das was ich denke! Achtung ich wähle die AFD ‼️🇩🇪‼️ Gebt mir mein Land zurück 🇩🇪‼️,http://pbs.twimg.com/profile_images/1271413944704544769/l7hzRsRn_normal.jpg,,2019-08-20 13:05:10,Deutschland,,False,388,497,159,0,168,False,
+20,1106792690321162240,Michael Wischnevsky,MWischnevsky,"""If you tell the truth, you don't have to remember anything"". Samuel Langhorne Clemens (Mark Twain) 1835 - 1910.",http://pbs.twimg.com/profile_images/1180729111163101186/UmE3cN1X_normal.jpg,,2019-03-16 05:41:55,"München, Bayern",,False,8698,8899,11218,0,40295,False,
+21,1137999197175783424,Kuechenhorst,kuechenhorst,"26 Jahre Steuern, Gebühren und Sozialabgaben. Toleranz für Tolerante. Für Freiheit und Demokratie",http://pbs.twimg.com/profile_images/1265956508526927872/rjVRYfeJ_normal.jpg,,2019-06-10 08:25:26,,,True,1789,2637,18368,4,5199,False,
+22,3889096697,YabYum47,Henoch47,"Vajrayana, Schamanismus, Ethnolgie, Quantenphysik, Free Tibet,  die Natur das höchste Prinzip, die DIKTATUR in Deutschland verhindern, Tiere haben eine SEELE!",http://pbs.twimg.com/profile_images/1250111887636824064/51b252n5_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-07 10:19:06,,,False,530,1362,6161,0,14869,False,
+23,1104792411144941568,@PIPO124567,PIPO1245671,,http://pbs.twimg.com/profile_images/1169317913326698497/vYYAoPoJ_normal.jpg,,2019-03-10 17:13:31,,,False,1095,2224,71432,2,64093,False,
+24,3364647988,Peter S. offiziell ®No.539 ™,PeterS16649683,"Ex-Militär, Familienvater, freier Journalist und Fotograf. Preuße von Geburt und Deutscher in einem Europa der Vaterländer! No.:539 ™",http://pbs.twimg.com/profile_images/1200085003054526466/ZzU7_8UQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-07 18:50:13,Deutschland,,True,3319,3688,21445,10,40629,False,
+25,1179647631074701313,Chapelon Bérengère,ChapelonBrengr1,"Mein Name ist Bérengère Chapelon und ich bin Hausverwalter. Ich mache Investitionen und Kredite, jeder stirbt, um Kredite ohne Probleme online zu vergeben.",http://pbs.twimg.com/profile_images/1179668892752502784/IVFduWGP_normal.jpg,,2019-10-03 06:42:31,,,False,106,656,2,0,4,False,
+26,1138236142673965061,Hatespeech Legende,HatespeechL,"selbsternannter Journalist
+selbsternannter Satiriker
+selbsternannter Experte (in allem)
+vorgebliche Aktivistin
+und vor allem:
+Vollblutdemokrat
+
+Esto perpetua!",http://pbs.twimg.com/profile_images/1267868791599439874/590Zg8G3_normal.jpg,,2019-06-11 00:06:58,United Kingdom of Taured,,False,511,577,24989,0,46922,False,
+27,1182261502545453057,Isabel Malivi,IsabelMalivi,Ich bin in einem Finanzinstitut,http://pbs.twimg.com/profile_images/1182262778352021504/pjL-pjdg_normal.jpg,,2019-10-10 11:48:24,Alemania,,False,199,754,0,0,0,False,
+28,1018408557031632896,susi0601 - 2.0,tinschu_susi06,,http://pbs.twimg.com/profile_images/1170400052193431552/bmJYliqD_normal.jpg,,2018-07-15 08:14:55,,,False,371,570,1003,0,967,False,
+29,1178027474040578052,Richter Gnadenlos,RichterGnadenl1,"Als ich noch Paragraphen ritt, war ich mehr an der frischen Luft! Gegen die Mainstream Diktatur, für die freie Entfaltung der Meinung im 2. Versuch❗️",http://pbs.twimg.com/profile_images/1178027620543410177/WDiwUiyj_normal.jpg,,2019-09-28 19:23:45,,,False,1652,2089,461,0,1165,False,
+30,183409796,Bernd Luge,bernd471,"AfD ist die große Chance für unser Land; wer mit der AfD übereinstimmt, sollte sie durch seinen Eintritt stark machen. Merkel ist irrational, spd unwählbar.",http://pbs.twimg.com/profile_images/1316578949/thumbnail_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-26 23:02:37,kurz vor Hamburg,,True,11942,12603,349867,244,142009,False,
+31,339469723,𝕸⭐𝕸𝖊𝖙𝖍𝖓𝖊𝖗⚔🇩🇪🇦🇹🇭🇺🇺🇲,mchme,👍Für Demokratie und Rechtsstaat🏛Parteilos⚡Twitter-aktiv seit2019💥ℍ𝕠𝕟𝕖𝕤𝕥⚘For you⚘/ #Merkelshouldgo/♦️𝖅𝖊𝖎𝖙 𝖋𝖚̈𝖗 𝖁𝖊𝖗𝖆̈𝖓𝖉𝖊𝖗𝖚𝖓𝖌✌🔛 Huhu!,http://pbs.twimg.com/profile_images/1091938862329405440/WasSHrJs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-21 04:38:44,Germany,,False,2180,2257,1623,0,40721,False,
+32,3338764193,Sandy,Newhope65Sandy,Made in Germany 🇩🇪,http://pbs.twimg.com/profile_images/1061367548900507648/4ArZDFbV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-21 11:08:21,"Berlín, Alemania",,False,170,196,45,0,8676,False,
+33,3021396784,susi0601😉💙,tinschu_susi,"Jeder sollte die Konsequenzen seines Handelns tragen. Wer die Demokratie mit Füßen tritt und die Gegenwart leugnet, hat nichts begriffen.",http://pbs.twimg.com/profile_images/803691883125940224/OhBYAzDr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-06 12:08:17,Deutschland,,False,1644,1615,35627,3,28766,False,
+34,780054213304971269,Graf von Berg 🇩🇪🇺🇸🇮🇱,GrafvonBerg1,,http://pbs.twimg.com/profile_images/1077670864265637891/FHPHmclD_normal.jpg,,2016-09-25 14:39:51,Bergisches Land,,False,273,679,3472,1,15317,False,
+35,1005484560052781056,Person of Menstruation (Elternteil 1 / Ex-Frau),Lisa_Marychen,"Satirisch, sarkastisch, kindisch und nur nicht immer meine Meinung. Retweets/Likes nicht immer keine Zustimmung. Hä? Herzlich willkommen in Absurdistan 😊",http://pbs.twimg.com/profile_images/1271031753864556545/Xb4qMZDY_normal.jpg,,2018-06-09 16:19:34,Germoney,,False,1443,1266,67699,3,48025,False,
+36,1026043052358549504,Klarname 🇩🇪 Angelika 💙,annelys52643188,In allen Dingen ist hoffen besser als verzweifeln. (Johann Wolfgang von Goethe),http://pbs.twimg.com/profile_images/1278278592527564800/hmz4DnEW_normal.jpg,,2018-08-05 09:51:41,"Lippe, Nordrhein-Westfalen",,False,1605,1569,16657,1,28635,False,
+37,2943331414,suaviter in modo,MensAgitatMolem,„Die freie Welt darf nicht schweigen“,http://pbs.twimg.com/profile_images/1035219494082433024/ziT_AB_B_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-27 05:01:13,,,False,584,4367,2584,2,63583,False,
+38,1111927504510562305,Hermann Willaredt - Contemporain,HWillaredt,"Wirtschaft, Philosophie, Kultur. Macht Musik und mischt sich ein.",http://pbs.twimg.com/profile_images/1227314649315577857/BvFRaO-R_normal.jpg,,2019-03-30 09:45:50,"Basilea-Ciudad, Suiza",,False,872,1439,10542,3,15128,False,
+39,192523737,Herr P.,paule002,"Auch nicht mehr der aller jüngste Springinsfeld. Was schön wäre, wenn euch meine Meinung genauso egal wäre, wie eure mir. Zack - Weltfrieden!",http://pbs.twimg.com/profile_images/1080090070101774336/s2enPqc3_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2010-09-19 11:52:12,,,False,1222,3431,40245,68,82417,False,
+40,836662048041754625,Andreas Hauser,piWiesentheid,"Konservativ,Libertär,Reaktionär
+Value-Investor
+Weltenbummler",http://pbs.twimg.com/profile_images/1253953382940844032/vvy-6A0J_normal.jpg,,2017-02-28 19:39:11,,,False,440,433,5574,7,22113,False,
+41,1135518417849659392,Berlinerin,Berlinerin10,"Politik ist ein dreckiges Geschäft.
+
+Ich verurteile jede Art von Terror, Linken, Rechten oder islamistischen Terror!",http://pbs.twimg.com/profile_images/1275829229880573952/Xo_vQhe4_normal.jpg,,2019-06-03 12:07:42,,,False,315,579,3084,0,9915,False,
+42,325080970,Ich bin dt Flüchtling geworden‼️,liebereinenHund,"Kartoffel mit Hund💙InLove❤️
+👉Supporter von Trump,Salvini,Orban,Boris
+#PatriotsUnited 
+
+
+
+➡️#NadsiOma
+     
+                  
+
+WWG1WGA💪TrustThePlan💪#CueAN0N",http://pbs.twimg.com/profile_images/1187769745958940673/4M6X12Wk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-27 18:14:54,"Zalakaros, Ungarn",,False,1456,1755,43690,0,56147,False,
+43,701266015,Wildpinkler,Deplazierter,Erst lernen wir Laufen und Sprechen - dann still sitzen und den Mund halten.,http://pbs.twimg.com/profile_images/956612119574835200/xbCt0nP2_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-07-17 15:39:09,Alemania,,False,7167,6219,21767,12,7365,False,
+44,1370437022,Fr. Reschke,FrReschke,"Ich stehe für: Freies Denken-auch Andersdenken, Tierschutz & Naturschutz, liberales & christliches Handeln, Demokratie, Gerechtigkeit, Unterstützung Schwacher",http://pbs.twimg.com/profile_images/1167354041816551425/aWDkNzpH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-21 19:51:18,wo es am Schönsten ist,,True,8551,9171,26151,22,31278,False,
+45,974991728154501121,Karl Zipfel,RolZipfel,Merkel muss Weg,http://pbs.twimg.com/profile_images/987594671361810432/2caC8r3__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-03-17 12:51:57,"Baden-Württemberg, Germany Stuttgart",,False,2640,2647,9606,0,9216,False,
+46,1167121877724225538,*GustavGanz*,_GustavGanz,"„Die zwei wichtigsten Tage Deines Lebens sind der Tag, an dem du geboren wurdest, und der Tag, an dem du herausfindest, warum“",http://pbs.twimg.com/profile_images/1222459263966203904/iJX1gA6Y_normal.jpg,,2019-08-29 17:09:47,,,False,510,519,408,0,733,False,
+47,950026385837486081,Klarname RTLPRMFT,hannshummler,"Nichts ist stärker als eine Idee, deren Zeit gekommen ist!",http://pbs.twimg.com/profile_images/1084429406456696833/39snzZxa_normal.jpg,,2018-01-07 15:28:35,Deutschland,,False,595,1399,6346,0,8305,False,
+48,912304963715518464,Baron Münchhausen,DerLuegenbaron,"Wahrheit, Lüge oder Satire? Auf jeden Fall kein Teil des Systems. Wer die Wahrheit hören will, sollte sich vorher fragen, ob er sie ertragen kann.",http://pbs.twimg.com/profile_images/1281465702667505665/gCklpXbY_normal.jpg,,2017-09-25 13:17:07,,,False,3735,3874,25327,6,42508,False,
+49,904099906893307905,resiliente,rammwatte,"Machen wir uns doch nichts vor, Wahlen und Parteien spielen keine Rolle mehr.Religionen und Ideologien satt.Ein ❤ für direkte Demokratie.",http://pbs.twimg.com/profile_images/1184885946795380736/kU_GjEGX_normal.jpg,,2017-09-02 21:53:09,verschlampt u mörderisch Q.BZ,,False,1632,1644,13002,3,29815,False,
+50,1104864683574640642,Anni,AnJa03411169,"Ich liebe meine Heimat, bin weder links noch rechts, einfach vor vielen Jahren stehen geblieben. Wir alle sind #Hallo_Meinung
+ich folge zurück 
+
+ich bin ich 😉",http://pbs.twimg.com/profile_images/1144131850341928960/0jnVQiKZ_normal.jpg,,2019-03-10 22:00:42,Deutschland ,,False,1966,2480,5046,0,52169,False,

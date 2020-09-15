@@ -1,0 +1,98 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,16:55
+,>>> Analyzed user:,Ferjoher1
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,540914872,CLOACALOMBIA #antiuibista #antifascista,HHMARTINL,"#AntiaristocraciaColombiana
+#Antiuribista
+#AntiCarteldeMedellinenelpoder
+Nos gobierna un Cartel de corruptos",http://pbs.twimg.com/profile_images/1188635017431400448/ehcIcLVc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-30 15:39:52,"Bogotá, DC, Colombia",,True,2052,2439,66622,16,182,False,
+2,1044769296373751808,#MovimientoAntiuribista,AntonioTC15,#SiganmeLosBuenos,http://pbs.twimg.com/profile_images/1274778468866195459/eePH_zlx_normal.jpg,,2018-09-26 02:03:05,Colombia,,False,1219,2293,5760,1,22864,False,
+3,961583186,Lorena Rodríguez 💚🌎🌳,lorerodriguezf,"Administradora pública 🙋
+Especialista en políticas públicas 📚
+Fundadora de la organización Renuevate Usme 🌻🍃
+Líder Comunitaria y Activista 🇨🇴",http://pbs.twimg.com/profile_images/1287945579990061056/WnO22-kA_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2012-11-21 02:04:32,"Bogotá, D.C., Colombia",,False,3450,1654,1423,1,4862,False,
+4,1283171657440546816,Sarita_,YoSarita_,"La tercera es la vencida...
+cuenta No.3 que me cierran por decir lo que pienso pero aquí vamos de nuevo
+#AntiUribistasSigueAntiUribista 
+NO DM🚫 NO DM🚫",http://pbs.twimg.com/profile_images/1283174626869288960/WayTa9gE_normal.jpg,,2020-07-14 22:49:09,,,False,3133,1786,180,0,477,False,
+5,1231966565505081344,@jozaral0202,JorgeZarastegui,Economista Esp. En formulación y evaluación de proyectos. AntiUribista 1000%,http://pbs.twimg.com/profile_images/1231979685946515456/iN8AvOUJ_normal.jpg,,2020-02-24 15:39:04,,,False,797,942,6510,0,7600,False,
+6,1665902689,Edison Linares Muñoz,EdisonLinaresM,#AntiUribistaSigueAntiUribista,http://pbs.twimg.com/profile_images/1090310514557755393/MVHiaXBq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-08-12 19:41:51,"Bogotá, D.C., Colombia",,False,1170,1523,1154,0,850,False,
+7,104783458,Carolina Rivera,carimo91,Mamerta emputada Defensora de los derechos humanos,http://pbs.twimg.com/profile_images/1284776256488329217/XNYq5lYR_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-01-14 11:22:26,"Valle del Cauca, Colombia",,True,2093,1151,1215,1,2987,False,
+8,978427551415701504,Nana,Nanalinda80,#AntiUribistaSigueAntiUribista,http://pbs.twimg.com/profile_images/1279779219225092096/-CNI0nZ6_normal.jpg,,2018-03-27 00:24:41,"Bogotá, D.C., Colombia",,False,3156,3861,3417,1,12055,False,
+9,1276891528435306497,Alejandro B. Salazar,AlejOpinando,Me bloquearon en @ALEJOBARRAGANN.,http://pbs.twimg.com/profile_images/1286852529549201411/vc1fj5Qf_normal.jpg,,2020-06-27 14:54:13,"Bogotá, D.C., Colombia",,False,1675,1661,48,0,380,False,
+10,702291843485200389,Efrain Daza💎,EfrainDaza3,Abogado defensor de los derechos humanos de los trabajadores en Colombia.,http://pbs.twimg.com/profile_images/1213587465400918018/xNHTaXm1_normal.jpg,,2016-02-24 00:39:58,"Bogotá, D.C., Colombia",,True,3253,4406,2036,1,5480,False,
+11,150296390,Yolanda,pasearpasear,abrazo la vida,http://pbs.twimg.com/profile_images/1111439482291519488/JLHZwQel_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-31 15:41:31,"Valle del Cauca, Colombia",,False,910,1111,570,0,593,False,
+12,1155994873947803655,More Mas,moremas2008,"Aunque la vida no es nada fácil soy una luchadora, empresaria, esposa y madre orgullosa. #sigamoslosbuenos",http://pbs.twimg.com/profile_images/1167979409560592386/wGShvsgw_normal.jpg,,2019-07-30 00:13:50,Estados Unidos,,False,1389,1874,9099,0,49036,False,
+13,204984709,Marge ⚡️🌱,AriasMarggie,Energía⚡️ Ecología 🌱 Izquierda💪🏼...,http://pbs.twimg.com/profile_images/1281981899787902976/nLQqUUGH_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-10-19 22:28:39,"Bogotá, D.C., Colombia",,True,3735,1122,26553,10,5405,False,
+14,805177843,Belia Guzmán 🤍,BeliaGuzmanG,,http://pbs.twimg.com/profile_images/1046800311732584448/K2dPySGd_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2012-09-05 18:54:13,"Barranquilla, Colombia",,True,807,609,2184,0,881,False,
+15,2541399845,Bart,Jo91Jose,,http://pbs.twimg.com/profile_images/1287017207004893185/z-Gmkbku_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-11 17:49:49,Colombia,,True,1852,3555,1292,1,10319,False,
+16,1280287120079413259,antiuribista aguacatero..🥑🥑🥑🥑,MarcoPa66248975,soy la persona que quiere el cambio para Colombia ⛓️🕹️🕹️⛓️,http://pbs.twimg.com/profile_images/1281204808934924290/1pCm84tc_normal.jpg,,2020-07-06 23:47:03,,,False,1712,1723,91,1,137,False,
+17,3148704939,Pedro Suárez Vacca,suarezvacca,,http://pbs.twimg.com/profile_images/1284678415921152002/eAZnTeQQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-08 17:58:35,,,False,1946,1874,1936,1,15422,False,
+18,94660010,Carlos E Romero J,carlosromerojai,🐝🐝🥑🥑🔦🔦🐝🐝🥑🥑🔦🔦🐝🐝🥑🥑🔦🔦🐝🐝🥑🥑🔦🔦 UN Universidad Nacional de Colombia Sede Bogotá Egresado #SíganmeLosBuenos2020 #SigámonosLosBuenos2020,http://pbs.twimg.com/profile_images/1276382053991354373/pBDkNUfm_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2009-12-04 22:29:35,Colombia,,True,12318,12180,64762,7,44,False,
+19,1093853437010292737,Angie Rodríguez,RoveAngie,"Revoluciona.
+
+
+Medio-ingeniera.",http://pbs.twimg.com/profile_images/1285955498794246146/x-_I9_ml_normal.jpg,,2019-02-08 12:45:56,,,False,611,661,24,1,1772,False,
+20,1283469613443973121,ElMamertico 🇨🇴🇨🇴#LaBandaDelPajarito 🐥,ElMamerticoDos,"PerfilAlterno
+El mismo #Mamertico
+#Antiuribista
+#AntiuribistaSigueAntiuribista
+#ColombiaProgresa",http://pbs.twimg.com/profile_images/1283473303181697030/KIw9KFDv_normal.jpg,,2020-07-15 18:33:07,Puyándote el jopo de uribista,,False,1631,1707,1515,2,1259,False,
+21,1249155106026774530,Daniel V.,Daniel_VM64,🐝#FirmeConPetro,http://pbs.twimg.com/profile_images/1278106077943431168/a3GVddCS_normal.jpg,,2020-04-12 01:59:56,"Bogotá, D.C., Colombia",,False,525,793,69,1,283,False,
+22,528654272,Mega Ricos,MegaRicos,"Revista acerca la riquezas, negocios y lujos del mundo. Apoyamos a todos los emprendedores del mundo.",http://pbs.twimg.com/profile_images/1118250363591843842/8SCEKo81_normal.png,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-03-18 16:39:26,Estados Unidos,,False,8846,6393,14357,40,334,False,
+23,91696375,Ignacio Epinayu,ignacioepinayu,"Wayuu-Wayuunaiki-Archivos-Bibliotecas. Uribia, siempre Uribia
+#BogotáIntercultural #WayuunaikiParaElMundo",http://pbs.twimg.com/profile_images/1285566718132260864/s98SXDui_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-11-22 01:32:50,"Bogotá, D.C., Colombia",,True,4047,4572,6630,8,1537,False,
+24,826822640279105537,Bernardo Espinoza,bernitol,"Arriesgate!!! ..... Sé tú mismo!!!
+#YoApruebo
+#NoFachos
+#AprueboGanaEnOctubre
+#AprueboNuevaConstitucion",http://pbs.twimg.com/profile_images/1254216746929737730/-48BzImJ_normal.jpg,,2017-02-01 16:00:53,"Chiguayante, Chile",,True,1969,2204,6765,0,11997,False,
+25,1020699775467958274,Gloria Pèrez Casas,casas_peres,,http://pbs.twimg.com/profile_images/1221171917819994112/2hBH3aOL_normal.jpg,,2018-07-21 15:59:24,"Zaventem, België",,False,252,409,488,0,828,False,
+26,130046640,Franklin de Avila,franklindeavila,"Piensa por ti mismo, cuestiona todo, investiga, no permitas que otros te recreen la realidad",http://pbs.twimg.com/profile_images/2878219337/32b1d7f9a1a050e7512dc4e42bcef169_normal.jpeg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-04-06 04:23:54,,,True,859,838,8036,3,1182,False,
+27,133610216,Diana María,Liloct,"Comunicadora Social - Esp en Cultura, Política y Educación - Mg en RRHH - Hija de Dios, gracias a Jesús. #AntiUribista.",http://pbs.twimg.com/profile_images/1273250248564105216/DQJEBhdN_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2010-04-16 06:15:01,Colombia,,True,8160,6908,24750,10,80,False,
+28,193414653,Keila Martínez 🐾,KeilaMartinez18,,http://pbs.twimg.com/profile_images/831378548799787008/inDLKWxV_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2010-09-21 19:20:10,,,True,1026,963,1164,0,1667,False,
+29,917654341,Camilo Andres,camilo0224,,http://pbs.twimg.com/profile_images/1245853382394417153/C0EpBsyW_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-10-31 20:54:58,,,False,722,961,998,0,3937,False,
+30,756317106,Jaime A Trujillo,jaaltrusa_a,Administrador de Empresas #unilibre,http://pbs.twimg.com/profile_images/920476569860235264/3U4DMKNN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-14 02:47:57,Colombia,,False,822,902,2702,1,9839,False,
+31,287934390,hammer,hammer105,Antiuribista,http://pbs.twimg.com/profile_images/1163491606525296642/93e-VTr-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-25 23:27:08,,,True,1791,2637,10415,1,1532,False,
+32,3255061738,Sebastian Archila,SebastianArchi8,"Socialdemocrata, defensor de la paz, estudiante de nutrición (PUJ), lucharemos por una buena alimentación universal que llegue a todos lo rincones de Colombia.",http://pbs.twimg.com/profile_images/1285983679647551488/6qTPbveF_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-15 01:32:31,,,False,1366,1598,2324,2,2692,False,
+33,1243715529547882496,@LATIGOURIBESTIAS.,LATIGOURIBESTIA,"#SUIGUEMEYTESIGOINMEDIATAMENTEDOYMIPALABRADEHONOR..!
+#ANTIURIBISTASIGUEANTIURIBISTA 
+#LLEGÓLAHORADELCAMBIO
+#UNIDOSCONTRAURIBELODERROTAMOS
+#URIBENOSSIENTE",http://pbs.twimg.com/profile_images/1286308541863788546/BJOdrIV__normal.jpg,,2020-03-28 01:45:04,En algún lugar de la Mancha.!,,False,3509,3510,6268,0,2785,False,
+34,1235061991678660608,William caicedo,William28843976,💯Antiuribista.,http://pbs.twimg.com/profile_images/1235063004309393408/W-dToUZr_normal.jpg,,2020-03-04 04:38:32,,,False,1055,1462,2170,1,747,False,
+35,227692415,Jorge Gamba,joregam,#antiuribistasigueantiuribista,http://pbs.twimg.com/profile_images/1287115818975854592/LJ6W0L9D_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-12-17 14:55:01,,,False,1431,2348,14110,1,4054,False,
+36,140995993,Erick Joel De La Espriella C.,ErickJoelDC,#Antiuribista Liberal 🚩 Humanismo. Agrarismo. Ecologismo. Libre expresión y personalidad. Libertad de cultos. Free Market + Clean Energies. Advisor : HSEQ SIG.,http://pbs.twimg.com/profile_images/1254835287374663689/SJlGrUJk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-06 22:43:18,Cartagena - Colombia,,False,1942,2471,477,2,2118,False,
+37,221434904,Giusty Putin,Putin2025,"De Izquierda Progresista y socialista, ni marxista ni lenninista ni trosckista ni stalinista, ni arrodillado al Capitalista.
+Antiuribista500% y progresista2000%",http://pbs.twimg.com/profile_images/1218727712828862464/yjevPtpK_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-11-30 17:20:18,Cartagena,,False,1918,4166,3033,1,8902,False,
+38,280157674,Alejandro Lopez,alejo_lopezs,"Personas coherentes hacen elecciones coherentes. Mas no se trata de ver el error buscando culpables, sino de ver el error para trascenderlo. Extiendo amor",http://pbs.twimg.com/profile_images/1279592149164658689/Yx87cD2e_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-10 19:19:00,Bogotá - Colombia,,True,1394,2159,6260,1,6808,False,
+39,1942695360,Wilson Navarro,navarrowilson1,"Poeta aficionado.Escritor de la vida y las tormentas.
+Estudiante de Psicologia.Electromecanico..y amante del cine y la literatura.🎨🧩⚽️",http://pbs.twimg.com/profile_images/830478682087112704/3mnSz4l8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-07 02:45:33,La Bella hija del Sol,,True,557,909,5350,0,4143,False,
+40,21367171,Alberto Cortés,betocortes,"LinkedIn: 
+https://t.co/HdnWly9CIk
+Instagram: 
+https://t.co/IysGGvUVWh
+
+Tomás... yo soy tu padre!",http://pbs.twimg.com/profile_images/1288271543550836741/SVUUNG8o_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-02-20 02:45:03,Santiago de Chile,,False,556,1412,8112,3,3100,False,
+41,1200468125877243909,fercho,Yao58137812,"Ver reír a mis hijos... Y que disfruten su vida..
+#antiutibistasigueantiuribista
+#sigoalosbuenos
+. Sígueme y te sigo.",http://pbs.twimg.com/profile_images/1200468346606641152/iawqmfyF_normal.jpg,,2019-11-29 17:34:57,"Palmira, Colombia",,False,1058,1555,690,1,268,False,
+42,1244299658337411078,Asesor Subpresidencial,subpresidencia1,Asesor de subpresidente imbécil al que le compraron la elección las ratas del @Cedemocratico Asesor del Títere de #Matarife,http://pbs.twimg.com/profile_images/1244300167219740678/Nncz4s4x_normal.jpg,,2020-03-29 16:26:47,,,False,754,761,30,2,127,False,
+43,278600715,Jed3228,Jed3228,"Abogado en contra de la mafia y corrupción que desgobierna. La única manera de sacarlos es no votar por ellos, sabemos quienes son.",http://pbs.twimg.com/profile_images/1280297000328724480/IdqcenHq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-07 15:57:43,Colombia,,False,3315,5001,141294,6,101,False,
+44,233576038,Coronel Hanibal,coronelparra,,http://pbs.twimg.com/profile_images/1202044323505811456/ORzkOiiL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-03 15:59:43,,,False,702,1444,680,0,17230,False,
+45,1091867200594632704,Emilio,quepasaenlacasa,"#quepasaenlacasa!        Si ustedes los jóvenes no asumen la dirección de su propio país, nadie va a venir a salvárselo, nadie!  J.G.",http://pbs.twimg.com/profile_images/1283946176635641857/wtEVSiDv_normal.jpg,,2019-02-03 01:13:21,"Bogotá, D.C., Colombia",,False,1090,1672,332,1,835,False,
+46,213669434,gladys  R .,glajare66,"En defensa de la Paz, y los derechos humanos así sea por twittear",http://pbs.twimg.com/profile_images/864639578837106688/ruPn5buD_normal.jpg,http://abs.twimg.com/images/themes/theme6/bg.gif,2010-11-09 14:07:15,,,False,329,997,5078,0,4995,False,
+47,399167479,🌹Rosabel 💚💜🎶⚽️,IronicBlossom,"No odio a Uribe, rechazo todos los valores que él representa. «Si un hombre da su opinión, es un hombre. Si una mujer da su opinión, es una puta» Bette Davis",http://pbs.twimg.com/profile_images/1232836025296334849/W6Z1UKO__normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2011-10-27 02:51:18,,,False,6163,5273,37409,7,27020,False,
+48,2164025562,Yulia Katherine,YuliaCediel,"♡
+Caminamos la palabra por un país para la  Vida Digna.",http://pbs.twimg.com/profile_images/1278543001816621057/qLTdTrUd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-30 03:32:35,Pereira,,True,1127,1538,2087,1,1623,False,
+49,1215029228011507713,Asarias Argumedo,AsariasArgumed3,SIEMPRE SE PUEDE MAS,http://pbs.twimg.com/profile_images/1281236529176891392/YGWZhxrN_normal.jpg,,2020-01-08 21:56:02,,,False,3205,5004,639,2,224,False,
+50,1240267330413834246,Angélica,Anglica_Alonso,"21.02.14
+📖🎧🎵🎶",http://pbs.twimg.com/profile_images/1280713764585832448/ZrMN0uKX_normal.jpg,,2020-03-18 13:22:48,,,False,233,190,51,0,320,False,

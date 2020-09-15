@@ -1,0 +1,56 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,02:33
+,>>> Analyzed user:,mrwatch808
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1256831949458587649,A. COPLA. MIENTO.,a_copla,,http://pbs.twimg.com/profile_images/1273668084256120832/H27uid4X_normal.jpg,,2020-05-03 06:25:00,,,False,763,2009,13530,1,290,False,
+2,1271196928643137537,Marie Curie Legión,CurieAnti,Es un deber moral ridiculizar #FEMINAZIS,http://pbs.twimg.com/profile_images/1278763916751974400/M4nrxiPP_normal.jpg,,2020-06-11 21:45:47,,,False,297,955,800,0,524,False,
+3,1202985373053403137,Tatiana Ramon,TatianaRamon17,,http://pbs.twimg.com/profile_images/1203403458264600576/pmSAt-yh_normal.jpg,,2019-12-06 16:17:42,,,False,31,420,86,0,1001,False,
+4,123953576,KTRONIX,ktronixcolombia,Cuenta oficial de Ktronix. Somos la primera tienda especializada en tecnología y electrodomésticos de Colombia. Síguenos en Facebook: https://t.co/9H3chTEPI2,http://pbs.twimg.com/profile_images/1236071090369290243/IrvHjy6k_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-17 19:18:27,Colombia,,True,46028,1085,32128,182,4698,False,
+5,1228568287438659586,Contracorriente,aborto_cero,Ciberactivismo Artístico. 🗣 Militancia Provida.  No al genocidio prenatal. Paleolibertaria,http://pbs.twimg.com/profile_images/1228568470033444864/31j5XoBt_normal.jpg,,2020-02-15 06:34:59,,,False,19,94,82,0,216,False,
+6,129068893,Carlos Fernando,CAFELOME,"Pro vida, pensador independiente
+#ConAbortoNoTeVoto 
+#ConIdeologiadegeneroNoTeVoto 
+#ConMisHijosNoTeMetas",http://pbs.twimg.com/profile_images/827963398612779008/WXP7aHD-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-04-03 02:49:59,,,False,182,705,2377,0,12076,False,
+7,153103383,ElReyDesnudo,elreydesnudoes,Desnudando mentiras,http://pbs.twimg.com/profile_images/1274571531276992515/SzhgfhYC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-07 17:57:56,,,False,187,1105,8026,0,12349,False,
+8,731528708,Abracadabra ❄️,ImAbracadabra,Mama said life's like a box of chocolates...,http://pbs.twimg.com/profile_images/1285059049273405442/PdSzVwrT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-01 21:48:13,,,False,3085,4961,31499,1,64963,False,
+9,160754713,Sebastian Iregui G,IREGUI89,,http://pbs.twimg.com/profile_images/378800000412449864/605184d536eb640d666605e9f0eff40a_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-29 01:43:31,,,False,42,41,9,0,21,False,
+10,403612838,Edipo Rey,philippa_Bi,"Todos los que entráis aquí, dejad vuestras esperanzas sobre las puertas del Infierno",http://pbs.twimg.com/profile_images/1224001333621067777/9HssNNnC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-02 19:02:11,,,False,158,264,714,0,98,False,
+11,3990931343,"me duele mi patria,",yolandita2101,,http://pbs.twimg.com/profile_images/1288287030313652225/K9Vm6kEp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-19 01:06:42,,,False,2051,3243,62671,0,33967,False,
+12,1094101578079002625,Liz Cárdenas,LizCardenasVi,"sueño y construyo día a día  mi nuevo país, mi nueva ciudad .
+Equidad, inclusión y justicia",http://pbs.twimg.com/profile_images/1163505299468292096/_o_9yrmq_normal.jpg,,2019-02-09 05:11:58,,,False,2207,3936,279,1,32,False,
+13,992576244960124933,@Ronarias,Ronarias4,,http://pbs.twimg.com/profile_images/1014717779084304384/4jwF07u1_normal.jpg,,2018-05-05 01:26:32,,,False,868,2554,5723,0,12256,False,
+14,1216385355173122049,Memo Hdez,MemoHdez7,"Soy alegre, trabajador, honesto y leal... #HombreDeTierrasLejanas",http://pbs.twimg.com/profile_images/1227103067503570945/d1eYiWRO_normal.jpg,,2020-01-12 15:44:18,"Santiago, Chile",,True,118,566,135,0,201,False,
+15,1153706403955130373,Michael Artunduaga,mi_artunduaga,,http://pbs.twimg.com/profile_images/1249593135333814273/q9wr80RS_normal.jpg,,2019-07-23 16:40:16,,,False,14,160,50,0,390,False,
+16,1499225366,OLAFO NO AMARGADO,Diver0677,Odio AUV.,http://pbs.twimg.com/profile_images/1178856301184585729/oUJzjgvF_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-06-10 19:58:45,"Bogotá, D.C., Colombia",,False,1444,2165,3244,1,4373,False,
+17,1167251207628439552,Betty Lara Vasquez,BettyLaraVasqu1,amante del café ☕,http://pbs.twimg.com/profile_images/1244710485682982912/YuF8UWYG_normal.jpg,,2019-08-30 01:42:37,ovejas sucre,,False,213,397,74,0,177,False,
+18,158849319,Paula Calderón,paulacalderon_,,http://pbs.twimg.com/profile_images/1281260854642724870/QupJ28pU_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2010-06-23 20:37:10,Bogotá,,True,1090,1648,1681,2,2172,False,
+19,707188956249661440,Laura Pajón🥑,pajon_lauraR,"SOY ATEA NUNCA HE TENIDO AMIGOS IMAGINARIOS
+#Sigamonoslosbuenos",http://pbs.twimg.com/profile_images/1282300666447364100/8QimeovB_normal.jpg,,2016-03-08 12:59:20,,,False,2774,4068,98624,5,107205,False,
+20,1081953449061896192,Pedro Andrey,PedroTe94723306,"Trabajo y progreso, vivir ahora",http://pbs.twimg.com/profile_images/1086086950396653568/ubQNiwcz_normal.jpg,,2019-01-06 16:39:38,"Norte de Santander, Colombia",,False,110,346,177,0,365,False,
+21,105179800,Sergio Cardenas,Ashkelon8,Lo único que tienes es este momento....,http://pbs.twimg.com/profile_images/1032713954320166913/Ir6qJyoV_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-01-15 16:03:17,Bogotá,,False,3020,3254,3926,1,6913,False,
+22,939225350873239552,Alejandro Botero Carvajal,botero_carvajal,,http://pbs.twimg.com/profile_images/1217198673316188160/haD0uw-Q_normal.jpg,,2017-12-08 20:09:08,,,False,970,1495,4691,0,2400,False,
+23,104017574,Jaime Aguirre 🥑,jascorp,Ingeniero/Cake Artist 3er Finalista de El Desafio de Buddy Latinoamerica T1 #movimientoantiuribista,http://pbs.twimg.com/profile_images/1954681956/image_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-01-12 00:37:19,"Bogota, Colombia",,False,699,957,1597,1,3599,False,
+24,739898445826281472,Cristh Antiuribista.,Cristhi02822482,"Aquí se habla de progreso, ideas transformadoras, progresistas, se dice la verdad del uribismo, la ignorancia no entra en esta cuenta.",http://pbs.twimg.com/profile_images/1212872369091547136/vcUvGeMM_normal.jpg,,2016-06-06 19:15:11,"Bogotá, D.C., Colombia",,False,2845,4436,39074,3,49648,False,
+25,1022935747,Pilli Art,ArtPilli,"Con la esperanza de un cambio, vivir en el país maravilloso que es Colombia¡ #ColombiaProgresa
+#AntiUribistaSigueAntiUribista",http://pbs.twimg.com/profile_images/1203164743789350912/_LPLSh6E_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-19 21:30:15,,,True,5786,5622,8040,2,12109,False,
+26,462266814,davideffe,dizardpro,"Músico, docente y crítico de un Feudo llamado Colombia #Progresista & #AntiUribista de Corazón 💪🏻🇨🇴❤️ #AntiUribistaSigueAntiUribista",http://pbs.twimg.com/profile_images/808715192699912192/n20Y3PLi_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-01-12 19:21:33,"Bogotá, Colombia",,True,2359,3197,2405,5,8036,False,
+27,336804570,Oscar R. Niño 🇨🇴,ornmusic,Comunicador Social y Periodista. Especialista en Publicidad #SocialMedia #MarketingDigital #EstrategiaDigital📈🔝 #YoAmoBogotá,http://pbs.twimg.com/profile_images/1098212896939618304/0SSLgx3H_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-16 23:12:14,"Bogotá, D.C., Colombia",,False,1020,1769,373,0,418,False,
+28,285806588,Wilson Diaz Coronado,WRDCoronado,"soy antioqueño.me encanta construir,barcos en madera.",http://pbs.twimg.com/profile_images/1130654468771598337/WOGCAMEQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-21 20:33:00,Medellin Colombia,,True,1031,2215,76098,24,1963,False,
+29,724787369065484288,Alejandro Giraldo,alejomail71,,http://pbs.twimg.com/profile_images/1274821379330846720/pHZM8hFR_normal.jpg,,2016-04-26 02:29:09,Manizales - Colombia,,False,2223,3304,2494,0,7217,False,
+30,1877607829,hector hoyos,hectorenriqueho,,http://pbs.twimg.com/profile_images/1198670229276155904/mNT6QcfY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-18 01:35:04,,,False,1656,2448,888,0,2534,False,
+31,981743092935086080,pelagato,charles_ax3,,http://pbs.twimg.com/profile_images/1096179331825655809/CZrUxGH1_normal.jpg,,2018-04-05 03:59:28,,,False,1552,2205,560,1,889,False,
+32,188853486,mi YO cabron 🧐 Ps. Esp,JavierCerraV,"Bienvenidos a mi versión de los hechos🧐🧐🧐🧐
+Nadie podrá llevar por encima de su corazón a nadie ni hacerle mal en su persona aunque piense y diga diferente",http://pbs.twimg.com/profile_images/1280663187361128448/bgTv8VO7_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-09 19:07:42,"Zutphen, Nederland",,True,1076,1201,1109,3,1218,False,
+33,3149575091,Yimena Ramirez,YimenaR,,http://pbs.twimg.com/profile_images/1205259272688459777/tlnNdPlh_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-08 22:31:11,Bogotá Colombia,,False,870,1152,6284,2,5570,False,
+34,1702367058,Rogelio Bañol,RogelioBanol,"Informático de profesión. Profesor por vocación. Adicto a la buena música. Incorrección política al por mayor, pero también al menudeo. Debato pero con datos!",http://pbs.twimg.com/profile_images/378800000364893734/246126f856ad211a73c9b60c7f0e5498_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-08-26 16:48:55,Colombia,,False,546,761,1188,3,179,False,
+35,1092967792779898880,Dayron Yegrail,DYegrail,"Cucuteño. Estudiante de Economía @uniandes. Voluntario @domopaz. Remando en @fronterandes. Absurdo, irónico, alegre.",http://pbs.twimg.com/profile_images/1264428004824035330/XC7k7KUo_normal.jpg,,2019-02-06 02:06:42,"Bogotá, D.C., Colombia",,True,649,1759,681,0,2547,False,
+36,1183360596,Marion Andrea,marionshin,"Mujer Venezolana. soñadora, intuitiva y reservada, Psicologa, etc.",http://pbs.twimg.com/profile_images/1074419208505712641/SWR5kYg6_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-15 18:10:13,"Cali, Colombia",,True,100,243,673,0,383,False,
+37,162926902,Viva Air Colombia,VivaAirCol,"Somos los más puntuales de Colombia🥇¡Sueñas con viajar, hazlo con Viva! 💛✈️",http://pbs.twimg.com/profile_images/1285234839197822978/NKkxUcAi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-05 02:42:31,Colombia,,True,224541,37673,78933,453,3669,False,
+38,2189012545,Kocu,Kocu_latienda,Cosas curiosas para regalar y aprender. Tienda minorista. Importadores. Queremos alegrar la vida de las personas y dar soluciones para sorprender a los que amas,http://pbs.twimg.com/profile_images/378800000727692731/3928a34ffabb2eb19cce3a75afbfba6b_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-11-11 21:19:44,Medellín,,False,32,273,257,0,0,False,

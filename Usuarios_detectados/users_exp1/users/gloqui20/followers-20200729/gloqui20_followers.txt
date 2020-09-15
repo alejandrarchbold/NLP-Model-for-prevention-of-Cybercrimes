@@ -1,0 +1,91 @@
+	TINFOLEAK Report																
+	Vicente Aguilera Díaz																
+	@VAguileraDiaz																
+	www.isecauditors.com																
+																	
+	>>> Date:	29/07/2020															
+	>>> Time:	18:03															
+	>>> Analyzed user:	gloqui20															
+	>>> Information:	Followers															
+																	
+#	ID	USERNAME	SCREEN NAME	DESCRIPTION	PROFILE IMAGE URL	PROFILE BANNER URL	CREATED AT	LOCATION	TIME_ZONE	GEO ENABLED	FOLLOWERS COUNT	FRIENDS COUNT	STATUSES COUNT	LISTED COUNT	FAVOURITES COUNT	USER VERIFIED	USER LANG
+1	1,26832E+18	CiudadLetras	CiudadLetras	Ciudad de Letras.													
+Un espacio para compartir el gusto por la literatura. 																	
+Síguenos en las principales plataformas de Podcast.																	
+"#Literatura #Libros"""	http://pbs.twimg.com/profile_images/1268779686999572481/JkvA_xMj_normal.jpg		03/06/2020 23:23			False	494	658	378	3	318	False					
+2	1,10547E+18	Jeyver Rodriguez	JeyverRodriguez	EcoBioethics, Ecosophy													
+EcoHealth	 EnviroEthics																
+biofilos1984																	
+(c) P.h.D Philosophy PUC. Profesor Ética y Bioética UAI. FAL																	
+"Colaborador Queensland Bioethics Centre"""	http://pbs.twimg.com/profile_images/1253490141336875008/m26j3Ytw_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	12/03/2019 13:50	Santiago, Chile		False	667	3924	3478	5	1442	False					
+3	1,17003E+18	Lizeth Olguin	LizethOlguin10	Experta en música. Aspirante a practicante de alimentos.	http://pbs.twimg.com/profile_images/1282429051643351042/HFua8M3u_normal.jpg		06/09/2019 17:58	México		False	15	95	43	0	218	False	
+4	59497504	Lina Florez R	Linadal14	😷	http://pbs.twimg.com/profile_images/984045539858632705/nUaCe4-a_normal.jpg	http://abs.twimg.com/images/themes/theme6/bg.gif	23/07/2009 15:35			True	200	459	5014	1	1892	False	
+5	2165824875	P i l a r	pilar_lindapity		http://pbs.twimg.com/profile_images/918651711190953985/ANp9HlFh_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	03/11/2013 4:08			False	233	1046	3567	1	4467	False	
+6	1,28026E+18	FreeThinker	Juancho54146120	LIBREPENSADOR	http://pbs.twimg.com/profile_images/1280846085406277632/tlLPWkty_normal.jpg		06/07/2020 22:01			False	1231	4208	6692	0	4128	False	
+7	141943866	JUANCA	JUANCAELBROKY	Activista, investigador y defensor de la paz. PUJ.													
+Colombia necesita paz. #DeZurdaTeam #AntiUribe																	
+"Mi pasión @AmericaDeCali @BocaJrsOficial"""	http://pbs.twimg.com/profile_images/1287033755236958216/D1q2WdjA_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	09/05/2010 13:40	Colombia		True	99213	54266	127213	132	28683	True					
+8	83887104	dionuvolo! ® 🇪🇺	colle_alberti	https://t.co/vE2KtDJCu5 🏳️‍🌈	http://pbs.twimg.com/profile_images/1259049836676091911/yPm4-9n4_normal.jpg	http://abs.twimg.com/images/themes/theme2/bg.gif	20/10/2009 17:25	Firenze 🇮🇹 | Bogotá 🇨🇴 		True	150	438	990	1	3993	False	
+9	222933793	Jei	yyk1976	Respira!!	http://pbs.twimg.com/profile_images/1256019634567905285/p4xHqOqL_normal.jpg	http://abs.twimg.com/images/themes/theme3/bg.gif	04/12/2010 22:04	Bogotá, D.C., Colombia		True	77	414	1493	0	472	False	
+10	1141434522	Johana Africano	Joha_2040	Licenciada en Idiomas Modernos Español-Inglés en formación	http://pbs.twimg.com/profile_images/1269832365075038209/nF52Cmf5_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	02/02/2013 4:15	Sogamoso, Boyacá		True	314	1173	3127	1	314	False	
+11	8,11059E+17	Carlos Cruz	CarlosCruzH99	"""Solía desear que el mundo se acabara, pero, ahora, después de conocerte, después de enamorarme de ti, el mundo me parece muy hermoso..."""													
+																	
+"~ A Whisker Away.🍃"""	http://pbs.twimg.com/profile_images/1287862624244445186/EGQAYtaG_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	20/12/2016 4:02	Cali, Colombia		False	371	1105	24850	0	110136	False					
+12	1,15038E+18	Shaun Reardon	reardon_shaun	Former CFMEU Ass.Secretary & National V.P. Former Victorian Trades Hall Council President. Human Rights.	http://pbs.twimg.com/profile_images/1286816682132959232/GKiwl-SQ_normal.jpg		14/07/2019 12:32	Wathaurong land,Kulin Nation 		False	6780	5489	2396	11	11638	False	
+13	1,27331E+18	QANOM	JoseRom32130611	Profesional en analisis y conducta,	http://pbs.twimg.com/profile_images/1277274846431531010/lRocC7oi_normal.jpg		17/06/2020 18:01			False	652	1947	3026	0	1191	False	
+14	17466909	Katie Patrick	katiepatrick	Environmental Engineer + Designer: Get my book How to Save the World https://t.co/IaBcJCLPqk #Sustainability #Behavior #Data #GameDesign @EnergyLollipop @UrbanCanopy_US	http://pbs.twimg.com/profile_images/532580950207496192/jSn4R8xU_normal.png	http://abs.twimg.com/images/themes/theme13/bg.gif	18/11/2008 18:01	San Francisco		True	22168	16594	3402	210	2	False	
+15	416551837	𝘽𝙚𝙩𝙤	ZuletaAlberto	Extravagante	http://pbs.twimg.com/profile_images/1282026788240142338/k_VcvGrl_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	19/11/2011 21:11	Barranquilla, Colombia		True	146	502	12511	2	12742	False	
+16	1,04711E+18	Coronavirus NEWS🇺🇳	CoronavirusNewv	Datos y Noticias en Tiempos de Coronavirus	http://pbs.twimg.com/profile_images/1243964389792911361/sYAIztW5_normal.jpg		02/10/2018 12:45	Global🇺🇳		False	43747	3547	13606	40	22611	False	
+17	332541406	VIEJO RAFA	RAFAEL2696	Colombiano con esperanza, de equidad y justicia. Donde los niños, base del futuro del país, crezcan con amor, cariño, educación, salud, bienestar y respeto...	http://pbs.twimg.com/profile_images/1004768239585497088/sKGePpZt_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	10/07/2011 0:36	En una Colombia, sin rumbo.. 		False	2070	5001	58665	0	16269	False	
+18	184206912	Heaven's advocate	elkmarcono	Abogado Bilingue con Especialización en D.Administrativo y Contratación Estatal	http://pbs.twimg.com/profile_images/1275286422363217920/TQMvyb1Q_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	28/08/2010 23:56			True	85	564	3293	3	417	False	
+19	24837636	Noisy Australian	Daniel_Ferg	#federalICACnow. Holding power to account. Environment above all. 🌏🌿	http://pbs.twimg.com/profile_images/1277947541649190915/YenZosYm_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	17/03/2009 4:13			False	187	476	5114	5	15880	False	
+20	1,26213E+18	Dr Willis	DrWillisBruce	Dígame doctor, con confianza.													
+																	
+Enamorado con serios indicios de demencia. Coach psicótico e inhumano.																	
+																	
+Cínico	 poco ético y algo corrupto	" pero nunca abogado."""	http://pbs.twimg.com/profile_images/1262131865210753024/5iBvODQR_normal.jpg		17/05/2020 21:24	Comuna 13		False	24	198	141	0	19	False			
+21	9,5625E+17	Ben See	ClimateBen	Ben See. Literature Teacher informing pupils of the scientific reality of the Ecological Catastrophe & urging action. See also @urgenceclimatiq & @ClimateHound	http://pbs.twimg.com/profile_images/991798409895047168/SMQ3gznm_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	24/01/2018 19:39	Paris, France		False	48533	41638	31455	491	31429	False	
+22	2415328012	Paola no Paula	Beltraang_	Fan del Fun Dip, Tierraplanista, Me gusta el Ponc.	http://pbs.twimg.com/profile_images/1229989389465419777/M-HMjux__normal.jpg	http://abs.twimg.com/images/themes/theme15/bg.png	16/03/2014 14:18	Bogotá		True	117	150	7113	0	7983	False	
+23	9,97497E+17	Miguel R Caballero G	MiguelCab1989	Hay q ser Justos,  Hay cosas positivas en la Derecha pero también en la Izquierda	http://pbs.twimg.com/profile_images/997499769097342984/h4tjz0W__normal.jpg		18/05/2018 15:21	Barranquilla, Colombia		False	48	371	1847	0	1345	False	
+24	19226515	Rob Pyne: Champion of the Underdog!	RobJPyne	Disabled, Former MP, Councillor and author: A Socialist who wants people to survive and have a better life. Resist and join the struggle!	http://pbs.twimg.com/profile_images/1135074407028629504/YiykMBbT_normal.jpg	http://abs.twimg.com/images/themes/theme10/bg.gif	20/01/2009 9:53	Cairns		True	45926	46536	1959	256	7037	True	
+25	3140730672	Alan Baxter	AlanBixter	Immunologist. 													
+Tweets represent personal opinions.																	
+"Suggestions do not constitute medical advice."""	http://pbs.twimg.com/profile_images/584841977688002561/n3r4U7AW_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	05/04/2015 22:12	Australia		False	6307	6347	48413	74	2288	False					
+26	44567259	ICEMEDIA	ICEMEDIAau	We work with you to create informative, usable and visually stunning brands, applications and websites for your organisation.	http://pbs.twimg.com/profile_images/602713536331010048/NjYFQ8AD_normal.png	http://abs.twimg.com/images/themes/theme1/bg.png	04/06/2009 7:21	Brisbane, Australia		True	245	605	76	23	6	False	
+27	1,21695E+18	Peoples Climate Assembly	PCA_Australia	https://t.co/VfRI8FKLtu	http://pbs.twimg.com/profile_images/1216946241763868672/OdCGLdLQ_normal.jpg		14/01/2020 4:50	First Nations’ Land (SNC) 		False	738	388	344	8	223	False	
+28	1392054620	Julián Macías Tovar	JulianMaciasT	Activista contra la desinformación digital 👉https://t.co/Nwq5r688Im.													
+Mis opiniones son solo mías. Intentando crear un mundo mejor	" SÍ SE PUEDE!"""	http://pbs.twimg.com/profile_images/1276959525468323846/4ilMqQL-_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	30/04/2013 13:19	Madrid		False	33513	1920	4393	194	5688	False				
+29	554986167	Margaret L Ruwoldt	emelaarghh	Bibliophibian. Dilettante. Free-range nerd. She/her.													
+I do advertise my business once or twice a week	" but mostly I'm here for the fun."""	http://pbs.twimg.com/profile_images/826997452062339072/IB9U5gvw_normal.jpg	http://abs.twimg.com/images/themes/theme2/bg.gif	16/04/2012 6:11	Wadawarrung country		False	381	810	8200	17	21275	False				
+30	7,99887E+17	InteractiveBne	InteractiveBne	Interactive Minds run awesome events in Brisbane for people interested in #digitalmarketing	http://pbs.twimg.com/profile_images/955595640599322624/5Lv4BjPN_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	19/11/2016 8:09	Brisbane, Queensland		False	440	629	1137	22	476	False	
+31	119883446	ezerwiman	ezerwiman	Pensador, analítico, Irónico, incisivo. Alter mundista. Me avivé hace rato que nos están cagando, vení...otro mundo debe terminar de nacer. Amo: música y libros	http://pbs.twimg.com/profile_images/1194772716349480961/FRy3Czr7_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	04/03/2010 21:23	Córdoba, Argentina		True	1131	2828	1429	1	626	False	
+32	251241171	Jose Campos	pepecampostruji	Profesor y Sindicalista. Ejecutivo Mundial de la I. Educacion. Exsecretario estatal de Enseñanza y de R. Institucionales de @CCOO. Coord de Formación y Cultura	http://pbs.twimg.com/profile_images/973536135896059904/KiOB5NBZ_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	12/02/2011 18:49	Entre Málaga y Madrid		True	62992	53975	35659	320	25998	False	
+33	1138389818	Anne Rafferty	AnneRafferty2	Working at having a revolution in my own backyard!													
+Got heaps of spare pitchforks																	
+"weeding out the alt right daily"""	http://pbs.twimg.com/profile_images/1181453451928014848/ZHyKsYSq_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	01/02/2013 1:22	everywhere		False	2037	3893	37670	21	43411	False					
+34	92978851	Eduardo Arias	Ariasvilla	1958. Sector de Sirio.													
+@horalocalbanda																	
+https://t.co/z1v869Az8n 																	
+"https://t.co/dNzqhAvXSP"""	http://pbs.twimg.com/profile_images/1094431906156986368/kGrEr9uW_normal.jpg	http://abs.twimg.com/images/themes/theme14/bg.gif	27/11/2009 14:29	Bogotá, Colombia		True	106124	85231	153962	403	70858	False					
+35	1,12395E+18	Kary	kary_cee	I have a keen interest in politics, the environment, climate change and building a better fairer world. 🌱													
+"Oh and sharing the joyful oddity that is Chiijohn. 🤔"""	http://pbs.twimg.com/profile_images/1123947527080960002/d69tgLfb_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	02/05/2019 13:43	Australia		False	1235	1883	14082	5	44695	False					
+36	7905042	STUDIO	studio	Design, Collaborate, Publish without coding.													
+																	
+Web design	" Redesigned."""	http://pbs.twimg.com/profile_images/1037873933452697602/EMi6zrFB_normal.jpg	http://abs.twimg.com/images/themes/theme4/bg.gif	02/08/2007 11:14	World Wide Web		False	4160	5001	222	36	201	False				
+37	9,73155E+17	Sketch Talk	Sketch_Talk	"Originally set up to discuss issues and queries with Sketch, but now with bonus general UX design talk. Formerly known as ""@𝗦𝗸𝗲𝘁𝗰𝗵_𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝘀""."	http://pbs.twimg.com/profile_images/1237402555845615616/RZHcWnx-_normal.jpg		12/03/2018 11:12			False	377	1650	1296	5	214	False	
+38	9,17178E+17	Seun Aremu	tolaaremu		http://pbs.twimg.com/profile_images/1212757570047422464/Q_F1cxMU_normal.jpg		08/10/2017 23:59	Brisbane, Queensland		True	62	216	376	0	3212	False	
+39	351987561	Oxide Interactive	oxideint	We craft your digital products so you can authentically engage and delight people in a connected world. #Drupal #UX #mobile	http://pbs.twimg.com/profile_images/669645391806140416/gfehn0F4_normal.png	http://abs.twimg.com/images/themes/theme1/bg.png	10/08/2011 0:26	Canberra, Australia		True	292	616	268	42	91	False	
+40	217606205	HOTEL SAN MARTÍN	SANMARTINHH	Hotel. urbano ubicado en la Av. Bolivar 7N-26 frente al parque de la vida en Armenia Quindio  PBX 576 7466078 -  CEL +57 3216402227	http://pbs.twimg.com/profile_images/909536115799068673/txSG-GMA_normal.jpg	http://abs.twimg.com/images/themes/theme16/bg.gif	20/11/2010 0:17	Armenia-Quindio-Colombia		True	170	1371	2309	4	473	False	
+41	9,02999E+17	OXYGEN	oxygenmedia	We are a results driven digital marketing agency based in Taupo, NZ. 													
+We get digital.																	
+"Founded by @brazier10"""	http://pbs.twimg.com/profile_images/1128446784101965824/bT7X7u6G_normal.png	http://abs.twimg.com/images/themes/theme1/bg.png	30/08/2017 20:59	Nueva Zelanda		False	3486	1209	145	40	14	False					
+42	360850681	César Enzo	CesarEnzo	Brutópico	http://pbs.twimg.com/profile_images/1215132883763048452/BSvv-MYa_normal.jpg	http://abs.twimg.com/images/themes/theme14/bg.gif	23/08/2011 21:26	La Nada del Medio		False	637	537	6468	4	26	False	
+43	556579039	iFactory	iFactoryDigital	iFactory are an award winning digital & creative agency in Brisbane, Australia.	http://pbs.twimg.com/profile_images/2148152525/IFA1425_STYLEGUIDE_V1-6_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	18/04/2012 5:38	Brisbane, Australia		True	3928	4477	33026	376	1183	False	
+44	219023974	Mauricio Mariño	maoaudiovisual	Músico, Productor audiovisual.  https://t.co/BFK0DF51nK													
+"https://t.co/q1Q4FiuU7O"""	http://pbs.twimg.com/profile_images/872945349102628869/nySoOOTb_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	23/11/2010 18:42	Bogotá		True	279	768	1369	0	152	False					
+45	1,00237E+18	Ebubeze celestine	Ebubezecelesti1		http://pbs.twimg.com/profile_images/1002375566929137664/F7qYxGn5_normal.jpg		01/06/2018 2:11			False	24	284	0	0	0	False	
+46	9,69386E+17	AdrienV	drien_V	Mechanical Engineer. Passionate about martial arts, surfing and enjoying sunny Queensland :)	http://pbs.twimg.com/profile_images/969429986430959617/BYk2JJpc_normal.jpg		02/03/2018 1:37	Brisbane, Queensland		False	0	3	0	0	4	False	
+47	22817334	Geovani Martinez	MaestroGandalf	Pertenezco al bando de los buenos colombianos, añorando un cambio profundo en mi pais.	http://pbs.twimg.com/profile_images/145036662/S5000170_normal.JPG	http://abs.twimg.com/images/themes/theme1/bg.png	04/03/2009 19:09			False	31	138	301	1	60	False	
+48	727423	Victor Hernandez	vik407	Caleño que trabaja en internet.	http://pbs.twimg.com/profile_images/1165303532481863680/-qtv42cq_normal.jpg	http://abs.twimg.com/images/themes/theme1/bg.png	29/01/2007 18:16	Bogotá, Colombia		True	1908	1232	18365	261	2151	False	
+49	9,34193E+17	VRPenguin	VrPenguin	The Latest on Virtual Reality Gear, Gaming, Social Media and More ! ! #VR #VirtualReality #AR #MixedReality	http://pbs.twimg.com/profile_images/934204289651748865/51lY6c19_normal.jpg		24/11/2017 22:54	Florida, USA		False	353	2102	28	1	160	False	
+50	418496968	Murat Yildiz	muratyildiz_eng	I always have an extra pixel in my pocket. UI/UX Designer	http://pbs.twimg.com/profile_images/2390437369/5nulbmba9j4dmt3wd5my_normal.jpeg	http://abs.twimg.com/images/themes/theme1/bg.png	22/11/2011 7:35	London, UK.		True	190	252	183	17	701	False	

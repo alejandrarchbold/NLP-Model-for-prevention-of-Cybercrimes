@@ -1,0 +1,18 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,21:36
+,>>> Analyzed user:,LTHlondon
+,>>> Information:,Ownership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,12140348,Music and Celebs,,188,2,/LTHlondon/lists/music-and-celebs,LTHlondon,Wed Jan 21 15:29:11 +0000 2009,LTH🇬🇧london,"Born Londoner, 31, gay, sharing news (LDN, UK & World), comment, opinion, political tweets, rants. Centre-right Brexiteer #DefundtheBBC ANTI#BlackLivesMatterUK",8423,4836
+2,12080965,Sport,,23,0,/LTHlondon/lists/sport,LTHlondon,Wed Jan 21 15:29:11 +0000 2009,LTH🇬🇧london,"Born Londoner, 31, gay, sharing news (LDN, UK & World), comment, opinion, political tweets, rants. Centre-right Brexiteer #DefundtheBBC ANTI#BlackLivesMatterUK",8423,4836
+3,12080276,Travel Information,,10,0,/LTHlondon/lists/travel-information,LTHlondon,Wed Jan 21 15:29:11 +0000 2009,LTH🇬🇧london,"Born Londoner, 31, gay, sharing news (LDN, UK & World), comment, opinion, political tweets, rants. Centre-right Brexiteer #DefundtheBBC ANTI#BlackLivesMatterUK",8423,4836
+4,12080213,Politics,,31,2,/LTHlondon/lists/politics,LTHlondon,Wed Jan 21 15:29:11 +0000 2009,LTH🇬🇧london,"Born Londoner, 31, gay, sharing news (LDN, UK & World), comment, opinion, political tweets, rants. Centre-right Brexiteer #DefundtheBBC ANTI#BlackLivesMatterUK",8423,4836
+5,12079941,People ,,32,2,/LTHlondon/lists/people,LTHlondon,Wed Jan 21 15:29:11 +0000 2009,LTH🇬🇧london,"Born Londoner, 31, gay, sharing news (LDN, UK & World), comment, opinion, political tweets, rants. Centre-right Brexiteer #DefundtheBBC ANTI#BlackLivesMatterUK",8423,4836
+6,12079792,Others,,45,2,/LTHlondon/lists/others,LTHlondon,Wed Jan 21 15:29:11 +0000 2009,LTH🇬🇧london,"Born Londoner, 31, gay, sharing news (LDN, UK & World), comment, opinion, political tweets, rants. Centre-right Brexiteer #DefundtheBBC ANTI#BlackLivesMatterUK",8423,4836
+7,12079347,News Updates,BBC/Sky/ABC/NBC/CBS/ARD/LCI,58,3,/LTHlondon/lists/news-updates,LTHlondon,Wed Jan 21 15:29:11 +0000 2009,LTH🇬🇧london,"Born Londoner, 31, gay, sharing news (LDN, UK & World), comment, opinion, political tweets, rants. Centre-right Brexiteer #DefundtheBBC ANTI#BlackLivesMatterUK",8423,4836

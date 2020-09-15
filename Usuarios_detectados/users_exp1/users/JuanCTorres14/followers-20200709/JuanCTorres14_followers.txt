@@ -1,0 +1,74 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:27
+,>>> Analyzed user:,JuanCTorres14
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1012418444103503873,Ante Todo Colombia,antetodoco,📜  1er movimiento ciudadano digital del país.  📲,http://pbs.twimg.com/profile_images/1087388044406214658/H0O4ptna_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-06-28 19:32:21,Colombia,,True,13629,4130,4642,13,2733,False,
+2,1276195160938946561,Yaneth reyes,Yaneth25reyes,Hola,http://pbs.twimg.com/profile_images/1276195635826475008/9lF7mrti_normal.jpg,,2020-06-25 16:47:04,,,False,63,154,192,0,364,False,
+3,1274386879635435522,Paola Urueña,paolauruenag,Abogada @URosario Magister Avanzado en Ciencias Jurídicas (U. Pompeu Fabra) Asesora en Asuntos de Género y Equidad. Fundadora de la Red de Abogadas Rosaristas,http://pbs.twimg.com/profile_images/1274484948427255809/C9kEx4n9_normal.jpg,,2020-06-20 17:01:35,Bogotá,,False,54,172,31,1,53,False,
+4,1959197545,Melissa Torres,MelissaTores89,,http://pbs.twimg.com/profile_images/1248240645392584705/rCnEmydv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-13 17:59:37,,,False,56,289,141,0,288,False,
+5,353829541,Rodríguez Cepeda,Rocedial23,⚜️,http://pbs.twimg.com/profile_images/1277450643121287171/j5qQUtdw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-12 18:08:27,Bogotá,,True,371,1682,1320,3,2618,False,
+6,1263541024779091968,@johntorres,johntorres__,,http://pbs.twimg.com/profile_images/1263544888316047360/U5EDJ-oi_normal.jpg,,2020-05-21 18:44:02,,,False,3,40,22,0,10,False,
+7,773702504429289472,Grupo_GEMMA,grupogemma,"Grupo de investigación en Georrecursos, Minería y Medio Ambiente (GEMMA), adscrito a la Facultad de Minas de la UNAL",http://pbs.twimg.com/profile_images/773703732953509888/JpyNcPPm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-09-08 02:00:26,"Medellín, Colombia",,False,1151,3695,956,4,512,False,
+8,1258954762898284545,Emprende con Johnnatan🤑🚀,ConJohnnatan,"Gana #dinero sin hacer nada ni invertir nada.
+
+Esta aplicación al descargarla te paga y solo por tenerla instalada también te paga.
+
+Pruébala ⬇️👇⬇️",http://pbs.twimg.com/profile_images/1258956044044251137/C8jDGbNO_normal.jpg,,2020-05-09 02:59:51,CLICK 👉👉,,False,21,389,14,0,1,False,
+9,1123468097371947010,Nikolay Piedrahita,Nikolayp16,Arquitecto. Especialista en Gerencia de Obra. Magister en Energías Renovables,http://pbs.twimg.com/profile_images/1241232684933959680/_PeA2Azp_normal.jpg,,2019-05-01 06:04:02,,,False,14,689,49,0,4,False,
+10,873572849860083716,Miguel Serrano,_m_serrano,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-06-10 16:09:32,,,False,1,19,4,0,2,False,
+11,1242320175044669445,Santi,Santi27187039,,http://pbs.twimg.com/profile_images/1246553036614500356/wgoSu67h_normal.jpg,,2020-03-24 05:20:05,,,False,313,3009,27,0,5543,False,
+12,251713816,Andrés Felipe Rivera,andresfriveraf,"En Dios todo lo puedo! Orgulloso de trabajar por 🇨🇴 @DNP_Colombia - DSGR, Mg. @Uniandes Esp. @Unijaveriana, BA. @Unicauca. Opiniones personales.",http://pbs.twimg.com/profile_images/1082984718877028352/TNhE9cfw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-13 18:11:14,,,False,33,225,79,0,289,False,
+13,310634059,Fredy Otálora,Fgor83Or,"Politólogo, Magister en Inteligencia Estratégica, Especialista en Educación, docente, Patriota con dos décadas de experiencia en el sector defensa.",http://pbs.twimg.com/profile_images/1241220741112254465/Jhbi3KtQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-04 02:52:43,law šá lláh,,False,1634,4258,191,0,3,False,
+14,553681202,Alejandra Catacolí,ACatacoli,"mujer, madre, ingeniera y colombiana.
+Less Drama, More Dharma",http://pbs.twimg.com/profile_images/1216054871285293059/EhL7wnVp_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2012-04-14 17:03:21,"Bogotá, D.C., Colombia",,True,165,364,2305,0,2148,False,
+15,252341894,Julio Cesar Vega Suarez,ingjuliovega,"Ingeniero, profesor, defensor de la educación y el medio ambiente - Exvicerrector de Investigación de UPC 2017-2019. orgullo: @Unipopularcesar / @UNALoficial",http://pbs.twimg.com/profile_images/1161776029364576256/DenQyLrW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-15 00:30:26,,,True,303,315,1470,2,531,False,
+16,84175668,jerson yela paz,jersonyepa,Economista// Esp. en Gerencia de proyectos//creyente,http://pbs.twimg.com/profile_images/1216343701573787648/Zw_f7PZb_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-10-21 22:10:53,cali colombia,,True,209,1989,1784,0,8904,False,
+17,2961550323,Angie  Lorena Torres,AngieLorenaTo15,,http://pbs.twimg.com/profile_images/551981936378658816/kBmmmfXs_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-05 06:00:05,"Bogotá, D.C., Colombia",,False,9,83,21,0,112,False,
+18,1200425204490670081,Luisaduran2020,luisaduran2020,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-11-29 14:44:18,,,False,3,69,0,0,0,False,
+19,1138996265646252032,John,johnnojhon,,http://pbs.twimg.com/profile_images/1138998397761966080/hqQwCn_8_normal.jpg,,2019-06-13 02:27:26,,,False,6,164,95,0,122,False,
+20,1187416779926233088,Laura Torres,LauraTo28823420,"MVZ🐮🐯🍃
+🌍🌊🌕✨
+💙♏️",http://pbs.twimg.com/profile_images/1187582055196045313/D8BjS7E8_normal.jpg,,2019-10-24 17:13:28,,,False,13,45,2,0,12,False,
+21,1093617897476378624,OINTECH,ointech,Impulsamos la Competitividad Empresarial Mediante la Transformación Digital,http://pbs.twimg.com/profile_images/1093618083170865152/6r7Ll4FF_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-02-07 21:09:59,Colombia,,False,14,56,386,0,2,False,
+22,180861689,JorgeFigueroaClausen,figuerjoda,,http://pbs.twimg.com/profile_images/1080165247661629442/8gFbmLlM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-20 17:45:39,"Bucaramanga, Colombia",,True,51101,52120,162232,168,17030,False,
+23,3408582833,Camilo Serrano 🆕🆒,camilo910102,Los Sueños son el Lenguaje de Dios... ♨,http://pbs.twimg.com/profile_images/910460005333323776/VGaH4yYp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-08 12:53:18,Colombia,,False,76,171,906,2,21,False,
+24,3075095423,Todos Somos Pazcifico,TSPazcifico,"Estrategia Integral para el desarrollo del Pacífico. Proyectos de acueducto,saneamiento básico y energía #FondoTodosSomosPAZcífico #FTSP",http://pbs.twimg.com/profile_images/836571123827474434/vNsfoIVN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-03-06 15:52:41,Litoral Pacífico Colombiano,,True,4606,736,4901,28,285,False,
+25,1164526816910106624,Helenita Repizo,RepizoHelenita,Abuela feliz,http://pbs.twimg.com/profile_images/1164527343576260609/Pk022gBK_normal.jpg,,2019-08-22 13:17:05,,,False,3,22,0,0,0,False,
+26,782814844005277696,Grupo Río Espejo,rioespejo,Gestión Integral de Proyectos de vivienda e inversión.,http://pbs.twimg.com/profile_images/1214581269692141569/uRHunJ9B_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-10-03 05:29:37,"Armenia, Quindío, Colombia",,True,1561,4994,726,3,638,False,
+27,1162156691456253954,Juan Torres,JuanTor06971653,juanitotorresxd.,http://pbs.twimg.com/profile_images/1263968757837414400/Kh9djT0b_normal.jpg,,2019-08-16 00:18:54,,,False,5,39,2,0,15,False,
+28,1106023116847923201,astrid velez,astridv79557047,,http://pbs.twimg.com/profile_images/1106023285559619584/anmeNLw__normal.jpg,,2019-03-14 02:43:54,,,False,128,300,18849,0,18700,False,
+29,39159334,Daniel Vivas B.,Dani_Matamoros,ExPeriodista. Tyler Durden es mi dios. Ayudo a la gente a ganar dinero de manera fácil y forjarle su camino en la vida. Danielvivas86@gmail.com #SocialMedia,http://pbs.twimg.com/profile_images/1263931907919753224/7s740UDJ_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2009-05-11 01:31:07,Bogotá/Cali (Colombia),,True,106343,36602,69731,366,99844,True,
+30,241255816,Naty Ruiz 🖤🖤,Natishhh,Ingeniera Civil 🚜❤️🚜. Esp. Diseño y Construcción de Vias. Rola rolisima rola. Amor infinito por el fútbol ⚽️ 💙⚽️. Sushi Lover!! 🍣,http://pbs.twimg.com/profile_images/1146822762264244224/gAYcmUPs_normal.jpg,http://abs.twimg.com/images/themes/theme12/bg.gif,2011-01-21 20:49:31,"Bogota, Colombia",,False,50,229,36,0,34,False,
+31,871495337571098624,Natalia Carolina,Natalia92484257,Orgullosamente Ingeniera Civil. Espc Diseño y construcción de vías y aeropistas. 🚜🚜.,http://pbs.twimg.com/profile_images/871497203516178433/0Swf74L-_normal.jpg,,2017-06-04 22:34:14,"Bogotá, D.C., Colombia",,False,35,143,5,0,28,False,
+32,156852589,Juan Coronado,juanfcoronado,,http://pbs.twimg.com/profile_images/734394333928009729/-6uN_QiV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-18 03:29:18,Bogota Colombia,,False,40,162,306,1,246,False,
+33,60302776,Mario A. Blanco,mariob46,Colombia Recursos Mineros,http://pbs.twimg.com/profile_images/653385208092344320/PMhG0NC1_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-07-26 13:19:27,Bogota,,True,173,812,508,0,5031,False,
+34,938767138319454208,Orlando,Orlando01595523,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-12-07 13:48:21,,,True,286,706,68,0,180,False,
+35,419859691,Aratsa POP,AratsaPOP,"La Estrella de tu Hogar
+🤩 ¡Más de 1,000 productos a los mejores precios! Compra en línea 🛒 y recíbelo en cualquier lugar de México 🇲🇽",http://pbs.twimg.com/profile_images/1088519084461813760/Yi_BweA4_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2011-11-23 21:50:57,,,True,681,1860,220,2,37,False,
+36,1074297629323001857,Encuestas&Cifras,EncuestasCifras,"Política, Economía y Gobierno | Quieres una encuesta, escríbenos y la hacemos | Record Guiness Colombia del sondeo mas votado |",http://pbs.twimg.com/profile_images/1074307667202662401/XZC2qiHu_normal.jpg,,2018-12-16 13:38:09,Colombia,,False,17934,16614,850,11,27,False,
+37,1097532790197899270,Christian Barajas,crisbarajas02,"Abogado Especialista en Derecho Comercial, Master en Derecho Internacional de la Empresa.
+
+Cristian Barajas #TuMejorCarta  #Sogamoso",http://pbs.twimg.com/profile_images/1194596030962184192/ZXdvVPxB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-02-18 16:26:23,"Sogamoso, Colombia",,True,114,756,43,0,23,False,
+38,1114346522777399296,Lina María Idrobo,LinaMaraIdrobo1,Proverbios 3.4,http://pbs.twimg.com/profile_images/1114346918136700929/LqN1aaR6_normal.jpg,,2019-04-06 01:58:09,,,False,9,21,1,0,7,False,
+39,996179556,Luis Gonzalo Morales,luismorales0621,"Mi vocación: servir a la gente. Médico con maestrías en Salud Pública y Ciencia Política. Especialista en Administración y Economía, 35 años de servicio.",http://pbs.twimg.com/profile_images/917389645998120960/wzEteri6_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-08 01:06:21,,,False,21312,10390,13703,74,49399,False,
+40,161051882,EY Colombia,EYColombia,"Firma de servicios de Auditoría, Impuestos, Transacciones, Servicios Legales y Consultoría, con sede en Bogotá, Medellín, Cali y Barranquilla.",http://pbs.twimg.com/profile_images/1276204811008917505/1uIEjs25_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-29 21:28:19,"Bogotá, Colombia",,True,4087,3545,4568,45,1888,False,
+41,3129476362,Juntos y Unidos por la Guajira,juntosyunidospg,,http://pbs.twimg.com/profile_images/1117600243313459200/M1jUNhrJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-03-30 17:03:08,"San Juan del Cesar, Colombia",,False,20,191,1,0,4,False,
+42,21879057,OFFCORSS,OFFCORSS,"¡Somos divertidos, irreverentes y muy cool! encuéntranos también en https://t.co/gwrIN1sa6N y https://t.co/vrsjWBcVf8",http://pbs.twimg.com/profile_images/1245838257218355200/QddRmnp__normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-02-25 15:53:01,Colombia,,True,15433,8794,13168,34,2141,False,
+43,423902666,Ovidio H Cardona,OvidioHCardona,,http://pbs.twimg.com/profile_images/1242860535680548864/GdNVzvSL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-29 02:35:00,,,True,1209,5003,5613,1,8236,False,
+44,2834655681,julio miranda,jjuliopote,,http://pbs.twimg.com/profile_images/523157523973832705/3J-CqYAq_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-17 00:43:48,,,False,7,129,15,0,7,False,
+45,909621813487001600,Diana Hidalgo,DianaHi35391564,Orgullo UN,http://pbs.twimg.com/profile_images/909625168988909569/-pqlxk9W_normal.jpg,,2017-09-18 03:35:15,,,False,6,52,29,0,32,False,
+46,58948321,Karol,lorakpamela,"Directora Editorial y Gerente Revista Level, Human Rigths",http://pbs.twimg.com/profile_images/527251474846588928/gQK7Ds9t_normal.jpeg,http://abs.twimg.com/images/themes/theme7/bg.gif,2009-07-21 22:44:02,"America Latina, Colombia",,True,189,603,178,1,20,False,
+47,971926094,SAE S.A.S,SAESAS1,Sociedad de Activos Especiales | Administramos bienes en proceso de extinción | Adscritos a @MinHacienda |#LaTransparenciaNuestroPrincipalActivo|#NuevaHistoria,http://pbs.twimg.com/profile_images/1280613033304371201/O9C-ZLRY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-26 13:03:34,Bogotá D.C.,,True,7424,8166,5640,22,1265,False,
+48,1044265831801270272,holdthemenu,holdthemenu,"#FOOD MAGAZINE   En búsqueda de los rincones más ricos de #Santiago.  
+FULL REVIEWS: 
+👉instagram: holdthemenu",http://pbs.twimg.com/profile_images/1045098382887407616/7P_9P9Nk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-09-24 16:42:30,"Santiago, Chile",,True,1367,4390,42,0,34,False,
+49,460397299,Sistema Nacional de Economía Naranja 🇨🇴,sinencolombia,"*La Economía Naranja una Oportunidad para las Regiones* Emprendimiento Cultural 
+Comparte #creatividad #innovación #música #economíanaranja 💯🇨🇴🍊",http://pbs.twimg.com/profile_images/1245075356689858568/lmfJGidG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-01-10 18:25:33,"Bogotá, D.C., Colombia",,True,5908,3766,1329,21,2956,False,
+50,521795730,Lina Ma Ramírez,LinuxMa,Planeando País,http://pbs.twimg.com/profile_images/1184508563500294144/kK4a--T0_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2012-03-12 00:03:11,Bogotá,,False,102,367,68,0,568,False,

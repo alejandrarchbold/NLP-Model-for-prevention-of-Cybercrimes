@@ -1,0 +1,87 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,01:41
+,>>> Analyzed user:,iLordPorky
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1040384940150599680,Jhoan,JhoanManuelMed2,"Adm Hotelero..
+Cocinero mi pasion🍽️🔪🥢
+
+Amo mi familia y viajar!!  
+La vida es bella!! paz interior antes que el dinero. 🇳🇬 Atlético Nacional. COLOMBIA 🇨🇴",http://pbs.twimg.com/profile_images/1273964838725865478/6vnJxQ8K_normal.jpg,,2018-09-13 23:41:13,"Medellín, Colombia",,True,1032,2566,9436,2,13186,False,
+2,1235359086985834497,Rey sombra,Farouk_saints,De vuelta a esta jungla.,http://pbs.twimg.com/profile_images/1235370173487595523/aILY6h8e_normal.jpg,,2020-03-05 00:19:00,,,False,196,809,8147,0,25401,False,
+3,205500871,Nicolás Cardona,CardonaNL,Representante de la clase media // Asuntos Públicos & DataViz // Liberal clásico.,http://pbs.twimg.com/profile_images/1253512769091121155/KDkQnHlW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-21 00:58:31,Entre Cali y Bogotá,,True,1930,776,18720,14,4316,False,
+4,968500928147017728,Juan Camilo Vargas Bermudez,soycamilovargas,"Medellin, Colombia. 🇨🇴
+
+- Administrador de Empresas, Universidad Nal.
+- Redactor Político en El Estadista.
+- Miembro de Futuro Joven, Movimiento Juvenil.",http://pbs.twimg.com/profile_images/1280962328775790597/geu26JZb_normal.jpg,,2018-02-27 14:59:49,"Medellín, Colombia",,False,928,1487,1151,0,2380,False,
+5,1216425194295832578,Andrea Pickles♡,Vicky71866041,,http://pbs.twimg.com/profile_images/1279967673879867399/9sOqiSmc_normal.jpg,,2020-01-12 18:22:35,,,False,51,198,1756,0,1025,False,
+6,997319916121358336,Juan Manuel,JuanManuelSG_,¿Me estás analizando?,http://pbs.twimg.com/profile_images/1266788235071705097/ldiahULP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-05-18 03:36:12,,,False,212,366,10114,1,22683,False,
+7,2652114734,Papo Amin,papoaminCD,Concejal de Bogotá 2020-2023 @CeDemocratico Abogado especialista en Derecho Administrativo,http://pbs.twimg.com/profile_images/1200043952264695808/Yb-Q4JmA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-16 21:59:51,"Bogotá, D.C., Colombia",,True,10080,2054,1828,31,4528,True,
+8,1076653062465482752,Amy,nenitamuak14,living my best life. Camino por la derecha. 100% Uribista🇨🇴,http://pbs.twimg.com/profile_images/1242291722035617792/r9fQTwgI_normal.jpg,,2018-12-23 01:37:48,,,False,104,108,424,0,1702,False,
+9,1242934930054799360,Leidiane,leidianecarris,,http://pbs.twimg.com/profile_images/1272355574576033794/Rjb5UiaE_normal.jpg,,2020-03-25 22:03:10,"São Paulo, Brasil",,False,140,339,286,0,6962,False,
+10,799305788,Mr. Intruso®,MisterIntruso,"Humor, Satira Política de derecha y algo más.....
+De mente muy negra y sucia, pero de conciencia muy tranquila",http://pbs.twimg.com/profile_images/1154007423423848448/4f0FcRzN_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-09-03 00:27:26,Macondo,,True,6355,6555,34816,5,111586,False,
+11,762389795037294592,Melissa Tate,TheRightMelissa,"Conservative, Trumpublican, Wife, mother and Child of the Most High God. Retweeted By President Trump 🙌🏽 Follow me on IG & FB @therightmelissa",http://pbs.twimg.com/profile_images/1217340742965907457/NfEngsfe_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-08-07 20:47:46,,,True,366945,1896,46447,1408,47783,False,
+12,1142123026651258881,William Velandia Ramos,ramos_velandia,penchamiento,http://pbs.twimg.com/profile_images/1142929746847850499/4dX5shyt_normal.jpg,,2019-06-21 17:32:03,,,False,1478,3382,11050,0,76465,False,
+13,1046450456917168128,Danilo Narbona,DaniloNarbonaL,Uniandino/ 🇨🇱 🇨🇴,http://pbs.twimg.com/profile_images/1093990789338804224/d7bOSwsP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-09-30 17:23:25,,,False,613,701,1402,2,40938,False,
+14,105583667,Karen,entrepreneurKL,"#womenentrepreneurs #shetrades  #freetrade
+Individual Freedom & Free Markets
+No espero nada. No temo nada. Soy libre (Nikos Kazantzakis)",http://pbs.twimg.com/profile_images/1277457669142523904/DlxwVzYW_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-01-16 20:31:54,,,True,6242,4265,42769,23,81915,False,
+15,731605704562380800,Mauricio Silva,maosilvapop,Y pensar que cuando se acabe el coronavirus seguirán estando Petro y los petristas...,http://pbs.twimg.com/profile_images/1206661838768951301/fQxLIfQX_normal.jpg,,2016-05-14 22:02:47,"Popayán, Colombia.",,False,276,507,6841,0,5015,False,
+16,264832207,Sergio D. Rodriguez,SdrodriguezT,✝️ProVida/Economista/opiniones en #ElAndénBlu @BluRadioCo /D Nacional #VamosConOrdonez Ordoñista Columnista 🇪🇸🇨🇴,http://pbs.twimg.com/profile_images/865969866376871941/PjEMuGto_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-12 14:44:00,Hispanoamerica,,True,35710,7281,10501,49,21518,True,
+17,1217074427025817601,Juanoso,DionisioHermes,Soy terco,http://pbs.twimg.com/profile_images/1277447700913496064/hsU77Zp__normal.jpg,,2020-01-14 13:22:33,FLORIDA. ESTADOS UNIDOS,,False,8205,3555,18690,4,22865,False,
+18,59950032,Andres Moreno Jaramillo 📊,andresmania,"Economista @URosario | Planeación Financiera | Finanzas Personales | Trader Analista Mercado Bursátil | Máster Banca, Mercados Financieros y Gestión Patrimonial",http://pbs.twimg.com/profile_images/1080477083346837504/1W2c5G7V_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2009-07-25 02:00:59,"Bogotá, D.C., Colombia",,True,13067,504,58963,147,68349,False,
+19,2812597937,Abuelo Emberracado,criticolombia,URIBISTA al 100! Se opina de todo y de todos. Anticomunista y democrata hasta despues de la muerte. AHORA ABUELO YOUTUBER,http://pbs.twimg.com/profile_images/592797940441296896/GDkmIzt__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-07 04:29:44,Colombia ,,False,33853,2074,10698,40,10510,False,
+20,64067187,Richie Gómez,Richie_Gomez,Etceterista,http://pbs.twimg.com/profile_images/1060196103012999168/Al-rcjKN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-08-08 23:42:44,,,False,1025,898,4017,2,3016,False,
+21,1227773838076907521,Mr. Jay Novik,Mr_Jnovik,"Comunicador Social y Publicista
+🏐🚲✈📽
+ #UribistaSigueUribista Aviación EJC
+Anterior cuenta @mr_anonymous_tc",http://pbs.twimg.com/profile_images/1278550792941768705/n8XXzQQs_normal.jpg,,2020-02-13 01:57:58,"Fountainebleau, FL",,False,2041,1891,3090,0,3839,False,
+22,1276818500707856385,Colombianisima!,2Colombianisima,"Demócrata 
+Izquierdista hazte a la derecha
+No habías nacido cuando Uribe nos liberó
+Soy azafata,hoy aquí,mañana en cualquier lugar✈
+Como el Ave Fénix,renaciendo",http://pbs.twimg.com/profile_images/1276859316994269185/-qFjC-Tf_normal.jpg,,2020-06-27 10:04:37,,,False,2033,1836,925,0,745,False,
+23,44196397,Elon Musk,elonmusk,Budgie Smuggler,http://pbs.twimg.com/profile_images/1276417699032137728/QGSGH8FZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-02 20:12:29,,,False,36700360,93,11579,54117,6059,True,
+24,890643991720599552,🇭🇰,PRangelMejia,"Estudiante de Economía (https://t.co/05Obmar9cV.) en @LMU_Muenchen. Múnich, Bogotá. Extra epistemologiam nulla salus. Taurino hasta la muerte.",http://pbs.twimg.com/profile_images/1245462551019823111/GrMUr4kq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-07-27 18:44:09,"Munich, Baviera",,True,1987,1195,14520,6,33319,False,
+25,711756825742479365,Carlos Andrés Ospina,caanosto,"Abogado, Bogotano viviendo en Puerto Colombia, amante de la cerveza y la carne...",http://pbs.twimg.com/profile_images/1121146343962099713/To8llz71_normal.jpg,,2016-03-21 03:30:25,"Bogotá, D.C., Colombia",,False,1133,1551,15280,0,18132,False,
+26,41292729,Juan Pablo Echeverry Nicolella,JPEcheverry4,Politólogo rehabilitado. Foodie no certificado. Musicólogo amateur. Emprendedor millennial.,http://pbs.twimg.com/profile_images/1188987730849685507/MhLdQJCX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-20 04:05:50,"Bogotá, D.C., Colombia",,True,28896,8642,27876,91,68491,True,
+27,368045282,Omar Murcia,omarvmurcia,"Graphic Designer with endless love and passion for typography, branding and logo design. Master in Digital Graphic Design. Art Director at OM Graphic Design.",http://pbs.twimg.com/profile_images/1094327777451491328/Ra20YHum_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-09-05 00:30:26,"Marietta, Georgia. USA",,True,255,1784,151438,0,169006,False,
+28,76685861,Michelada🐳,velandiacarmela,আবার এবং আবার ব্যর্থ,http://pbs.twimg.com/profile_images/1279643546736263169/YFlo3xOA_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2009-09-23 16:29:13,Bogota,,True,876,2046,7161,0,30040,False,
+29,41160276,PragerU,prageru,Free Videos. Free Minds.,http://pbs.twimg.com/profile_images/1188862949986725888/x7HIruKT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-19 17:18:19,Los Angeles,,False,461939,7328,44190,2036,13147,True,
+30,61383742,Isabella Wills,IsabellaWills,Podcaster. Content Writer. Entrepreneur.🗽🐍 Si quieres tomar el control de tu vida y dejar atrás la mentalidad de víctima suscríbete a mi podcast aquí 👇🏻,http://pbs.twimg.com/profile_images/1276559900588597250/hlXpXG3n_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-07-30 03:53:41,,,True,9407,36,5825,19,18329,False,
+31,937438961164804097,Da Ñangas,SoyGaminKB24,"Niche que suelo que pisa....hierba no nace más... @kobe 4eva
+#TeamPasionDeGavilanes",http://pbs.twimg.com/profile_images/1247392308062031872/lq-ZbQg7_normal.jpg,,2017-12-03 21:50:39,Rep. Ind. de Ñangakistan,,True,8387,1020,116052,19,67479,False,
+32,171088426,El Extuiteado,ElExtuiteado,¿Van a preguntarme primero o van a creer?,http://pbs.twimg.com/profile_images/1269476587126358017/zffqmnl2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-26 14:42:25,Punto Nemo,,False,1935,1770,16888,0,4550,False,
+33,155424863,JAVI,JAOS1977,"Abogado Especialista en Derecho Comercial y Procesal, URIBISTA 1000% y Orgulloso de mis Fuerzas Militares.",http://pbs.twimg.com/profile_images/1218229846557569025/DEPyrH25_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-14 03:14:07,CALI COLOMBIA,,True,1494,2375,384,1,430,False,
+34,101933289,Javi Vega,javitovega,"Caleño, orgullosamente de derecha (con algunas pequeñas excepciones de concepto), amo a mi mechita y sigo a Uribe.",http://pbs.twimg.com/profile_images/1278869618048864257/gv2T9QiH_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2010-01-05 02:38:44,"Bogotá, D.C., Colombia",,False,566,742,3155,0,1839,False,
+35,636798615,Juan Cuarentoso 🔻😷,JuanJGarcia99,Coordinador de @sfliberty. El Estado un mal ¿necesario? Zurdo solo para escribir...,http://pbs.twimg.com/profile_images/1173251833529360384/JdQL3PFn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-16 05:17:38,,,True,2345,670,33008,5,22536,False,
+36,995406091684139008,Parchedelcapuchino,ParcheCapuchino,"Medio de Comunicación y Opinión Alternativo. 
+Contacto: infocapuchino@gmail.com",http://pbs.twimg.com/profile_images/995416737414897665/wAAzPNIV_normal.jpg,,2018-05-12 20:51:20,Colombia,,False,19444,265,13123,27,18924,False,
+37,392882632,SuperHijueputa🕗,HippieCompleto,... +18 -Hincha Azul y Buzo Certificado-. #HotDogs #AmoLaLechona #SharkAddicts -GRUNGE- Antes @HippieEnproceso,http://pbs.twimg.com/profile_images/1250952932209590282/VkRLmOzB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-17 18:15:39,Miami FL. - Bogotham - Kripton,,False,7667,722,20899,17,29178,False,
+38,2526203845,santiago west,West01Santiago,,http://pbs.twimg.com/profile_images/979827386400337920/dTv72dG5_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-27 00:44:24,,,False,3037,1450,35938,1,77109,False,
+39,68062884,𝙹𝚄𝙻𝙸𝙰́𝙽,julianrefous,"🅡🅤🅝🅢 🅝' 🅖🅞🅢🅔🅢.
+🅂🅄🅁🅁🄴🄰🄻🄸🅂🅃🄰.
+ᴅⁱˢˡᵉˣⁱᶜᵒ",http://pbs.twimg.com/profile_images/1278210900110041090/LXovdmyH_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-08-23 03:39:09,,,True,1512,35,19049,2,19926,False,
+40,1012007906,El viejo Maru,pipemarulo1981,"Orgullosamente paisa. deporte, lectura y buena compañía. Uribista 100%.
+
+Si me va seguir para insultar ahorrese el esfuerzo!!!",http://pbs.twimg.com/profile_images/1277303768879693825/axamVzon_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-14 21:30:27,Colombia,,True,2778,2810,59372,0,151336,False,
+41,2359916634,Libertario,QuotesforGoal,"La libertad no es refugio, es intemperie. Lobo estepario, jamás cordero. La libertad no es colectiva, es personal. 
+
+📎https://t.co/iNe6Wwa23Z",http://pbs.twimg.com/profile_images/999106911730483200/555N25V0_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2014-02-24 19:08:01,"Buenos Aires, Argentina",,True,113844,140,11127,340,19015,False,
+42,1139541951525642240,Daniel,Karloss8517,"Antimamerto, detesto a @perrogustavo",http://pbs.twimg.com/profile_images/1245045330808393729/qcER32SZ_normal.jpg,,2019-06-14 14:35:47,Bogota,,False,3468,1655,6479,0,32507,False,
+43,17929987,Andrés Sánchez,tropicalia115,"Anti-izquierda, anti-populismo, anti-colectivismo. Sí cultura, no ""estudios"" ""culturales"". No soportamos propagandistas ni escritura mediocre. Veo cricket. YNWA",http://pbs.twimg.com/profile_images/718557498156957696/zB51DG0w_normal.jpg,http://abs.twimg.com/images/themes/theme8/bg.gif,2008-12-06 22:03:39,"Bogotá, Colombia",,True,3165,2804,86012,72,62056,False,
+44,1159471498396127232,Czars Molins,CzarsMolins,,http://pbs.twimg.com/profile_images/1214721303099428866/AOGi_5Se_normal.jpg,,2019-08-08 14:28:41,,,False,527,856,16223,0,20049,False,
+45,56724441,_MrAndres,_MrAndres,"Adicto al arroz con huevo, al pan y a las crispetas. Deportivo Cali.",http://pbs.twimg.com/profile_images/1061969723242483712/QiBbU_MW_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-07-14 15:27:55,"Florida, USA",,True,4642,875,86635,44,11504,False,
+46,897488559187386368,🔔 Adam Smith Liberty🇺🇸🇨🇴,AdamSmithFree,"🇺🇸 ""Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles."" Ralph Waldo Emerson 🗽LIBERTAD Y ORDEN 🇨🇴",http://pbs.twimg.com/profile_images/1214722109022375936/nzT-TXnj_normal.jpg,,2017-08-15 16:02:01,"Los Angeles, CA",,False,18272,2921,121014,21,125301,False,
+47,731528708,Abracadabra ❄️,ImAbracadabra,Mama said life's like a box of chocolates...,http://pbs.twimg.com/profile_images/1280546690882318336/5G6ljbvB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-01 21:48:13,,,False,3037,5003,29770,1,62492,False,
+48,965331540,Jaime Arizabaleta 🇨🇴,jarizabaletaf,Columnista de @parchecapuchino e @IrreverentesCol 🇨🇴🇨🇴🇨🇴 *Opiniones personales #QuieroADeLaEspriellaPresidente,http://pbs.twimg.com/profile_images/1276712210358820864/mDrXKoTX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-23 02:21:51,,,False,27565,4506,44720,22,19386,False,
+49,822215673812119553,The White House,WhiteHouse,Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb,http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg,,2017-01-19 22:54:27,"Washington, D.C.",,True,23770892,14,19806,14981,19,True,
+50,39349894,Eric Trump,EricTrump,Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Hospital @TrumpWinery #MakeAmericaGreatAgain,http://pbs.twimg.com/profile_images/1265977224114704386/0aDEAPRP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-11 21:42:30,,,True,3783605,947,6351,7094,11967,True,

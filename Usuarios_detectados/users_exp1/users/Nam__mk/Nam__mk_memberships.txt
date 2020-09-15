@@ -1,0 +1,13 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-08
+,>>> Time:,15:31
+,>>> Analyzed user:,Nam__mk
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1205278302941913088,Devolver followwww,Pirobxs,181,4,/MariaLBSLavigne/lists/devolver-followwww,MariaLBSLavigne,Mon Sep 02 04:20:06 +0000 2013,ᴹᵃʳᶤᵃ ᶠᵉʳᶰᵃᶰᵈᵃ; 🇨🇴,. ˚𝖨'𝖽 𝖻𝖾 𝗇𝗈𝗍𝗁𝗂𝗇𝗀 𝗐𝗂𝗍𝗁𝗈𝗎𝗍 𝗒𝗈𝗎˚. ◜Aᴠʀɪʟꓹ Aʙᴇʟꓹ Bᴀɴɢᴛᴀɴꓹ Jɪᴍɪɴ y Tᴀᴇʜʏᴜɴɢ biased◞,18722,4175
+2,1173801859930316800,Mutuals que me quieren,Yo también los quiero💗,14,0,/taeconspeed/lists/mutuals-que-me-quieren,taeconspeed,Wed Jul 18 18:48:47 +0000 2018,candela con parciales (f en el chat),qué alivio que estemos juntos             · * ੈ‧₊˚.· ⋆,2049,2439

@@ -1,0 +1,13 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,22:10
+,>>> Analyzed user:,NamasteThelion
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1122774886227824640,Digital People 2019,,4764,31,/thebenimou/lists/digital-people-2019,thebenimou,Wed Jun 15 14:11:02 +0000 2016,Benjamin Ejzenberg ⚡️,"🚀 Fondateur de https://t.co/QxSyZL1piY 👉 Ressources pour être plus efficace & créatif au quotidien
+🏛️  Data Science Consultant / Coach / Alumni @_JoinLion",4334,557

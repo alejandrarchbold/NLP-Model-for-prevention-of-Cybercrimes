@@ -1,0 +1,11 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,15:31
+,>>> Analyzed user:,PaulaFeese
+,>>> Information:,Ownership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS

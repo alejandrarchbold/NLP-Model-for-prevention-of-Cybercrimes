@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,15:51
+,>>> Analyzed user:,str_wing
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1011482887412174849,Gaming&Streaming,,1194,34,/DoubleUDude/lists/gaming-streaming,DoubleUDude,Thu Oct 24 11:14:21 +0000 2013,🌞🤙🕹️🇫🇷DoubleUDude🇩🇪🎧🥑🌍,🌞Sonnyboy🖥️#IT #Physics #Math #Science🚵🏾‍♂️🏄🏽‍♂️🏂🥅🏀Xtreme #Sports🕹️#Gamer #Streamer #Twitch🏋🏼#Vegan #Fitness😼#Animal ❤️ #Rescuer🎄Hugger #Politics,551,2246

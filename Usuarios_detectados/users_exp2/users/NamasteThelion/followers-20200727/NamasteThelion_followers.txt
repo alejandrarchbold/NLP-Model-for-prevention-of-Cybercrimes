@@ -1,0 +1,78 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,22:10
+,>>> Analyzed user:,NamasteThelion
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1216797638420504578,Frances,mccully47france,,http://pbs.twimg.com/profile_images/1216798307554603008/1-X-2oTu_normal.jpg,,2020-01-13 19:02:46,Stamford,,False,2209,4028,95,1,127,False,
+2,1228973411399086080,Carol,carol_durfee70,,http://pbs.twimg.com/profile_images/1228974198544064512/ZhNjU1Uq_normal.jpg,,2020-02-16 09:25:46,Corona,,False,1126,3404,81,0,119,False,
+3,1192180425495633920,Amy,amy89erickson,,http://pbs.twimg.com/profile_images/1192181184295559168/KaRcdVlW_normal.jpg,,2019-11-06 20:42:32,Lakewood,,False,2070,2799,93,0,228,False,
+4,1222660614402793472,Gamer Clothing,GamerClothingIR,"Clothing for Gamers. Founded in 2019, Main Account: @GamerClothing_ SHOP Gamer Clothing below ↙️",http://pbs.twimg.com/profile_images/1282816772211646467/pOQQWsQB_normal.jpg,,2020-01-29 23:24:30,,,False,61,730,79,0,118,False,
+5,1325133133,⚜️ℱ𝔞𝔣༻ཞ | ‏﮼جعفر⚜️,Jaforey,♛𝕴𝖗𝖆𝖖𝖎 𝖍𝖚𝖒𝖆𝖓 𝖇𝖊𝖎𝖓𝖌🇮🇶 ♘𝕸𝖊𝖘𝖔𝖕𝖎𝖙𝖆𝖒𝖎𝖆𝖓🧜🏼‍♂️ ☉≋♒️ ☾≋♋️ ↑≋♋️,http://pbs.twimg.com/profile_images/1282454687812329478/VUleF-ZL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-03 17:49:57,,,False,152,165,5661,1,24384,False,
+6,1150083242340560897,judi rooney,JudiRooney,"animal Lover 🐠
+👩‍💻 Animator 👩‍💻
+🙁 Single gal! 😟
+😊😊 I love SALAD 🥗! 🍽💛 #WhatTheForksForDinner
+💚 24 Years old",http://pbs.twimg.com/profile_images/1150083357818195978/Eh3SVSh7_normal.jpg,,2019-07-13 16:43:07,,,False,28,179,143,0,125,False,
+7,2550883208,Adrian Gonzalez,1996Adrianog,,http://pbs.twimg.com/profile_images/771784140425277440/tN8X5cGk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-06 20:04:15,,,False,131,1073,3435,0,10295,False,
+8,1281253436143603713,Chepe,J___Deep,Onlyfans coming soon... 👅😈,http://pbs.twimg.com/profile_images/1285906416713310211/t_VxujbR_normal.jpg,,2020-07-09 15:46:47,Atlanta ,,True,51,359,76,0,369,False,
+9,2571891768,DGilTM Ⓥ,DGilTM,🍑Atlanta ➡️Bay Area🌁G.S.U.🎓B.S. Exercise Science💪🏽Occupational Therapy Practitioner🩺🌈Raver🌈Vegan🌿Ⓥ Talk Sports with me at @gamedaytea,http://pbs.twimg.com/profile_images/1118700593982218240/GAK93kMw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-17 00:44:27,,,True,283,2137,2839,4,6162,False,
+10,209573836,"There Will Be Games: Reviews, News & Articles",therewillbegame,"Board Game Reviews, Articles, News, Podcasts and Forums since 2007.
+@mattthr @factorygames @ShellieUbaRose
+#BoardGames #boardgame #TabletopGames",http://pbs.twimg.com/profile_images/1284206054042107906/DKHNJXLu_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-10-29 13:10:59,,,False,1969,2909,3375,40,1984,False,
+11,1270805232113594368,Target Role,target_role,Target Role is a small publishing group and blog focused on more streamlined content towards Role-Playing Games (RPG) in general.,http://pbs.twimg.com/profile_images/1286769888716034048/1T5Rue-Z_normal.jpg,,2020-06-10 19:49:26,,,False,655,1960,127,1,281,False,
+12,1261956973387382784,Alethea Shara,shara_alethea,,http://pbs.twimg.com/profile_images/1268534213613178880/e0mPZNQF_normal.jpg,,2020-05-17 09:49:51,,,False,58,1355,4,0,0,False,
+13,46795655,iona,_IonaD_,"🤭👩‍👧🇯🇲🇱🇦♒❣👑
+$idavis93",http://pbs.twimg.com/profile_images/1248409640368402432/jKtwS2F-_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2009-06-13 01:29:31,Where The Wild Things Are ,,False,232,289,13989,1,140,False,
+14,2601859628,Cris,bahamianista242,Bahamas Strong 💪🏾🇧🇸 IG: bahamianista,http://pbs.twimg.com/profile_images/1264718695097647104/AHdxe6oE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-03 15:47:31,"Florida, USA",,True,3994,1988,56772,111,45617,False,
+15,40249513,Elliott🕵🏿‍♂️,so_oldskool,"I don't bend easy, budge or break.",http://pbs.twimg.com/profile_images/1206181635143671809/aFF4uZ30_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-05-15 14:23:48,London,,False,795,291,49542,14,2455,False,
+16,1738244863,Livi🤍,xox_livi,21. LV📍,http://pbs.twimg.com/profile_images/1286882360471035905/orAilVga_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-06 23:13:43,,,True,718,316,27611,0,39384,False,
+17,1243862596299698176,choukra abdou,choukri53458895,euh.........bah je suis moi et voila tout,http://pbs.twimg.com/profile_images/1244979360001654787/nhAJHsFU_normal.jpg,,2020-03-28 11:29:01,,,False,7,84,81,0,1216,False,
+18,46414158,🐉 LIL 🅰️SIA TRADE 🚛,Mikexgod,DARK CHARLOTTE RECORDS X🌌🌉 X GLXXM BOYZ CEO | 7600 W^E$T SIDE LIL ASIA X LIL ASIA TRADE 🗺💉❎🐍⬇️ X. GLXXMONEYBALLAZ.,http://pbs.twimg.com/profile_images/1286866098382688256/WkC5thqY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-11 15:42:27,"DARK CHARLOTTE x LIL ASIA,  NC",,True,4791,4768,82988,35,6447,False,
+19,268053641,Joseph McClure,Misledjj,,http://pbs.twimg.com/profile_images/929921153094901760/5jR9QaJR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-18 02:05:36,"Cocoa, FL",,True,53,133,351,0,202,False,
+20,1238943949907095552,TopazzBaby☀️🌼🌻⭐️🌙,BabyTopazz,I believe in the power of positivity ❤️💛💚Arkansas raised🐗 Colorado nail tech 💅🏾 Ever Evolving🐛➡️🦋💜Weed and Art Lover💕💕,http://pbs.twimg.com/profile_images/1251211242020036608/u0pvnvb6_normal.jpg,,2020-03-14 21:44:04,,,True,118,539,5369,0,15176,False,
+21,3199131969,Blade Pinderhughes,RegalCourtier7,Staring @ the man inside the mirror my reflection shows a wolf though 🇭🇹 🤹🏾‍♂️| Devil's advocate 🔥🏄🏾‍♂️ | Tip the host 💵 : $Artisanace1 🦀🎭,http://pbs.twimg.com/profile_images/1218981104625049600/ExzU1D_l_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-23 21:17:21,"Nueva York, USA",,True,14798,7931,249704,43,186176,False,
+22,1205646919822913541,Shiy,_Shiy_D,,http://pbs.twimg.com/profile_images/1256609954695385089/wiOoEp13_normal.jpg,,2019-12-14 00:33:31,,,False,2,18,2,0,42,False,
+23,1243036319087054849,♡︎ Jaѕ 🦋,__notJasx,вoѕѕ мaмa | m4mj|she/her| ♈︎☼ ♍︎☽ ♎︎♐︎| 𝘛𝘺 💍| 𝘥𝘰𝘯𝘵 𝘵𝘢𝘬𝘦 𝘮𝘺 𝘵𝘸𝘪𝘵𝘵𝘦𝘳 𝘴𝘦𝘳𝘪𝘰𝘶𝘴𝘭𝘺| 🇳🇬🏳️‍🌈 #BLM ✊🏾🖤,http://pbs.twimg.com/profile_images/1287471875719929856/wEqDRPYv_normal.jpg,,2020-03-26 04:45:37,,,False,2363,2155,8778,2,6333,False,
+24,942613332984446976,✰B𝓻คήdoή✰,Brand0nC0le,#blm,http://pbs.twimg.com/profile_images/1159851107234959360/OhPNZyd7_normal.jpg,,2017-12-18 04:31:46,,,True,2863,4392,7563,0,11631,False,
+25,1120306755509080064,Jake,DeadBoiJake,🖤 S 🖤 ACAB,http://pbs.twimg.com/profile_images/1240829052623237121/a2lZb2uG_normal.jpg,,2019-04-22 12:41:59,"Broward County, FL",,True,58,43,303,0,1037,False,
+26,3348834814,👑,leighopatraaa,23. ♊. Mommiana. 💙👶🏾 Bisexual. 👭🌈👫 Feminist. 👄 4/20. 🍃,http://pbs.twimg.com/profile_images/1276624892335702018/MZmdlS_-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-28 09:55:04,"Indianapolis, IN",,False,814,1218,3174,1,458,False,
+27,1074825975488237570,Blonded🌙,ButterPecanDrop,“I get it cracking like a bad back” #BlackLivesMatter,http://pbs.twimg.com/profile_images/1285008062047236096/LP2bFIKj_normal.jpg,,2018-12-18 00:37:36,"Ohio, USA",,True,315,305,3722,0,12252,False,
+28,2260982023,Nii.Siddique♏,SehnathorS,History is a bunch of falsehood we have agreed to be true 🤔.,http://pbs.twimg.com/profile_images/1244307066468040706/IwgaLgQq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-12-25 03:37:49,"Owings Mills, MD.",,False,169,1279,2992,0,1706,False,
+29,31232875,Tee,TeezyF252,I post videos on hiphop news sometimes. 💙🏁🖤🌎💜🐍,http://pbs.twimg.com/profile_images/1269307216336760832/-VmuE5A9_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-04-14 21:33:14,,,True,30607,21323,222322,68,8051,False,
+30,1223707966223867904,"🖤 Love, Love, and Nick 🖤",ramblinlover,Mom's a saint😇 Dad's a sinner😈 I'm in the middle🧘Always a winner🙇 I'm usually great with my words🤓But recently I sound absurd🙊 Follow me at your peril🌐,http://pbs.twimg.com/profile_images/1228534209553338368/479nnU43_normal.jpg,,2020-02-01 20:41:42,Siem Reap,,False,669,1997,5609,0,5638,False,
+31,789311299280785408,Félix de Vanitas,FAFn1r_,k,http://pbs.twimg.com/profile_images/1285294773968879616/mniBIv_v_normal.jpg,,2016-10-21 03:44:13,"Hermosillo, Sonora",,False,121,4986,20413,1,76890,False,
+32,1114419256731430912,🍷🍽SAKURAグルメ🍾✈️,sakura81500,毎日美味しいものを食べるのが楽しみ🍽 / グルメ投稿多めです🍾 / 寿司🍣 / 焼肉🥩 / イタリアン🇮🇹 / フレンチ🇫🇷 / 和食🥢 / ワイン🍷 / 海外旅行によく行きます✈️ / 無言フォロー大歓迎です‼️,http://pbs.twimg.com/profile_images/1222893325998383109/fz0GDzGs_normal.jpg,,2019-04-06 06:47:10,東京,,True,5946,4747,127,15,459,False,
+33,784252617119571969,TheThickGodiva🍫,TheThickGodiva,Just a nasty 💦💦 chocolate fem 🍫💆🏾‍♂️that loves dominant tops. 🍆. The freakier the better 😎 ‼️DL TOPS HIT ME UP🤞🏾🍑💦💦💦💦💦💦💦 KᏆK: ᎢᎻᎬᎬᏩᎡᎪNᎠᎻᏌᏚᎢᏞᎬᎡ,http://pbs.twimg.com/profile_images/1287251288997199873/r4fYEhOn_normal.jpg,,2016-10-07 04:42:49,"Georgia, USA",,True,12233,11392,4310,23,5769,False,
+34,2614626908,Antisocial™ 👸🏽,asiaag_,Christ ✟ | 👻 asiaa1 | @privilegepretty 🖤 | 📷 asianaegunn,http://pbs.twimg.com/profile_images/1235299684777852928/C8GWo-9F_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-10 02:26:35,,,True,1262,1338,11010,1,17535,False,
+35,1084187326581010432,The supreme mind of Budda,BlackFr69784889,Master of the matrix,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-01-12 20:36:16,Gaia,,False,22,951,111,0,299,False,
+36,2786725352,✿ Nia Farah ✿,BrownHoneyNia,"**NSFW**  *ADULT CHAT*  ✿TANTRIC ✿ *Sensuous* LIVE Consultations - Talk therapist...
+ CASHAPP: $Farahdreams",http://pbs.twimg.com/profile_images/1238802345045250049/GslVCl1e_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-09-02 21:29:24,COSMOS,,False,517,152,179,2,2148,False,
+37,1181959686142201856,Ajax,J_Ajax_,"22 year old Goth Metalhead, Weeb, memer, and writer/ #WeAreBleach (don't take me seriously. I am the meme here) My Alt- @ajax_joshua",http://pbs.twimg.com/profile_images/1271859541689466884/hUsKA5qf_normal.jpg,,2019-10-09 15:48:56,"Pennsylvania, USA",,True,1088,2384,22903,2,34004,False,
+38,2552838478,(✿ ♥‿♥),bbydollnaoki,neptune’s daughter ♓️ ☀️ ♎️ 🌙,http://pbs.twimg.com/profile_images/1272987208803368968/a1XgfPbO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-18 16:32:47,"West Palm Beach, FL",,True,570,486,22137,3,1394,False,
+39,975621296,chanel maya,ayamgoddess,"The Spirit of Jane Doe, the freak in Maya Angelou, the Stoned Soul, the home The Architect never drew but built with His Hands.",http://pbs.twimg.com/profile_images/754404023927791617/nimnEQg2_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-11-28 07:58:45,Strawberry Fields,,True,306,42,1738,1,880,False,
+40,1199971281371664384,ese_tony951,ETony951,"Am in JRSA 
+Am taken ❤️ 
+Add me on PS4 
+Ese_tony951
+Snapchat = baby_tony951
+Instagram _tv951
+Family of the little kid 
+Im",http://pbs.twimg.com/profile_images/1199971604928684032/RAlzTX-x_normal.jpg,,2019-11-28 08:41:18,,,False,5,49,0,0,0,False,
+41,62169169,Foster Barnes,FosterBarnesJr,,http://pbs.twimg.com/profile_images/1142358356318937088/aEVGa84o_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-08-02 01:51:57,"St Pete Beach, FL",,True,247,1501,1517,4,11600,False,
+42,4851544645,uknown,_UnKOwN_ERroR_,UnkOwN ErRor,http://pbs.twimg.com/profile_images/1227136861929271296/zEdLikSE_normal.jpg,,2016-02-03 00:16:24,Unknown,,False,42,195,496,0,1106,False,
+43,706270280763744256,Ali Ann,ali_ann1125,✨Aspiring MUA by night 💄💅🏼Real Estate Super Hero (aka paralegal) by day 🏘✨🐶Pitbull Momma & Advocate 🐶 Follow my Makeup Journey on IG: xopinkalixo,http://pbs.twimg.com/profile_images/980881226180497408/VOL8jv0s_normal.jpg,,2016-03-06 00:08:51,"Brockton, MA",,True,434,2460,3963,0,18234,False,
+44,347758180,Paquetaxo Botanero.,ITZeldatails,pinche Pendejo Güey.,http://pbs.twimg.com/profile_images/1287665694134243328/8I4NVLMz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-03 09:20:57,EPTX/LA,,True,820,519,139787,7,65692,False,
+45,882720327230525440,Brie,Queen_of_Brie,Just a hot mess with a Twitter handle.,http://pbs.twimg.com/profile_images/1181406205903867906/1t-6EM6f_normal.jpg,,2017-07-05 21:58:20,Estados Unidos,,False,18,180,112,0,313,False,
+46,814245850037764096,Blanca’s Wig at the Amateur’s Ball,TTabundance,Super Random. I’m just here to laugh😬,http://pbs.twimg.com/profile_images/1256284073716301829/NNHVJg6R_normal.jpg,,2016-12-28 23:05:13,,,True,440,830,8545,2,34688,False,
+47,3474551054,G,GritzBrown,,http://pbs.twimg.com/profile_images/1284800794638848001/riYFsCUI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-06 21:12:53,Bahamas,,True,1852,1100,161321,14,5501,False,
+48,340024840,Jedi,EpicNinJedi,"Mage of Minor Mendings. Jedi Master IRL. TSL Florida Kyber Knight. 
+Cosplayer + Gamer + Digital Creator.
+CEO of EpicRealmArtz™.",http://pbs.twimg.com/profile_images/1198434872777486337/W1rdkpCc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-22 01:13:34,NYC / SoFla 954,,True,395,1745,36665,16,8026,False,
+49,1161004202652512256,Sam,Sam06670227,"Don't think of me as evil, just picture me as someone who just wants to save the world with a twist",http://pbs.twimg.com/profile_images/1161004368965132288/Xu2LetWx_normal.jpg,,2019-08-12 19:59:07,Estados Unidos,,False,1,4,8,0,3,False,
+50,1116445802833031172,Mary Brown,MaryBro92179021,easy going and kind,http://pbs.twimg.com/profile_images/1118933290889699332/bMJj5YWN_normal.jpg,,2019-04-11 20:59:56,,,False,0,157,2,0,5,False,

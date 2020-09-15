@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,21:33
+,>>> Analyzed user:,BLACKLI40384326
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1286363006063063040,💒Religion: H A R R Y S T Y L E S,takingachonce__,One Direction keep ruining my life since 2010,http://pbs.twimg.com/profile_images/1286363122605924353/BoXNcIJ0_normal.jpg,,2020-07-23 18:10:27,,,False,108,118,140,1,434,False,
+2,281766200,Dylan O'Brien,dylanobrien,long suffering Mets fan,http://pbs.twimg.com/profile_images/441438607828451328/g24eSR4S_normal.jpeg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-04-13 22:55:58,,,False,4997346,2071,1163,7351,1477,True,
+3,373157754,Anonymous,YourAnonCentral,We support the weak against the powerful. #BlackLivesMatter #MMIW #NiUnaMas #OpDeathEaters #OpHongKong #Anonymous,http://pbs.twimg.com/profile_images/1277953706063917057/IIiZhVx3_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-09-14 02:53:08,,,False,6299910,665,327495,3232,47026,False,

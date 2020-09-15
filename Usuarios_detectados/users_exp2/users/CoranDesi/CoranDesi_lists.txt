@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,21:47
+,>>> Analyzed user:,CoranDesi
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,71887269,Mail Online Journalists,Mail Online journalists on Twitter,96,2152,/MailOnline/lists/mail-online-journalists,MailOnline,Tue Jul 15 10:17:46 +0000 2008,Daily Mail Online,For the latest updates on breaking news visit our website https://t.co/5os3efxRyQ #seriouslypopular,2565140,2288

@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,21:56
+,>>> Analyzed user:,democracee
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1281281837680128001,I support DemD1,"Proper pension and wages are human right.If workers can't get proper pension and wages, can't live.",3319,187,/Kinugasatenjin1/lists/i-support-demd1,Kinugasatenjin1,Fri Oct 11 11:23:57 +0000 2019,Kinugasatenjin0224 Please follow,I insist that low per capita budgets are not a burden.Please read twitter account @terrttt7.Many leftists are following @terrttt13 @and_wages @and_wages2,554,826
+2,1223272783242760192,VR-Report,A list of people talking about VR and Reports,765,8,/FeelThree/lists/vr-report,FeelThree,Wed Jul 16 14:00:38 +0000 2014,FEEL THREE : Virtual Reality Simulators,"The Motion Simulator for #VirtualReality. Modular, affordable, stylish & safe. Order here : https://t.co/ye5mllNMaF",78918,74226
+3,1194964062842564609,#Resist,,155,2,/amusic20/lists/resist,amusic20,Tue Mar 03 00:18:30 +0000 2009,Alyssa Christian Ⓥ,Vegan. Autism spectrum. Writer/Editor. Flutist. Actor. Parrot Whisperer. She/her. #biden2020 #blm #filmtwitter,3179,3790

@@ -1,0 +1,78 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,15:06
+,>>> Analyzed user:,RealSaleemJuma
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,976783278098264064,🌺❤️🌺,myself_oh,"❤️Live
+🌺Pray
+❤️Love
+🌺Smile
+❤️Be Kind    
+🌺Loving 🇸🇦
+❤️🌺❤️🌺❤️",http://pbs.twimg.com/profile_images/1286818593548701698/1sl2Z4I6_normal.jpg,,2018-03-22 11:30:56,🇬🇧 ,,False,3534,3011,57715,5,27557,False,
+2,3016033731,Hank,hankh72,"🇳🇱 Born Dutch, 
+🇨🇦 Former Canadiano, 
+🇺🇸 Presently Americano",http://pbs.twimg.com/profile_images/682114271883345921/2RcZH_Ln_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-04 02:39:45,"Washington, USA",,False,13,191,106,0,239,False,
+3,1286181259878764549,Курс,muHkL21M5UwwmdP,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-07-23 06:08:25,,,False,0,12,0,0,1,False,
+4,1288075010469486594,Flat-Earther,FlatEar50735235,The Earth is flat. That is all.,http://pbs.twimg.com/profile_images/1288125237175828488/JyA2Lmtz_normal.jpg,,2020-07-28 11:33:13,,,False,0,14,15,0,2,False,
+5,1277482739491573760,ICplusE,cplus_e,Follow the plan. History geek. Patriot. Anti-Alinsky. Libprog re-educator. Individual thought not party lines. #WWG1WGA #UnityOverDiversity #KAG #GreatAwakening,http://pbs.twimg.com/profile_images/1286911123133014016/w1xvgQfx_normal.jpg,,2020-06-29 06:03:35,,,False,1014,1664,4003,0,3726,False,
+6,1287985564667453442,🌿 Wanderer,christiclight,,http://pbs.twimg.com/profile_images/1288001430981242881/_GJpszKa_normal.jpg,,2020-07-28 05:40:46,,,False,5,100,0,0,0,False,
+7,914890931488227328,MTLass,mt_lass,🇺🇸🇺🇸🇺🇸,http://pbs.twimg.com/profile_images/1226638414377705474/a04Z1pje_normal.jpg,,2017-10-02 16:32:50,United States,,False,1238,555,27466,0,151329,False,
+8,499465075,Cathryn Preffer,ChunkersRus,"Christian, Wife, Mother, Trump Supporter
+#winning is my favorite hashtag.
+Everything else is just details.",http://pbs.twimg.com/profile_images/1169053126105673735/phlCYoTE_normal.jpg,http://abs.twimg.com/images/themes/theme3/bg.gif,2012-02-22 04:34:35,,,False,382,815,11125,0,44616,False,
+9,1287942911972093952,brett6,brett67,Just a hard workin dude who’s tired of the bullshit 👍,http://pbs.twimg.com/profile_images/1287943049654358016/GThpi0ks_normal.jpg,,2020-07-28 02:48:24,,,False,0,79,0,0,0,False,
+10,1418725770,Snake Plissken,thequiethit,"I’m not here to argue. if my opinion offends you, you can F off and block me. I’m here to help expose the puppet masters .. #vet. #blackops #seals #patriot",http://pbs.twimg.com/profile_images/1263214517044965376/DYrkqD48_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-05-10 18:13:05,I'm Everywhere,,False,1080,1607,12185,2,9273,False,
+11,1188987632342069248,John winston,Johnmiguellyon2,,http://pbs.twimg.com/profile_images/1188987815448592384/5cLG-0UD_normal.jpg,,2019-10-29 01:15:29,,,True,4,123,54,0,213,False,
+12,1099389198220517376,Marty M,Marty26133768,"Military Retired Combat Veteran USAF, Conserative and Proud of it! We The People!!!! 🇺🇸🇺🇸🇺🇸 I love blocking LIBITARDS!!! BLM TERRORIST ORGANIZATION",http://pbs.twimg.com/profile_images/1285579843753480195/trv7uawU_normal.jpg,,2019-02-23 19:23:05,"Washington, USA",,False,572,1453,13861,2,11215,False,
+13,1287000724564566018,CommunismKills,Nick_Ceausescu,🇺🇸🇺🇸 #MAGA #KAG 🇺🇸🇺🇸 #Trump2020 🇺🇸🇺🇸 #1A #2A #WWG1WGA 🇺🇸🇺🇸 IFBAP NO DM,http://pbs.twimg.com/profile_images/1287199191844954112/OHzM8hQW_normal.jpg,,2020-07-25 12:24:30,,,False,327,730,90,0,143,False,
+14,1113999044857278464,Sam Honcho,wildbillheax,4-time Dirt-Clod-Fight Champ. Recipient of a lifetime scar in '94 Bottle Rocket Fight Inv'l. Sarcastic. Love my family. Love God. Love USA!,http://pbs.twimg.com/profile_images/1286063592777940994/-b4qOorc_normal.jpg,,2019-04-05 02:57:24,,,False,1084,2579,1403,0,6832,False,
+15,21855981,Nacho,niconacho12,conservative.,http://pbs.twimg.com/profile_images/1280983042371305478/bdJv1C0U_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-02-25 11:22:48,United Kingdom,,True,703,1909,5655,3,27442,False,
+16,1287219013064380416,Kitty Kushmore,KittyKushmore,"Love, peace and harmony for all ...",http://pbs.twimg.com/profile_images/1287223416664109057/Kcm_AamW_normal.jpg,,2020-07-26 02:52:51,,,False,20,75,26,0,145,False,
+17,1283042450341335041,Anne Bollin,bollin_anne,Freedom will always be illegal.,http://pbs.twimg.com/profile_images/1283429239979679745/MgS8SFJ9_normal.jpg,,2020-07-14 14:15:46,"London, England",,False,36,789,34,0,154,False,
+18,263853780,JustPointingItOut,lstaff25,Feelin good Feelin great how r u? #Outclassed,http://pbs.twimg.com/profile_images/1191184368368324608/Xpy1PNg0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-10 21:37:13,"Tallahassee, FL",,True,220,484,8321,4,16658,False,
+19,1118004636563062785,DrunkenGlitterCake,cake_drunken,I know the stars by heart.,http://pbs.twimg.com/profile_images/1285522484352057344/2g_N-ZZi_normal.jpg,,2019-04-16 04:14:11,,,False,28,316,1042,0,6020,False,
+20,1272799372414091264,🇺🇸 🇺🇸 🇺🇸 Trump 2020! 🇺🇸 🇺🇸 🇺🇸,800ppm,"I used to be an adventurer like you, then I took an arrow to the knee. Life, a parody.
+
+Non-violent but hard hitting political satire. Seattle local politics.",http://pbs.twimg.com/profile_images/1276591145317879808/wZaXaYEu_normal.jpg,,2020-06-16 07:53:40,Former Chaz,,False,392,362,8727,1,6342,False,
+21,1229349421411946497,Marcos Coelho,M4rc0sC0elho,🇧🇷🇵🇹🇮🇱,http://pbs.twimg.com/profile_images/1229354085536739334/LGziVKU6_normal.jpg,,2020-02-17 10:18:58,,,False,47,760,23,0,117,False,
+22,821021946284560386,Kira Argounova,argounova,Patriot. Objectivist.,http://pbs.twimg.com/profile_images/821025672541966337/comMabb-_normal.jpg,,2017-01-16 15:51:00,,,False,1228,2496,54801,1,62452,False,
+23,1283064894896701442,TodayIsTheDay,TodayIs35726078,Looking for the truth. 5 Continents,http://pbs.twimg.com/profile_images/1283240260907012096/j54SXM5Z_normal.jpg,,2020-07-14 15:45:00,,,False,19,297,325,0,890,False,
+24,1045601550381400065,Aragorn,Ap21730382,,http://pbs.twimg.com/profile_images/1045617900357218304/s1mbdeFu_normal.jpg,,2018-09-28 09:10:10,,,False,57,2893,279,1,79,False,
+25,1161914222940475392,Andiswa Gwala,GwalaAndiswa,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-08-15 08:15:12,,,False,1,108,0,0,15,False,
+26,1280686728903360517,Deplorable Eccentric,verumexploratum,"Conservative Pre-Med Student; Aspiring to know a little about a lot of things, just enough to make me interesting",http://pbs.twimg.com/profile_images/1285463464190894080/f1qFZzf5_normal.jpg,,2020-07-08 02:15:00,USA,,False,2,70,3,0,1,False,
+27,1083508663128453120,James Forbes,JamesFo07639424,,http://pbs.twimg.com/profile_images/1148143109261258753/dY_S-ers_normal.png,,2019-01-10 23:39:30,,,False,4,75,8,0,400,False,
+28,404485906,Matt Maximo,mattmaximo1,@TheBlockOffice,http://pbs.twimg.com/profile_images/1216227451862274048/7RXp56wH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-04 00:22:16,,,True,304,293,941,1,9951,False,
+29,758494854,Pay Attention,EyeReadU,"Retired Vet and practical reality based conservative. Black Lives Matter, White Lives Matter, everyone's life MATTERS!",http://pbs.twimg.com/profile_images/2506319607/5cuqv4zri6qxifbingkc_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-15 03:46:47,"Albuquerque, NM",,False,83,241,1622,0,146,False,
+30,1020433324676919296,Sadie X–,TheSadieX,"Once upon a time, I was properly indoctrinated. Now, I'm your worst nightmare: A well-educated, red-pilled, former leftist. Facts over feelings, no exceptions.",http://pbs.twimg.com/profile_images/1174547787565936643/T1-kX9HR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-07-20 22:20:38,"Nunya, Midwest, USA",,False,549,1357,2678,0,2851,False,
+31,2850399425,Nathalie,Nathalien8ing,"If you don’t know your rights, you don’t have any rights. Stay educated and question everything. Don’t be a sheep. Follow your heart and do no harm. WWG1WGA",http://pbs.twimg.com/profile_images/1278466129648848903/8CajNePl_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-29 21:02:53,,,False,49,227,377,0,1597,False,
+32,1273424074065285121,@SirTfyable1,sirTfyabIe,"veteran. father. Grandfather. Trump2020. WWG1WGA. 🚫DM together We can 
+Make America Great Again. 4th twitter account since 2013.
+parler @SirTfyable",http://pbs.twimg.com/profile_images/1273426535849103361/rhOgHOEC_normal.jpg,,2020-06-18 01:15:54,mountains of SE Oklahoma,,False,141,339,599,1,2921,False,
+33,1090792712914165760,Maoistmyname,FairneyMike,commiesymp,http://pbs.twimg.com/profile_images/1109606732961996801/rcjd05Or_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2019-01-31 02:03:43,Wuhan China,,False,27,864,3223,0,465,False,
+34,20690808,Stan T.,bigdog44g,"Love Life! Experience everything. My favorites are family, photography, tech, watches, & bourbon My career is healthcare. I drive an SVT Raptor. I Support-2A",http://pbs.twimg.com/profile_images/93135786/Photo_2_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-02-12 16:33:35,,,False,70,261,209,0,95,False,
+35,85388174,Suzy Wegner,IMKZRNU,Jenise on WoW,http://pbs.twimg.com/profile_images/378800000326937985/581d96b537d4db27778cd0bafbc3eff2_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-10-26 19:08:04,Pacific Northwest,,False,35,126,117,0,262,False,
+36,1268271766746673152,Dewy543,DewayneHendric7,Dad of two,http://pbs.twimg.com/profile_images/1268271927866638342/VVVwxjAk_normal.jpg,,2020-06-03 20:02:17,,,False,2,51,1,0,36,False,
+37,1238476921652068352,Kimberly,Kimberl34807017,"#WWG1WGA 🇺🇸 conservative, Spiritual 🌛🌝🌜 🎶 lover of music 🎼",http://pbs.twimg.com/profile_images/1272998798101549057/ZTyN6u0E_normal.jpg,,2020-03-13 14:48:17,"West Virginia, USA",,False,59,92,1708,0,1604,False,
+38,1146652372166270977,Sum3rE,Sum3rE,WWG1WGA 🗽,http://pbs.twimg.com/profile_images/1243283837053878272/c78vxZVa_normal.jpg,,2019-07-04 05:30:04,,,False,152,489,742,0,2592,False,
+39,1282815115893637120,Byron,Byron89994937,MAGA Huge !!!!,http://pbs.twimg.com/profile_images/1282815584888147969/cQuITj_J_normal.jpg,,2020-07-13 23:12:22,,,False,449,875,979,0,2473,False,
+40,1286307338618634240,Peter English,PeterEnglish1,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-07-23 14:29:18,,,False,2,12,0,0,5,False,
+41,1287386405191200770,AutoReiv Mk.II,AutoreivMKII,// INFP // Клетка пошла искать птицу//,http://pbs.twimg.com/profile_images/1287387322242281473/dX2AOLe2_normal.jpg,,2020-07-26 13:57:06,"Róterdam, Holanda",,False,0,140,0,0,4,False,
+42,859739233816375296,Heisenberg🇺🇲,heisen28,"Tech Wizard, Engineer, #foss advocate, addicted to #linux, learning #python3 #infosec, #IoT & #AWS. I ❤️ @ubuntu . 
+ Love Linux?  Follow my bot @i_use_linux",http://pbs.twimg.com/profile_images/1287469808783679490/A10s_Sz-_normal.jpg,,2017-05-03 11:59:41,USA,,False,143,345,1926,3,13261,False,
+43,252228783,John,IrishAle654,yep,http://pbs.twimg.com/profile_images/1125939970022232064/NoMeXqfY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-14 19:26:47,,,False,70,1825,382,1,668,False,
+44,1287307568902070279,Orz,vowuu,Commies Are Trash 🍥,http://pbs.twimg.com/profile_images/1287307922188378112/g0y-xSYv_normal.jpg,,2020-07-26 08:44:12,America,,False,4,25,54,0,30,False,
+45,1287245726762840065,Yenokan,Yenokan1,Florbo. Transvegan. Intersectional Feminist. Pro-Islam. Antinationalist. Pro-Zionist. Antiracist. Black Supremacist. Equality. Global Citizen. 🌎,http://pbs.twimg.com/profile_images/1287247790440054784/oOgrY576_normal.jpg,,2020-07-26 04:39:23,"Portland, OR",,False,1,43,3,0,3,False,
+46,984255118072799232,Marcusfit34,Marcus03608326,23. Arborist 🌳🌴/ IRON WORKER ⛓🛠Writing my first book. God first 🙏🙌 Baseball⚾ Founder of Dallas Stays Clean. Potter head.,http://pbs.twimg.com/profile_images/1225634685188837376/1pCeU0il_normal.jpg,,2018-04-12 02:21:21,"Dallas, TX",,True,675,3270,27961,1,75228,False,
+47,1182571325682003968,Tina Sue Bravard Martin,TinaBravard,"Retweet is not necessarily an endorsement.   We have freedom to speak...
+Much agape love sent to Universe.",http://pbs.twimg.com/profile_images/1287958318112219136/YUZQ0JkC_normal.jpg,,2019-10-11 08:19:29,,,False,1793,4402,60911,1,22884,False,
+48,1241799755337883648,MitoA,MitoA17,Just Interested In Politics and News,http://pbs.twimg.com/profile_images/1285264321564401664/6mqTGQ6u_normal.jpg,,2020-03-22 18:52:12,,,False,4,418,16,0,12,False,
+49,957722512510586880,A.T.C,ATC32877971,"I'm here for one thing and one thing only. To give support to our president. The future of America depends on us
+#MAGA",http://pbs.twimg.com/profile_images/1228160240992096257/6JJ8_37x_normal.jpg,,2018-01-28 21:10:15,"Granite State, USA",,False,1819,2436,4219,0,9878,False,
+50,125184744,Alex Wiest,awiest82,hala Madrid HDP,http://pbs.twimg.com/profile_images/643280750482100224/eviAlUld_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-22 00:31:59,Houston,,True,6,17,152,0,168,False,

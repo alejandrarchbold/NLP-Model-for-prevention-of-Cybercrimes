@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-08
+,>>> Time:,11:21
+,>>> Analyzed user:,JuanLindarteP
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,82421281,A01CUCUTA,Cucuta Colombia,529,0,/catatumbo77/lists/a01cucuta,catatumbo77,Wed Feb 03 20:23:21 +0000 2010,Catatumbo 77 Cucuta,"Noticias, en tiempo real, del Area Metropolitana Binacional de #Cucuta, #Colombia. Creado y operado por el Grupo de Información Catatumbo77",22727,796

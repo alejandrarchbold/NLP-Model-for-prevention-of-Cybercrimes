@@ -1,0 +1,93 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:34
+,>>> Analyzed user:,CronicasDeRafa
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1013595948,El Antituiter.,andrefelgiraldo,Infiltrado en esta red de tartamudos ortográficos y poetas baratos para destruir la anorexia intelectual y la bulimia literaria. Pena debería darles estar acá.,http://pbs.twimg.com/profile_images/1265690852464168961/5j2wp4Ek_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2012-12-15 17:20:37,Por ahí.,,True,37366,5749,52936,74,47269,False,
+2,196606310,René Jiménez,elReneJimenez,Comediante. Haciendo reír públicos desde 1998. Hago contenidos en vídeo y redes de nuestra gloriosa clase política. Publicidad 3164633645,http://pbs.twimg.com/profile_images/1174152861598593024/ex-M2_Sr_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-09-29 14:15:16,"Bogotá, D.C., Colombia",,True,34790,2525,25247,39,5856,False,
+3,950038248432324610,AMARANTA,AMARANTA_2016,,http://pbs.twimg.com/profile_images/1186058001762922496/6ERrKmq4_normal.jpg,,2018-01-07 16:15:44,,,False,2653,2278,32173,1,19580,False,
+4,1228343647093039104,Cuagliarelat,Cuagliarelat2,"PhD en Geopolítica de los Conflictos,
+ Mg en Derecho Internacional Público.  
+
+¡ Que viva ABYA YALA !",http://pbs.twimg.com/profile_images/1244351842089402369/ExOqhqT7_normal.jpg,,2020-02-14 15:42:16,,,False,196,1193,8573,0,3359,False,
+5,3157955236,Frando Antonio,frandoauc,Realizador audiovisual. 🎞️🎥,http://pbs.twimg.com/profile_images/1267729524927668224/Z5Waa9bI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-11 22:52:44,"Santa Rosa del sur, Bolívar ",,True,87,510,749,0,1465,False,
+6,1276353515531710467,laverdadcolombia,danigilletVC,"Dani Gillet
+ 🇨🇴VC🇨🇴
+Activista
+✊🏼 Colombia #Libre #Real #Firme
+Progreso Justicia Verdad
+Animalista",http://pbs.twimg.com/profile_images/1276353723825094657/uK6Jy5ar_normal.jpg,,2020-06-26 03:16:15,Colombia,,True,111,85,184,0,128,False,
+7,1200271359340896257,Alberto petrista,higirio_alberto,"vete a vivir, a cuba mamerto, vete para Venezuela, castrochavista. 
+coman mierda uriburristas.",http://pbs.twimg.com/profile_images/1279150630741958662/msMNM1Of_normal.jpg,,2019-11-29 04:32:55,,,False,62,332,2323,0,3841,False,
+8,2898717856,Tele Show TV,elteleshowTV,Periódico Digital Partidista. Subscribete 👉https://t.co/FU7M88NmLG,http://pbs.twimg.com/profile_images/1230917924514402307/plN3wSu__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-30 03:45:00,"Bogotá, D.C., Colombia",,False,12764,168,32121,8,23316,False,
+9,2593740297,Miguel Angel Del Río Malo,migueldelrioabg,Abogado Especializado en Ciencias Penales y Criminología de la Universidad Externado de Colombia. Litigante.,http://pbs.twimg.com/profile_images/971491928675180544/CPPoHgnS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-09 02:30:04,,,True,57388,49,633,49,942,False,
+10,756753230944673792,🔥 Madame Simone 🔥,MadameSiimone,"Cabrona. 80% política, 10% películas, arte y vereda, 5% mi querido diario y 5% de NBA. Contestataria y beligerante. La bici mi antídoto y los drones mis alas.",http://pbs.twimg.com/profile_images/1277419946994282501/KliiyacA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-07-23 07:30:05,universo 25,,True,12302,1252,36410,18,62726,False,
+11,1080863624036532225,𝙋𝙇𝘼𝙏𝘼𝙉𝘼𝙇𝙉𝙀𝙒𝙕,platanalnewz,somos un colectivo filosófico con sarcasmo que explora la realidad sociopolítica de Latinoamérica y el Mundo...,http://pbs.twimg.com/profile_images/1124989895473340417/2omuKqk2_normal.jpg,,2019-01-03 16:29:04,,,False,208,466,6149,1,1198,False,
+12,895080892363886592,Ramirito,twit19702,🎶Nació mí niño mí niño NUESTRO niño quien lo creyera? Que después de haber andado tanta esquina correteado tanta hembra y enredao' en mil problemas..... 🎶🎶🎶,http://pbs.twimg.com/profile_images/984993465745526784/4KK_3qtz_normal.jpg,,2017-08-09 00:34:49,"Bogotá, D.C., Colombia",,False,96,379,15612,0,10822,False,
+13,157084932,Luis Ernesto Olave V,LUISEROLAVE,Activista y Defensor de DDHH y Territorios Afro. Coordinador Pueblos Afro Red Latinoamericana y del Caribe para la Democracia. Opiniones aquí son Personales✊🏿,http://pbs.twimg.com/profile_images/1278053655405608965/gIIj_-_9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-18 20:35:52,"Chocó, Colombia",,True,17233,2334,8192,42,8568,False,
+14,173123264,MATHEWZ,mateushernando,"AMANTE DE LA BUENA VIDA SOLO CREO EN DIOS BUEN HIJO, HERMANO, PADRE Y AMIGO",http://pbs.twimg.com/profile_images/1258519332449124352/OsqOZTOZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-31 14:05:59,,,True,106,544,4194,0,2195,False,
+15,25870240,Loco Feliz,locofeliz600405,,http://pbs.twimg.com/profile_images/446610296962940928/_fyIByGD_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-22 20:04:54,,,False,207,212,14081,2,2690,False,
+16,1094987643396521984,Mamertolandia,EscribidorMao,SOMOS LA RESISTENCIA INTELIGENTE,http://pbs.twimg.com/profile_images/1194043945006850049/IEW7Hs0x_normal.jpg,,2019-02-11 15:52:52,,,False,1139,128,347,0,63,False,
+17,319280902,AquinoTicias,AquinoTicias1,"AquinoTicias Periodismo Freelance de Derecha. VenSeremos!!
+
+El periodista del cucharón de sopa que se mete donde no lo han llamado :3",http://pbs.twimg.com/profile_images/1278842700830314498/wcLVIeSk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-17 21:17:18,,,False,26550,378,15522,34,9775,False,
+18,1168340223295709184,MN NEWS,CDNewsCol,Somos una página de humor negro dirigida por estudiantes reales de diversas universidades del país que tratan de burlarse de la clase política colombiana,http://pbs.twimg.com/profile_images/1262551460786683905/OzoMT5Jp_normal.jpg,,2019-09-02 01:50:05,macondo,,False,2890,260,2127,3,1189,False,
+19,1225756482001653763,Delator,elquelosdeIata,"Catador de maricas, depravado por naturaleza y obsesionado con Uribe. 
+Soy más fake que las investigaciones que me invento.",http://pbs.twimg.com/profile_images/1262543936280821761/W2bF670g_normal.jpg,,2020-02-07 12:22:11,,,False,1568,326,75,1,111,False,
+20,982090849864466433,Mr. Carvajalino,MrCarvajalino,"Creador de contenido para Youtube.
+Abogado  en formación.
+Amor por el campo, la educación y anhelando un país en paz y sin politiqueros.",http://pbs.twimg.com/profile_images/1244474065219452928/KqXXK1nH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-04-06 03:01:19,Colombia,,False,865,696,828,0,661,False,
+21,148996782,Maria Niny Echeverry,Marianiniecheve,Abogada - Comunicadora Social y Periodista- Magister en Derecho. Unisergio. Aspirante a ser parte del cambio que necesita Colombia.,http://pbs.twimg.com/profile_images/1270512863095017472/z2Ja-pxX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-28 04:17:14,"Bogotá, D.C., Colombia",,True,49149,6688,123259,89,109389,False,
+22,579982990,Julián Conrado,alzadoencanto,Cuenta Oficial del Cantor del pueblo Guillermo Torres,http://pbs.twimg.com/profile_images/856584033555369984/5KDjxwg3_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-05-14 15:39:31,,,True,12354,1849,2022,20,66,False,
+23,252402164,Física Impura®,FisicoImpuro,"Docente de Ciencias Naturales Física, Ing. de Petróleos y Esp. en Evaluación y Gerencia de Proyectos.",http://pbs.twimg.com/profile_images/1272995106434486273/HUzwVcvT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-15 03:31:45,"La Fosa Común, Polombia",,True,74679,34547,55902,69,50805,False,
+24,150118422,Santiago Rivas,Rivas_Santiago,Director/presentador de Puntos Capitales. Parte de @PresuntoPodcast y @LaRecontra. Autor de “Acaba Colombia”. Selector musical. Hacedor de collage. Etceterista.,http://pbs.twimg.com/profile_images/1274033019188326402/QokG7K6u_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-31 03:55:32,,,False,125409,8767,66849,375,60385,False,
+25,38533136,Carlos Cortés,CarlosCortes,#lamesadecentro en @lasillavacia / @PresuntoPodcast,http://pbs.twimg.com/profile_images/1246929872490049536/4zVDGJzm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-07 22:26:05,Colombia,,False,39471,1510,11540,305,9142,True,
+26,174049509,Serris 🌀,datoatipico,"Influencer, no soy. Político sería, pero en una cárcel me encontraría con menos delincuentes. Sólo vengo a opinar como tú. https://t.co/PghYNobs8q",http://pbs.twimg.com/profile_images/1262926155562340355/xaYEIylz_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-08-03 00:15:58,Colombia,,True,50147,20280,24888,41,21946,False,
+27,116476719,Partido Alianza Verde 🌻,PartidoVerdeCoL,Cuenta Oficial del Partido Alianza Verde 🌻,http://pbs.twimg.com/profile_images/1280187436543418368/bCEK_XZW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-02-22 16:00:10,Calle 36 # 28A-24 Bogota,,True,163772,15894,73329,940,65739,False,
+28,174492304,Daniel Coronell,DCoronell,Periodista.,http://pbs.twimg.com/profile_images/1062476450035568641/KyCPtJOf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-04 01:56:08,,,True,1393465,1522,75406,3666,11485,True,
+29,51918727,Contravía,Contravia,"¡Periodismo para la Paz!
+
+📺YouTube: https://t.co/iy5THqUnM3
+Instagram: https://t.co/Dq6aLCxYkQ
+Facebook: https://t.co/0naIxNBOAA",http://pbs.twimg.com/profile_images/1142495227078463489/pCo6q2hO_normal.png,http://abs.twimg.com/images/themes/theme8/bg.gif,2009-06-29 02:00:25,Colombia,,True,196040,3695,76079,1149,2160,False,
+30,362237300,Andrés Rengifo Lemus,AndresRengifoL,"Concejal de Barranquilla @PartidoVerdeCoL🌻 | Ing. Industrial, Especialista, Mg. en Políticas Públicas y Buen Gobierno en formación |#BarranquillaVerde💚🚴‍♂️",http://pbs.twimg.com/profile_images/1278723948474064896/b95_XdTI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-26 02:14:51,"Barranquilla, Atlántico",,True,11315,4609,3322,25,357,False,
+31,1241792456762540033,Los Confinados 📺,LosConfinados,"De lunes a viernes a las 9 P.M. por Twitter, Facebook y Youtube, en alianza con el @tercer_canal. ¡TODAS LAS VOCES!",http://pbs.twimg.com/profile_images/1242296167695876096/vdleQQEv_normal.jpg,,2020-03-22 18:27:25,,,False,2342,166,1987,3,1411,False,
+32,1238488785240850437,Tercer Canal,Tercer_Canal,"Ya viene el Tercer Canal. Aquí todo está por verse. 
+https://t.co/DTVVF5BfPE
+https://t.co/cwfFBIPuye",http://pbs.twimg.com/profile_images/1252599950837526529/RabHcBxD_normal.jpg,,2020-03-13 15:35:24,,,True,19974,134,1011,33,51,False,
+33,707188956249661440,Laura Pajón🥑,pajon_lauraR,"SOY ATEA NUNCA HE TENIDO AMIGOS IMAGINARIOS
+#Sigamonoslosbuenos",http://pbs.twimg.com/profile_images/1276478802059841537/FWOox9Ol_normal.jpg,,2016-03-08 12:59:20,,,False,2652,4072,96616,5,105030,False,
+34,998923042372845569,𝘛𝘳𝘪𝘯𝘰𝘊𝘰𝘤𝘶𝘴,TrinoCocus,𝙱𝚊𝚜𝚊𝚍𝚘 𝚎𝚗 𝚑𝚎𝚌𝚑𝚘𝚜 𝚛𝚎𝚊𝚕𝚎𝚜,http://pbs.twimg.com/profile_images/1052619783324270592/Ulo44caI_normal.jpg,,2018-05-22 13:46:27,Colombia,,True,877,604,7878,2,9356,False,
+35,1040090340571705347,DON TRINO Ⓜ️,TRINITO91,"Viejo gallero sin pelos en la lengua... Cero Uribistas por estos lares. Opiniones personales. Si no le gustan mis tuits, no me siga. 
+
+Psicólogo y politólogo.",http://pbs.twimg.com/profile_images/1275068110618255372/rOTula_p_normal.jpg,,2018-09-13 04:10:35,"Abu Dabi, Emiratos Árabes Unid",,True,3370,0,47232,4,0,False,
+36,1213136278201356288,Antonio Bohórquez,AntonioBohrquez,"Perfil Oficial del Concejal de Barranquilla Antonio Bohórquez Collazos 
+(2020-2023)
+Defensor del pueblo.
+Experto en derecho constitucional y administrativo.",http://pbs.twimg.com/profile_images/1213136425228668928/MLUZvSW__normal.jpg,,2020-01-03 16:33:32,Barranquilla,,False,216,246,20,0,1,False,
+37,70539007,Katherine Miranda,MirandaBogota,"CONGRESISTA🇨🇴Politóloga, animalista, defensora de la paz y la educación pública. Comisión III Cámara Representantes #LaVidaEsSagrada Instagram: @mirandabogota",http://pbs.twimg.com/profile_images/1271257069652520961/jZFavdgr_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-08-31 23:52:36,Jefe prensa: 3142996582,,True,60858,5582,25165,147,46298,True,
+38,81487904,María José Gómez,MajoDoria,"Abogada, activista de todas las causas en las que creo, apasionada por los deportes y temas socio-políticos🌎 #FtePatriaGrande",http://pbs.twimg.com/profile_images/1274817198599671808/q8dKTsC5_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2009-10-11 01:41:56,"Buenos Aires, Argentina",,True,56808,6167,30668,36,52908,False,
+39,2881162246,Martha Elena Rangel,merv59,Socióloga y docente por 20 años,http://pbs.twimg.com/profile_images/1144413008854233088/O1OG0CVG_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-17 15:07:38,Bogota,,True,52638,28281,643935,191,287147,False,
+40,969658749085540352,La Nueva Prensa,lanuevaprensaco,"#LaVerdadSeaDicha
+
+Canal de YouTube: https://t.co/0xtO7Eyy1v
+
+Facebook: https://t.co/YlFDaKNegA",http://pbs.twimg.com/profile_images/1276852646205218816/7-J94LJ1_normal.jpg,,2018-03-02 19:40:35,Colombia,,False,72266,526,4617,157,241,False,
+41,839309103180697601,LasIgualadas,LasIgualadas,"Canal para discutir tranquilamente sobre temas de género. Creadoras: @mariangelauc, @viviana_bo, @jkrincon. #LasIgualadas",http://pbs.twimg.com/profile_images/1211030785295290368/ZC1gUWRO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-03-08 02:57:38,"Bogotá, D.C., Colombia",,False,53754,115,1288,74,796,False,
+42,1001127206930862081,La Liga Contra el Silencio,LigaNoSilencio,🔎 Somos una alianza de periodistas y medios de comunicación que combate la censura en Colombia. Denuncias: redes@ligacontraelsilencio.com o por nuestra web.,http://pbs.twimg.com/profile_images/1125636421409054721/W0F2JsIF_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2018-05-28 15:45:00,Colombia,,True,39674,918,7887,159,2366,False,
+43,39955069,Juan Carlos Rincón Escalante,jkrincon,"Aprendiz de algo. Coordinador de opinión en @elespectador. Creador de #LaPulla, @TedioyFiccion, @lapuesverdad, @LasIgualadas y @laredzoocial.",http://pbs.twimg.com/profile_images/1277323690842226689/R-SGX2m__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-14 08:24:23,Colombia,,False,91091,3738,13312,137,26136,False,
+44,58650958,Diario La República,larepublica_co,"Primer diario de noticias económicas, empresariales y financieras de Colombia",http://pbs.twimg.com/profile_images/1259637775999160321/9BhvUR7M_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-07-21 00:57:15,"Bogotá, Colombia",,True,455291,24,252781,2637,182,True,
+45,191116947,Kienyke,kienyke,"Somos el primer medio nativo digital en Colombia. Encuentra aquí noticias, datos y curiosidades de Colombia y el mundo. ¡El placer de saber, ver y oír más!",http://pbs.twimg.com/profile_images/1277577155703123968/DSO3xmNY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-15 17:04:20,Colombia,,True,228351,1395,351185,1564,2770,True,
+46,478209946,Fabian Vidal,FabianAlberto78,Sigamos en la lucha por un planeta en armonía,http://pbs.twimg.com/profile_images/1015920538273878016/gr7Fy5cI_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-01-30 01:28:18,Barranquilla,,True,138,170,6010,4,389,False,
+47,418793945,MT - Guillo,MPSGuillermoBel,,http://pbs.twimg.com/profile_images/685155112604545024/wcBElssi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-22 15:47:50,"Barranquilla, Colombia",,True,70,312,1497,0,1467,False,
+48,1012008292967702528,José Atupaña Guanolema,Willanakuy_Ec,"Comunicador Social, educador, con noticias de pueblos y naciones originarias | 🌎 https://t.co/zL0BEh2iOb | Facebook: WillanakuyEcuador | 📞(593-2) 982207813",http://pbs.twimg.com/profile_images/1131983497197965312/B3qSMn85_normal.png,,2018-06-27 16:22:34,Ecuador,,False,11955,7845,7671,14,1111,False,
+49,588482586,Octavio Lopez Sierra #FuerzaPetro,OctavioLopezSie,"Desde hoy pueden decirme petrista. es oficial.
+
+El perdon es la mejor manera de tomar la justicia por tu mano.",http://pbs.twimg.com/profile_images/1276805526588964866/9PhD6qhV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-05-23 16:18:57,Colombia,,True,15395,16605,442965,51,6495,False,
+50,137567961,Pierre Alee,pierrealee,MSc. Ciencias Políticas / MSc. Gestión y Desarrollo Social.,http://pbs.twimg.com/profile_images/1159890522997252096/ruAvnlg8_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2010-04-27 03:36:38,Barranquilla - Santa Marta ,,True,6494,1942,136236,28,258,False,

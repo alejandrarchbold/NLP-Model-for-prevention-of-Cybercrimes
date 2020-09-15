@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,23:16
+,>>> Analyzed user:,LittletonTWalle
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,955973279214223361,USMC Family,"Marines, FMF Corpsmen, and the families that support us",475,32,/headhunterchron/lists/usmc-family,headhunterchron,Sat Apr 18 14:54:44 +0000 2015,Todd Starkey 🇺🇸,"Door gunner to @EndresTr Desert Storm #USMC 0352 Seen the worst humanity has to offer and still standing.
+μολὼν λαβέ 
+Freedom Ninja",5797,5912

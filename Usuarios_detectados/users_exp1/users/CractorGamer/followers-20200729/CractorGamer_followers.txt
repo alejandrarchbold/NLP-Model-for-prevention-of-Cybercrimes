@@ -1,0 +1,20 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,01:01
+,>>> Analyzed user:,CractorGamer
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,942086194871103490,Yulieth Rodriguez,Yulieth22668638,Feliz 😁👌,http://pbs.twimg.com/profile_images/942090352546238464/RAgi9IzK_normal.jpg,,2017-12-16 17:37:06,,,False,0,4,0,0,0,False,
+2,884487854839279618,Andrea Ramirez,AndreaR60466788,Dios es mi amor eterno,http://pbs.twimg.com/profile_images/1014868575935483904/k-2bEbwh_normal.jpg,,2017-07-10 19:01:52,"Bogotá, D.C., Colombia",,False,1,117,2,0,1,False,
+3,711897825118953472,joydeb bag,JoydebBag,"I love my india. Because i am indian.
+joydebbag0@gmail.com 
+ mob- 8334055777",http://pbs.twimg.com/profile_images/932606810426458113/zbKEhUF9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-21 12:50:42,Kolkata - Arambagh - Hooghly (W.B),,True,360,1249,962,4,31,False,
+4,440557887,Diego Silva,diegouefa,,http://pbs.twimg.com/profile_images/1152188755240988674/gNa98zFN_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-19 04:25:43,,,False,1266,1186,4340,0,559,False,
+5,733023285798129665,Vega,Vegaa1980,,http://pbs.twimg.com/profile_images/765119973744312321/nx4nGGXo_normal.jpg,,2016-05-18 19:55:45,,,False,445,3151,1,0,0,False,
+6,703465135529037825,PeterParsons,peterparsons871,https://t.co/0D9zJcINes,http://pbs.twimg.com/profile_images/709284606281797632/46mWtqPb_normal.jpg,,2016-02-27 06:22:12,,,False,481,4784,1,0,0,False,
+7,2354688732,Carlos Arturo,CarlosAgudeloO,El cambio de actitud sucede cuando nos enteramos de que realmente podemos modificar nuestro futuro. Ingenio de sistemas,http://pbs.twimg.com/profile_images/1141418575485444101/JEbs2xnA_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-21 12:01:39,Barranquilla ,,False,1519,2358,1694,1,1948,False,

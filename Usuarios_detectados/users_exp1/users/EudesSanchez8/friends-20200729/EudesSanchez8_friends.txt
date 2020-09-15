@@ -1,0 +1,13 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,14:31
+,>>> Analyzed user:,EudesSanchez8
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1207379169660866562,Gilberto Tobón Sanín,tobonsanin,"Profesor titular @UNALOficial, abogado penalista, escritor, filósofo, conferencista y ciudadano indignado.",http://pbs.twimg.com/profile_images/1268574118141743104/pHpqNkrS_normal.jpg,,2019-12-18 19:16:49,"Bogotá, Colombia",,False,197279,378,519,120,6272,False,
+2,1390094958,Delator,ElQueLosDELATA,"Daniel Mendoza Leal. Periodista,escritor,criminólogo. Demócrata. Espacio de opinión. Guionista de MATARIFE y Fundador de LA NUEVA PRENSA @lanuevaprensaco",http://pbs.twimg.com/profile_images/1034294278216921094/8Ayr87-2_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-04-29 18:09:22,,,True,313614,3825,23118,183,16976,False,

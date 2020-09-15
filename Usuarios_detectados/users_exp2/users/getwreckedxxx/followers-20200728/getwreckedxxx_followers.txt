@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,20:33
+,>>> Analyzed user:,getwreckedxxx
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1179204227735773184,Two Guys and Some Horror,2GuysHorrorPod,"We are just 2 guys, sometimes we have guests, who enjoy discussing horror movies. If you want good laughs and great commentary come hang out with us each week.",http://pbs.twimg.com/profile_images/1179204772047405056/MHWO1DAA_normal.jpg,,2019-10-02 01:19:39,Arizona,,False,981,691,1650,5,9108,False,
+2,732268064880922624,Alexander 🇸🇪,KickstartOW,23 l @PlayOverwatch DPS/Support 4350 peak l Crypto currency investor l snap kickstartow,http://pbs.twimg.com/profile_images/1274724678658150400/SZXOODgS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-05-16 17:54:46,Northen Sweden,,False,19721,12664,668,22,120099,False,
+3,1148439568552738816,zinnerxx,zinnerxx,twitch streamer 👾 // apex lover 🖤,http://pbs.twimg.com/profile_images/1148439657920847872/EjhimSvi_normal.jpg,,2019-07-09 03:51:44,United States,,False,1,7,6,0,4,False,

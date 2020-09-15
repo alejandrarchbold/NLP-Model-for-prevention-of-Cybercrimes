@@ -1,0 +1,72 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,15:31
+,>>> Analyzed user:,PaulaFeese
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1278068995619385345,Patriots,,88,2,/elainesz/lists/patriots,elainesz,Tue Dec 30 05:06:14 +0000 2008,✝️♥️🗽🇺🇸elainesz🇺🇸🗽❤✝️,"🇺🇸Patriot 🇺🇸 ✝️Jesus, I trust in you✝️📖Classic literature🎨Art📺News👟Health🥗🍷Food and Wine🍹💜Flamingoes 💜#LiberalismIsAMentalDisorder",458,1934
+2,1136634888646483968,Gaslighting,manipulate (someone) by psychological means into questioning their own sanity.,484,3,/paulleary/lists/gaslighting,paulleary,Sun Jun 01 19:10:02 +0000 2008,Paul Leary,"LIVE Social Media Producer @NicoleSandler Show; Radio Personality,Broadcaster,Watchdog,Human Rights. Past: @SFGN; @RandiRhodes Show; @WLRN @WXELTV #Progressive",1992,4812
+3,924065073731051520,! MEAGRE/NO BIO NO FLLW 7,No Bio=No Follow😀Make a Bio😀Use EDIT PROFILE button on right😀Fly colors openly😀State purpose,4575,4,/BraveLad/lists/meagre-no-bio-no-fllw-7,BraveLad,Sun Oct 12 02:17:59 +0000 2008,Markham Robinson,American Independent Chair✝Christian Constitutional Conservative #TCOT #MAGA #TRUMP2020 #CCOT #PROLIFE #2A #TEAPARTY #ZIONIST https://t.co/W6VcSykV6K,524996,574721
+4,824835395191975937,Stupid Cunts,"Extreme Trumpistas, clickbait scammers, spammers and the bots they rode in on. Private",112,1,/OutOnTheMoors/lists/stupid-cunts,OutOnTheMoors,Sat Jul 26 15:10:06 +0000 2014,CrazyMyra,https://t.co/Zc4mYDWJRH,15208,8948
+5,800273570395996160,Positive vibes,,455,3,/kentspeakman/lists/positive-vibes3,kentspeakman,Tue Feb 10 18:23:43 +0000 2009,Kent Speakman,Creator & Producer of @KNEKTtv ® + Philanthropist & Entrepreneur leveraging Tech & Live video for Good! https://t.co/915lxo6Wsf IMDb https://t.co/o1dGw7Vwvf Link Below 🙋‍♂️🎥 📗,75656,12386
+6,792564560448385024,People Ive liked,,1848,16,/I_am_positivee/lists/people-ive-liked,I_am_positivee,Sat Oct 29 06:46:08 +0000 2016,I Am Positive,"Positive Thinking And Positive Vibes Can Change Anyone's Life.
+#inspire #positive #positivevibes #motivation #believe",2609,4434
+7,779809443441741829,Big Brother Fam,,88,0,/seanMadams19/lists/big-brother-fam,seanMadams19,Sat Dec 18 18:20:52 +0000 2010,#Seany,I am a Dork that like a variety of things both socially acceptable and not acceptable.,452,0
+8,780079314867982336,Trump deplorables,All pro Trump anti hillary  make america great again  friends  ,107,4,/need2knowu/lists/trump-deplorables,need2knowu,Tue Mar 24 02:51:44 +0000 2009,jan trump deploarable,love the Lord my family  our country our president,2156,1158
+9,736241424430190593,Trump 2020 🇺🇸🇺🇸,All about our election cycle and supporting the GOP!,247,2,/coachanthony79/lists/trump-2020,coachanthony79,Fri Oct 02 01:15:05 +0000 2009,#OpenAmerica 🇺🇸🇺🇸🇺🇸,"#TrackAndField coach, athlete, parent, official and volunteer. I Love pizza, Greyhounds, and everything #Pittsburgh!! #TrackNation #TeamMultiEvents",959,2481
+10,748377749375553538,Trump 2016,,3500,48,/SpacedadUNI/lists/trump-2016,SpacedadUNI,Fri Apr 15 11:03:04 +0000 2016,Spacedad Academy,"We're the academy for all professional media-based enterprises. Models, Actors, Producers, Performers, Videographers etc.",2693,181
+11,740259248609824768,Never Hillary,,3626,64,/JusticeOutcry/lists/never-hillary,JusticeOutcry,Fri Oct 23 06:39:07 +0000 2009,JusticeOutcry,Let's spread the truth about politics.,2115,2499
+12,743885279208083458,DTrump2016,,3415,60,/protrumpshirts/lists/dtrump2016,protrumpshirts,Tue Mar 25 17:33:44 +0000 2014,Donald Trump News,"#MakeAmericaGreatAgain #DonaldTrump #Trump2016 #TrumpTrain #Trump Donald Trump News, we are NOT an official Donald Trump account. Go to https://t.co/Fiq9XQhGCC",2958,1320
+13,743889124839559168,TrumpTrain Go Go,,3294,66,/protrumpshirts/lists/trumptrain-go-go,protrumpshirts,Tue Mar 25 17:33:44 +0000 2014,Donald Trump News,"#MakeAmericaGreatAgain #DonaldTrump #Trump2016 #TrumpTrain #Trump Donald Trump News, we are NOT an official Donald Trump account. Go to https://t.co/Fiq9XQhGCC",2958,1320
+14,734860885936726016,NeverHillary,,3560,54,/CallawayBOT/lists/neverhillary,CallawayBOT,Sat Aug 08 06:35:10 +0000 2015,CallawayBOT,"Just a simple robot, trying to do what my human counterpart would do if he had the time and patience of a robot. #FuckTrump #BoycottTrump #TheResistance",3909,1
+15,721502026404913152,NeverCruz,,3508,56,/TrumpOnFox/lists/nevercruz,TrumpOnFox,Thu Jan 28 13:21:42 +0000 2016,Trump On Fox,,121,193
+16,719060906936823808,Sacramento Tweeps,,4122,24,/embracethetrial/lists/sacramento-tweeps,embracethetrial,Sat Sep 01 05:49:38 +0000 2007,K E N N Y,"“Just another forgiven fool, forgiving others because the Father forgave him.”",3364,493
+17,719067772437864453,Wyoming caucus,,816,3,/Laelta__Seohho/lists/wyoming-caucus,Laelta__Seohho,Fri Oct 02 14:54:25 +0000 2015,Laelta Seohho,"Music,Fashion , sports,shopping,travel",416,0
+18,711595696588099584,People on the TrumpTrain,,3481,133,/protrumpshirts/lists/people-on-the-trumptrain,protrumpshirts,Tue Mar 25 17:33:44 +0000 2014,Donald Trump News,"#MakeAmericaGreatAgain #DonaldTrump #Trump2016 #TrumpTrain #Trump Donald Trump News, we are NOT an official Donald Trump account. Go to https://t.co/Fiq9XQhGCC",2958,1320
+19,232458939,Make America Great Again,,3745,73,/GetPaidinBlood/lists/make-america-great-again,GetPaidinBlood,Tue Nov 18 03:15:55 +0000 2014,PaidinBloodAthletics,"Custom Fight Sports & Fitness Apparel.
+TO BUY:
+Click the link in our bio to shop directly.
+@paidinbloodathletics #paidinbloodathletics #getpaidinblood",1196,172
+20,710523928238632961,Make America Great Again,#Trump #Trump2016 #MakeAmericaGreatAgain,3657,111,/TrumpTeeShop/lists/make-america-great-again,TrumpTeeShop,Mon Mar 14 15:09:45 +0000 2016,Trump Tee Shop,"One of a kind Trump designs on T-Shirts, Tanks, Hoodies, Coffee Mugs, Phone Cases, Tumblers and more! #Trump2020 #TrumpTrain #Women4Trump #MAGA #2a #GunRights",502,776
+21,709204204703756289,People who tweet about Yo,,3552,42,/kevinlee0920/lists/people-who-tweet-about-yo,kevinlee0920,Fri May 24 12:46:18 +0000 2013,kevin lee,,8,8
+22,83196798,TaleCurrent,"Current events, breaking news, relevant topics to our nation's survival.",681,16,/E2daT/lists/talecurrent,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+23,83353996,IHRI,Ignored History Repeats Itself.  History/Am.History and tweets/discussion on the connections.,670,9,/E2daT/lists/ihri,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+24,84914492,GREEN GLOBAL WARM LIES,"Green scams, ties, lies Globalwarming scams/lies & climate change lies",642,3,/E2daT/lists/green-global-warm-lies,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+25,85176658,Obamacare Nightmare,,608,8,/E2daT/lists/obamacare-nightmare,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+26,85179828,Its Oh So Wrong,PCism & other egregious wrongs done in this nation,607,4,/E2daT/lists/its-oh-so-wrong,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+27,85203359,What Caliphate,About happenings to do with creeping Islam & items regarding caliphate & what caliphate is,606,5,/E2daT/lists/what-caliphate,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+28,85231641,UNisUSELESS,United Nations & all it's agenda driven activities ,579,4,/E2daT/lists/unisuseless,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+29,85851978,Creepy Islam,All events going on that tie to are or regarding Islam,507,5,/E2daT/lists/creepy-islam,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+30,87750918,WHAT TYRANNY,"About the drive towards communism, Islamic control and the tyranny on display",331,3,/E2daT/lists/what-tyranny,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+31,88806894,SUGAR SUGAR,"Thoughts, stories,articles on newest nat. resource of USA being played on",317,2,/E2daT/lists/sugar-sugar,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+32,702404829667205120,#OBEYME,All things Obama & dictatorship,195,0,/E2daT/lists/obeyme,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+33,702990985374990337,PresidentTrump45,Pro Trump site for Trump and how he is best for America to make America Great Again.,172,0,/E2daT/lists/presidenttrump45,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+34,702992950951702528,China,"Whatever is pertinent about China at the moment + trade with, without or in China",173,0,/E2daT/lists/china,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+35,712522377398095872,BELGISTAN ,"Discussion about Belgium, Brussels and their Muslim/Sharia law problem",77,0,/E2daT/lists/belgistan,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+36,713271486203699200,SEALED RECORDS,discussion of the politicians who like to pay to seal their records,65,0,/E2daT/lists/sealed-records,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+37,713271830321242112,ANTICRUZMISSILE,discussion on Ted Cruz & his questionable background,64,0,/E2daT/lists/anticruzmissile,E2daT,Thu Nov 26 15:28:38 +0000 2009,Edwina Taylor,Conservative.  Patriotic. Constitutional. 2A. Wife of AFvet. Alabama.,1410,2216
+38,709204010364841986,Example1,,3561,36,/kevinlee0920/lists/example1,kevinlee0920,Fri May 24 12:46:18 +0000 2013,kevin lee,,8,8
+39,235005119,Trump2016,Trump Talk 2016,3631,101,/realFirearms/lists/trump2016,realFirearms,Fri Feb 05 02:00:12 +0000 2016,Firearms,#2A,13388,13205
+40,220119363,Arizona People,A List of People who Live in AZ,4027,29,/JaysonBates/lists/arizona-people,JaysonBates,Tue Apr 27 18:02:50 +0000 2010,Jayson Bates,"Owner of Electrum Financial. If you need a residential mortgage & would like to do business with someone who is honest, trust worthy & integrity than I'm ur man",9081,8494
+41,232452982,Reigniting the Promise of,,3743,38,/GetPaidinBlood/lists/reigniting-the-promise-of,GetPaidinBlood,Tue Nov 18 03:15:55 +0000 2014,PaidinBloodAthletics,"Custom Fight Sports & Fitness Apparel.
+TO BUY:
+Click the link in our bio to shop directly.
+@paidinbloodathletics #paidinbloodathletics #getpaidinblood",1196,172
+42,701424471542882304,I am rich,,3889,33,/donaldtrumpfire/lists/i-am-rich,donaldtrumpfire,Mon Jul 13 21:32:54 +0000 2015,Donald Trump,I fired I Heart America! https://t.co/9ZyJerj3cd,291,3
+43,701538822996172800,Ben Carson,,3013,16,/Ziunhu__Kaofra/lists/ben-carson,Ziunhu__Kaofra,Mon Nov 09 11:04:11 +0000 2015,Ziunhu Kaofra,,279,0
+44,234671789,Donald Trump,,3544,95,/protrumpshirts/lists/donald-trump,protrumpshirts,Tue Mar 25 17:33:44 +0000 2014,Donald Trump News,"#MakeAmericaGreatAgain #DonaldTrump #Trump2016 #TrumpTrain #Trump Donald Trump News, we are NOT an official Donald Trump account. Go to https://t.co/Fiq9XQhGCC",2958,1320
+45,232455041,Jeb Can Fix It,,2802,19,/GetPaidinBlood/lists/jeb-can-fix-it,GetPaidinBlood,Tue Nov 18 03:15:55 +0000 2014,PaidinBloodAthletics,"Custom Fight Sports & Fitness Apparel.
+TO BUY:
+Click the link in our bio to shop directly.
+@paidinbloodathletics #paidinbloodathletics #getpaidinblood",1196,172
+46,234648225,MakeAmericaGreatAgain,,3509,159,/protrumpshirts/lists/makeamericagreatagain,protrumpshirts,Tue Mar 25 17:33:44 +0000 2014,Donald Trump News,"#MakeAmericaGreatAgain #DonaldTrump #Trump2016 #TrumpTrain #Trump Donald Trump News, we are NOT an official Donald Trump account. Go to https://t.co/Fiq9XQhGCC",2958,1320
+47,233454490,GrassrootsFooty,,4351,47,/lowleaguelegend/lists/grassrootsfooty,lowleaguelegend,Fri Jan 29 22:52:37 +0000 2016,Lower League Legend,"#savegrassrootsfooty #grassroots
+Submit Videos - lowerleaguelegend@gmail.com",178,643
+48,232034161,Trump Supporters,Those using #Trump #Trump2016 #VoteTrump #TrumpTrain #MakeAmericaGreatAgain etc,3786,126,/RightWingGear/lists/trump-supporters,RightWingGear,Wed Jan 13 05:39:47 +0000 2016,Right Wing Shop,"America needs a Strong Leader who loves America, it's Citizens, and who will #MAGA! #Trump2020 #AmericaFirst #AmericaFirstCoalition #2A",15635,8456
+49,213037021,! TRUMP SUPPORTERS 1of6,Those indicating support for Trump or using #MakeAmericaGreatAgain or #MAGA,4198,237,/BraveLad/lists/trump-supporters-1of6,BraveLad,Sun Oct 12 02:17:59 +0000 2008,Markham Robinson,American Independent Chair✝Christian Constitutional Conservative #TCOT #MAGA #TRUMP2020 #CCOT #PROLIFE #2A #TEAPARTY #ZIONIST https://t.co/W6VcSykV6K,524996,574721
+50,225535379,beautiful women love me 2,,3706,30,/donaldtrumpfire/lists/beautiful-women-love-me-2,donaldtrumpfire,Mon Jul 13 21:32:54 +0000 2015,Donald Trump,I fired I Heart America! https://t.co/9ZyJerj3cd,291,3

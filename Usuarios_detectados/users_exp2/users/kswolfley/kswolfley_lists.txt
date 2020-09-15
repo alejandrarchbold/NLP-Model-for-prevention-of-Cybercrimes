@@ -1,0 +1,15 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,01:34
+,>>> Analyzed user:,kswolfley
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1096837713699971072,Legal Twitter,lawyers and legal reporters,177,8415,/waltshaub/lists/legal-twitter,waltshaub,Sun Feb 12 22:36:06 +0000 2017,Walter Shaub,"former Director of @OfficeGovEthics
+personal account - views my own
+Tweets are *not* legal advice.
+Wash your hands.",565494,1453

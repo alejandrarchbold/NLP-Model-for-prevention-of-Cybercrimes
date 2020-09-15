@@ -1,0 +1,16 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,23:36
+,>>> Analyzed user:,nowhitechalk
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,213535616,Editors & Contributors,,27,3088,/lawfareblog/lists/editors-contributors,lawfareblog,Sat Sep 04 09:02:44 +0000 2010,Lawfare,"Straight-shooting information and analysis at the intersection of national security, law, and policy, published in cooperation with the Brookings Institution.",229733,175
+2,1181602205528465408,SCOTUS,Primarily for U.S. Supreme Court coverage. Useful for any major U.S. legal story.,30,7636,/sdkstl/lists/scotus,sdkstl,Tue Aug 28 01:39:24 +0000 2007,Staci D Kramer,"Staci D. Kramer writes about media, tech, sports & life in 280 characters here, sometimes longer at Trust But Verify. She's the former editor of paidContent.",13969,3504
+3,1264966904080367621,Core Group,Friends on Twitter,15,11,/HalMarshall2309/lists/core-group,HalMarshall2309,Tue Feb 12 00:26:37 +0000 2013,Hal Marshall,"Grateful for my education, from public school in Midland, Texas, to the University of Texas, and Stanford Law School. Keep the doors of advancement open to all.",1565,1078
+4,1220869298631200769,Coronavirus experts,A list of experts working on or tracking the coronavirus outbreak. ,77,11971,/EpiEllie/lists/coronavirus-experts,EpiEllie,Sun Jun 30 16:11:58 +0000 2013,Ellie Murray,Epidemiology assistant prof @BUSPH | Associate editor for social media @amjepi | cohost @casualinfer podcast | #epitwitter | https://t.co/9tF74aEk8H,46557,1270
+5,49331274,Science Artists,Artists engaged in #SciArt. Curated by @eyeforscience @beatricebiology @FlyingTrilobite,1097,282,/Symbiartic/lists/science-artists,Symbiartic,Mon Apr 18 15:29:49 +0000 2011,Symbiartic SciArt,"Symbiartic - exploring the #SciArt ecology. By @eyeforscience, @beatricebiology & @flyingtrilobite . (Formerly at @sciam)",7212,2199

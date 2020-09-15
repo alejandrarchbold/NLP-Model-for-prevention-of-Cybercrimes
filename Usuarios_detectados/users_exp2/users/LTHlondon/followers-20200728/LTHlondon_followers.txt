@@ -1,0 +1,85 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,21:36
+,>>> Analyzed user:,LTHlondon
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1261044591098200064,Lindalou,Lindalo78638237,I want to know the truth,http://pbs.twimg.com/profile_images/1288164302738817025/6-dX0FS7_normal.jpg,,2020-05-14 21:25:09,"Barrow-in-Furness, England",,False,94,266,476,0,1422,False,
+2,1284820122977415169,Washington John ME,Westie66167541,🇬🇧🇬🇧 All Lives Matter 🇬🇧🇬🇧 Free Speech Matters 🧡🖤🧡🖤,http://pbs.twimg.com/profile_images/1284820282730053634/-ep57-zy_normal.jpg,,2020-07-19 11:59:39,,,False,781,1178,862,0,685,False,
+3,948649341283196930,Aggiemore,Anncrock1,"Bio Love cats, current affairs. Hate injustice. No DM’s",http://pbs.twimg.com/profile_images/951529684021506048/k7ch_X89_normal.jpg,,2018-01-03 20:16:42,United Kingdom,,False,1019,1878,14052,0,28265,False,
+4,1243146116805332992,Andy R,AndrewR44047844,,http://pbs.twimg.com/profile_images/1284823046025551872/xjGOjmVo_normal.jpg,,2020-03-26 12:01:56,,,False,55,99,2979,0,2470,False,
+5,1274750799307030528,gary hodgetts,HodgettsGary,"I care about democracy, freedom of speech, hate Marxists, Islam, wokism, and the eu, love travel, good food and drink, music, and classical art",http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-06-21 17:07:42,"Herefordshire, England ",,False,668,1623,3031,0,9866,False,
+6,1216445982,T j patterson,Traceyjayp_,survivor Wife to Barrington. campaigning for the truth #IanPaterson🙏🏻,http://pbs.twimg.com/profile_images/1216286203701538817/MMQXUOh0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-24 20:16:59,💙💙💙,,True,6437,5791,184644,31,77143,False,
+7,1162633627567628289,Irene 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧 ❤️🤍💙,Irenehol_tutu8,"Conservative, Boris.💙💙
+#ImATwoThirder
+British History Matters  🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧🏴󠁧󠁢󠁷󠁬󠁳󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿
+FBPE will be blocked.",http://pbs.twimg.com/profile_images/1238370203806961664/RwRmIDMb_normal.jpg,,2019-08-17 07:54:09,,,False,1962,2166,8743,1,39446,False,
+8,1003348402518872064,@golden69,golden6910,"Pic, Beach Boys' 1st UK Tour. Ray Russell, Gtr. Dave Holland, bass. 
+Candid but not unkind unless I am.",http://pbs.twimg.com/profile_images/1037438268546195456/zRFeCP4T_normal.jpg,,2018-06-03 18:51:15,"South West, England",,True,2563,4645,7202,0,79424,False,
+9,3310210168,JP,JayPincott23,🇬🇧,http://pbs.twimg.com/profile_images/1283845409694154752/bfyXUJgZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-06 04:05:04,"Bristol, England",,True,466,1720,2292,2,6753,False,
+10,62069232,Steve & Ellen,b_steve1,,http://pbs.twimg.com/profile_images/661189152805883904/ETjo89oo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-08-01 16:45:50,Petts Wood,,False,309,311,2127,0,22910,False,
+11,28541784,Daniel Cremin,DanielCreminUK,Centre-right. Re-Leaver. Analyst. Likes common sense. Interests: Freedom; a lean state; Brexit; innovation; education reform; free enterprise; Personal account,http://pbs.twimg.com/profile_images/1287660097045504000/puoXzfIO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-04-03 11:12:05,,,True,5108,1301,26481,56,18686,False,
+12,1287099934609735681,Tomigooner1,tomigooner1,"Love my country, hate how its becoming. Born & live in London. Arsenal Fan. Brexit supporter. Sadiq Khan has to go 👍 Follow followers",http://pbs.twimg.com/profile_images/1287107515306606592/7F8gHbwZ_normal.jpg,,2020-07-25 18:58:42,"London, England",,False,110,324,23,0,29,False,
+13,482791347,richard cordle,richardcordle1,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-04 09:35:40,,,False,246,350,2187,1,19299,False,
+14,1098227326519832576,Haringey Giving,HaringeyGiving,We exist to enable you to create an EQUAL & INCLUSIVE Haringey where EVERYONE can have fulfilled lives. Visit our website to find out how you can get involved.,http://pbs.twimg.com/profile_images/1102879951441874944/naqaw5vr_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2019-02-20 14:26:13,"London, England",,False,635,1698,954,5,1397,False,
+15,1286349825194307584,BPP LPC LOCKDOWN FAILURES,BppLpc,"bppresponse@gmail.com - please email to sign the letter!!
+
+A group of students seeking recourse for consistent teaching and learning failures during lockdown",http://pbs.twimg.com/profile_images/1286350287163228167/QICtMwho_normal.jpg,,2020-07-23 17:18:09,,,False,26,417,15,0,16,False,
+16,21479748,Jon Baggaley,zebslc,"Tech. Architect/Developer who loves riding a motorbike, living by sea & coding with funky technologies. Organising https://t.co/fXJivmPbns",http://pbs.twimg.com/profile_images/3277911194/0ca6c913a0b6a16960dc176a6f604ae8_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-02-21 12:24:05,"Worthing, west sussex",,True,642,2033,6406,28,1788,False,
+17,1050500114773667841,BREXIT WAVE 🇬🇧,WaveBrexit,"Standing up for Freedom & Liberty against Fascist Globalism, led by out of control multi-national banks & mega corporations, & psychotic financial elites. 🇬🇧",http://pbs.twimg.com/profile_images/1050501876414902272/BI4Fj6it_normal.jpg,,2018-10-11 21:35:19,"Perth, UK",,False,1030,2160,2824,3,1189,False,
+18,1277744713320235015,Mr Democracy 🇬🇧,BrexitRw,"Campaigning for Brexit and democracy. 
+
+🇬🇧 NO EXTENSION 🇬🇧
+All lives matter #Brexit",http://pbs.twimg.com/profile_images/1281279006374068224/txOvuVY4_normal.jpg,,2020-06-29 23:24:27,,,False,1433,2426,334,4,117,False,
+19,4908815932,RibbleBoy15,RibbleBoy15,"“Good Moaning, I was pissing by your door when I heard two shats”! “Allo Allo” ProBrexit Like Europe not @EUCouncil! RT does not mean I endorse others views!",http://pbs.twimg.com/profile_images/1248707671986974722/XYFebS_k_normal.jpg,,2016-02-14 11:38:51,,,False,710,761,49159,4,38758,False,
+20,718484141373788161,The Duke of Woodley🇬🇧,Woodley_royal,If I get any replies with # fbpe or an EU flag in the bio its insta-block. Royal Loyal 🇬🇧,http://pbs.twimg.com/profile_images/1255119417903656960/hrLULzWV_normal.jpg,,2016-04-08 17:02:22,,,True,735,1361,16935,8,39814,False,
+21,1271716879984443392,arp70,arp704,"Ulsterman, Brexit, UK, All Lives Matter, Smelly Two-stroke Sports Bikes, TT Races 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿🇺🇸🇨🇦🇳🇿",http://pbs.twimg.com/profile_images/1271721021582839808/ItRCt4jd_normal.jpg,,2020-06-13 08:12:00,"Liverpool, England",,False,28,30,117,0,3705,False,
+22,297605605,Nigel Betteridge #AllLivesMatter,Nigel_95,"Amateur Photographer, Glider pilot, Music lover. Concerned about world population growth. Don't shoot the messenger #photography #gliding #music #overpopulation",http://pbs.twimg.com/profile_images/1351034712/2010_0054_ME_720p__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-12 19:56:00,Northamptonshire UK,,False,2007,2628,43544,57,25909,False,
+23,1278734306542850049,BabyBee,BellyBee900,,http://pbs.twimg.com/profile_images/1287943564090056705/BX2NdgrE_normal.jpg,,2020-07-02 16:56:38,,,False,9,26,486,0,1002,False,
+24,1247900403930259460,Rodger roadkill,RoadkillRodger,"Brexiter, retired, ex Labour supporter 50 years. English Democrat. We need to take our country back. Queen fan and gooner 60 years plus",http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-04-08 14:57:54,,,False,107,289,784,0,1893,False,
+25,55715522,Rauly,RaulMiranda1981,"it all started when I was born, and it has continued ever since.",http://pbs.twimg.com/profile_images/1185341353305214977/j2cosrca_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-07-11 00:57:57,,,False,264,1315,7512,9,5788,False,
+26,894243621955915777,Paula 💚🧡💙❤💜🖤💛,PaulaHethering7,"Being me, no DM's. Want all elderly, veterans and homeless looked after. #Brexiteer #Conservative #Trump2020 #AllLivesMattter",http://pbs.twimg.com/profile_images/1266022796943122434/EQZezhiQ_normal.jpg,,2017-08-06 17:07:48,"North West, England",,False,1676,2305,4683,0,19409,False,
+27,2258862283,Keep your distance...,MichaelEarlsC,"Right of centre, but that's about 90% of the populous. I do believe we are witnessing the downfall of Western Civilisation.
+Retweets not endorsements.",http://pbs.twimg.com/profile_images/560828968828272640/D-swpDc0_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2013-12-23 12:17:00,"East, England",,False,298,951,1621,1,17030,False,
+28,931308217514319877,The SteMan,Ste30479611,Sick of duplicitous and patronising people. Want a fairer world and sustainable living,http://pbs.twimg.com/profile_images/1005513136848371712/b4jLPAGz_normal.jpg,,2017-11-16 23:49:16,"Inglaterra, Reino Unido",,False,486,1118,17107,0,52303,False,
+29,1082731737753489408,Simon Jackson,SimonJa83385295,,http://pbs.twimg.com/profile_images/1286677621405814790/9rbgDCO7_normal.jpg,,2019-01-08 20:12:17,"London, England",,True,3216,4870,35224,1,66022,False,
+30,2829713653,Chocolate and Qigong,QigongChocolate,"""All men are frauds. The only difference between them is that some admit it. I myself deny it.""
+H.L.Mencken",http://pbs.twimg.com/profile_images/1179836506539778048/UNXvQLiH_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2014-09-24 10:50:43,,,False,140,1610,1714,1,2599,False,
+31,1260147053713403904,keepingitsimple,keepitsimple369,,http://pbs.twimg.com/profile_images/1260150579193622529/dzzTVxKv_normal.jpg,,2020-05-12 09:57:36,,,False,1756,2655,9563,1,10653,False,
+32,1000273831758581760,S Murphy,Suse_Susie,Dyslexic so I apologise for my grammar. love my country 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿no dm please. #ScumMedia,http://pbs.twimg.com/profile_images/1283781818769080322/7M5CJJCV_normal.jpg,,2018-05-26 07:14:00,,,False,2784,3732,11071,3,17050,False,
+33,36124151,Antoinette Green,Antoinette89,,http://pbs.twimg.com/profile_images/1171790278/n1191598010_30156196_4643_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2009-04-28 17:26:40,,,False,160,1405,393,0,8620,False,
+34,1263894432446910465,Lee Cohen🇺🇸🇬🇧,Leesco3,"#Anglosphere #Boris #Brexit #FreeSpeech #Liberty #MAGA #Sovereignty For God, Crown and Country. Bless our Military and Law Enforcement",http://pbs.twimg.com/profile_images/1267141081516453889/XSd4d8mm_normal.jpg,,2020-05-22 18:08:29,,,False,2544,2599,316,0,700,False,
+35,1267582181507043330,Lisajones697510,lisajones697510,"💹Forex trader.
+⚡influencer.
+⚡bitcoin investor.
+⚡forex trader and mentor.📊
+⚡founder/ceo cryptofx.
+⚡i buy Bitcoin at Good rate inbox me.📲",http://pbs.twimg.com/profile_images/1267583733416300552/JkrOxq8Q_normal.jpg,,2020-06-01 22:22:14,New Orleans Louisiana ,,False,13,57,7,0,0,False,
+36,1249523244836614144,Citizenken,Citizenken7,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-04-13 02:22:36,,,False,57,115,463,0,3811,False,
+37,1249045337643220992,zimbo,zimbo81180387,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-04-11 18:43:30,,,False,1174,4086,10553,2,11669,False,
+38,1202944883943706626,Lette,dilligafpdh,"🇬🇧🌱 Love all animals, adore my rescue Staffie, despise all abuse & wish payback on the inhumane abusers. Local strays 🐱 know where to get decent b&b.",http://pbs.twimg.com/profile_images/1219677145355767809/-O47chhj_normal.jpg,,2019-12-06 13:37:29,,,False,499,630,4541,2,27880,False,
+39,560392870,Busy Eating Crayons 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇳🇱,Stanhope2011VJ,"🏴󠁧󠁢󠁷󠁬󠁳󠁿🇳🇱 Welsh, ex Gunner, Gooner 49, Love Europe Hate EU, mountain biker, Munro, father of 3 beautiful children.",http://pbs.twimg.com/profile_images/1274256861861236736/FflzgIb__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-04-22 16:04:52,Cymru Wales en Nederland,,False,5826,6123,18308,4,40983,False,
+40,1263652914796601345,Mermaid,Mermaid76346490,"Loves Fish 🐟 Brexit,  Farage. Ex Labour, lent Boris my vote. No #FBPE. #BLMTerrorists. White British, and proud of my country. Hate Islam.",http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-05-22 02:08:44,"Inglaterra, Reino Unido",,False,643,1010,1910,0,21773,False,
+41,991264501,Mark Jeffery,stamford80,,http://pbs.twimg.com/profile_images/610842063689633793/PAmQA6la_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-05 16:09:51,,,False,155,844,612,0,63848,False,
+42,1214513949208653824,Monty Pickleton 🇬🇧,3rdEyeView2,New to this Tweeter thing. British patriot. Life is a paradox.,http://pbs.twimg.com/profile_images/1251829197548462080/lIDpm3Oc_normal.jpg,,2020-01-07 11:47:53,"South West, England",,False,116,962,2709,0,6093,False,
+43,1143335214,H,foxache1000,W.A.T.P.         🔴⚪🔵          G.S.T.Q.,http://pbs.twimg.com/profile_images/861008207426310144/_B4s7t5d_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-02 20:28:02,,,False,258,861,178,2,2256,False,
+44,937901579335761920,Sarah ✌,sumdizyhoor1804,"Love ALL Animals 🐇🐕
+Paul J Watsons my prophet.
+Morrisseys a genius 🎼
+Man City TID ⚽
+#BREXIT
+#TRUMP #MAGA 
+#StopIslam #BanSharia 
+#TommyRobinson 📢",http://pbs.twimg.com/profile_images/1015406459079872512/1j0Tv_NU_normal.jpg,,2017-12-05 04:28:56,"Manchester, England",,False,5228,5542,5380,1,41287,False,
+45,928650094261481473,The Boxing Gent,BoxGent001,"FA qualified coach - thoughts are my own and in no way affiliated with companies or projects I represent  - DMs for business only 
+#ItsOkToTalk  #COYW",http://pbs.twimg.com/profile_images/1259539290142490630/AAt0TYrl_normal.jpg,,2017-11-09 15:46:50,Costa Del Sutton ,,False,727,2699,17498,0,31461,False,
+46,365466086,Kirkus,KirkusMax1mus,,http://pbs.twimg.com/profile_images/453923483798765569/anhiubSQ_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-31 13:56:15,,,False,36,182,307,0,230,False,
+47,1132174553910849536,Stuart Grant,Stubster76,You cannot scare me! im always scared.. 😆,http://pbs.twimg.com/profile_images/1285188917977907201/WUDA9Tdd_normal.jpg,,2019-05-25 06:40:23,"Glasgow, Scotland",,False,187,1115,501,0,1102,False,
+48,1249649115870437376,Big Jonathan,OfficerBussi,the brown noise,http://pbs.twimg.com/profile_images/1266081891469459456/o-OApB3a_normal.jpg,,2020-04-13 10:42:31,,,False,16,272,2996,0,2085,False,
+49,2913780605,Matt,jawsfan508,"Dad, was a massive gooner, love animals and films. Atheist. Tall for my height. Ricky Gervais is my hero",http://pbs.twimg.com/profile_images/1288244087703863296/5qoByPZK_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-10 13:36:32,"London, England",,False,90,916,917,0,3108,False,
+50,1145044076816998401,The MAGA Powers,LucasBu52484254,Centrist pushed to the right by leftist insanity.,http://pbs.twimg.com/profile_images/1217216648572293120/wQyUVk95_normal.jpg,,2019-06-29 18:59:16,,,False,42,519,424,0,8884,False,

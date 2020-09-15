@@ -1,0 +1,46 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,12:57
+,>>> Analyzed user:,Nicholas_1878
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,824094569558118404,danielasimps,cam4daniela,"Modelo webcam 
+Recibo  PAGOS  bancolombia, paypal  🤑",http://pbs.twimg.com/profile_images/1232991933481521153/KzjcoZCG_normal.jpg,,2017-01-25 03:20:31,Colombia,,False,7149,17,613,6,436,False,
+2,201532292,Jenny Márquez,Kdemar92,,http://pbs.twimg.com/profile_images/1272339531052863488/Y1auNTKY_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-10-12 01:56:10,Bogota,,True,25,355,183,0,72,False,
+3,357804919,TATIANA ZAPATA,TATIANAZAPATA5,,http://pbs.twimg.com/profile_images/2867158616/e24c9ac3f2d04a766fa19914b6160bbd_normal.jpeg,http://abs.twimg.com/images/themes/theme10/bg.gif,2011-08-18 22:57:00,,,False,31,44,862,0,669,False,
+4,347420129,NASA en español,NASA_es,"Explora el universo y descubre nuestro planeta natal con nosotros, la cuenta oficial en español de la NASA.",http://pbs.twimg.com/profile_images/1240732920014417920/9M1gm6bl_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-08-02 19:33:27,,,False,717427,935,2694,1913,677,True,
+5,3290301301,ESPN Colombia,ESPNColombia,Cuenta oficial de ESPN: la mayor comunidad de fanáticos del deporte. Síguenos en https://t.co/z1o8e45Q4a . https://t.co/ysbzEklsPD,http://pbs.twimg.com/profile_images/1251178979190542336/PJUkYSoS_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-24 15:50:28,Colombia,,False,239884,56,78775,332,5037,True,
+6,62513246,J.K. Rowling,jk_rowling,Writer sometimes known as Robert Galbraith,http://pbs.twimg.com/profile_images/1265044655890149376/WpCp6n9e_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-08-03 13:23:45,Scotland,,False,14347348,875,14290,33921,32045,True,
+7,1944466434,Paola Zapata,PaolaZapataL1,"Profesional en Comunicación Social y Periodismo con gran pasión por las relaciones públicas, el marketing y buscando ser mejor ser cada día",http://pbs.twimg.com/profile_images/970686352969871360/Mi05DH6U_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-07 15:49:34,"Cajicá, Colombia",,True,76,186,491,2,1727,False,
+8,4227850943,Disney Studios LA,DisneyStudiosLA,¡La cuenta oficial de Twitter para Walt Disney Studios LA. Esta cuenta es manejada desde casa 🏡,http://pbs.twimg.com/profile_images/1068224794355736576/QERHmy7l_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-19 17:19:19,,,True,235308,9,8068,193,114,True,
+9,1204857634509209602,Dianka,Dianka67169861,Solo se vive una vez para ser externamente libre!,http://pbs.twimg.com/profile_images/1204857788238848008/-AeXRC0I_normal.jpg,,2019-12-11 20:17:16,,,False,5,12,7,0,35,False,
+10,160369706,Camila Rico,Cami_Rico,Estudiante de Derecho amante a la música y a estar con amigos,http://pbs.twimg.com/profile_images/1214055296781488130/yVAp_Djn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-28 00:29:55,,,True,92,266,8920,0,221,False,
+11,2304363328,Natalia Zapata,nataliazapatal,"Ingeniera, católica, madre orgullosa y seguidora de los BeeGees y de la @FCFSeleccionCol",http://pbs.twimg.com/profile_images/493488709338009603/PTCXKQdf_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-25 21:43:19,"Bogotá, Colombia",,False,15,47,192,0,1165,False,
+12,53144764,Simone Simons,SimoneSimons,Singer from Dutch symphonic metal band EPICA. Follow me on Instagram: @simonesimons,http://pbs.twimg.com/profile_images/2173933624/IMG_0539_normal.JPG,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-07-02 18:27:13,The World,,False,126367,45,10407,1269,4295,True,
+13,4048222943,By The Book Geek,ByTheBookGeek,"Tienda Online. Comics, Novela Gráfica, Coleccionables, literatura para niños, jóvenes y toda la familia.Un mundo GEEK y lo mejor de la literatura en inglés.",http://pbs.twimg.com/profile_images/1143646713359589377/J3Nxfv2r_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2015-10-26 19:20:25,"Bogotá, D.C., Colombia",,True,987,336,5270,14,1897,False,
+14,85321222,Floor Jansen,FloorJansen_,"Singer of @NightwishBand. 
+""De Beelden Blijven"" for @WarChildHolland OUT NOW!
+Human. :||: Nature. - OUT NOW
+🎙🐎🤘🏻
+#singer #songwriter #nightwish",http://pbs.twimg.com/profile_images/1263745144244899840/fTUivG4U_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-10-26 13:59:52,🇳🇱🇸🇪,,True,122657,92,2856,811,430,True,
+15,789605024,UEFA Europa League,EuropaLeague,"The official home of the #UEL on Twitter.  
+Also on: 
+YouTube: https://t.co/V3LrHK72IR   https://t.co/uKLi64bsDz   
+https://t.co/c77cbhcQOG",http://pbs.twimg.com/profile_images/1006162739004366848/TtG0BRfT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-29 15:45:49,"Nyon, Suiza",,False,7057077,128,26492,7116,554,True,
+16,627673190,UEFA Champions League,ChampionsLeague,"Spanish: @LigadeCampeones 
+Japanese: @UCLJapan
+U19: @UEFAYouthLeague",http://pbs.twimg.com/profile_images/1073607078109949957/74oimLX4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-05 19:43:40,"Nyon, Vaud",,False,29527640,534,67033,20133,2412,True,
+17,50157639,Nightwish,NightwishBand,New album HUMAN. :||: NATURE. OUT NOW! -  Band Shop: https://t.co/doAF1DuT1P / Nuclear Blast: https://t.co/9CXvXDTbxy,http://pbs.twimg.com/profile_images/1223661171867357186/cObxvcZ__normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-06-24 00:41:35,Finland,,False,279941,20,1229,2162,187,True,
+18,1117317140,Selección Colombia,FCFSeleccionCol,Cuenta Oficial Selecciones Colombia de Fútbol / Federación Colombiana de Fútbol. ⚽️🇨🇴,http://pbs.twimg.com/profile_images/1146543612492242945/9wWVgFzv_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-24 17:29:53,,,False,4941785,59,18287,3546,352,True,
+19,1085999515633471488,Batman,DCBatman,"Wherever you know him from - movies, TV shows, video games or comics - Batman is proof you don’t need superpowers to be a superhero. #Batman",http://pbs.twimg.com/profile_images/1280271209221853185/4jlsQYK3_normal.jpg,,2019-01-17 20:37:16,Gotham City,,False,150849,76,862,329,787,True,
+20,123307082,Ivonne Rivera,IvonneRiivera,"Prof. en Relaciones Económicas Internacionales  ✨Desde el amor, por el amor y para el amor...",http://pbs.twimg.com/profile_images/1250433156060045312/fnaPhxsb_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2010-03-15 17:35:16,Bogota ,,False,244,526,840,3,2120,False,
+21,1078166366744645634,Maga castillo,Paulago70178470,Trabajadora social🙏🏻 Amante de los gatos y la poesía,http://pbs.twimg.com/profile_images/1078167600696307712/vX01u-Tf_normal.jpg,,2018-12-27 05:51:07,,,False,3,14,8,0,8,False,
+22,1613719885,ESPN Colombia,ESPN_CO,Cuenta oficial de ESPN: la mayor comunidad de colombianos fanáticos del deporte. Síguenos en http://t.co/hoL7LMH4mx. http://t.co/LHZUkZersy,http://pbs.twimg.com/profile_images/1115300530643984385/boUM-Xew_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2013-07-22 21:29:29,,,False,144836,23,55077,283,320,True,
+23,58545637,Wizarding World,wizardingworld,The official home of Harry Potter and Fantastic Beasts. Download the Wizarding World app for more magic✨,http://pbs.twimg.com/profile_images/1267425680339406848/ah-vIzgY_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-07-20 18:16:54,,,False,2265648,27,18566,5745,4886,True,
+24,18173624,DC,DCComics,"The official home of Batman, Superman, Wonder Woman, Green Lantern, The Flash and the rest of The World's Greatest Super Heroes!",http://pbs.twimg.com/profile_images/1272877164875022336/kcQFIKxj_normal.png,http://abs.twimg.com/images/themes/theme9/bg.gif,2008-12-16 21:41:22,,,True,3545347,550,44965,12120,10521,True,
+25,558797310,Manchester United,ManUtd,Official #MUFC account. @ManUtd_ES 🇪🇸 | @ManUtd_ID 🇮🇩 | @ManUtd_JP 🇯🇵 | @ManUtd_MY 🇲🇾 | @ManUtd_AR مانشستر يونايتد,http://pbs.twimg.com/profile_images/1225681489544667136/uhXbzNkl_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-04-20 15:17:43,"Manchester, England",,True,22504373,136,60669,20648,2808,True,

@@ -1,0 +1,13 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,18:10
+,>>> Analyzed user:,KarenJukes2
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1250769208557940737,Known Nonce Lovers,Please note that Mark @super_owls is the Head organiser for this group.,28,0,/KimJongLike/lists/known-nonce-lovers,KimJongLike,Tue Jul 04 10:18:52 +0000 2017,Heavenly Kim Jong-il,"Ex Supreme Leader of N.Korea, Current Heavenly right hand man to Kim Il-sung (AKA God)",200,346
+2,1162283317762260992,Obvious rightwing trolls,List of obvious rightwing bots/trolls,81,0,/KimJongLike/lists/obvious-rightwing-trolls,KimJongLike,Tue Jul 04 10:18:52 +0000 2017,Heavenly Kim Jong-il,"Ex Supreme Leader of N.Korea, Current Heavenly right hand man to Kim Il-sung (AKA God)",200,346

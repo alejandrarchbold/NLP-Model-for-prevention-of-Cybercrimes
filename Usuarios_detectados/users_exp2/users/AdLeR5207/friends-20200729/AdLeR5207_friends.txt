@@ -1,0 +1,30 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,00:13
+,>>> Analyzed user:,AdLeR5207
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,2200504801,Perrysburg Athletics,PburgAthletics,The official Twitter account of the Perrysburg High School Yellow Jacket Athletic Department,http://pbs.twimg.com/profile_images/536162354233229313/C_vRnzUN_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-11-18 02:03:53,"Perrysburg, Ohio",,True,4323,155,13343,24,4709,False,
+2,295818959,Perrysburg Schools,PburgSchools,"Mission: Ensuring all students achieve their greatest potential. Serving over 5,500 students through seven schools. (Official District Account)",http://pbs.twimg.com/profile_images/907598930313076736/BrAEYsSS_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2011-05-09 18:24:16,"Perrysburg, Ohio",,False,4467,64,2445,22,192,False,
+3,3233904448,City of Perrysburg,PerrysburgGov,This is the Official Twitter Account of the City of Perrysburg.  To view our full disclaimer visit our website at https://t.co/VjgGBed6AL,http://pbs.twimg.com/profile_images/950820023274176512/5f2Mzzv9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-04 17:24:11,"Perrysburg, OH",,False,1844,58,1946,14,90,False,
+4,1245725043021283336,Perrysburg Township Police,PerrysburgTwpPD,Official Twitter Feed of the Perrysburg Township Police Department.  This is not for emergencies.  Call 911 or the non emergency line for immediate assistance.,http://pbs.twimg.com/profile_images/1245730487274004480/a0xG0OYu_normal.jpg,,2020-04-02 15:02:52,"Perrysburg, Ohio",,False,49,71,8,0,6,False,
+5,102071743,Governor Gretchen Whitmer,GovWhitmer,49th Governor of Michigan. Proud mom.,http://pbs.twimg.com/profile_images/1283468780824387584/ZpqMU3vk_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2010-01-05 14:15:29,"East Lansing, MI",,True,337534,465,5787,1422,1306,True,
+6,818910970567344128,Vice President Mike Pence,VP,"Vice President Mike Pence. Husband, father, & honored to serve as the 48th Vice President of the United States. Tweets may be archived: https://t.co/eVVzoBb3Zr",http://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg,,2017-01-10 20:02:44,"Washington, D.C.",,True,9324238,15,9079,10885,19,True,
+7,18820392,Governor Mike DeWine,GovMikeDeWine,Official Twitter account of Governor Mike DeWine's Office.  Tweets by staff.,http://pbs.twimg.com/profile_images/1283107932733931521/-Sp7tMyo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-01-09 23:40:52,Ohio,,False,373520,884,10296,1104,269,True,
+8,245388772,Perrysburg PABSC,perrysburgpabsc,,http://pbs.twimg.com/profile_images/1230903703/socialmedia_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-01-31 15:48:48,"Perrysburg, OH",,False,1212,102,780,6,2485,False,
+9,818876014390603776,Melania Trump,FLOTUS,This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr,http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg,,2017-01-10 17:43:50,"Washington, D.C.",,False,14777367,8,1138,9148,0,True,
+10,789142019696451584,Ron LeRoux,RLeRx,Dad of Dads and Blessed!,http://pbs.twimg.com/profile_images/1281200120088924162/ggLBd_Q0_normal.jpg,,2016-10-20 16:31:33,"Ohio, USA",,False,13,68,120,0,63,False,
+11,267356530,Parler: @CoreyLeRoux,CoreyMadeAFunny,"Parler is better than Twitter.
+Change my Mind",http://pbs.twimg.com/profile_images/1283519925030727680/9E8E3LdG_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2011-03-16 20:05:15,"Ohio, USA",,True,187,198,2392,3,1098,False,
+12,30008146,Detroit Tigers,tigers,No one roots like #DetroitRoots.,http://pbs.twimg.com/profile_images/1278315497562439680/DAUrdcGv_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-04-09 15:50:36,Comerica Park,,True,1435134,906,64952,6050,37346,True,
+13,822215679726100480,President Trump,POTUS,"45th President of the United States of America, @realDonaldTrump. Tweets archived: https://t.co/eVVzoBb3Zr",http://pbs.twimg.com/profile_images/859982100904148992/hv5soju7_normal.jpg,,2017-01-19 22:54:28,"Washington, D.C.",,True,30932230,39,10272,26046,104,True,
+14,52544275,Ivanka Trump,IvankaTrump,"Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-30 22:32:03,"Washington, DC",,True,9210923,1478,17365,21876,3281,True,
+15,25073877,Donald J. Trump,realDonaldTrump,45th President of the United States of America🇺🇸,http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-18 13:46:38,"Washington, DC",,True,84297153,50,54050,117202,4,True,
+16,822215673812119553,The White House,WhiteHouse,Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb,http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg,,2017-01-19 22:54:27,"Washington, D.C.",,True,24128822,14,20283,15289,19,True,
+17,11348282,NASA,NASA,Explore the universe and our home planet with NASA 🌎 We usually post in EDT.,http://pbs.twimg.com/profile_images/1091070803184177153/TI2qItoi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2007-12-19 20:20:32,,,False,39118517,221,61600,92382,11445,True,
+18,44196397,Elon Musk,elonmusk,,http://pbs.twimg.com/profile_images/1276417699032137728/QGSGH8FZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-02 20:12:29,Trollheim,,False,37253243,98,11839,54729,6240,True,

@@ -1,0 +1,97 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,01:24
+,>>> Analyzed user:,ariashincapie
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1235028800251006978,Tweet 1A,Tweet1A,Alcahueta del neocastrochavismo.,http://pbs.twimg.com/profile_images/1243388595416600578/VVMhrISN_normal.jpg,,2020-03-04 02:26:38,Colombia,,False,6616,5536,24384,1,7005,False,
+2,915615485147910144,Cuestión Pública,cuestion_p,"Medio digital independiente fundado por reporteros de investigación. 
+Premio Nacional de Periodismo Simón Bolívar 2019. 
+Escarbamos hasta encontrar la verdad.",http://pbs.twimg.com/profile_images/1210678783419830273/YcKMi_0B_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-10-04 16:31:57,Colombia,,True,63886,0,15322,215,2335,False,
+3,1124696242775310340,חואן דוד קסטיבלנקו,juan_haver90,"Dueño de Action Media. Judío mesiánico 🔯✡️🕎 soldado de Adonai Elohim. Cazador de neonazis, morenazis, etc. Ni izquierda ni mucho menos derecha. #Antiuribista.",http://pbs.twimg.com/profile_images/1182476651315286018/rVPRWzbZ_normal.jpg,,2019-05-04 15:24:14,"Bogotá, D.C., Colombia",,False,856,1671,1025,0,487,False,
+4,237445795,Doctor Krapula Mario,subcantante,Voz líder en @DoctorKrapula y en La Popular Orquesta del 💥SUBCANTANTE💥 Dj en @Latinoscopio contacto: subcantante@gmail.com,http://pbs.twimg.com/profile_images/1280671164537470976/I1JZuuYN_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-01-12 21:29:09,"Bogotá, D.C., Colombia",,True,168474,111,7214,184,21932,False,
+5,1281102265168822272,Capita 2.0 🥑🐝,57Aire,"Odio la guerra a la que nos someten los que cobardemente se esconden tras el poder.
+Antiuribista",http://pbs.twimg.com/profile_images/1281103228885663744/tNjJwVEk_normal.jpg,,2020-07-09 05:46:44,Colombia,,False,2274,2492,1183,0,2788,False,
+6,272475662,Charly Munévar,CharlyMunevar,"https://t.co/gFsOC4eJgW
+#AntiuribistaSigueAntiuribista. demócrata , antifascista, Activista sindical ADE",http://pbs.twimg.com/profile_images/1276501582725754880/eftV-DYA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-26 15:54:35,,,True,4559,5012,14807,1,1251,False,
+7,593211367,oscar johao yepes ,JOHAO_YEPES,"Cansado del monopolio en el gobierno, colombia necesita un cambio urgente, quiero que este pais progrese.
+
+instagram: @johaoyepes",http://pbs.twimg.com/profile_images/1279768467479113728/4LwfqzdB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-05-29 00:47:42,colombia,,False,2372,2484,316,1,218,False,
+8,381776103,Augusto Cat Santamaría,Gat3m,"SOUTH AMERICAN ROCKER
+🖕...The_Bitch_Is_Back...🖕
+Hard Rock Rules
+
+
+#SOYDELARESISTENCIA #Mamerto
+#AntiUribista #GobiernoCriminal 
+🐾🐱🐶🐹🐰🐾
+🥑🥑🥑🥑
+🐝🐝🐝",http://pbs.twimg.com/profile_images/1286807508531781637/EMP127Dk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-09-28 22:39:08,"Bogotá, D.C., Colombia",,False,3098,3715,692,1,4011,False,
+9,130983633,Ezequiel Campa,EzequielCampa,Si no me baño no puedo arrancar.,http://pbs.twimg.com/profile_images/1106622481262174209/wNKC64jH_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-04-08 22:58:58,,,True,121270,461,35850,354,11484,True,
+10,858392269,Jota Jordi,jotajordi13,Intermediario/Mediador Deportivo📝⚽Català i del BARÇA soci 38.253. Tertuliano de @ElChiringuitoTv IG:JotaJordi Agencia🤝@_eliteagency,http://pbs.twimg.com/profile_images/1240915124912885760/ya2Twdsd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-02 17:13:20,"Barcelona, Catalunya",,False,150405,503,7452,308,7323,True,
+11,138206058,Gonzalo Guillén,HELIODOPTERO,Periodista.,http://pbs.twimg.com/profile_images/3506848393/c91d7e17ac74d62700ff2fcbcd5fa85f_normal.png,http://abs.twimg.com/images/themes/theme5/bg.gif,2010-04-28 22:49:33,,,True,287865,965,115855,663,175,False,
+12,180821354,Keith Richards,officialKeef,"The one and only Twitter account for Keith Richards. Keith does not tweet, dig?",http://pbs.twimg.com/profile_images/925768757716373504/3SwABEqS_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-08-20 15:37:15,,,False,1195138,42,1932,4145,497,True,
+13,1278390004822052864,Jose.caricaturista,josecaricatura,"14 años. Caricaturista en el periódico Chicamocha News. Caricatura de opinión, nacional y regional.",http://pbs.twimg.com/profile_images/1278423881779253248/W1KbwG-a_normal.jpg,,2020-07-01 18:09:03,,,False,730,10,18,3,116,False,
+14,2359336004,Riqui Puig,RiquiPuig,⚽️ @FCBarcelonaB football player ||                      Instagram: riquipuig,http://pbs.twimg.com/profile_images/855417928430256133/wd4cFDu__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-24 11:09:12,,,True,223507,55,96,284,484,True,
+15,1017603449331036165,la chica que está leyendo esto,Martinthrashh,,http://pbs.twimg.com/profile_images/1162212209474146307/VGlyGWk__normal.jpg,,2018-07-13 02:55:43,San Juan,,False,18216,372,15112,12,69727,False,
+16,127852773,ESPN Fútbol Club Argentina,ESPNFCarg,"Todas las novedades del fútbol argentino, con los principales #torneos, #noticias, #opiniones y más. Instagram: https://t.co/HMYeVwCy7B",http://pbs.twimg.com/profile_images/1042843467448299520/sJsU_9Iu_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-03-30 12:43:46,"Buenos Aires, Argentina",,False,453023,337,63090,786,726,True,
+17,1197229049225105409,Rayuela,Rayuelita10,No todo tiempo pasado fue mejor,http://pbs.twimg.com/profile_images/1197229308877651976/3aWj_Xfl_normal.jpg,,2019-11-20 19:04:05,,,False,1723,1347,2219,0,3683,False,
+18,778385047527317505,🇬 🇦 🇨,gacs1987,"De Cali!!
+
+Se identifican bots y no se les contesta!
+No soy lo que ves aunque si soy yo..puro Faceapp
+
+
+
+#siguemeytesigo",http://pbs.twimg.com/profile_images/1285690706615574530/CGhduKSK_normal.jpg,,2016-09-21 00:07:11,"Bogotá, D.C., Colombia",,False,11191,10058,14637,4,34754,False,
+19,275787942,Jenn 🍒🔻,nubesuavecita,"De la ciudad de la Candelaria⛰, Cr 7, Distrital, Pedagógica y Nacional, del sí a la paz, del no a Uribe y del no al corrupto. La paz es el único camino ✊🏼❤🇨🇴",http://pbs.twimg.com/profile_images/1236994549043658753/jmyTliEa_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-02 00:44:21,"Bogotá D.C., Colombia",,False,4289,5001,8502,1,27263,False,
+20,782474533089443840,Gener Usuga,gener_usuga,"Activista Político
+#DefensorDDHH 
+
+En el Exilio
+
+#EnResistencia
+#CreoEnDios 
+
+#EscenarioCalle
+#MovimientoAntiuribista 
+
+ https://t.co/Q4nYG2cN08",http://pbs.twimg.com/profile_images/1287188022543474689/HOKP6NyF_normal.jpg,,2016-10-02 06:57:21,"Paris, France",,True,24170,11918,114788,47,134820,False,
+21,1207036503337132032,Polombia,Polombia6,soy un borrador de nata real.,http://pbs.twimg.com/profile_images/1207036932288602117/xAirzn6F_normal.jpg,,2019-12-17 20:35:13,,,False,762,1174,4180,0,3185,False,
+22,71794672,Fernando Palomo ESPN,fernandopalomo,Coincidir con tu subjetividad no me hace objetivo. Pensar distinto no nos hace enemigos. Escribo para recordar lo que pienso. https://t.co/DHVtRg2uoh,http://pbs.twimg.com/profile_images/1170091763257753601/Tw7w8be1_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-05 12:53:57,,,True,1032373,628,57704,5394,4121,True,
+23,826108883177500678,Zona_Blaugrana,Zona_Blaugrana,Fútbol Club Barcelona | @ZB_Media_01 | @ZB_Media_06,http://pbs.twimg.com/profile_images/1011398488326844416/1dNh3FQs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-01-30 16:44:40,,,False,26391,581,5791,137,10147,False,
+24,157202279,Celso Tete Crespo 🇨🇴,elsemblante,| Política 📚🥑🐝 | Progresismo. Anti-imperialismo. Comunicador Social 🖊️. Opiniones personales. Juniorista - Bostero ⚽. #Caribe 🌴.,http://pbs.twimg.com/profile_images/1288242072315723777/ePy0GA42_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-06-19 04:04:31,"Bogotá, D.C., Colombia",,True,66219,10841,77981,72,201351,False,
+25,892940474704687104,Sabiduría Indígena,SabiduriaIndig,"🥑🥑🐝
+#LibertadParaElTibet",http://pbs.twimg.com/profile_images/892963609558474757/MSj9JKoc_normal.jpg,,2017-08-03 02:49:34,"Santa Marta, Colombia",,False,1525,1625,1700,2,2431,False,
+26,1209268851009097731,mario_henao,Mariohenaoz,vertical,http://pbs.twimg.com/profile_images/1229235419159711744/hgAWPb1c_normal.jpg,,2019-12-24 00:25:48,,,False,7034,6751,1174,3,4222,False,
+27,1012847731512168449,Juanpis González,juanpisrules,El gomelo petardo más play de Colombia de mano firme y corazón grande. 😎🤘🎬,http://pbs.twimg.com/profile_images/1280896928411254784/oSqSYke-_normal.jpg,,2018-06-29 23:58:11,"Bogotá, D.C., Colombia",,False,308853,137,787,84,840,False,
+28,1240803407268585472,Vorágine,VoragineCo,Periodismo Contracorriente. Escríbenos a info@voragine.co,http://pbs.twimg.com/profile_images/1278007514332872705/Ix5Fk6XB_normal.jpg,,2020-03-20 00:52:51,Colombia,,False,49206,126,667,92,452,False,
+29,3300420021,Argsenal,Argsenal,"Cuenta más frágil que las piernas de Diaby y las manos de Almunia, pero con más ganas que las de Wenger de fichar juveniles. Padres de El Inválido.",http://pbs.twimg.com/profile_images/1269762584661635113/DAclaUbQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-27 14:19:23,Argentina,,False,35927,167,38058,77,16496,False,
+30,142820755,Carlos Caicedo,carlosecaicedo,"Gobernador del Magdalena. Candidato presidencial de Colombia 2018, alcalde de Santa Marta 2012-2015, Rector Unimagdalena 1997-2006.",http://pbs.twimg.com/profile_images/1270009590093152263/AyMZQ6BL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-11 21:19:46,Santa Marta,,True,112113,1727,13391,154,2614,True,
+31,1390094958,Delator,ElQueLosDELATA,"Daniel Mendoza Leal. Periodista,escritor,criminólogo. Demócrata. Espacio de opinión. Guionista de MATARIFE y Fundador de LA NUEVA PRENSA @lanuevaprensaco",http://pbs.twimg.com/profile_images/1034294278216921094/8Ayr87-2_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-04-29 18:09:22,,,True,313303,3824,23112,182,16974,False,
+32,1120911698200756224,Colombia Desconocida 🌎,ColDesconocida,"🇨🇴🌴Descubriendo los lugares más escondidos de Colombia. Si llegaste hasta el perfil fue porque te gustó algún lugar, síguenos y conoce más de Colombia🆓🌎",http://pbs.twimg.com/profile_images/1204658923212546048/FQ4ie2HB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-04-24 04:45:49,,,False,15651,830,240,15,10195,False,
+33,1041099469335552001,La Troglioneta,troglioneta,"Gimnasia y los Simpson. Si tengo que calificarme, me pongo un diez. Me dirige Maradona, ¿Y a vos?",http://pbs.twimg.com/profile_images/1041152720508542976/YRz4QvOM_normal.jpg,,2018-09-15 23:00:30,,,True,87005,497,11404,30,26939,False,
+34,1218247371836010498,¿Por qué Es Tendencia en Colombia?,Por_queEsTend,Nosotros te ayudamos a saber Por qué un Hashtag #EsTendencia en Colombia.,http://pbs.twimg.com/profile_images/1218347836477231105/-dY_nbhD_normal.jpg,,2020-01-17 19:03:16,Colombia,,False,17913,0,1886,29,20,False,
+35,2421239557,María Camila Rodríguez,ladelpincel,Intagram @ladelpincel,http://pbs.twimg.com/profile_images/1285637339658756096/f2I3CzwA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-01 00:07:28,Mariquita Tolima,,True,308,250,5762,1,2284,False,
+36,250193313,Modesto García,modesto_garcia,Escribo y diseño (voz del narrador: hace memes) Colaboro con @NetflixEs @megustaleer y otros. 🖋 #Crimenesilustrados #RedMonkey #ElGranSecuestro @LaHiloteca...,http://pbs.twimg.com/profile_images/983824235155066880/juxq5QPo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-10 16:18:18,Madrid / Málaga,,True,93828,1118,9370,289,47733,True,
+37,1413735397,𝓓𝓪𝓻𝓵𝔂𝓷𝓰 𝓟𝓪𝓸𝓵𝓪,Darlnavarro,¿Por qué llegaste hasta aquí?,http://pbs.twimg.com/profile_images/1267839578267844608/KL1AfMO__normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-05-08 20:06:03,"Barranquilla, Colombia",,True,1630,823,36955,3,18695,False,
+38,252402164,Física Impura®,FisicoImpuro,"Docente de Ciencias Naturales Física, Ing. de Petróleos y Esp. en Evaluación y Gerencia de Proyectos.",http://pbs.twimg.com/profile_images/1272995106434486273/HUzwVcvT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-15 03:31:45,"La Fosa Común, Polombia",,True,76383,32590,56375,74,51132,False,
+39,373395647,Fernando Solórzano,FndoSolorzano,"Tengo personalidades múltiples, o al menos eso dicen cada una de ellas. Tengo mas caché que GOOGLE. Madly in love Contrataciones: elpatrondelritmo@gmail.com",http://pbs.twimg.com/profile_images/1107460979569364992/5hmFogdT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-09-14 14:15:12,"Mundo Novo, Brasil",,True,165413,1491,12282,197,1736,True,
+40,44379771,Kent Brockman ⚪,periodistadetv,Periodista de importante medio de prensa,http://pbs.twimg.com/profile_images/1249860795120455681/gFCq60Rj_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2009-06-03 15:22:13,,,False,2854,232,34682,7,13731,False,
+41,1207379169660866562,Gilberto Tobón Sanín,tobonsanin,"Profesor titular @UNALOficial, abogado penalista, escritor, filósofo, conferencista y ciudadano indignado.",http://pbs.twimg.com/profile_images/1268574118141743104/pHpqNkrS_normal.jpg,,2019-12-18 19:16:49,"Bogotá, Colombia",,False,197059,378,519,118,6270,False,
+42,416876488,Inna Afinogenova,inafinogenova,"Amplia experiencia en injerencias. Es por su bien. 
+
+Instagram: ahilesva_",http://pbs.twimg.com/profile_images/1176885665843372032/mhn7cwnD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-20 07:36:55,"Moscú, Rusia",,False,190194,805,943,674,2960,False,
+43,273570661,Club Deportes Tolima S.A⭐️⭐️,cdtolima,"Twitter OFICIAL Deportes Tolima 65 años, Campeón Primera 2003 II- 2018 I, Primera B 1994, Copa P. 2014, Sub Campeón 1957,1981,1982, 2006-II, 2010-II y 2016-II",http://pbs.twimg.com/profile_images/1161820604145819648/iKleIwU0_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-28 19:02:56,Ibagué - Tolima,,True,132507,23,22897,402,584,True,
+44,2664629884,Alejandro,diegoalejocm,Celador. Junior tu papá. Barranquillero de corazón.,http://pbs.twimg.com/profile_images/1277506891250315264/-oitZS9m_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-02 17:23:58,Melbourne,,False,34713,713,73807,47,175064,False,
+45,174339596,Cristóbal Soria,cristobalsoria,Sevillista y Macareno por la gracia de Dios.Siempre me gustó tirar balones al campo...En los ratos libres recito la Bíblia en el Chiringuito,http://pbs.twimg.com/profile_images/816239136831139840/6j9MdVKD_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-08-03 18:00:42,Sevilla,,False,636726,188,16553,1122,38723,True,
+46,974420758406549505,DIRECTVGO Servicio | #QuedateEnCasa 🏠,DIRECTVGOAyuda,Somos el equipo de servicio y atención al cliente de @DIRECTVGO. Todas tus dudas las puedes resolver aquí.,http://pbs.twimg.com/profile_images/1062744184807981058/KW52oDUU_normal.jpg,,2018-03-15 23:03:07,,,False,4437,2,6006,5,49,True,
+47,971441330588082176,DIRECTV GO | #QuedateEnCasa 🏠,DIRECTVGO,"Las mejores películas, series y deportes de hoy a un clic de distancia. Accede desde cualquier dispositivo y disfruta del mejor entretenimiento sin contratos.",http://pbs.twimg.com/profile_images/1062743748713635841/ilmYfbFB_normal.jpg,,2018-03-07 17:43:56,,,False,7943,44,4265,18,601,True,
+48,932334091,Francisco Cánepa,francanepa1,,http://pbs.twimg.com/profile_images/553422660211060737/xLSwRZmL_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-07 15:41:23,,,False,3807,240,413,4,986,False,
+49,17865670,Transfermarkt,Transfermarkt,"Daten, Fakten, Statistiken, Geschichten & Interviews. | News & Gerüchte aus Profi- u. Amateurbereich separat hier: @TMde_news, @TMgeruechte, @TMamateure",http://pbs.twimg.com/profile_images/1283428520157499400/t6jQOHK4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2008-12-04 11:38:03,Hamburg,,True,111747,1090,42199,851,2996,True,
+50,132937730,Adriana Lucía,AdrianaLucia,🇨🇴Cantautora colombiana. -El autor y dueño de mis triunfos ha sido Dios y no yo. ☎️(+57) 3102029686. 🎶 #ParaHablarDeAmor disponible ya!,http://pbs.twimg.com/profile_images/1279783798511730690/gEOEW7qV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-04-14 15:37:45,Colombia,,True,617291,613,27928,787,15462,True,

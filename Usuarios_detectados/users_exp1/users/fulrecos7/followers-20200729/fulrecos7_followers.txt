@@ -1,0 +1,25 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,03:19
+,>>> Analyzed user:,fulrecos7
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1202317512618205184,Isabella Ortiz,Isabell46223978,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-12-04 20:03:42,,,False,3,16,8,0,8,False,
+2,1157584180940824576,Wanna Pod Labs,WannaPod,Vapes & eLiquids,http://pbs.twimg.com/profile_images/1160649039542665216/8s1ZuQfZ_normal.jpg,,2019-08-03 09:29:10,New Jersey,,True,1,1,5,0,1,False,
+3,736625930311979008,Maria,mariamaluma212,,http://pbs.twimg.com/profile_images/736631531704291328/_bTuU31o_normal.jpg,,2016-05-28 18:31:22,,,False,6,47,1,0,2,False,
+4,4316418672,Ale Habibi,AleHabibi23,,http://pbs.twimg.com/profile_images/668194061916868608/79-d4z9r_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-21 22:25:52,"Lima, Peru",,False,13,39,6,0,4,False,
+5,713778157044666369,El Silaoense Errante,silaoenserrante,Formando a los nuevos #Chinacos de #México,http://pbs.twimg.com/profile_images/734155098301992960/eeM6KC1z_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-26 17:22:28,"Guadalajara, Jalisco",,True,40,183,280,14,254,False,
+6,370829381,Abel Ortíz,Abel__O,,http://pbs.twimg.com/profile_images/444914831431196673/uEjROpK1_normal.jpeg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-09-09 18:09:32,Honduras,,True,44,69,426,0,83,False,
+7,616363011,Ximena Cuellar,LauraC9906,❄️,http://pbs.twimg.com/profile_images/612678061985763329/SLFeyrGv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-23 17:04:27,Cali - Colombia,,True,52,29,1488,0,271,False,
+8,2458244941,alejandro pinto,NSRX2014,,http://pbs.twimg.com/profile_images/943109740208549888/G5FZepbs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-22 14:23:28,,,False,26,46,0,0,1,False,
+9,1315083522,Claudio Jara,ClaudioJara16,El más grande lejos!!!!!!,http://pbs.twimg.com/profile_images/378800000109510172/7ff92f9f3b1dea0f7285dfccc597d79e_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-29 20:04:51,Wilde,,False,505,1691,186,0,213,False,
+10,311772651,saintjacques,CeballosSantiag,Maestro de la contradicción y experto de romper lo prohibido.,http://pbs.twimg.com/profile_images/1270950827155435520/KYIKmk4L_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-06-06 01:26:32,"Cali,Colombia",,True,238,205,5968,1,4223,False,
+11,64254168,Filosofía ♛,Filosofiadehoy_,"Filosofía & Poesía las 24 horas del día, los 365 días del año. Los mejores fragmentos y frases que se han escrito en todas partes del mundo.",http://pbs.twimg.com/profile_images/378800000157723917/e71c15a8abd5233c850ddcd621b052af_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-08-09 21:05:49,Universal,,False,4346,4132,25,5,438,False,
+12,1398207194,david otero,davidmoreno400,,http://pbs.twimg.com/profile_images/3711319171/71a74b05846d7922a5d74b3452f1177f_normal.jpeg,http://abs.twimg.com/images/themes/theme14/bg.gif,2013-05-02 21:09:50,,,False,8,35,3,0,2,False,
+13,788598900,Amalfi,aotero7112,,http://pbs.twimg.com/profile_images/1157111753114890240/BzZd_OPr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-29 05:25:54,,,True,6,72,12,0,60,False,
+14,1106603700,TheHaias,ThheHaias,YOUTUBE!!!!!!,http://pbs.twimg.com/profile_images/3437756776/eaeae3ee087b3da21c62b7da1b14604d_normal.jpeg,http://abs.twimg.com/images/themes/theme14/bg.gif,2013-01-20 16:04:54,,,False,305,670,4743,3,10,False,

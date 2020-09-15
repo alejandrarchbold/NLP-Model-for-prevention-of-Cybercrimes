@@ -1,0 +1,135 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,15:40
+,>>> Analyzed user:,CazaSarcasmos
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,745437387497570304,Fernando,Fernando15460,,http://pbs.twimg.com/profile_images/1172656563577905152/-8cZylFI_normal.jpg,,2016-06-22 02:04:57,,,False,13310,8851,11927,2,137,False,
+2,1227753566774923266,PAME THREE💕🍷🇨🇴🇺🇸🇲🇽,Glopame3_02F,"Cuenta#3. Herida no derrotada, sigo en mi causa. URIBISTA hasta los poros de mi piel. mi vida son mis hijos y mi familia. 
+No te enamores de mi❤️🍷
+ikigai🌹",http://pbs.twimg.com/profile_images/1287287385361965057/VXLBf92E_normal.jpg,,2020-02-13 00:37:56,"Aquí, allá, En Cualquier Lugar",,False,3271,3278,9625,0,22505,False,
+3,1135689729524031488,Elvis Junior,ElvisPareja97,,http://pbs.twimg.com/profile_images/1277844785567498240/xx5dyj7o_normal.jpg,,2019-06-03 23:28:26,"Barranquilla, Colombia",,False,4,34,15,0,124,False,
+4,1261854345433354240,SIN JUSTICIA NO HAY PAZ-URIBISTA 0%NARCOCOMUNISMO,ArceSern,,http://pbs.twimg.com/profile_images/1278133799281401856/emKNN3UI_normal.jpg,,2020-05-17 03:02:01,,,False,534,1537,5181,0,2500,False,
+5,147420706,Grupo PlagioSOS,plagiosos,"Comunidad de formación ciudadana en derechos de autor, periodismo digital y denuncia pública de plagios editoriales de habla hispana en Iberoamérica.",http://pbs.twimg.com/profile_images/724441893703020545/y7Ixuz1a_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-24 03:02:29,Colombia,,False,8631,5458,42512,34,27173,False,
+6,202486418,Joany González Wilch,JoanyGonzalezW,¡Generando Resultados!,http://pbs.twimg.com/profile_images/884032423784218624/ASJHEQET_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2010-10-14 04:08:59,"Boyacá, Colombia 🇨🇴",,True,134764,35825,3175,56,874,False,
+7,3658070953,juls👻,li329_li3,•🇵🇭/tawan_v❤/🐢🦁,http://pbs.twimg.com/profile_images/1275203675409969152/3GbR9L3Y_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-23 09:14:01,,,False,265,2306,147,1,1085,False,
+8,1257892563207348225,Edrienne Manuel🔥,deveraedrienne,🔥,http://pbs.twimg.com/profile_images/1258417458966224896/fR-tO--v_normal.jpg,,2020-05-06 04:38:59,,,False,21,56,40,0,39,False,
+9,928101606465458176,Cony Martínez,Cony_martinez_,"Si no hay JUSTICIA para el pueblo, que no haya PAZ para el Gobierno. 💛💙♥️",http://pbs.twimg.com/profile_images/1225520224952299526/L4nufexC_normal.jpg,,2017-11-08 03:27:21,Colombia,,False,29462,29168,6328,11,50732,False,
+10,1198887184218017792,itenlab,krshnjdclngsn,,http://pbs.twimg.com/profile_images/1283728288850968576/NQu0Vl45_normal.jpg,,2019-11-25 08:52:49,,,False,97,364,1235,0,750,False,
+11,3046561094,Ziwi,tzuwychoco,Finger style guitarist 🎸✋,http://pbs.twimg.com/profile_images/1236244744260313088/YZeZs8Qg_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-27 13:16:12,,,False,430,793,3790,0,21251,False,
+12,1023531203792498688,BROKEN,UnhappyBroken,,http://pbs.twimg.com/profile_images/1131944014645620736/YfAG25O2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-07-29 11:30:30,,,False,50,202,751,0,102,False,
+13,56012321,Neolani,NeolaniPodcast,I live for the memes,http://pbs.twimg.com/profile_images/1084717175/00565_normal.JPG,http://abs.twimg.com/images/themes/theme11/bg.gif,2009-07-12 03:58:47,OHIO,,True,233,1206,395,1,94,False,
+14,921782839238189056,Daniel Montañez,Nano1444,,http://pbs.twimg.com/profile_images/940989873816817666/LmyNv3YA_normal.jpg,,2017-10-21 16:58:49,,,False,5,98,5,0,51,False,
+15,908679199929417729,Lhaii Alexandrite,Angellhaii,GEMINI ♊- Wishing for a Soulmate 👫💕 Sexy,http://pbs.twimg.com/profile_images/933620726703185923/a9frGaA6_normal.jpg,,2017-09-15 13:09:38,"Guinayangan, Calabarzon",,False,11,136,3,0,47,False,
+16,3881289972,mayjer,JerecelVigo,"Friendship is love without his wings.*FAMILY*DREAM*HARDWORK
+PH ARMY*Nursing📖💉",http://pbs.twimg.com/profile_images/1224253416639057920/WzNEILN-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-13 14:15:15,Roxas City Capiz PHilippines,,False,213,667,565,0,1181,False,
+17,3285207786,B I P O L A R ❌,thirdyilagan,The worst kind of pain is when you're smiling just to stop the tears from falling.,http://pbs.twimg.com/profile_images/1185743109621051392/7kos_411_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-20 10:56:35,,,True,196,337,703,0,580,False,
+18,3613946786,jam,jamaicaalthea,@hakmandooo,http://pbs.twimg.com/profile_images/1287004642816200704/-N5qoPc8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-19 08:12:46,raphael lang malakas🐷,,True,1160,1051,17194,0,14334,False,
+19,805288304673292288,Mikka Evangelista,kyrienggggggg,"I still don't understand Twitter , but here I am.",http://pbs.twimg.com/profile_images/1077953723421286401/JfeDwFe0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-12-04 05:51:08,"Malolos City, Central Luzon",,True,287,926,946,0,1117,False,
+20,1024172582,Shower Thoughts,deepistthoughts,"Account that mirrors the best posts from r/ShowerThoughts, every 2 hours - Made by @sadposting",http://pbs.twimg.com/profile_images/729726036947128320/s9Ju43wn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-20 12:36:40,Turn on Notifications,,False,130729,91252,10017,125,64,False,
+21,800544178987859969,*NGIPIN*,AllysaDelmundo,NEVER CRY FOR THAT PERSON WHO DOESN'T KNOW THE VALUE OF YOUR TEARS,http://pbs.twimg.com/profile_images/807208734476771328/KDkzRFtT_normal.jpg,,2016-11-21 03:39:40,Batangas ,,False,64,188,142,0,14,False,
+22,2446019629,Bigotudas,NosCabeElMani,"Somos dos, tu vieja y yo",http://pbs.twimg.com/profile_images/656282371671597056/jLc_kZy-_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2014-04-15 20:19:15,,,False,4054,4807,1817,2,138,False,
+23,3699349332,joanestenor,joanestenor,,http://pbs.twimg.com/profile_images/692331360313192448/cim-HPvJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-27 03:28:05,NCR (Región de la Capital Naci,,False,99,207,7,0,161,False,
+24,1261059180,ash,alwillis94,,http://pbs.twimg.com/profile_images/749896988129234944/-XraPZ09_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-12 04:12:08,,,False,46,961,6,0,957,False,
+25,741475713652424704,Leleyyyyyyyyyyyyy👑,CPangangaan,ulol🌵/pabebe👌/paliparang ang noo✈/green batch💚,http://pbs.twimg.com/profile_images/858694723984162817/7-1H7DFc_normal.jpg,,2016-06-11 03:42:40,JMH💕,,False,217,541,332,0,63,False,
+26,738187805004693505,bander-fize1a03o,fize1a03o,Corán traducido al español : https://t.co/3FM1LgD7Xg,http://pbs.twimg.com/profile_images/738188443260456960/5_hXvXCn_normal.jpg,,2016-06-02 01:57:42,,,False,104,1738,1,0,0,False,
+27,4733285827,De Ant Studio,deant_studios,Studio Desain,http://pbs.twimg.com/profile_images/685802714144440320/m0VzEKg5_normal.jpg,,2016-01-09 12:18:47,"Bandung, Jawa Barat",,False,738,2833,71,0,4,False,
+28,717297386997964801,The Lord Buddha,thebuddhadhamma,"I take refuge in the Buddha-Wisdom***    
+I take refuge in the Dharma-Rules of Virtue***
+I take refuge in the Sangha-Religious Group***",http://pbs.twimg.com/profile_images/717306743143866372/gosfiHWi_normal.jpg,,2016-04-05 10:26:38,,,False,518,2110,130,1,0,False,
+29,717166191198937089,ACLeynneee Garcia,ACLeynee,No one dare to compare me to others,http://pbs.twimg.com/profile_images/717275876165963777/KoSYNM7L_normal.jpg,,2016-04-05 01:45:19,,,False,47,143,40,0,0,False,
+30,4712904204,Matsumoto,Queen1234562,in a relationship of FRIES,http://pbs.twimg.com/profile_images/703434704851054592/teSyi26o_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2016-01-05 09:48:21,Baguio City,,False,112,217,503,0,153,False,
+31,705987813997588481,🉐,adiecolzzzz,:rē,http://pbs.twimg.com/profile_images/1281916330145275904/vbHqkUBf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-05 05:26:26,,,False,706,633,13601,0,2566,False,
+32,708871388493271042,Lalainaa.,LalaineOrobia_,Carl Jonathan's Property.,http://pbs.twimg.com/profile_images/763704982067556352/CKwbOCDJ_normal.jpg,,2016-03-13 04:24:44,"Batangas City, Calabarzon",,False,149,344,395,0,11,False,
+33,3381291194,eekimebab ✖✖,myka_gascon,"Only God stays 👆. Everyone leaves.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Marketista @ Tarlac State University, CBA 
+#BrandedMarketer",http://pbs.twimg.com/profile_images/843787436589166592/FurV3CZY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-29 11:59:35,Tarlac city,,True,355,803,1500,0,34,False,
+34,3559516333,cxstlxs,airyllcxstlx,"Writer. Wattpader
+
+CHECK MY STORY OUT😁",http://pbs.twimg.com/profile_images/1286298887934709762/XAtknfJW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-14 10:57:10,where wattpad is,,False,153,308,2330,0,2488,False,
+35,2850352951,John,ronnieadajar,"Athlete 🏆
+Dancer 💨🔥",http://pbs.twimg.com/profile_images/929043340435189760/xn0E-yUu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-10 12:52:36,,,False,587,1664,1088,1,787,False,
+36,4886490458,Cristine Mortez,TinKulotskie_1o,,http://pbs.twimg.com/profile_images/697297004372733953/mA0s_rfp_normal.jpg,,2016-02-10 05:31:11,"Libmanan, Bicol Region",,False,40,203,9,0,24,False,
+37,4389703033,JUSIPIN,tenorio_jops,Hi Stalkers || Fb: Josephine Tenorio II / Josephine Sanchez Tenorio || Follow me and i'll follow you back || KN's here || Mahal ko po si Jestin Manalo ||,http://pbs.twimg.com/profile_images/714820927255670784/vtVzjD3J_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-28 15:48:34,Kathniel Fandom ,,True,39,256,526,0,258,False,
+38,2968329025,mau,imMaribeeeth,a work in progress,http://pbs.twimg.com/profile_images/1287570371277807617/yedDIsqN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-09 06:06:37,engr in jesus name +,,True,2617,2541,50241,0,14217,False,
+39,4256058253,zyrus 17:*,maica_liit,mahal na mahal kita tangkad,http://pbs.twimg.com/profile_images/720490420405473281/ZIeuceJa_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-16 11:14:19,,,False,204,239,336,0,290,False,
+40,3252439475,Alejandro Córdoba,alejocordruiz,"Hombre entusiasta, dinamico, responsable y opcecionado por el aseo y el orden........",http://pbs.twimg.com/profile_images/880405830079852546/rJHIg6Tz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-13 18:41:35,"Bogotá, D.C., Colombia",,False,32,163,80,0,10,False,
+41,4551494007,jimmyjamm,jimijam85,#MixedWrestling #FootFetish fan @RG_Scissors @Clips4Sale @lorenblainexxx @andilaurenpage @nikkinexxt @sunshine_Tampa @redletter2riot @GoddessAmadahy,http://pbs.twimg.com/profile_images/678778365902458882/8obdQgGh_normal.jpg,,2015-12-21 00:34:03,Florida,,False,1261,3639,483,6,411,False,
+42,1426411224,viviana velandia r,Lady1084,Independiente,http://pbs.twimg.com/profile_images/725002031757406208/IEbwItwZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-05-13 21:26:49,"Bogotá, D.C., Colombia",,False,36,240,47,0,4,False,
+43,3166203146,FappMail,Fappmail,Twitter's largest #PornGif Collection. Follow us for Daily surprises;),http://pbs.twimg.com/profile_images/590386590712598528/EyLUKl-x_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-21 04:00:24,,,False,2186,3042,140470,49,19,False,
+44,3679831932,Ritesh Tiwari,Ritesh588Tiwari,100percent follow back,http://pbs.twimg.com/profile_images/663325215967965184/vAOmDQwi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-25 09:15:57,,,False,1148,3750,20,0,59,False,
+45,3501007642,Ana Lisa,Msmith95Smith,I'm always laughing and happy because life is too short for negative vybz ✌Love my daughter Amaya,http://pbs.twimg.com/profile_images/651938114764599297/GZ15xzTO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-31 10:46:30,Trinidad,,False,19,60,5,0,0,False,
+46,69659744,Diana Angel,DianAngel01,"https://t.co/FFIlAS82c6 "" I Sold My Bed, But Not My Stereo"" 🎶 INSTAGRAM: @DianAngel01",http://pbs.twimg.com/profile_images/1277942767705034752/VPqNDlXT_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2009-08-28 18:34:02,,,True,399517,37420,41228,495,76043,True,
+47,3866976814,Rebeca Araceli,rebecaparedes08,,http://pbs.twimg.com/profile_images/650852221668696064/vNrxMNS0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-05 01:51:48,,,False,10,110,23,0,35,False,
+48,3866854215,Gustavo adolfo,tavobarr,"MERCADEO Y PUBLICIDAD snap chat baargus
+jugador de clash of clanes 
+líder de colombiahispano
+cuenta en YOU TO BE  tavo barr",http://pbs.twimg.com/profile_images/655228469996081152/5c9Pp5BQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-05 01:50:05, ,,False,25,79,41,0,34,False,
+49,3160042257,Gina Carolina,Gina6798767,"FINCA RAIZ :: SE PACIENTE, AVECES HAY QUE PASAR POR LO PEOR PARA CONSEGUIR LO MEJOR",http://pbs.twimg.com/profile_images/977967607558103040/YZZ2fzfw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-12 14:59:43,Bogota,,False,2795,2490,18,9,14,False,
+50,162574612,Javier en Bogotá,JavierEnBogota,Gay de derecha.,http://pbs.twimg.com/profile_images/1248292102041034752/eWSIQYzF_normal.jpg,http://abs.twimg.com/images/themes/theme8/bg.gif,2010-07-04 02:34:35,Sodoma & Gomorra,,False,89033,80115,39401,254,153753,False,

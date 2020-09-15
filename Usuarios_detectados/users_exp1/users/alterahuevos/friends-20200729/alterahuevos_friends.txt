@@ -1,0 +1,91 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,03:41
+,>>> Analyzed user:,alterahuevos
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,351951761,AMA.,animaria_98,BJJ 🥋,http://pbs.twimg.com/profile_images/1228106183640256519/85S70dXR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-09 23:18:07,,,False,29,190,105,0,570,False,
+2,2871165936,Luisa García.,lugf19,-Soy una soñadora que no puede ser domada-,http://pbs.twimg.com/profile_images/983349714899828736/sRjDrVCb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-22 15:20:03,"Medellín, Colombia",,True,609,740,5968,5,5158,False,
+3,1048233925,cosasquenotienenestetica,cqnte1312,,http://pbs.twimg.com/profile_images/1237923455737237504/ITMivXNm_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2012-12-30 16:03:14,,,True,129,123,1712,1,4293,False,
+4,1265686992416919552,Jesús,paisachiviada,"Una rolita en medellín.
+The Order, segunda temporada, capítulo 2, minuto 8:30.
+🌹🇺🇳",http://pbs.twimg.com/profile_images/1288129689551282176/Srnq9-fF_normal.jpg,,2020-05-27 16:51:33,metrallo,,False,574,790,1220,0,3431,False,
+5,714667027135393793,Germán Arenas,arenasgermanjfc,Estudiante de Derecho-Activista de DDHH y ODS Parlamentario Juvenil Mercosur (2014-2016) Comisionado Nacional Juvenil de paz (2016-2017)       The World 20/30,http://pbs.twimg.com/profile_images/1264742835766603777/MKUO6G0v_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-29 04:14:31,"Manizales, Colombia",,False,1189,3036,1934,3,5881,False,
+6,1267892462078562307,Ab_zurdo Colectivo,Abzurdo_col,,http://pbs.twimg.com/profile_images/1269672132755234824/MSK3TWbJ_normal.jpg,,2020-06-02 18:55:17,Colombia,,True,47,44,74,0,33,False,
+7,1274186792087011331,Uve 🦇,CalvaHijueputa,"Estudiante de Licenciatura en Artes Escénicas, Universidad de Antioquia.",http://pbs.twimg.com/profile_images/1287144156633194497/zJSxXbdu_normal.jpg,,2020-06-20 03:46:28,Yugopotamia,,False,114,88,315,0,500,False,
+8,55379094,FLIP,FLIP_org,"La Fundación para la Libertad de Prensa (FLIP) es una organización no gubernamental, que monitorea las violaciones a la libertad de prensa en Colombia.",http://pbs.twimg.com/profile_images/1269033441548525569/-JWTmB4E_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-07-09 22:10:07,Colombia,,True,86052,3531,23012,665,3238,True,
+9,1060174713190785025,Jhostin,Jhostin_Juax,"Z? Inmortal auto proclamado Polímata. Psicólogo graduado de la U. Santiago de Cali, siempre en formación. Intereses varios, Re definiendo la locura.",http://pbs.twimg.com/profile_images/1268317297443291138/MDnnylpk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-11-07 14:18:43,Cali,,True,437,976,1068,0,2752,False,
+10,1012847731512168449,Juanpis González,juanpisrules,El gomelo petardo más play de Colombia de mano firme y corazón grande. 😎🤘🎬,http://pbs.twimg.com/profile_images/1280896928411254784/oSqSYke-_normal.jpg,,2018-06-29 23:58:11,"Bogotá, D.C., Colombia",,False,308856,137,787,84,840,False,
+11,308822507,Carlita Bj 💕,carlita_bja,"Green Day💚 (ง'̀-'́)ง 
+Billie Joe Armstrong😍
+The Longshot 😚
+Love is for losers ✨",http://pbs.twimg.com/profile_images/1250085513048047621/0svgz7No_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2011-06-01 02:04:04,Ecuador - Guayaquil,,True,313,124,1594,2,1808,False,
+12,1222371489544048641,María Camila Diaz,LUMXRAT,LUMXRAT.,http://pbs.twimg.com/profile_images/1227772332602798085/6OVH-2HU_normal.jpg,,2020-01-29 04:11:00,,,False,68,39,205,0,283,False,
+13,938693345626374144,Alicia Gallegos.,AliciaG_06,"Nomás uso el Twitter pa' tirar hate, indirectas y una que otra vez pa' retwittear algo mamalón.",http://pbs.twimg.com/profile_images/1252457890700562433/VqU2Sefx_normal.jpg,,2017-12-07 08:55:08,"Tabasco, México.",,False,49,139,541,0,589,False,
+14,372060555,Juan Diego Ángel.☘️,Ju_An_Go,,http://pbs.twimg.com/profile_images/1019067379396022272/h5zjM2Re_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-09-12 01:53:41,,,True,8,79,19,0,67,False,
+15,964304025373106176,Madres Falsos Positivos de Colombia,MAFAPOCOLOMBIA,"Somos la asociación de las Madres de los llamados ""Falsos Positivos"" de Colombia.",http://pbs.twimg.com/profile_images/1232440543713603584/_fnpNe79_normal.jpg,,2018-02-16 01:02:50,"Bogotá, D.C., Colombia",,False,55282,322,3320,71,7096,False,
+16,2628919035,𝓋𝒶𝓁ℯ𝓃𝓉𝒾𝓃𝒶 ℬ𝓇𝒶𝓋ℴ,LauraA_Bravo,"🌵ℰ𝓈𝓉𝓊𝒹𝒾𝒶𝓃𝓉ℯ 𝒹ℯ 𝒹ℯ𝓇ℯ𝒸𝒽ℴ
+🌻𝒾𝓃𝓉ℯ𝓃𝓉ℴ 𝒻𝒶𝓁𝓁𝒾𝒹ℴ 𝒹ℯ 𝓈ℯ𝓇 𝒻𝒾𝓉𝓃ℯ𝓈𝓈
+🌼ℐ𝓃𝓉ℯ𝓃𝓉𝒶𝓃𝒹ℴ 𝒶𝓅𝓇ℯ𝓃𝒹ℯ𝓇 𝒶 𝓊𝓈𝒶𝓇 𝓉𝓌𝒾𝓉𝓉ℯ𝓇",http://pbs.twimg.com/profile_images/1246992341778522112/KBIWyWT0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-21 16:46:43,,,False,41,113,391,0,1088,False,
+17,203270322,Juliana Martínez Londoño,julymartilo,Secretaria de las Mujeres de la @AlcaldiadeMed #MedellínFuturo PhD en Ciencias Humanas y Sociales,http://pbs.twimg.com/profile_images/1216922421585944576/Vn0Odltd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-15 22:30:21,"Medellín, Colombia",,False,4257,1046,3002,15,1108,False,
+18,481601120,‎فرديناند أسد,noelserdna,UdeA | Philology | Eurofan  | ESP | EN | GL | SV | KW | ICR | FRA | EO | 🎾 🏓 🏃🏻‍♂️ | 🇨🇴 🇱🇧,http://pbs.twimg.com/profile_images/1284968771447394304/hd6QxElO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-02 23:45:16,"Medellín, Colombia",,False,602,779,2810,0,11727,False,
+19,1245372870496321537,UNIDENTIFIED,JPablo_1312,"📷.
+¡Soy el error de la sociedad, soy el plan perfecto que ha salido mal!     
+                                               L I B E R T A D - A T A R A X I A",http://pbs.twimg.com/profile_images/1245886475817963521/yA9fpL6U_normal.jpg,,2020-04-01 15:30:34,,,False,6,20,2,0,16,False,
+20,1920140406,Santiago Alarcón U,Santialarconu,Y es verdad soy un Payaso,http://pbs.twimg.com/profile_images/1277750431926665216/4UgI8kHt_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-30 13:58:23,"Bogotá, D.C., Colombia",,True,223701,841,23592,89,7206,True,
+21,1207379169660866562,Gilberto Tobón Sanín,tobonsanin,"Profesor titular @UNALOficial, abogado penalista, escritor, filósofo, conferencista y ciudadano indignado.",http://pbs.twimg.com/profile_images/1268574118141743104/pHpqNkrS_normal.jpg,,2019-12-18 19:16:49,"Bogotá, Colombia",,False,197074,378,519,118,6270,False,
+22,1198092008184852480,Elar.coiris Polombiano cc:101111111,CoirisElar,"Polombiana, estudiante, animalista, 100% mamerta, antiuribista y me visto con $10.000",http://pbs.twimg.com/profile_images/1248318250795945984/qsa3Ey21_normal.jpg,,2019-11-23 04:12:55,"Medellín, Colombia",,False,1103,2228,5474,0,14498,False,
+23,1203873949052030976,DMenteZiniestra,DZiniestra,"Banda de rock punk de Medellin Creada para resistir en la lucha social, transformar a Colombia con Arte y acompañar a el pueblo en sus justas causas.",http://pbs.twimg.com/profile_images/1203874388833185795/301379OK_normal.jpg,,2019-12-09 03:08:31,,,False,20,134,14,0,14,False,
+24,1105677978434981889,Santi 🌕,Santialar5611,"Abogado y politólogo 🤘, profe en UdeA, fundador de Fidedigna🦉 - Estudio Juridico, sumo en #OhPosición y coordino el Observatorio de Paz de Unaula",http://pbs.twimg.com/profile_images/1286450192397545474/ZXxewb1K_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-03-13 03:52:27,Nocheosfera ,,True,2134,1878,5271,1,4305,False,
+25,206521070,Yesid Alvarez Maya,YessidAlvarez,"Microbiólog🔬
+Candidato a magister en biología UdeA Docente UdeA👨
+F. chocolate Pal Compa de la calle
+Joven destacado 2017
+Fotógrafo social
+#política #Ciencia",http://pbs.twimg.com/profile_images/1280725584075784192/bxHD7PjV_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-10-23 03:57:11,Medellín-Colombia,,False,726,707,1328,1,1275,False,
+26,364994506,AsambleaUdeA Oficial,Asamblea_U_de_A,Twitter Oficial de la Asamblea General de Estudiantes de la Universidad de Antioquia.,http://pbs.twimg.com/profile_images/902343216531464192/6zCzdkFw_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-08-30 17:53:03,Antioquia - Colombia,,False,13542,68,1394,45,92,False,
+27,151959562,R-evoluciona! 🔥,Karensillas17,“Somos lo que hacemos para cambiar lo que somos” Galeano ♡,http://pbs.twimg.com/profile_images/1272592615528169473/xBPuZxxm_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-06-04 17:59:25,"Medellín, Colombia",,True,650,1089,29865,4,1546,False,
+28,945459445299122176,Wilson Pérez,WilsonP81684382,"Profe de matemáticas📊
+Mamerto de Medellín 🥑
+Pizzero 🍕
+ Silviofilo🎶
+Caminante🌄
+Muro disponible para mascotas perdidas y en adopción 🐈🐕",http://pbs.twimg.com/profile_images/1204213523594788864/BggWAhBx_normal.jpg,,2017-12-26 01:01:12,"Medellín, Colombia",,False,13518,11961,6449,5,23126,False,
+29,1195517269570457600,Loud in Medellín,LoudinMedellin,"❌ V I S U A L C O L L E C T I V E ❌
+Medio audiovisual enfocado a la difusión de la escena musical en Medellín. 
+INSTAGRAM: loudinmedellin",http://pbs.twimg.com/profile_images/1195802737432289280/R8BON4cV_normal.jpg,,2019-11-16 01:42:10,"Medellín, Colombia",,False,5,29,0,0,0,False,
+30,1101900532048908288,𝓓𝓪𝔂𝓪𝓷𝓪 🇨🇴,daygxr,"Me borraron mi cuenta :'( 
+Tu puedes ser lo que quieras ser.",http://pbs.twimg.com/profile_images/1213677608292012032/q1jkgExc_normal.jpg,,2019-03-02 17:42:13,"Valle del Cauca, Colombia",,False,40,180,1859,0,1291,False,
+31,584937498,Iknowlyn 🏹 𝑓𝑜𝑙𝑘𝑙𝑜𝑟𝑒,swifthe1,"this is my trying ; you're a flashback in a film reel on the screen in my town
+⁽⁷/⁰⁵/¹⁵⁾",http://pbs.twimg.com/profile_images/1286848126326910977/LnwMpSlP_normal.png,http://abs.twimg.com/images/themes/theme4/bg.gif,2012-05-19 15:34:03,𝑠𝑡𝑎𝑛 𝑙𝑜𝑜𝑛𝑎 ,,True,8020,5663,98503,36,2852,False,
+32,2743074257,Román el biolotonto,dromana2,"La vida es una combinación de probabilidades.
+
+biología, 420 Culture, posturas personales.",http://pbs.twimg.com/profile_images/1258770263044509697/iMAB4HIE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-08-14 23:25:24,"Envigado, Colombia",,False,243,1449,4599,0,35116,False,
+33,445179567,DobleD,BornlessRitual,"Fotógrafo 
+Guitarrista
+Valedor de chimba y media.",http://pbs.twimg.com/profile_images/1203932071892279296/ZFZ6IlV0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-24 03:24:20,"Medellín, Colombia",,True,100,204,1407,0,888,False,
+34,1165721602128003072,dani i i 🇨🇴,brujitela,la diva regia y costosa 🔮,http://pbs.twimg.com/profile_images/1254927900891021312/CAh7hycK_normal.jpg,,2019-08-25 20:24:31,"Medellín, Colombia",,False,244,228,1542,0,1314,False,
+35,36276135,Daniel Quintero Calle,QuinteroCalle,Hijo del Tricentenario. Alcalde de Medellín,http://pbs.twimg.com/profile_images/1212249018979487744/oFcBecaY_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2009-04-29 03:35:42,"Medellín, Colombia",,True,376607,3795,20250,478,22272,True,
+36,29641317,Moises Arias,ImNotMoises,https://t.co/dRQPryl3WQ,http://pbs.twimg.com/profile_images/1049008566672154624/R9OfnmT1_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-04-08 04:32:04,,,False,324108,49,5181,812,66,True,
+37,3389300903,Limón Martínez,Alpujugo,Q̷̥̱̙̠̮͖̥̗͑͒͋u̷̢̱̜̰̳͋̆̎͋̆̕ǐ̷͈̤̩͓͚͕̝̣͉̔̓͌̔̄ȇ̸̗̹͈͛̈́̎͋̽̂̃̃͠r̵̨̛̟͖̤͈̖͖̓͘͜͝ơ̷̦̤̦͂̆̈́ ̴̛͚̯̗̙͍͉̯̩́̄̅͆̒͘͠u̶̻̰̰̼͑̓̓ň̵̢̮̱̦͖̿ͅ ̸͔̰̣̬͓̎̆̇D̴̛̘͎̪͎̲͕̣̮̩͋̎͗̄̽͘R̵̡̛̘̙̝̝̘̤͆̾͂,http://pbs.twimg.com/profile_images/1281923301573525504/C6QuZuQu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-23 14:32:46,"𝕭𝖊𝖑𝖑𝖔, 𝕬𝖓𝖙𝖎𝖔𝖖𝖚𝖎𝖆",,True,322,838,6328,3,58105,False,
+38,939145788067926017,C 🇨🇴,mendestylesxx,perreo pa' los nenes perreo pa' las nenas,http://pbs.twimg.com/profile_images/1285997838623621120/FBMVjRNc_normal.png,,2017-12-08 14:52:59,✺ Ψ ||-//  ☬  ғ̶ᴘ̶ᴇ̶ 🇨🇴,,False,3656,4196,6688,5,72358,False,
+39,2571569944,Sofi            🇨🇴,Malp4ridoLiam,"Hablar mierda y ser cuenta fandom son mi pasión. 
+Colombia 🇨🇴 Nacional 💚",http://pbs.twimg.com/profile_images/976268110603812864/2rmXZGN2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-30 03:01:14,"Medellín, Colombia",,True,9537,3773,208176,77,136639,False,
+40,45986928,DOCTOR KRAPULA,DoctorKrapula,"Banda alternativa, libre e independiente Contacto: doctorkrapula@doctorkrapula.net / Gestores del fest @vivaelplaneta / Mercancía https://t.co/jyyoDdsfpo",http://pbs.twimg.com/profile_images/1149091653581516800/JIDN3ofL_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-06-10 00:14:05,"Bogotá, Colombia",,True,335575,216,12232,945,13160,True,
+41,237445795,Doctor Krapula Mario,subcantante,Voz líder en @DoctorKrapula y en La Popular Orquesta del 💥SUBCANTANTE💥 Dj en @Latinoscopio contacto: subcantante@gmail.com,http://pbs.twimg.com/profile_images/1280671164537470976/I1JZuuYN_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-01-12 21:29:09,"Bogotá, D.C., Colombia",,True,168475,111,7214,184,21932,False,
+42,982355676541411328,El Abocado,ElAbocado1,"Daniel ruiz para los desconocidos.
+Porky para mis amigos.
+Estudiante de derecho de UNAULA",http://pbs.twimg.com/profile_images/982357559033126912/uxcPQurV_normal.jpg,,2018-04-06 20:33:39,"Medellín, Colombia",,False,12,37,21,0,22,False,
+43,947116740726620160,male,femmedetails,z de sin sentimientos,http://pbs.twimg.com/profile_images/1272651856481792011/P_HHs33a_normal.jpg,,2017-12-30 14:46:42,Argentina,,True,1543,1423,38073,2,94996,False,
+44,139593347,Manuel,ManuelHida,,http://pbs.twimg.com/profile_images/471164273889390592/iqFn39c7_normal.jpeg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-05-03 03:06:57,Medellín ,,True,214,353,347,1,877,False,
+45,1064947685390725120,The Society,thesociety,"no one to stop us, no one to save us. The Society is now streaming, only on @Netflix.",http://pbs.twimg.com/profile_images/1100502049840599041/HSO4Qh7B_normal.png,,2018-11-20 18:24:48,,,False,65542,12,469,59,521,True,
+46,142092456,Julián Román,JulianRoman,ACTOR. MAESTRO EN ARTE DRAMÁTICO @udea,http://pbs.twimg.com/profile_images/1277771362317320192/9o8b6PtY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-09 23:17:28,BOGOTÁ/ y donde sea menester.,,True,1360261,507,48809,1024,135629,False,
+47,92614597,Gerson Osorio,SuMorenazo,"Pues sospecho que, como casi todos, la principal razón por la que empecé a escribir fue que nadie me escuchaba.",http://pbs.twimg.com/profile_images/1218328764796624897/2Ys4IB64_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-11-25 21:22:29,"Medellin, Colombia",,True,355,144,8780,11,7662,False,
+48,1501434991,AuronPlay,auronplay,"De pequeño quemaba cosas, ahora ya no. AuronPlay@gmail.com || https://t.co/xIj7KYlAuE",http://pbs.twimg.com/profile_images/1273907422193692678/LvxNWbbR_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2013-06-11 10:05:47,"Valhalla, NY",,True,7266476,420,34509,1592,128122,True,
+49,3008263510,ciliberti,itrebilicIs,,http://pbs.twimg.com/profile_images/1287412809899401216/X7reabXd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-31 19:01:18,Colombia,,True,36,93,834,2,1661,False,
+50,2500258115,Mateo Derk,Derk109,"Estudiante de sistemas, apasionado por la tecnologia, de vez en cuando tomo fotos...",http://pbs.twimg.com/profile_images/1105180571339231234/6w6bLuGM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-21 19:19:26,"Medellín, Colombia",,True,22,73,731,1,1641,False,

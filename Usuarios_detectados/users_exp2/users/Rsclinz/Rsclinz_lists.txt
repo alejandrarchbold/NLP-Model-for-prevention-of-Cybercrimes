@@ -1,0 +1,15 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,19:22
+,>>> Analyzed user:,Rsclinz
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,218226978,UK News and Politics,"Analysis and news from journalists, pundits and politicians in the UK",424,18670,/UKMoments/lists/uk-news-and-politics,UKMoments,Fri Jan 17 15:28:22 +0000 2014,Twitter Moments UK & Ireland,The best of what’s happening on Twitter in an instant.,66060,13
+2,762683535731879936,Gymnastics Twitter,"A collection of athletes, journalists and high-profile fans with a passion for gymnastics. ",50,1860,/TwitterMoments/lists/gymnastics-twitter,TwitterMoments,Tue Jun 30 01:06:59 +0000 2015,Twitter Moments,The best of what’s happening on Twitter in an instant.,796147,10
+3,743271290295844864,Formula 1 basics,"A collection of drivers, teams, circuits and reporters in the world of Formula 1 racing. ",82,11058,/MomentsAU/lists/formula-1-basics,MomentsAU,Thu Dec 17 22:00:28 +0000 2015,Twitter Moments Australia,The best of what’s happening on Twitter in an instant.,31555,79
+4,730431988415401985,The UK national press,"Newspapers that cover England, Scotland and Wales.",17,39786,/UKMoments/lists/the-uk-national-press,UKMoments,Fri Jan 17 15:28:22 +0000 2014,Twitter Moments UK & Ireland,The best of what’s happening on Twitter in an instant.,66060,13

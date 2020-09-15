@@ -1,0 +1,11 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,16:04
+,>>> Analyzed user:,MiguelCab1989
+,>>> Information:,Collections
+""
+#,ID,COLLECTION NAME,COLLECTION DESCRIPTION,COLLECTION URL

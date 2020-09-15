@@ -1,0 +1,95 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,22:05
+,>>> Analyzed user:,democracee
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1176580103968567296,Jake Ketchum - Disgusted by DJT’s Lies - Vote Blue,JakeKetchum5,“Every absurdity has a champion to defend it.” Oliver Goldsmith | Stop telling me a green apple is red just because you heard it on Fox News. #JOE2020 #BLM,http://pbs.twimg.com/profile_images/1268060477243834371/hJUfI8-P_normal.jpg,,2019-09-24 19:32:22,United States,,True,10526,10762,12054,6,9145,False,
+2,930546152830840832,☠️Metal Godz☠️,godz_metal,"¯\_(ツ)_/¯ “If you could see inside my head, you’d see, that black and white is red. Flying high again”   #DumpTя☭mp",http://pbs.twimg.com/profile_images/1085668753101209601/FUzk_EZE_normal.jpg,,2017-11-14 21:21:06,United States,,False,1354,976,52033,1,334718,False,
+3,3369927515,Adriane,AuthorAdriane,"CNA, music enthusiast, all around badass.",http://pbs.twimg.com/profile_images/1285374559412277248/5lU2U4vK_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-10 22:53:53,"Mississippi, USA",,False,79,277,117,0,154,False,
+4,1094284622723252224,Kelly Noland (D) Candidate for MI CD#10,kelnoland2020,"U.S. House candidate, (D)
+MI 10th district 
+ Nurse, Army vet, wife and mom of 
+special needs son.
+“Working together we win.” 💯",http://pbs.twimg.com/profile_images/1278332848253161473/5-Gz-Z4a_normal.jpg,,2019-02-09 17:19:19,Michigan ,,False,9173,5885,21350,20,48377,False,
+5,1105313524241195009,Razzle Dazzle,MetalForBrunch,"Guitar Enthusiast. Not a bot.  FUCK TRUMP
+
+On this never ending search for tone. If you find it let me know would ya?",http://pbs.twimg.com/profile_images/1287877911173718017/ko7mo7-c_normal.jpg,,2019-03-12 03:44:14,Planet Earth,,False,5494,5236,46802,2,40621,False,
+6,2614013467,Mark Scott,MEScott1013,"Nerdy metalhead and socially awkward enough to prove it. Feverish, devilish & irrelevant #voteblue. #fucktrump #fucktheGOP #atheist",http://pbs.twimg.com/profile_images/1250951536806711297/eTl-PmoN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-09 18:22:37,Florida via New fucking Jersey,,False,2381,2493,6026,3,13334,False,
+7,1212063196086882304,Pugg Daddy. The .O. DBL .G.,whuzyordaddy,"Space Cowboy. Gangster of LOVE. Some people call me Maurice. Joker, Smoker,  Midnite Toker. Crazy MFKR on the LEFT.
+*USMC* 💥RESISTANCE MAXIMUS💥
+🖕FU YOU DJT🖕",http://pbs.twimg.com/profile_images/1270077696102420485/rFVULp5__normal.jpg,,2019-12-31 17:29:44,Shakin Peach Trees,,False,2404,2602,3805,6,11823,False,
+8,3939852072,Blaine Kelley 🌊🇺🇸🇬🇧🇺🇸🇦🇺,blainekell6,"Im openminded. If you don't like sports, politics, #theresistance; off my page.  Discourse. Working for a '20 banishment of gop. I may miss sarcasm . He/Him Z25",http://pbs.twimg.com/profile_images/1285080680444002305/sPLC5B79_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-18 21:20:15,N.Ca,,True,12908,11734,104948,16,195389,False,
+9,1028534648488509440,AvalancheGirl,ColleenL66,"#GoJoe2020
+#EndThisNightmare
+#FuckTrump
+#TrumpsJealousOfObama",http://pbs.twimg.com/profile_images/1248313574386061312/C5fUVDj-_normal.jpg,,2018-08-12 06:52:24,"Massachusetts, USA",,False,411,479,5825,0,8100,False,
+10,1127904025863696385,The Unapologetic Squirrel,educated_adult2,Back Up to The Unruly Squirrel @educatedadult1  #TKA  #Z1 #OneVoice1 #BeTheChange #Fresh,http://pbs.twimg.com/profile_images/1288054371905949697/clNBqHOI_normal.jpg,,2019-05-13 11:50:49,"Nueva York, USA",,False,2913,3053,18998,3,24271,False,
+11,1010242769393192960,Yellow Dog Dem,dog_dem,"Lifelong liberal. NMB, SC 🌊 🌊 🌊",http://pbs.twimg.com/profile_images/1010249144487665664/FWT7DN8K_normal.jpg,,2018-06-22 19:27:00,,,False,368,621,4679,0,31371,False,
+12,1194718961864040448,hastreiter,hastreiter3,"social democrat, attorney, a bully to bullies; #ForeverBLUE; #FBR; #RESIST; #WTP2020 💙🌈🌈 🌊🌊🌊🏛🗽☮️ 🌎#BIDEN2020",http://pbs.twimg.com/profile_images/1239607004299055105/iqyfAHHw_normal.jpg,,2019-11-13 20:49:52,Bay Area,,False,2917,4128,8567,3,28880,False,
+13,1132011733298667520,Lola Gragg,lola_gragg,,http://pbs.twimg.com/profile_images/1134082302634602497/_Tp4yCr4_normal.png,,2019-05-24 19:53:23,,,False,202,331,6897,0,9,False,
+14,4230958101,Sarah Gould,SarahGould_SA,NO DMs,http://pbs.twimg.com/profile_images/897830490681618434/3XsIQ1ee_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-20 02:10:01,,,True,1205,3015,106146,1,148980,False,
+15,4480942393,Wake UP the Majority,G4rce88,"🇺🇸 #MAGA loving American Citizen. Conservative, independent, fact-based opinions. Go ahead & disagree but be prepared to back up your opinion. #Trump2020",http://pbs.twimg.com/profile_images/912487220421943297/aQZB7p-u_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-12-07 01:25:01,"Washington, USA",,True,146,348,1194,0,2146,False,
+16,833728731504013312,A Middle Aged Lady in a Flyover State,AFlyover,"I've installed a Xanax Salt Lick in every room just to COPE with the TrumpApocalypse. 
+
+
+Omnia Feminae Aequissimae",http://pbs.twimg.com/profile_images/1224377793502334979/e4JpJtyH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-02-20 17:23:14,Middle of Nowhere,,False,4018,3592,53284,15,126235,False,
+17,15773928,Donna - #Resist #NoDM’s,DRyan327,"Wife of 1, Mom of 2, Grandmom of 1. Love family, friends, #Resisters, doggies @4Ocean, #Resist #bluewave @ClimateChange @GunReformNow #DumpTrump ❤️Music!",http://pbs.twimg.com/profile_images/1119848950658404352/BVKVgFg2_normal.png,http://abs.twimg.com/images/themes/theme12/bg.gif,2008-08-08 03:51:48,"Frisco, Texas",,True,10266,9988,18746,255,22399,False,
+18,934397101554978823,Kasseykrammer stay safe,kasseykrammer,Government & Politics MLB NFL resist rTump retired love traveling VOTE BLUE NO MATTER WHO IMPEACH trump WON’T WASTE CAPITAL LETTERS ON A TRAITOR,http://pbs.twimg.com/profile_images/1104153668260122624/38mS1CAv_normal.jpg,,2017-11-25 12:23:24,"Pennsylvania, USA",,False,2228,3334,29859,2,12662,False,
+19,710162196706136064,Nolan Zugernat,NolanZugernat,"You are what you do when it counts. #RESIST
+
+No soliciting.",http://pbs.twimg.com/profile_images/854047286900305920/s392DXsN_normal.jpg,,2016-03-16 17:53:56,,,True,3052,1873,77085,12,74782,False,
+20,774310883359006720,Jon Messer,JonMesser7,,http://pbs.twimg.com/profile_images/1186840464806203392/VayVouyN_normal.jpg,,2016-09-09 18:17:55,,,True,189,929,23512,0,12438,False,
+21,1117780316,margie,margietalk2,just trying to get thru this day.  yeesh!,http://pbs.twimg.com/profile_images/3185705741/601abcd5271db07fea1f7b12e7308c5c_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-24 21:21:41,u.s.a,,False,266,144,24430,2,21562,False,
+22,3291337947,#ThePhotoHour,ThePhotoHour,"Connecting Professional & Amateur photographers alike.  
+
+Monthly photo comp & Featured Photographer  ~ https://t.co/YTyt2CLYtd
+
+
+Contact us for promotion.",http://pbs.twimg.com/profile_images/969225604351578113/LS5Yis-q_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-20 14:24:39,Worldwide,,False,50763,31177,307498,1667,47265,False,
+23,73740217,Hyma Moore,Hymamoore,"Baton Rouge born. Atlanta educated. D.C. trained. New Orleans anchored. VP, Ext Affairs @GNOinc Proud @Mayorlandrieu @hillaryclinton alum. Opinions are my own.",http://pbs.twimg.com/profile_images/1287614549101875200/vkUPs_c2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-12 21:37:06,New Orleans,,False,5032,1124,5954,37,5005,False,
+24,39312371,"GNO, Inc.",GNOinc,"Greater New Orleans, Inc. is the economic development organization for SE Louisiana. Our mission is a thriving economy & excellent quality of life, for everyone",http://pbs.twimg.com/profile_images/378800000128318698/65af1298a45898833bae66038d417153_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-11 18:49:41,"New Orleans, La.",,True,17045,2038,9407,346,594,True,
+25,1095901392,Yasmine,reglissade,"Nurse 😷 love America ,French/American  I’d like to live  in Theory , because in Theory everything works perfectly ! #HateTrump #VoteJoe !🌊🌊 #BLM 😍😘",http://pbs.twimg.com/profile_images/811526593239810048/x7fcJJqu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-16 18:00:46,LOS ANGELES,,False,1509,1457,3319,3,15023,False,
+26,1268232692128153601,But I Just Wanna Hug,ButIJustWanna,"*I grew up in Stephen Harper's riding, don't let that happen to you. *Is this really what police should be doing?
+#BLM #IndigenousRights *Her/Madame
+0 DMs",http://pbs.twimg.com/profile_images/1287959886240808960/vdriqekB_normal.jpg,,2020-06-03 17:27:06,Canada,,False,4619,4863,11476,4,4585,False,
+27,1278366519747989505,Jack Black,Jet1Jack,"🏄🏼California, #Resist,#JoeBiden, #LGBTQ (Ally) #BlueWave #BLM, #FBR, #VoteBlue, #TeamFuckDonnieDollhands 🚫Trumpers",http://pbs.twimg.com/profile_images/1285213269913776128/XE3dqJKK_normal.jpg,,2020-07-01 16:35:14,"California, USA",,False,5436,4993,1684,6,2588,False,
+28,15782772,Anna Says Wear A Damn Mask 🌊,annabkrr,Blue dot in a red state #resist,http://pbs.twimg.com/profile_images/1286125180859953160/P9EnAJCy_normal.jpg,http://abs.twimg.com/images/themes/theme8/bg.gif,2008-08-08 20:41:19,Polls don’t vote ✊🏻,,False,2653,1639,62827,50,65477,False,
+29,1234534214969810944,FDR's Ghost,ghost_fdr,"Interested in factual economic news that affects Main St., NOT Wall St. and/or the 1%. Animal rescue advocate. #Resist #CatsAgainstTrump #ElijahMclain",http://pbs.twimg.com/profile_images/1268348153029373952/bpQ9xuC2_normal.jpg,,2020-03-02 17:42:42,,,False,1944,1955,4846,4,21458,False,
+30,910697275026022401,Holly Diskey,holly_diskey,"intelligent human ❤animals 💜 cats rule 💜🚫DM
+ #VoteBlueNoMatterWho2020 #Resist #ClimateCrisis #FBR #Legalize #NoWall #ProChoice  #BanTrophyHunting #CRPS #FM",http://pbs.twimg.com/profile_images/1095908352167763969/ivtZhrrA_normal.jpg,,2017-09-21 02:48:45,Midwest  USA,,False,6870,6956,11668,6,24500,False,
+31,551758942,Bougga,Bougga1,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-04-12 10:59:59,,,False,456,4973,7,1,149,False,
+32,622973332,Brayden Crossfoot,BCrossfoot,I can be very quite at times but Im usually outgoing and out spoken. #WWG1WGA #MAGA #trump2020 #conservative #homebrewer #patriot 🇺🇸🍻🎉,http://pbs.twimg.com/profile_images/1287520598738915328/mAaYRdHI_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2012-06-30 17:02:06,Cleveland,,False,1002,1442,2,0,0,False,
+33,993980803,Chickenfried Frank: Stop Trumps Gestapo,snivvlization,Wearing a mask is not a political statement. It's an IQ test. Turn TX Blue.,http://pbs.twimg.com/profile_images/1243973138574180353/qFdSpyLj_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-06 22:52:22,78665,,True,3710,4248,79063,3,2212,False,
+34,1240842936172109829,Fred Tee,TencicFred,Father-husband-angry old sob/American-Istrian/Kova je nasa/Luke 14:12–14/SOCCER!!!⚽️/ Super Fly 🎵/#25thAmendment/ Resist=fight!!🌊🥊🦾/#Resister/#VOTE/#Basta,http://pbs.twimg.com/profile_images/1240843616706273280/zUK9aE4w_normal.jpg,,2020-03-20 03:29:56,Albona Republic,,False,5150,5172,11393,7,5748,False,
+35,829665272453804032,eschew_obfuscation,resolute_ennui,"resisting & amplifying voices.""born this way"" dancing backwards in 7"" heels. she/her",http://pbs.twimg.com/profile_images/829826453009162240/fw0PTCJi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-02-09 12:16:30,"RGV,Texas, USA",,False,5036,5397,23716,0,146619,False,
+36,1186691148623953920,R_Resists 😷🌊,backup_rcp_1964,"Here 4 Twitter U. poly-sci, law degrees..final exams 11/3/20. 🆘🇺🇸 . FDR Dem. 🚫DMs. CO Dem delegate. PRU, DemCast, #BlueTsunami",http://pbs.twimg.com/profile_images/1208260206846590977/1StLVfmZ_normal.jpg,,2019-10-22 17:10:30,Front Range of the Rockies,,False,13933,13641,3709,1,15919,False,
+37,1257827580385746944,My Thoughts Exactly Too,ExactlyToo,"Previously MyThoughtsExactly! Happy wife, mom, grandma. rescued & owned by Sophie the Chihuahua. Liberal Dem, conservative LCMS. Intelligent, Witty, Educated",http://pbs.twimg.com/profile_images/1286085647711707136/bgAQLlov_normal.png,,2020-05-06 00:21:01,,,False,1025,2563,2145,0,3226,False,
+38,2527770668,Sarah W,Ask__me__why,"Always Liberal 
+Alt account of @SalBlack2 
+#TheResistance  #StrongerTogether  #FBR 
+VOTE! #Biden2020 #4Biden
+🌊🐱🌊🍷🌊🥀🌊",http://pbs.twimg.com/profile_images/474106845305393152/XhY3l_us_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-27 16:06:06,,,False,19298,19567,9579,7,4808,False,
+39,1150040135393775617,E. Kelly Williams,EkellyWilliams,Lawyer-Realtor-Mother #Democrat: You can fool everyone for some time. You can fool some all the time. But you can't fool everyone all the time. #Nov32020,http://pbs.twimg.com/profile_images/1232653897979830272/9HiSHHq0_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2019-07-13 13:51:49,"Houston, TX",,False,9633,9449,4404,3,2494,False,
+40,1270374617027416064,Ryan zamana 🌊,RyanZamana,#resist proud liberal #voteblue black lives matter 🏳️‍🌈🇺🇸 #Biden2020 🌊 cat dad I love the retweet button,http://pbs.twimg.com/profile_images/1270384212684800001/isoQzVMW_normal.jpg,,2020-06-09 15:18:18,"Pittsburgh, PA",,False,2736,3348,748,7,4646,False,
+41,18073211,Gemstar,gemstars,"Artist, Creative,
+Micro & Abstract Art. 
+Paintings are original.
+#gemstars #visualartist #MicroArt
+#gemstar #art #Artist #ArtistonTwitter
+#oilpaintings #poet",http://pbs.twimg.com/profile_images/1265228309408870401/XH_H71XQ_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2008-12-12 09:01:11,"British Columbia, Canada",,False,320378,94771,250620,3712,390,False,
+42,182995087,Mark Healy,mark_gila,"United with my Brothers and ReSisters. #resist #fbr
+  #blm #nooneisabovethelaw #marchagainstfacism #cleanenergy",http://pbs.twimg.com/profile_images/2530110308/02-20-10_1613_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-25 22:23:50,"Oregón, USA",,False,8969,9274,7957,6,13999,False,
+43,820089958459441152,Lynette❤🙏🐶🌈🌊🌊🌊,Lynette61855266,"🐶37🙏Helper and lover of animals big and small!❤🌊'20#fvcktrump!Not a bot,justa lame name💕😁#BLM! #LGBTQ ally🌈No https://t.co/LxbXsBoO0W Kind,Be Strong,Wear a Mask,please!!❤",http://pbs.twimg.com/profile_images/1264653566888693760/lQJHqOMY_normal.jpg,,2017-01-14 02:07:37,Where theRedwoods live🌲norcal,,False,1337,3645,2422,2,22307,False,
+44,1012332594,Gwen_Votes Blue 💙,gwenedavies,"Moderate Democrat. End Gerrymandering. OUR government must work for all, not just the rich. #resist🌊 #Biden2020🇺🇲#BLM🖤#LGBTQ+🏳️‍🌈",http://pbs.twimg.com/profile_images/1262831575131136002/rvVO-au8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-15 01:52:26,"Ohio, USA",,False,1750,2170,64499,1,122164,False,
+45,15406311,Jeff 📎🇺🇸,jjhparker,"Law-Person. Sports fan (Red Wings, Illini, Cubs, Bears). Black. Jew. Husband. Dad. Liberal. SPQR.",http://pbs.twimg.com/profile_images/1118841603/35c8b658-d171-47f1-8c34-cdfc74477a6d_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2008-07-12 17:56:45,"Evanston, IL",,False,959,985,108137,56,17345,False,
+46,23368627,In Search Of Treasonous Helsinki Notes,valerie135,🇺🇸Joined the Army before Trump & Putin put bounties on our lives🇺🇸@SenateGOP=TRAITORS #TrumpIsARussianAsset #TrumpKillsUSTroops FBR #ImpeachBarr 🌊 🌊 🌊,http://pbs.twimg.com/profile_images/1261377760230027264/Cv09asru_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2009-03-08 23:12:01,Not GOP’s USA,,True,10008,10832,21835,19,12920,False,
+47,801224294214733825,Leslie Yamashita,LeslieERANOW,Equality and Justice For All. Peaceful Protest. Formerly @ThomasJ17762016 - dropped the reference to Thomas. This is me. Nice to meet you.,http://pbs.twimg.com/profile_images/943350363826147329/q7aqPGif_normal.jpg,,2016-11-23 00:42:12,"Northridge, Los Angeles",,False,4236,4564,232885,46,66103,False,
+48,1238484047883423744,Melissa Stone,onlytruthhere,Woke! I will never be silent. I will never give up.  #NeverTrump.,http://pbs.twimg.com/profile_images/1238484841215045638/noCUQMZB_normal.jpg,,2020-03-13 15:16:42,,,False,3554,927,32270,39,58037,False,
+49,1286049340121784320,WallofVetsSEA,VetsSea,Fulfilling our oath to the Constitution and to the people of the United States #WallofVets #WallofMoms #Vote2020 ✊🏽✊🏾✊🏿,http://pbs.twimg.com/profile_images/1287586808717402117/6_j7vPqa_normal.jpg,,2020-07-22 21:24:05,"Seattle, WA",,False,2278,168,328,20,733,False,
+50,140586054,John Ales*,IAmJohnAles,#BLM We must #EndCitizensUnited. jackassdog-IG Maddox @startrekcbs Jules’ Dad @euphoriahbo Rehab @SDRR @EWarren @BernieSanders #GirlDad,http://pbs.twimg.com/profile_images/1214275214856474624/mRmvNtA9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-05 22:15:27,Los Angeles,,True,16415,2355,39994,60,113285,True,

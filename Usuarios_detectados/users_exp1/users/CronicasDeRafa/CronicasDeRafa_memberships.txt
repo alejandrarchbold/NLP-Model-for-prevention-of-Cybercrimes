@@ -1,0 +1,30 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:33
+,>>> Analyzed user:,CronicasDeRafa
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1074113263787495424,medios_colombia,,308,0,/MMresearch/lists/medios-colombia1,MMresearch,Mon Dec 10 16:01:51 +0000 2018,MMresearchLA,,3,5
+2,42004375,Gente de palabras,"Escritores: novelas, crónicas, cuentos,  ensayos... impreso y digitales",197,10,/BunkerGlo/lists/gente-de-palabras,BunkerGlo,Wed Feb 24 03:24:38 +0000 2010,Gloria Ortega Pérez,Periodista. Bloguera. Dudo luego insisto. Con licencia para cuestionar. Freelance.,15232,577
+3,739176801503707136,VideoBlogs,,4,0,/univalleCo/lists/videoblogs,univalleCo,Fri Oct 23 17:22:55 +0000 2015,Univalle Comunidad,"Somos estudiantes de #Univalle, pero #NO la representamos ◼ Siga la CUENTA Institucional @UnivalleCol y el listado abajo.",13213,613
+4,208773133,Noticias,Noticias-Actualidad,68,0,/CosmicHeadache/lists/noticias,CosmicHeadache,Wed Mar 04 20:10:20 +0000 2015,VoyFugaz,"You must be at least this high to enter
+#IfYouKnowWhatIMean",104,582
+5,14836972,La lista de Wally,"Tuiteros geniales, Amigos, Opinión sana, gente que admiro. Puedes encajar en cualquiera.",247,15,/MeDicenWally/lists/la-lista-de-wally,MeDicenWally,Tue Aug 04 02:33:18 +0000 2009,Wally.,#WallyOpina en @Youtube | Premio Nacional de Periodismo Simón Bolívar | Ph.D. en Política Macondiana | Facebook: MeDicenWally | Instagram: MeDicenWally,383759,758
+6,198264999,Gente Unica,La verdad parece mas dura de lo que se puede reír cuando decírsela a otro suena cruel.,51,0,/ChinitoAndres/lists/gente-unica,ChinitoAndres,Sun May 02 06:00:10 +0000 2010,Andres A | 🇨🇴 | #QuedateEnCasa🏠,"En contra absoluta de la #Corrupción y los #MalosGobernantes ""siempre habran personas corruptas aprendamos a elegir""",322,1002
+7,227868838,Región Caribe Colombia,"En Colombia, la región natural por excelencia es la Región Caribe",1902,15,/apontonq/lists/regi-n-caribe-colombia1,apontonq,Thu Dec 03 00:38:27 +0000 2015,Could You Be Loved,"🇨🇴 Liga (8): ⭐⭐⭐⭐⭐⭐⭐⭐
+🇨🇴 Copa (2): 🏆🏆
+🇨🇴 Superliga (1): 🏅
+
+⭐1977      ⭐2004      🏆2017
+⭐1980      ⭐2010      ⭐2018
+⭐1993      ⭐2011      🏅2019
+⭐1995",75,280
+8,226535876,Bloggers,"Encuentre aquí una gran variedad de temas, manejados por algunos bloggers",21,0,/JohnLemosTweet/lists/bloggers,JohnLemosTweet,Mon Apr 09 23:59:57 +0000 2012,John Lemos,"The official Twitter account of John Lemos. Catholic Apologetics, Philosophy, Religious News, and Theology. *Retweet is not endorsement*",906,2689
+9,705403002861936641,Medios alternativos,Buscamos intercambio mutuo en las labores como periodismo ciudadano.,4,0,/RTVCaribe/lists/medios-alternativos,RTVCaribe,Fri Jul 24 17:48:08 +0000 2015,rtvc,,172,331
+10,130337231,Pildoras Anti-Fasistas,Lista que Tuiteros que lanzan Pildoritas y perlitas que tanto desesperan a los escualidos,12,0,/EstoNoSaleEnCNN/lists/pildoras-anti-fasistas,EstoNoSaleEnCNN,Mon Apr 07 12:35:58 +0000 2014,Esto No Sale En CNN,"Desmontando Matrices de los Grandes medios, cuando sus intereses sobrepasan La Verdad #CÑM",1665,1904
+11,119147137,Patra Grande,,35,0,/EstoNoSaleEnCNN/lists/patra-grande,EstoNoSaleEnCNN,Mon Apr 07 12:35:58 +0000 2014,Esto No Sale En CNN,"Desmontando Matrices de los Grandes medios, cuando sus intereses sobrepasan La Verdad #CÑM",1665,1904

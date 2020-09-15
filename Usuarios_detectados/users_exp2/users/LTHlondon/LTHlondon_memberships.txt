@@ -1,0 +1,73 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,21:36
+,>>> Analyzed user:,LTHlondon
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,815723390048866304,Code,"Tech, economics, science and philosophy accounts, with some random additions sprinkled in.",4899,10,/Mohamed3on/lists/code,Mohamed3on,Mon Nov 08 14:33:36 +0000 2010,Mohamed Oun,"Frontending @hellofreshdev, organizing @OpenTechSchool.",887,129
+2,904402879875833857,mt05445,,1050,0,/msaunby/lists/mt05445,msaunby,Sat Sep 12 09:26:30 +0000 2009,Michael Saunby,"Michael Saunby
+
+Maker (engineer), Tinkerer (scientist), Teacher (lecturer).
+
+It doesn't look like anything to me.",1550,3048
+3,1271441622149009408,Striehnuť,,146,2,/iMobyPaul/lists/striehnu,iMobyPaul,Mon Apr 13 11:20:56 +0000 2020,Scowling Owl,"Emigrant / Immigrant, Advocate for iScotland. Central European by adoption, Europhile by conviction, as have seen the darker side ... writes a bit",76,112
+4,1145312248317063168,Statue-guarders 🚮,🤡🤡🤡🤡🤡🤡 Far-right knuckledragging twats that think the queen is their gran 🚮,545,2,/IsaNamee/lists/statue-guarders,IsaNamee,Sat Jun 22 11:36:38 +0000 2019,𝐀𝐮𝐧𝐭𝐲 𝐅𝐚𝐡,"Bitch better have my money.
+🏴󠁧󠁢󠁳󠁣󠁴󠁿",256,213
+5,1181222265616289792,Top feeds,,188,0,/WillAHannam/lists/top-feeds,WillAHannam,Sun Jun 04 20:32:37 +0000 2017,Will,,27,24
+6,1170368525657096192,Tories,,156,0,/unclehohoho/lists/tories,unclehohoho,Thu Feb 26 14:28:26 +0000 2009,Uncle Ho,Scouse. Socialist. Red.,829,860
+7,1167082785942790146,Horrible Cunts,A Place To Put People To Forget Them,4,0,/johnmdow/lists/horrible-cunts,johnmdow,Wed Jul 18 11:18:11 +0000 2007,🏴󠁧󠁢󠁳󠁣󠁴󠁿Choobthulu🇪🇺,"A bit Scottish, synthesist, banjo player, biker, gamer, brewer, sailor, writer, UNIX nerd. A real person.",498,541
+8,1181307741064896519,London Brexiteers,,1,0,/jimmynoodle/lists/london-brexiteers,jimmynoodle,Thu Sep 16 22:15:23 +0000 2010,#GreenwichResident,#immigrant #Brexit #highereducation #politics #gay #minority #Chinese #alllivesMatter. Education Consultant believe in Britain & Democracy,465,991
+9,918527114466549760,Of course you are,"Nice people, very nice people, and friends of nice people",4988,1,/msaunby/lists/of-course-you-are,msaunby,Sat Sep 12 09:26:30 +0000 2009,Michael Saunby,"Michael Saunby
+
+Maker (engineer), Tinkerer (scientist), Teacher (lecturer).
+
+It doesn't look like anything to me.",1550,3048
+10,1111790868787286018,Campaigns,,46,0,/JohnnyBizzel/lists/campaigns,JohnnyBizzel,Tue Feb 17 08:37:44 +0000 2009,Johnny B,"Software coder, part time dancer & battle ready ninja who loves to cycle!",269,1550
+11,1096821209545797632,Local,,62,0,/JohnnyBizzel/lists/local,JohnnyBizzel,Tue Feb 17 08:37:44 +0000 2009,Johnny B,"Software coder, part time dancer & battle ready ninja who loves to cycle!",269,1550
+12,1128755798429929473,Brexit Train,🇬🇧 ➡️ 🗳️,507,6,/shiremoorpotter/lists/brexit-train,shiremoorpotter,Mon Aug 30 20:44:25 +0000 2010,Xpat 🇬🇧,Beware 'The Mind Magician' and his 'Spatial Illusions',10037,9994
+13,703375418431148033,Brexit groups,,17,1,/DancerGuard/lists/brexit-groups,DancerGuard,Sat Aug 24 19:21:56 +0000 2013,Dancing Palace Guard,"Nurture our national story, stop killing it. 🇬🇧 #Brexit since 2013 #StandUp4Brexit #BritishIndependence",8388,7020
+14,732805030206668800,UK,,271,2,/paulster50/lists/uk,paulster50,Sat May 21 05:11:05 +0000 2011,China & the globalists did it.,"54 years old, Conservative & human dog. Sick of biased media and their socialism. Proud Infidel. #MSMistheenemy #MSMistheproblem GAB@Bloke56 🇦🇺🇺🇸🇮🇱🇬🇧",3172,3363
+15,1051936203216445442,GP,The Gammon Containment Unit. Leaks so much toxic gas that Walter Peck wants to shut it down.,2950,12,/Ecto1Fan/lists/gp,Ecto1Fan,Sat Jun 16 21:13:43 +0000 2012,Slimer Meeseeks 🇪🇺 ANTIFA ✊ VOTE KHAN,"Fan of Ghostbusters, comedy & video games. Socialist & Rejoiner. Gozer Worshipper. Pro abortion, vaccinations, 5G & EU. Anti guns, capitalism, war & military.",2482,4994
+16,845690629409701888,ProBrexit,,500,2,/firefishy1/lists/probrexit,firefishy1,Sun Apr 20 21:08:30 +0000 2008,Grant Slater,DevOps Engineer and part of the OpenStreetMap Sysadmin team. All opinions my own and not those of my employer.,1008,317
+17,938397667520020480,Brexshitters,,62,0,/ChrispyPancake/lists/brexshitters,ChrispyPancake,Sat Dec 04 09:25:08 +0000 2010,Chris P. Pancake ❄️ #Fakebackcontrol,"Allotmenteer, explorer, Living in Borisland. 
+Blocked by Redwood, Fysh and a range of other right-wing turds. 
+🇪🇺🇬🇧🇩🇪",1372,3136
+18,1010899448308944896,Would Love Our Walks,,4791,3,/FitNottingham/lists/would-love-our-walks,FitNottingham,Tue May 15 07:52:06 +0000 2018,Get Fit Nottingham,"🎄Active Winter🎄 Get fit, stay fit, and push yourself with three levels of activity to suit most people.",1760,1969
+19,1005069663292846080,AotF - broadcastnow,,3304,1,/innovateuk/lists/aotf-broadcastnow,innovateuk,Wed Aug 19 13:25:26 +0000 2009,Innovate UK,We are the UK’s #innovation agency. We fund & support #science & #technology ideas that grow the #economy YouTube: https://t.co/mKmzoCgpYq  Part of @UKRI_News,124265,32173
+20,861695164254957571,Patriots,"TrumpTrain, CruzCrew & everyone in between. Reached follow limit, thus the list.",475,7,/LiteraryPaige/lists/patriots,LiteraryPaige,Thu Apr 21 00:22:14 +0000 2011,C. Paige B. 🇺🇸🇮🇱,Steampunk † zombie gurl. Able to trip over dust bunnies in a single bound. Writer. LEFT THE LEFT #WalkAway. 2ndA=1stA #LesDeplorables #CruzCrew #ThePersistence,2066,4988
+21,899477939519016961,Interesting Things,"Interesting news, lists, trivia",359,4,/gc49n11/lists/interesting-things,gc49n11,Wed Mar 19 07:31:52 +0000 2014,Not Blank,,123,2053
+22,216194560,Is there anything left?,Worth following just so I can shake my head in disagreement and shout loudly at the timeline,14,0,/jimbohc/lists/is-there-anything-left,jimbohc,Fri Jan 30 08:35:29 +0000 2009,Brythnoth Ealdorman,"Unreconstructed GOM… Still #ToryScum, #Brexit and proud… Spurs & Darlo 'til I die… my views are entirely my own but you're free to agree with them",284,596
+23,945344556026953728,Fuckwits,,16,0,/evilnick/lists/fuckwits,evilnick,Fri Sep 05 23:35:24 +0000 2008,Nick Veitch,"writer (professional), father (unprofessional), human (jury still out)",1233,2764
+24,819559026572853248,The Chumocracy,"People I tend to agree with. So yes, this is MY echo chamber. ",23,0,/TheTortorian/lists/the-chumocracy,TheTortorian,Tue Feb 09 13:02:17 +0000 2010,Conand,The only thing we have to fear is fear itself.,1572,1892
+25,961964225139748864,Winter Olympics 2018 ,Those who are interested or talking about the Winter Olympics,41,0,/Alps2Alps/lists/winter-olympics-2018,Alps2Alps,Tue Nov 01 12:13:39 +0000 2011,Alps2Alps,"The voice of affordable, reliable & friendly ski #airport #transfer service. Gossip & updates on road to #skiing. Covering all #airports & Alpine #ski #resorts.",4450,4876
+26,890989493053992961,kingsland17,,48,0,/kuxi/lists/kingsland17,kuxi,Fri Aug 08 15:50:17 +0000 2008,𝑺𝒖𝒏𝒊𝒍,"☀️🤖- find me on Slack, link in bio ✌️",624,1459
+27,12762803,news,,212,3,/ArtistJCompton/lists/news,ArtistJCompton,Sat Jan 09 13:54:03 +0000 2010,J Compton,Photo depicts portion of Crocifissione di san Pietro (1601) by Caravaggio.,3000,3745
+28,860601403110240257,LGBT,,3884,40,/JoshRimer/lists/lgbt1,JoshRimer,Wed Feb 18 07:06:54 +0000 2009,Josh Rimer,"I'm probably best known for my travel videos on my YouTube channel and Canada's national LGBT+ TV station @OUTtv, but I was also Mr. Gay Canada 2019! 🏳️‍🌈🇨🇦",7995,1991
+29,93543075,News,,114,1,/CollimerStu/lists/news,CollimerStu,Sat May 01 20:23:18 +0000 2010,Stuart Tricker,"Friendly•gym•books• art & architecture•history•gardening•love London & France, drinking coffee and watching people 🏳️‍🌈🇪🇺",792,1978
+30,803107495879254016,Lets Follow Leaders,,2981,16,/vrai777/lists/lets-follow-leaders,vrai777,Sat Mar 07 02:13:26 +0000 2009,Vishma Rai (ϑ ℛai),🧬 Scientist 📡 in a 🚀journey!!! Everywhere 📌in the 🌐 web: #vrai777 🔭 Tweets 🐦 Views 👨🏻‍💻 Endorsement 🚫,7199,140
+31,823627443546288128,Inauguration Day Tweets1,,3862,23,/NikkiRSharp/lists/inauguration-day-tweets1,NikkiRSharp,Mon Apr 02 02:14:15 +0000 2012,Nikki Sharp,"Best-Selling Author, Wellness Expert & Chef. Lover of travel, wine & health! Featured in Forbes, Huffington Post, Vogue, Cosmo, Elle, Shape + more✨",18558,1075
+32,822468740092751873,Interesting People,,1553,16,/TheReporter00/lists/interesting-people,TheReporter00,Tue Apr 19 08:45:36 +0000 2016,The Reporter,Follow and re-tweet my reports please,3969,2573
+33,820430993597366276,News Readers,,4030,7,/dailyreadlist/lists/news-readers,dailyreadlist,Thu Apr 09 21:37:19 +0000 2015,Daily Read List,Bringing you the latest news and their related articles.,4371,4357
+34,819136976024702976,Housing London,,4380,21,/AFL_tweet/lists/housing-london,AFL_tweet,Mon Oct 15 13:28:57 +0000 2012,Architecture for London,"Architecture for London. RIBAJ Rising Stars. Shortlisted: BD Housing & Young Architect of the Year, NLA Don't Move Improve, AJ Retrofit & Small Projects Award.",2702,1588
+35,818545255649865728,Video 3,,3809,10,/BenSRachinger/lists/video-3,BenSRachinger,Wed Apr 08 02:42:53 +0000 2009,Ben Is an Isolated Rachinger,Smart enough to know I'm stupid. View of the world changes daily & incrementally. Build a mean chatbot. Wear hearing aids. Here For It. Highly mobile 😇,10466,1355
+36,804453730670276608,Fabric Music,,4303,16,/Utopiahongkong/lists/fabric-music,Utopiahongkong,Wed Sep 28 11:15:06 +0000 2016,Utopia Hong kong,"Electronic Music Community, DJs, Events Makers, Music Passionates.
+#dancemusic #techno #housemusic #events #Hongkong #utopiahongkong #nightlife #utopiapodcast",204,546
+37,95115875,DAYS,,80,2,/TOTODUVALDIVA/lists/days,TOTODUVALDIVA,Tue Dec 01 00:10:14 +0000 2009,cσcσ ρυƒƒ,ℓiνє α ℓiттℓє & ℓσνє α ℓσт! σηє ∂αу ιт ωiℓℓ αℓℓ мαкє ѕєηѕє . . . @NAOMiCAMPBELL iѕ му sнєяσ!💋👠 #TEAMLEO ♌️🦁👑,840,1942
+38,791927881119047680,Letting Agents,,2478,3,/westoneloans/lists/letting-agents,westoneloans,Tue Jul 27 12:45:30 +0000 2010,West One Loans,"West One Loans are a specialist finance lender, making it quicker and easier for you to secure finance.",7358,4408
+39,795306604300300290,Bedford Tweets,,3992,22,/BedsRegion/lists/bedford-tweets,BedsRegion,Sun Nov 06 15:57:41 +0000 2016,Bedfordshire County,Tweets from in and around our wonderful county (#Bedfordshire).,269,92
+40,768853097728864256,Silly Retards,List of silly RETARDS,241,1,/moneyped/lists/silly-retards,moneyped,Thu Oct 03 22:40:05 +0000 2013,Jazz,Just here.,56,244
+41,791563631032950785,Science Tweeps,,4179,19,/BenSRachinger/lists/science-tweeps,BenSRachinger,Wed Apr 08 02:42:53 +0000 2009,Ben Is an Isolated Rachinger,Smart enough to know I'm stupid. View of the world changes daily & incrementally. Build a mean chatbot. Wear hearing aids. Here For It. Highly mobile 😇,10466,1355
+42,768017486683996160,Tweets in an area,,4480,15,/Miacademy3/lists/tweets-in-an-area,Miacademy3,Fri Mar 25 18:30:00 +0000 2016,Miacademy,,5,0
+43,744564862223810561,Croydon Legends,,4247,45,/LondonLiveEvent/lists/croydon-legends,LondonLiveEvent,Mon Aug 22 17:55:22 +0000 2011,London Live Events⭕️,News and Events from #London #UK,11380,3786
+44,704930245476941824,uk black commentary 35<,,26,0,/michaelcadette/lists/uk-black-commentary-35,michaelcadette,Thu Jun 09 21:52:50 +0000 2011,why dina got no second name?,an un-reformed shady pedant. my tweets are my own. me liking a tweet is not an endorsement. this is not a professional account.,106,346
+45,200305019,Locals,,608,1,/MinestraSupper/lists/locals,MinestraSupper,Sun Feb 08 21:24:27 +0000 2015,Minestra,"Homemade italian food: Supper clubs, cookery classes, bespoke catering and much more #Tooting #Furzedown #Streatham. Powered by @mesagouk",1103,1735
+46,766703396862689280,Surrey Legends,,4310,23,/SurreyScoopUK/lists/surrey-legends,SurreyScoopUK,Fri Jul 13 11:11:39 +0000 2012,Surrey Scoop,"100% Authentic Genuine #Surrey #Satire #News, none of this fake muck!",2542,993
+47,769360951304982528,Triathlons,,4481,29,/TriSportWorld/lists/triathlons,TriSportWorld,Mon Jan 09 21:45:54 +0000 2012,TriSportWorld.com,"https://t.co/ZLc46g2fOz is the largest online Triathlon club, Running club and Biking club finder. Search our site to find your specific type of club.",31440,43146
+48,769365627131887620,Cycling,,4506,21,/TriSportWorld/lists/cycling,TriSportWorld,Mon Jan 09 21:45:54 +0000 2012,TriSportWorld.com,"https://t.co/ZLc46g2fOz is the largest online Triathlon club, Running club and Biking club finder. Search our site to find your specific type of club.",31440,43146
+49,773120928683360256,Linkedin Connectors,,3634,27,/entrodoapp/lists/linkedin-connectors,entrodoapp,Tue Sep 06 11:17:50 +0000 2016,entrodo,Best way to be introduced | Apple App Store: https://t.co/2bCAZ3SbWE | Google Play Store: https://t.co/RS4vFIIYb2 | #networking #linkedin #introductions #intro,270,0
+50,761956918407655428,Fitness Friends,,3988,35,/thefatgooner/lists/fitness-friends,thefatgooner,Thu Jan 07 20:28:58 +0000 2016,The Fat Gooner,Health and Fitness enthusiast. I love my wife and son. #Fitness #Arsenal,97,112

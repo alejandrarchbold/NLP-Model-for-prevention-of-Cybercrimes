@@ -1,0 +1,16 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,15:06
+,>>> Analyzed user:,RealSaleemJuma
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1154148215756709888,Conservative Reporters,"To send tips on exposing ""The Tolerant Left"" in Seattle. ",1,0,/RealSaleemJuma/lists/conservative-reporters,RealSaleemJuma,Sun Mar 31 07:42:55 +0000 2019,Chad of the CHAZ,"Right Leaning Independent 🤔🧐 ||
+
+Watch me get Assaulted by Leftists while giving out Free Hugs: https://t.co/MmwnuCb7nZ || 
+
+Once Retweeted by Trump 🤷",13050,61

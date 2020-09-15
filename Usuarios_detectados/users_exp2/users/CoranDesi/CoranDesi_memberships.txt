@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,21:47
+,>>> Analyzed user:,CoranDesi
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1100356037213863936,Pro-Brexit,,1342,5,/VileAssembly/lists/pro-brexit,VileAssembly,Thu Mar 02 20:15:34 +0000 2017,Vile Assembly,"Fattened By The Horrors Of War album, Listen to Vile Assembly on 🎶Spotify: https://t.co/Ufu7ZiYcE9",953,1628
+2,1175462785473318914,Brexit,Talking about leaving the EU and moving forward,1195,13,/BritainBiteBack/lists/brexit,BritainBiteBack,Mon May 28 16:59:18 +0000 2012,Britain Bites Back,The official arm of BRITAIN BITES BACK. Many follow us on Facebook but now you can follow us on Twitter too. Supporting YOUR views!,597,469
+3,1051936203216445442,GP,The Gammon Containment Unit. Leaks so much toxic gas that Walter Peck wants to shut it down.,2952,12,/Ecto1Fan/lists/gp,Ecto1Fan,Sat Jun 16 21:13:43 +0000 2012,Slimer Meeseeks 🇪🇺 ANTIFA ✊ VOTE KHAN,"Fan of Ghostbusters, comedy & video games. Socialist & Rejoiner. Gozer Worshipper. Pro abortion, vaccinations, 5G & EU. Anti guns, capitalism, war & military.",2482,4996

@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,14:30
+,>>> Analyzed user:,EudesSanchez8
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1280292860991098880,Magi,Magi11638115,Accesorios Magi,http://pbs.twimg.com/profile_images/1280293120584888321/r_eE0DAH_normal.jpg,,2020-07-07 00:09:52,"Barrancabermeja, Colombia",,False,15,127,2,0,1,False,

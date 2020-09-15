@@ -1,0 +1,16 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:52
+,>>> Analyzed user:,Oscar_GCh
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,762585717960740864,Bogotá,,1289,8,/Nosepasedelar/lists/bogot,Nosepasedelar,Thu Nov 24 17:06:39 +0000 2011,Nosepasedelaraya,"Nunca dudes que un pequeño grupo de ciudadanos pensantes y comprometidos pueden cambiar el mundo. De hecho, son los únicos que lo han logrado
+
+Margaret Mead",4883,5080
+2,780751849574043649,Daily Biker,,2069,16,/GetBixi/lists/daily-biker,GetBixi,Sat Aug 01 13:57:00 +0000 2015,Bixi:Gesture Control,"Control your smart devices by simply waving your hands #IOT #smartdriving #smarthome #music.
+Get notified when our 2nd batch order opens.",1866,775

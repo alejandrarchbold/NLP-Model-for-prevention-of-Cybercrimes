@@ -1,0 +1,84 @@
+Source	Target	Kind	f.follower		followers
+Taliskerwithice	CoranDesi	friend	mutual	0	StevenS96812802
+Korn_Wallace	CoranDesi	friend	follower	0	BenWiles15
+paulafr68963440	CoranDesi	mutual	mutual	paulafr68963440	JacquiEgan3
+StevenS96812802	CoranDesi	mutual	mutual	StevenS96812802	pammied43
+peterdavies211	CoranDesi	friend	mutual	0	TomSanders557
+annaberu	CoranDesi	friend	mutual	0	jdupdater2
+pammied43	CoranDesi	mutual	mutual	pammied43	paulafr68963440
+jdupdater2	CoranDesi	mutual	mutual	jdupdater2	DudleyLyn
+IntegrityNeeded	CoranDesi	friend	mutual	0	Emma34770971
+DudleyLyn	CoranDesi	mutual	mutual	DudleyLyn	love2CNe
+Maisie681	CoranDesi	friend	mutual	0	Thistlethinking
+numero1troll	CoranDesi	friend	mutual	0	paulineannejack
+TomSanders557	CoranDesi	mutual	mutual	TomSanders557	TJCoDown1
+TheStephenReed	CoranDesi	friend	mutual	0	KateBolger7
+JacquiEgan3	CoranDesi	mutual	mutual	JacquiEgan3	Luisa47132714
+bradd_james	CoranDesi	friend	mutual	0	DaveChandler_
+BlankOpenspace	CoranDesi	friend	mutual	0	whtel
+bbclaurak	CoranDesi	friend	mutual	0	womaninchains85
+TwitcherMoe	CoranDesi	friend	follower	0	MaryGreenway1
+Billsboy9	CoranDesi	friend	follower	0	RosinaFrance
+paulineannejack	CoranDesi	mutual	follower	paulineannejack	imasurvivor66
+WidfordParish	CoranDesi	friend	follower	0	MMLS2
+CoJanet26	CoranDesi	friend	follower	0	kazzaalazz
+RealityBoost	CoranDesi	friend	follower	0	lajamfam
+CromwellStuff	CoranDesi	friend	follower	0	ladyjan67
+JaneFox30949258	CoranDesi	friend	follower	0	WolfbaneAria
+MagnusHugh	CoranDesi	friend	follower	0	millypeckam
+PoliticsPleb	CoranDesi	friend	follower	0	PayneDecember
+KevinLo02861217	CoranDesi	friend	follower	0	sister666uk
+PetuniaPuddled1	CoranDesi	friend	follower	0	chrissybell08
+Luisa47132714	CoranDesi	mutual	follower	Luisa47132714	MrsMacgugan
+womaninchains85	CoranDesi	mutual	follower	womaninchains85	pilling_tom
+MOOMOO111	CoranDesi	friend	follower	0	alastairdick
+Emma34770971	CoranDesi	mutual	follower	Emma34770971	OTVDesk
+Reddevilfox	CoranDesi	friend	follower	0	Saddlerlad
+love2CNe	CoranDesi	mutual	follower	love2CNe	JimLockett6
+Paulc2nd	CoranDesi	friend	follower	0	kinmontwill
+Thistlethinking	CoranDesi	mutual	follower	Thistlethinking	cazza7293
+whtel	CoranDesi	mutual	follower	whtel	russcarter37681
+DaveChandler_	CoranDesi	mutual	follower	DaveChandler_	smudgington
+TJCoDown1	CoranDesi	mutual	follower	TJCoDown1	PEMGuzman
+paularyan100	CoranDesi	friend	follower	0	Nynaeve5
+DayTimeTony	CoranDesi	friend	follower	0	Karen46298558
+diiiiiiiinamic	CoranDesi	friend	follower	0	stellanbraska
+WhiteRo17981004	CoranDesi	friend	follower	0	HaydenG01
+roboneil999	CoranDesi	friend	follower	0	Melissa5857
+TerryWilson10	CoranDesi	friend	follower	0	ChristineMoffi2
+christinepye191	CoranDesi	friend	follower	0	Mollymo62893471
+KateBolger7	CoranDesi	mutual	follower	KateBolger7	Lava_Louisa
+pdhywrd13	CoranDesi	friend	follower	0	BelgMalinois_
+BenWiles15	CoranDesi	follower			
+MaryGreenway1	CoranDesi	follower			
+RosinaFrance	CoranDesi	follower			
+imasurvivor66	CoranDesi	follower			
+MMLS2	CoranDesi	follower			
+kazzaalazz	CoranDesi	follower			
+lajamfam	CoranDesi	follower			
+ladyjan67	CoranDesi	follower			
+WolfbaneAria	CoranDesi	follower			
+millypeckam	CoranDesi	follower			
+PayneDecember	CoranDesi	follower			
+sister666uk	CoranDesi	follower			
+chrissybell08	CoranDesi	follower			
+MrsMacgugan	CoranDesi	follower			
+pilling_tom	CoranDesi	follower			
+alastairdick	CoranDesi	follower			
+OTVDesk	CoranDesi	follower			
+Saddlerlad	CoranDesi	follower			
+JimLockett6	CoranDesi	follower			
+kinmontwill	CoranDesi	follower			
+cazza7293	CoranDesi	follower			
+russcarter37681	CoranDesi	follower			
+smudgington	CoranDesi	follower			
+PEMGuzman	CoranDesi	follower			
+Nynaeve5	CoranDesi	follower			
+Karen46298558	CoranDesi	follower			
+stellanbraska	CoranDesi	follower			
+HaydenG01	CoranDesi	follower			
+Melissa5857	CoranDesi	follower			
+ChristineMoffi2	CoranDesi	follower			
+Mollymo62893471	CoranDesi	follower			
+Lava_Louisa	CoranDesi	follower			
+BelgMalinois_	CoranDesi	follower			

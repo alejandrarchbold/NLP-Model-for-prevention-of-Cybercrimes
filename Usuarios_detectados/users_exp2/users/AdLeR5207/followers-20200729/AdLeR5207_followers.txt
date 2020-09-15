@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,00:13
+,>>> Analyzed user:,AdLeR5207
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,789142019696451584,Ron LeRoux,RLeRx,Dad of Dads and Blessed!,http://pbs.twimg.com/profile_images/1281200120088924162/ggLBd_Q0_normal.jpg,,2016-10-20 16:31:33,"Ohio, USA",,False,13,68,120,0,63,False,

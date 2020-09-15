@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,22:10
+,>>> Analyzed user:,NamasteThelion
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1227426,Gaming,,65,51003,/IGN/lists/gaming,IGN,Tue Jan 13 03:56:38 +0000 2009,IGN,"We're all about movies, TV, video games, and Bugsnax!",7477182,1067

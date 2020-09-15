@@ -1,0 +1,15 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,01:15
+,>>> Analyzed user:,ble29394791
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,2409543974,Snapchat Support,snapchatsupport,"Snapping, snacking, and supporting!
+
+Discover tips, find answers to common questions, and get even more help on our support site: https://t.co/E2M9812sQR",http://pbs.twimg.com/profile_images/1164248026946273280/RJatdZMp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-24 20:54:48,"Venice, CA",,False,737860,7,396287,459,1025,True,
+2,25073877,Donald J. Trump,realDonaldTrump,45th President of the United States of America🇺🇸,http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-18 13:46:38,"Washington, DC",,True,84250162,50,54035,117158,4,True,

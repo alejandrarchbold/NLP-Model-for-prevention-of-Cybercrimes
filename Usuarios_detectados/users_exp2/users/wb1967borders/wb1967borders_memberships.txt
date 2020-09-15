@@ -1,0 +1,27 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,00:01
+,>>> Analyzed user:,wb1967borders
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,805158206850945026,nfl for firefn,,1721,0,/ivsprasad/lists/nfl-for-firefn,ivsprasad,Fri Oct 24 04:30:35 +0000 2008,ivsprasad,Bitcoin: 3H4r7YAz8onsvAnqQVfApn5TarvY7mk29C,321,983
+2,800192073639034881,Golf,,3044,12,/Liberty13046/lists/golf,Liberty13046,Wed Sep 14 22:37:18 +0000 2011,Recall Gavin Newscum,"A prosperous economy happens without government intervention. I believe in liberty, safety, freedom and capitalism.",5645,3966
+3,777917690866524160,Twitter Tweeps,,4008,30,/SMMWriter/lists/twitter-tweeps,SMMWriter,Thu Jan 29 04:56:16 +0000 2015,"NilookaD, SMM Writer #SocialMediaMarketing","Social media channel strategy, original content creation, #content curation and management.
+#Social #SMM #Twitter #Facebook #LinkedIn #marketing",2262,4687
+4,796465295061815296,DemsUnited,,3847,30,/Hillarycrats/lists/demsunited,Hillarycrats,Wed Nov 09 19:43:02 +0000 2016,Hillary Clinton Democrats,#StillWithHer #NeverBernie #ILoveHillaryClinton,71,38
+5,770082495526215685,origin of morality,,2381,10,/reasonablymoral/lists/origin-of-morality1,reasonablymoral,Thu Jun 26 21:57:24 +0000 2014,Reasonable Morality,"Is it better to love someone because you are supposed to, or because you do?",19,12
+6,223517419,Jenner Love,,553,6,/AllAbtDaJenners/lists/jenner-love,AllAbtDaJenners,Sat Oct 24 10:19:58 +0000 2015,AllAboutTheJenners,All About the Jenners & abit about those othersguys. ;-) Side note--If you ever have a need for a it more cash check out the link below.,107,0
+7,204049832,Friends of,,3937,29,/OneFamilyUK/lists/friends-of,OneFamilyUK,Mon Nov 22 12:33:30 +0000 2010,One Family UK,"Helping over 70,000 innocent Israelis whose lives have been shattered by a terrorist atrocity in Israel,to learn more visit https://t.co/bH1pYnyUL0",519,0
+8,108926573,BDS List 2,Under 500 Followers.,3321,46,/BdsWorks/lists/bds-list-2,BdsWorks,Mon Jan 20 20:48:34 +0000 2014,BDS Works!,We stand for #HumanRights #Justice & #Better #World for all. #BDS #FreePalestine #Followback 4 #Peace in #Palestine #FB4P #J4P,14989,32822
+9,108926421,Palestine List 6,0 to 150 followers,2767,45,/BdsWorks/lists/palestine-list-6-2,BdsWorks,Mon Jan 20 20:48:34 +0000 2014,BDS Works!,We stand for #HumanRights #Justice & #Better #World for all. #BDS #FreePalestine #Followback 4 #Peace in #Palestine #FB4P #J4P,14989,32822
+10,106873088,Top 1000 Palestine,Another list. ,1400,8,/Top1kPalestine/lists/top-1000-palestine,Top1kPalestine,Fri Feb 28 21:01:03 +0000 2014,Top 1k Palestine,Top 1000 Activists or people interested in Palestine & Peace in Palestine #Human Rights #Justice #Peace FreePalestine. #Lists I #Followback,161,728
+11,105228992,BDS,#BDS,391,5,/BdsWorks/lists/bds,BdsWorks,Mon Jan 20 20:48:34 +0000 2014,BDS Works!,We stand for #HumanRights #Justice & #Better #World for all. #BDS #FreePalestine #Followback 4 #Peace in #Palestine #FB4P #J4P,14989,32822
+12,105253933,ListA,List A ,435,2,/BdsWorks/lists/lista,BdsWorks,Mon Jan 20 20:48:34 +0000 2014,BDS Works!,We stand for #HumanRights #Justice & #Better #World for all. #BDS #FreePalestine #Followback 4 #Peace in #Palestine #FB4P #J4P,14989,32822
+13,43939754,ThroughDocuments, unprohibited tweets...,1337,42,/ironyiet/lists/throughdocuments,ironyiet,Mon Feb 22 23:32:21 +0000 2010,DanlehrerAnna,Remember #RachelCorrie #VikArrigoni #JulianoMehrKhamis #TomHurndall #JamesMILLER,2830,2481
+14,51442316,UtoeyaSapiensSapiens,the target,1499,18,/ironyiet/lists/utoeyasapienssapiens,ironyiet,Mon Feb 22 23:32:21 +0000 2010,DanlehrerAnna,Remember #RachelCorrie #VikArrigoni #JulianoMehrKhamis #TomHurndall #JamesMILLER,2830,2481
+15,66285436,BDS-TWEEPER,,1296,15,/ironyiet/lists/bds-tweeper,ironyiet,Mon Feb 22 23:32:21 +0000 2010,DanlehrerAnna,Remember #RachelCorrie #VikArrigoni #JulianoMehrKhamis #TomHurndall #JamesMILLER,2830,2481

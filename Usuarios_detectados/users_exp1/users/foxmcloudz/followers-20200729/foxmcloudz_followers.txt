@@ -1,0 +1,96 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,17:18
+,>>> Analyzed user:,foxmcloudz
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,17601080,Mauricio Marin,mauromarinm,"Médico y especialista en Administración de Servicios de Salud de la Universidad de Antioquia, hablador de paja hasta en Twitter",http://pbs.twimg.com/profile_images/836541653347352576/ZTGBm3sk_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2008-11-24 21:02:27,"Medellín, Colombia",,True,1550,1926,580,1,536,False,
+2,1620714907,Joha P. Castellanos,johana_0717,I'm psychologist and currently I'm studying a specialization of consumer. I love help to many people and love the music are really the best things of my world.,http://pbs.twimg.com/profile_images/1262261535042387970/wcT9e9mf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-07-25 15:54:17,"From Bogotá D.C, Colombia",,True,302,834,772,0,718,False,
+3,1127039893375463424,Movimiento Animalista Colombiano - MAC,Mov_AnimalCol,"Colectivo ciudadano que trabaja por la protección y bienestar integral de animales de compañía y fauna silvestre.
+#DefensaAnimal 🐾",http://pbs.twimg.com/profile_images/1192846330093330433/F0orU15b_normal.jpg,,2019-05-11 02:37:04,"Bogotá, D.C., Colombia",,False,1619,479,2537,0,2563,False,
+4,963553914460176384,Franco Leal,MamertoApoliti1,,http://pbs.twimg.com/profile_images/963556692859473921/I3dFxidp_normal.jpg,,2018-02-13 23:22:09,,,True,1339,2335,47233,0,54696,False,
+5,888549031756128256,Carlos Miranda,lianaythiago,"INGENIERO AGROINDUSTRIAL. Noticias Deportes Política Salud Opinión
+#AntiUribista",http://pbs.twimg.com/profile_images/956377197371150336/-EVAlQTI_normal.jpg,,2017-07-21 23:59:32,"Leticia, Colombia",,False,307,610,1314,1,1559,False,
+6,1270732992911233024,Pascual del Bosque.,Pascualdelbosq1,"Pacifista, progresista, educador,  defensor de los derechos humanos.🥑🥑🥑",http://pbs.twimg.com/profile_images/1281241176289546247/8U8dHt2I_normal.jpg,,2020-06-10 15:02:33,,,False,1866,3666,1109,1,769,False,
+7,3401480861,Guillermo Pérez,GPerezPardo,Antropólogo y Defensor de la Paz con Justicia Social. Militante de la vida. Hago parte de @PrensaRural.,http://pbs.twimg.com/profile_images/1270826149808091136/gRKf22wT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-03 16:28:23,Colombia,,True,12282,8373,10564,26,5100,False,
+8,1219655073237753856,Nefertiti,Neferti23403449,"Trabajo con mi cuerpo, yo decido quien lo compra, pero jamás podrás tener mi integridad, ni a mi conciencia, demócrata.",http://pbs.twimg.com/profile_images/1219655897473003520/56C1JmL6_normal.jpg,,2020-01-21 16:16:56,,,False,2156,527,14871,1,14563,False,
+9,1260763814443745281,El Camaleón,AlianzaFalsa,Desenmascarando la falsa oposición infiltrada en el partido Alianza VERDE que usaron el descontento popular para engañarnos. Siganme para próximos hilos.,http://pbs.twimg.com/profile_images/1261120803166474245/wzAe8HG0_normal.jpg,,2020-05-14 02:48:17,,,False,940,697,889,1,799,False,
+10,1260234591299940352,Esteban Maldad,EstebanMaldad,Super mamerto 🤩😁 No estudio en otro país no porque no pueda si no porqué a mí ningún corrupto mafioso me puede arrebatar mi derecho a hacerlo en mí país.  ⚡,http://pbs.twimg.com/profile_images/1273841989881139200/x6uVsh30_normal.jpg,,2020-05-12 15:45:38,"Cali, Colombia",,False,516,929,1236,0,17976,False,
+11,1233599511597125632,#NuCheCaricatura,NucheCaricatura,"Anti-uribista 🤮|  Lic... en Artes 🎨👩‍🎨, Ilustradora digital, humorista gráfica. #AntiuribistaSigueAntiuribista | 
+#SigamonosLosBuenos2020",http://pbs.twimg.com/profile_images/1253880967737081857/V5E-gTn-_normal.jpg,,2020-02-29 03:47:10,,,False,2295,1860,3630,4,2504,False,
+12,1021960142202523649,Petroskyhumano🔦🔦,Petrosk66254705,"Perfil Fake de Gustavo Petro, parodia política...y más.",http://pbs.twimg.com/profile_images/1026349581880188928/0DgqlVqi_normal.jpg,,2018-07-25 03:27:39,,,False,4243,4339,120049,2,132972,False,
+13,1250906044223705089,Cepeto,Cepeto4,Indignado por esta gobernabilidad,http://pbs.twimg.com/profile_images/1250906807285043202/_5oD24aO_normal.jpg,,2020-04-16 21:57:27,,,False,1352,3354,22700,1,8945,False,
+14,341525981,Molina,molinataborda,Llevado del putas pero cagado de la risa,http://pbs.twimg.com/profile_images/1197839241369313280/Eyo9Xd8w_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-24 14:23:34,Pereira ,,True,223,541,7804,0,22329,False,
+15,782474533089443840,Gener Usuga,gener_usuga,"Activista Político
+#DefensorDDHH 
+
+En el Exilio
+
+#EnResistencia
+#CreoEnDios 
+
+#EscenarioCalle
+#MovimientoAntiuribista 
+
+ https://t.co/Q4nYG2cN08",http://pbs.twimg.com/profile_images/1287188022543474689/HOKP6NyF_normal.jpg,,2016-10-02 06:57:21,"Paris, France",,True,24175,11921,114825,47,134869,False,
+16,90813976,John Vibes,JohnGVibes,"🏴Author of a few books on counter-culture, anarchism and weird stuff 🍄Underground rave coordinator👽Crystal-gazing acid-head 🍄Rekt crypto hodling agorist🏴",http://pbs.twimg.com/profile_images/1244415617060540416/Sw-NCERp_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-11-18 06:11:18,,,False,32308,35045,2890,110,1180,False,
+17,3765647428,ana emerich,oidesculpa,"psicólogo tá muito caro, por isso criei um twitter.
+ㅤㅤㅤ ㅤ👉ㅤ📩📩 analopes8022@gmail.com ✨",http://pbs.twimg.com/profile_images/1288494257733591040/FFi3IiRn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-25 00:35:55,"Nova Iguaçu, Brasil",,False,246815,127774,13544,108,58961,False,
+18,631713372,Edwin Mosquera,edemori1,Defensor de DDHH. Constructor de paz. Soñador de la vida en dignidad.,http://pbs.twimg.com/profile_images/1275554394608730113/TZ0Vso7z_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-10 03:14:30,"Bogotá, Colombia",,True,2069,4999,6713,2,2846,False,
+19,1259313120658554880,Akinestea24@gmail.com,akinestea24,,http://pbs.twimg.com/profile_images/1277761105868271619/eRhwMeYi_normal.jpg,,2020-05-10 02:45:18,,,False,152,601,739,0,1960,False,
+20,1147285091099582464,Meli,MelissaDeEle,Books lover and Petrosky fan #1.,http://pbs.twimg.com/profile_images/1222703977189511170/kk-hgd14_normal.jpg,,2019-07-05 23:24:16,,,False,6031,4778,576,0,585,False,
+21,1120798789147742209,Jav,Javierwithmojo,Progresista and rock and roll lover 🖤,http://pbs.twimg.com/profile_images/1222702953108328450/TZ554h3n_normal.jpg,,2019-04-23 21:17:09,,,False,6872,4902,650,2,653,False,
+22,1253093016656662534,E____D____☆⚘,DavidMor03,"*ACTIVISTA SOCIAL Y POLÍTICO DE LA C.H* En Resistencia *Amante del vallenato, salsa, porro * ✞⚘",http://pbs.twimg.com/profile_images/1277439797322285056/N2mwbfPp_normal.jpg,,2020-04-22 22:47:29,"Medellín, Colombia",,False,1562,1539,3038,1,5458,False,
+23,1589445636,𝐂𝐀𝐌𝐈𝐋𝐎,CamiloJRS,"𝗘𝘀𝘁𝗮 𝗲𝘀 𝗹𝗮 𝘃𝗶𝗱𝗮 𝗲𝘁𝗲𝗿𝗻𝗮: que te conozcan a ti, el único Dios verdadero, y a Jesucristo a quien tú has enviado.",http://pbs.twimg.com/profile_images/1230131817304543232/z0QSlh0r_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-07-12 21:41:50,Colombia,,True,3506,2800,3862,0,1393,False,
+24,1261894651495288834,Duvan C,DuvanC15,Estudiante de la udea.,http://pbs.twimg.com/profile_images/1261895267550453760/8eLZSrOM_normal.jpg,,2020-05-17 05:42:18,,,False,1,100,11,0,45,False,
+25,928998846,Pestilencia,La_Pestilencia,"Pestilencia Oficial Punk Hardcore  - Colombia 
+30 años de verdades aquí https://t.co/jg86MqhsDr",http://pbs.twimg.com/profile_images/1259523884476399617/jjOpLlhv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-06 04:41:38,,,False,10105,3167,5343,32,6220,False,
+26,224266909,Lachlan Horne,lachlanhorne,Proudly serving up fat slices of rock music with lots of guitar.,http://pbs.twimg.com/profile_images/1181348067875987458/zeN1z597_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-12-08 15:37:36,UK,,True,19524,15267,433,44,221,False,
+27,924750120930959362,Manuel Santana,ManuelSantanaM4,provinciano: nací en un pesebre.,http://pbs.twimg.com/profile_images/971807921444151302/4X_kRMka_normal.jpg,,2017-10-29 21:29:44,"Barranquilla, Colombia",,False,5675,4532,58,2,571,False,
+28,827678204,FILTROSANTIOQUIA,FILTROSANT,314 619 08 58 FELIPE Celular,http://pbs.twimg.com/profile_images/947482664126337025/zXm0uEAr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-09-16 20:16:30,calle 43 nro 68 a 24 medellin,,True,157,2383,257,0,18,False,
+29,1209268851009097731,mario_henao,Mariohenaoz,vertical,http://pbs.twimg.com/profile_images/1229235419159711744/hgAWPb1c_normal.jpg,,2019-12-24 00:25:48,,,False,7025,6752,1174,3,4222,False,
+30,1245095956233756683,Lulú de Cartoon,SenoraCartoon05,"¡Soy un símbolo sexual! Me gusta criticar lo que veo, siento y pienso de este país 🇨🇴. Sígueme y te sigo.",http://pbs.twimg.com/profile_images/1245096602831896577/FuOvz2vY_normal.jpg,,2020-03-31 21:09:50,,,False,3124,5001,1340,0,1523,False,
+31,2952950195,𝑱𝒐𝒓𝒈𝒆💎,jorgeprotesta,"Me sigues, te sigo 🔄",http://pbs.twimg.com/profile_images/1254750280085909504/5p5lYcoD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-31 11:37:51,Medellin,,False,6573,7100,15431,2,49869,False,
+32,4636433723,PiensaEnAntioquia,Genteconvos_,"Cuenta de opinión, noticiosa, plasmamos la mágica realidad diaria, deportes y todo lo que tenga que ver con la actualidad, Medellín.
+cuenta alterna @genteconvos",http://pbs.twimg.com/profile_images/1150096528742277120/xhsQcqHH_normal.jpg,,2015-12-28 21:52:24,Colombia,,True,40737,34806,20307,40,20179,False,
+33,1060917095133786118,Mario C.,Mariocaicedo21,"Demócrata, antiuribista y socialista.
+#siguemeytesigo",http://pbs.twimg.com/profile_images/1222701200757403648/6QxqyYfF_normal.jpg,,2018-11-09 15:28:41,,,False,13747,10175,1013,3,1016,False,
+34,77875062,PensandoEnAntioquia,genteconvos,"Cuenta de opinión. 
+Contenidos en actividades sociales, deportes, mensajes positivos y fotografía. cuenta alterna @Genteconvos_ 
+!Activa Mis Notificaciones!",http://pbs.twimg.com/profile_images/915055288386031621/5kgV5C3J_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2009-09-28 00:24:09,"Medellín, Colombia",,True,54420,53698,159259,138,80541,False,
+35,1034194780505497600,Lubianka-DC,LubiankaP,"LubianKaDC, un ambiente para las historias, los amigos y el trabajo. Cervezas Artesanales 🍻, café, comida deliciosa. (CoWorking).",http://pbs.twimg.com/profile_images/1115352009740304384/fyTbBg3A_normal.jpg,,2018-08-27 21:43:44,"Calle 39 # 25-13 La soledad, Parkway, Bogotá, D.C., Colombia",,True,2830,2615,607,3,2633,False,
+36,174381879,Giulio Grossini,giuliogrossow,"I.C. Hydraulic Spc (Col).
+
+                                            Aquí no encontrará vids chistoss; ni tiktok o reguetonto
+
+
+       Mejor  un RT,..q un ❤️",http://pbs.twimg.com/profile_images/1177021436080340992/C5NTTg1F_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-03 20:05:07,,,False,1830,4728,7862,0,5538,False,
+37,3087427203,El Díscolo,_El_Discolo_,"#LaResistencia
+#ElDiscolo",http://pbs.twimg.com/profile_images/1193252280730079232/wRIWdchz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-03-11 18:33:40,,,False,483,915,773,0,6940,False,
+38,989225524273827840,Catalina Guzmán 📖👓🐦,Nina_Gullot,"Feminista. Estudiante de Historia; diletante en literatura, política y filosofía. Observadora inexperta de aves. Mamerta con causa. No DM.",http://pbs.twimg.com/profile_images/1256715652301295617/U3B4LK-E_normal.jpg,,2018-04-25 19:31:58,"Medellín, Colombia",,True,2580,2832,2412,0,16030,False,
+39,2870011763,Jose,joselenis25,🇨🇴🌎🤘📖🎸🇨🇴,http://pbs.twimg.com/profile_images/1261894328542208000/6irKjbYp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-10 03:07:26,,,False,1605,1854,358,0,357,False,
+40,448493616,Sebastián Quiroga,sebaquiropa,"✊🏼 Líder social @CiudadMovCol @C_Pueblos
+📚 Uno de los que comenzó con @LaFogataEditora y aun ardiendo. 
+ 👨🏻‍🎓 Politólogo @UNColombia",http://pbs.twimg.com/profile_images/1193357385982783488/BXQsj0l1_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-28 02:15:30,Bogotá,,False,13713,12053,12365,33,6546,False,
+41,175496284,GABRIEL ALVAREZ,GABRIELJAIMEAY,"Sociólogo, magister educación y desarrollo humano, docente universitario, investigador",http://pbs.twimg.com/profile_images/1244124177/gabo_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2010-08-06 19:32:20,"Medellín, Colombia",,False,240,1552,3861,3,331,False,
+42,252402164,Física Impura®,FisicoImpuro,"Docente de Ciencias Naturales Física, Ing. de Petróleos y Esp. en Evaluación y Gerencia de Proyectos.",http://pbs.twimg.com/profile_images/1272995106434486273/HUzwVcvT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-15 03:31:45,"La Fosa Común, Polombia",,True,76439,32603,56384,74,51140,False,
+43,1071499269880901639,©halecos Amarillosᴳᴸᴼᴮᴬᴸ 🍀ʷAͤNͣOͬNͤYˡMͤOᵍUͥSͦⁿ,ChalecosAmarill,"🆘 #CloversForAssange 🍀🆘
+
+🔥🔥LINK🔥🔥
+#ChalecosAmarillos🇪🇸🇦🇷🇨🇴... nos organizamos
+#YellowVests🇬🇧 we organize 
+Link 👉 https://t.co/t4JqPllbHL",http://pbs.twimg.com/profile_images/1077152427982405632/fGDv3JGr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-12-08 20:18:28,,,True,92735,79190,129174,249,104601,False,
+44,1227798045783359494,Nasta,Nasta38706210,,http://pbs.twimg.com/profile_images/1227798170673041409/dsHz_qyG_normal.jpg,,2020-02-13 03:34:13,,,False,18,98,1,0,27,False,
+45,83298668,Sergio Serrano,sergio_serrano_,𝔼𝕤𝕔𝕝𝕒𝕧𝕠 𝕕𝕖 𝕝𝕠𝕤 𝕖𝕤𝕔𝕝𝕒𝕧𝕠𝕤 𝕪 𝕔𝕠𝕟 𝕝𝕠𝕤 𝕒𝕞𝕠𝕤 𝕥𝕚𝕣𝕒𝕟𝕠,http://pbs.twimg.com/profile_images/1257720333693566976/m8dgQf1X_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-10-18 04:45:03,Colombia,,True,14459,1278,11172,33,6426,False,
+46,50981729,Gustavo Bolívar,GustavoBolivar,#NoViolencia #ProPaz #Animalista #Ambientalista #Humanista #NoCorrupción,http://pbs.twimg.com/profile_images/1126841295027224581/sjo5lm7a_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-06-26 08:47:03,"Escritor,empresario, demócrata",,True,908488,20966,46771,910,32350,True,
+47,1181810698311131136,🦋✨𝔭𝔯𝔦𝔫𝔠𝔢𝔰𝔞✨🦋,chvrrybvmbb,bitchy bitch,http://pbs.twimg.com/profile_images/1188161347458080773/LQwXePAS_normal.jpg,,2019-10-09 05:56:51,"Toronto, Ontario",,True,54,101,345,0,528,False,
+48,1163485039784603650,Medellindependientes,Medellindependi,Temas de ciudad y medio comunitario de colaboracion.,http://pbs.twimg.com/profile_images/1220044249925857281/7NdJ3ZRk_normal.jpg,,2019-08-19 16:17:42,,,False,1887,4924,3442,0,3127,False,
+49,1219102362448683008,Ponte' la 10 por un perrito,Pontela10p,"Campaña para darle de comer a perritos en situación de calle en Medellín y pueblitos cerca, quisiéramos contar con tu ayuda.
+
+#PonteLa10PorUnPerrito🐶❤️",http://pbs.twimg.com/profile_images/1219119028003921920/WNMjMV28_normal.jpg,,2020-01-20 03:40:34,"Medellín, Colombia",,True,58,183,6,0,7,False,
+50,899424537057665025,Viktor Garcia,Viktorhpena,Arquitecto Universidad Pontificia Bolivariana,http://pbs.twimg.com/profile_images/1217826999349235712/2lqKYPCF_normal.jpg,,2017-08-21 00:14:54,"Medellín, Colombia",,False,1912,4650,2647,1,2203,False,

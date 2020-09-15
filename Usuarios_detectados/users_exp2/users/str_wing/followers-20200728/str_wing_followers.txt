@@ -1,0 +1,79 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,15:51
+,>>> Analyzed user:,str_wing
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,897527214966685697,watercolorgirl,watercolorgirl,"Christian, wife and conservative constitutionalist. Mom to 3. WWG1WGA. I am for vaccine freedom of choice",http://pbs.twimg.com/profile_images/1267521980384768002/pkCVEDTE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-08-15 18:35:38,"California, USA",,False,153,373,417,3,2551,False,
+2,1286840121099268099,buba,buba05663308,,http://pbs.twimg.com/profile_images/1288125932662689793/4J5WvHk3_normal.jpg,,2020-07-25 01:46:22,Gambia,,False,1,187,1,0,0,False,
+3,1281372371937624065,Mbye Sey,sey_mbye,,http://pbs.twimg.com/profile_images/1281372648543522816/qp_RMrA2_normal.jpg,,2020-07-09 23:39:37,,,False,21,301,1,0,0,False,
+4,1287055403390578689,Jesus🙏🏻❤️🙌🏻,Jesus84545950,🙏🏻❤️🙌🏻💯,http://pbs.twimg.com/profile_images/1287055527042846720/C2l51fhM_normal.jpg,,2020-07-25 16:01:44,,,False,63,371,3,0,2,False,
+5,1269780105309519874,Gutsy1408,Gutsy140,"I'm a born gamer, I mostly play Smite!!and a few other games . tarkov ! apex ! everything !! come join play or follow if you want to watch.",http://pbs.twimg.com/profile_images/1269780598547050496/05eZS6xT_normal.jpg,,2020-06-07 23:55:49,,,False,30,122,9,0,7,False,
+6,4819259392,HitchGirl,HitchGirl2,Curiosity skilled the cat. #WWG1WGA,http://pbs.twimg.com/profile_images/1284985093870813185/xURlq4wL_normal.jpg,,2016-01-16 20:52:12,"Washington, DC",,False,583,433,5705,11,4169,False,
+7,1178142297306722306,Catholic Hip-Hop,catholichiphop7,https://t.co/oBccR0aolS,http://pbs.twimg.com/profile_images/1272597815999389696/RKlLnzWg_normal.jpg,,2019-09-29 02:59:57,,,False,1234,1179,375,1,10226,False,
+8,91198299,Pru,DearPrudence62,"In a time of universal deceit, telling the truth is a revolutionary act. Jeffrey Epstein didn't kill himself.
+  - George Orwell",http://pbs.twimg.com/profile_images/1249807743394836481/9xKM-a1N_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-11-19 21:34:25,"New Hampshire, USA",,False,26,352,2870,0,12333,False,
+9,1284097570726453248,streamer_seeb,SeebStreamer,i'm a graphic designer.,http://pbs.twimg.com/profile_images/1284099676837482503/LPT7_xyU_normal.jpg,,2020-07-17 12:08:36,,,False,13,47,1,0,1,False,
+10,1110935649128009729,Joseph Velasquez,joejo_velasquez,single dad just try to get me and my son by in this crazy world #PeopleHelpingPeople #AllInThisTogether,http://pbs.twimg.com/profile_images/1259925162130132993/JuQCAI-q_normal.jpg,,2019-03-27 16:04:33,"Laurel Springs, NJ",,True,110,1894,816,0,945,False,
+11,1260400680453324800,Joey Saladino,JoeySaladsReal,"Joey Salads is Perma Banned from Twitter, this is someone close to him that tweets his words! DISCLAIMER: This account is not owned or operated by @JoeySalads",http://pbs.twimg.com/profile_images/1280278129970278400/iZ-QTDuH_normal.jpg,,2020-05-13 02:45:23,"Staten Island, NY",,False,9945,8094,4015,13,747,False,
+12,464236389,Tom Pavich,TomPavich,"Constitutional Conservative, Libertarian Leanings, Lafferian, Low Tax Rates, Ltd Govt, Fiscal Responsibility, Self-Reliance, Free Mkt Captlism, Pvt Prop Rts",http://pbs.twimg.com/profile_images/2258420750/T_20Party.A_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-01-15 00:51:25,"Bakersfield, CA",,False,805,1821,6181,28,1511,False,
+13,1252667059374370824,Kathie Lukas,KathieLukasgfx,"Graphic Designer
+#GFXWORLD0",http://pbs.twimg.com/profile_images/1252949351619612672/BGFuwY9D_normal.jpg,,2020-04-21 18:34:48,,,False,1631,5001,148,1,45,False,
+14,713826762111590400,Joseph W. South,SMTM2016,"Help to repair or avoid problematic long-term relationships 📚 Practical Female Psychology for the Practical Man 📚 https://t.co/fefDQ0TDs4 
+
+@JWS on Parler!",http://pbs.twimg.com/profile_images/1151662369845604353/L_8gz32K_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-26 20:35:37,Your Mom's,,False,3018,4815,39367,44,130974,False,
+15,1269710437647634433,Mean Gorilla Gaming Community,MeanGorillaGC,Here for streamers 🎮🌍 Supportive | Friendly | Togetherness 👊🏻 We are growing fast and gaining our members followers and viewers in a unselfish atmosphere 😊,http://pbs.twimg.com/profile_images/1271559788699299843/XKU-fG7P_normal.jpg,,2020-06-07 19:19:05,Planet Earth ,,False,1108,1761,254,0,261,False,
+16,948348255418703872,Promoting Streamers for FREE,Streamboosts,"Want to promote your livestream? make sure to follow us and use our @ in your tweets and we‘ll retweet it! We’re here to help, Follow my main page @x_Jaay_7",http://pbs.twimg.com/profile_images/1275475201841664000/b8UuWuOC_normal.jpg,,2018-01-03 00:20:18,United Kingdom,,True,17235,11562,468,20,12,False,
+17,1184093368550248449,Tamim Hasan,TamimHa51144113,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-10-15 13:07:28,,,False,1,12,8,0,0,False,
+18,1197160341769203713,Dadio,Dadio08493218,"“Patriotism is not short, frenzied outburst of emotion, but the tranquil and steady dedication of a lifetime” -Adlai Stevenson",http://pbs.twimg.com/profile_images/1197169299342987264/c6hqtyWe_normal.jpg,,2019-11-20 14:30:55,,,False,23,202,2977,0,19,False,
+19,135214539,Ben Francis,The_BennyBen,I'm The Awesome Benny :P Lol,http://pbs.twimg.com/profile_images/1013043110698369024/U9a9gV5k_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2010-04-20 17:17:29,Australia,,False,7,62,99,0,259,False,
+20,1201964470295121920,Sycamore Sunrise Ranch,sycamoresunrise,501(c)3 Nonprofit Foundation Our mission is to help all combat Veterans and their families bond as they fight PTSD and WIN! Your help will make a difference!,http://pbs.twimg.com/profile_images/1201975249593454592/xQqqAfj0_normal.jpg,,2019-12-03 20:40:43,,,False,58,467,1467,0,435,False,
+21,1220101492582965248,Nerdcore,Nerdcore7,Just your average nerd here to corrupt the masses with all that is nerdy.,http://pbs.twimg.com/profile_images/1220101885740273664/7J0S0Lcv_normal.jpg,,2020-01-22 21:50:52,,,False,21,168,130,1,0,False,
+22,1084784552554287104,Take The Red Pill,Sessal4,#patriots #blexit #walkaway #wwg1wga #motivation #maga #trump #greatawakening #qanon Retweeted by @StefanMolyneux,http://pbs.twimg.com/profile_images/1203296190420246530/wU3TY8CR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-01-14 12:09:26,"Arizona, USA",,True,1229,2194,5671,2,5668,False,
+23,1270869926585094144,the left ruins everything,LeftRuins,"USMC SGT, Combat Veteran, USA 🇺🇸",http://pbs.twimg.com/profile_images/1270870442165760001/_jzZblnh_normal.jpg,,2020-06-11 00:06:27,,,False,1225,2744,598,1,723,False,
+24,1217441913629855744,Dot,xOriginalDotx,.,http://pbs.twimg.com/profile_images/1217447063266312195/0RbSLNVy_normal.jpg,,2020-01-15 13:42:33,3rd Dot,,False,1734,2743,1688,4,4481,False,
+25,921796592897753089,🇺🇸bdmnoles🇺🇸,noleslimreaper,Retired DOC....Currently a Beekeeper...,http://pbs.twimg.com/profile_images/921797115520737280/Zm3xd7Sn_normal.jpg,,2017-10-21 17:53:28,United States,,False,2321,2923,62109,5,45262,False,
+26,1255948693704003589,Stella Addison,Stellagfx,Graphic Designer,http://pbs.twimg.com/profile_images/1255953551970402308/GlDq6mGf_normal.jpg,,2020-04-30 19:54:52,,,False,1317,3171,628,1,517,False,
+27,1267958004244197376,Sass,TheLoneTwinki,Just a streamer enjoying life and the friends I make along the way!!,http://pbs.twimg.com/profile_images/1270041009033011200/wF1N7j5O_normal.jpg,,2020-06-02 23:15:28,,,False,10,7,4,0,1,False,
+28,27590163,Matthew Smith🏌️,mattassmith,"If I am shown my error, I will be the first to throw my books into the fire. 📈 World Markets - TMT - Conflict - History - Strength 📜 Veritas liberabit vos",http://pbs.twimg.com/profile_images/1247632211400101893/33mS1NW8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-30 05:19:25,"Dallas, Texas, USA",,True,810,1729,7107,19,12527,False,
+29,798663226561101824,Chris P Bacon 🥓,cdu424,"News Junky, Free Thinker, Sound money advocate $gold $silver Just a dude, living a proud American dude life. Politically homeless.",http://pbs.twimg.com/profile_images/1278079884632494086/GWgbgyjw_normal.jpg,,2016-11-15 23:05:26,,,False,1197,2866,1841,0,2885,False,
+30,1147947377082478592,Sharingiscaring,peelmyavacado,"Citizen of The Kingdom of God, Not racist, not sexist, not homophobic, NOT a Democrat. #WalkAway #Trump2020 ❤️🤍💙",http://pbs.twimg.com/profile_images/1258795976116051968/S14iuVms_normal.jpg,,2019-07-07 19:15:57,"Paint Lick, Kentucky",,False,1206,2387,3285,1,11065,False,
+31,1250824124110458881,John McCainn,mccainn_john,,http://pbs.twimg.com/profile_images/1250824416721883140/VtoPZBCN_normal.jpg,,2020-04-16 16:31:33,,,False,3,32,846,1,35,False,
+32,894983536079282177,Marciel Buck,marciel_buck,"Christian, father, Small Business Owner, enthusiastic for all things regarding entrepreneurship, love the feeling of a high pressure deal, always closing",http://pbs.twimg.com/profile_images/1108183644882063360/Q5xio1BS_normal.jpg,,2017-08-08 18:07:57,"Atlanta, GA",,False,1043,4589,6655,2,9686,False,
+33,42546915,Scott0064,Scott0664,,http://pbs.twimg.com/profile_images/1268804077363712002/8kXpOMAU_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-26 02:42:26,,,False,1084,2478,16723,0,41037,False,
+34,56628971,Enduring Freedom,Keepmericagrt,,http://pbs.twimg.com/profile_images/1261697273035030528/RTo7SRk0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-07-14 06:42:27,"Laguna Beach, CA",,True,2695,4864,5037,1,38005,False,
+35,1161672865114144768,Common White Girl 🙋🏻‍♀️,CommonWhteGrlTV,"Tarkov Streamer 
+
+She a little confused, but she trying.
+
+Live Sun, Mon, Weds evenings",http://pbs.twimg.com/profile_images/1260717350501875712/1INBMlqQ_normal.jpg,,2019-08-14 16:16:08,,,False,340,377,545,0,1711,False,
+36,31136655,Mike ░▒▓█ マイケル,northexpedition,"carbon-based life form • citizen journalist • graphic designer • business owner
+  
+Followed by Obama, Infowars (banned), Vanilla Ice, Montel, & Yoko Ono 🤷🏻‍♂️",http://pbs.twimg.com/profile_images/1272297101024788480/JjZaf1i2_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-04-14 14:43:29,Texas 🇺🇸,,False,2390,4942,18259,9,48011,False,
+37,1120506612,Distortedx,Distortedx_,Gamer and weight lifter. instagram: https://t.co/Dmtl5PoZro Twitch: https://t.co/dmc96HGaDO,http://pbs.twimg.com/profile_images/1260427776139673602/rLlPCvCF_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-25 23:41:40,"Pennsylvania, USA",,True,29,131,258,0,120,False,
+38,1258496027214086145,Cerpera,_cerpera_,"not for nothing, but...",http://pbs.twimg.com/profile_images/1261113989494460419/RKVrUXcA_normal.jpg,,2020-05-07 20:36:56,"New Jersey, USA",,False,1,59,9,0,25,False,
+39,1255865118258331649,JayMT_19,jaymt_19,,http://pbs.twimg.com/profile_images/1257829785138540544/aD5Po6CM_normal.jpg,,2020-04-30 14:22:39,United Kingdom,,False,34,42,60,0,90,False,
+40,418427691,BigHeadedDudee,BigHeadedDudee,Facebook Gaming BigHeadedDudee | Rainbow Six Siege | Apex Legends,http://pbs.twimg.com/profile_images/1236885653331144704/W6uZrL3K_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-11-22 04:57:43,,,True,82,154,1418,0,50,False,
+41,1258717512771960832,CGL Gaming,GamingCgl,GET CRACKED,http://pbs.twimg.com/profile_images/1284880516668366849/wcJYa4r4_normal.jpg,,2020-05-08 11:17:27,,,False,34,51,292,0,128,False,
+42,355553437,Phillip,FreeUlsterman,"Concerned Christian working to spread political, economic and religious freedom.",http://pbs.twimg.com/profile_images/647774980118196224/a-V_IutB_normal.png,http://abs.twimg.com/images/themes/theme19/bg.gif,2011-08-15 14:53:23,The Americas,,False,10505,11529,100269,138,163064,False,
+43,1006310216756015104,TechnoMageEngage,TechnoMageNgage,"Super excited to live stream games on Twitch!
+Add me/follow me on Twitch so I can add you too :) 
+
+https://t.co/AnZtn4YlWU
+
+I love Tech & Games!",http://pbs.twimg.com/profile_images/1006313606802100224/gjbLkAfu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-06-11 23:00:26,The Matrix,,False,259,881,240,0,2082,False,
+44,1255344391113318400,Javier TM,JavierT10608356,,http://pbs.twimg.com/profile_images/1255344658479222789/Zty1Fbzj_normal.jpg,,2020-04-29 03:53:32,,,False,4,45,15,0,43,False,
+45,2904841721,twitch.tv/wigzgaming,awigley92,TWITCH AFFILIATE turn notifications on I tweet when I’m live see you soon,http://pbs.twimg.com/profile_images/1253109449847422977/O6vruBoo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-04 08:47:46,leeds,,False,563,2878,4692,4,1444,False,
+46,1228313040723988485,Kros_R,KrosR404,"Gamer x (food + cat) = Kros
+New streamer on twitch. Come check out my twitch channel, link below 👇
+Twitch: https://t.co/8Us2GtsTWv
+Instagram: https://t.co/44Bqbdrd87",http://pbs.twimg.com/profile_images/1249973275154771970/sCtS5cPB_normal.png,,2020-02-14 13:40:30,,,False,12,14,4,0,19,False,
+47,71062626,Vendi The Salt Queen,Vendicious,"Biological based life form that lives off salt and caffeine. I make stuff, break stuff and play stuff.",http://pbs.twimg.com/profile_images/1152855021488201728/rotYK1uQ_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2009-09-02 20:10:26,Pacific Northwest,,True,176,353,1026,6,398,False,
+48,1255335861924835329,Schmitty🔥,K_Schmitty_,"New content creator, looking for the best in any opportunities and have taken upon the challenges as of such.                           Instagram: kwschmidty94",http://pbs.twimg.com/profile_images/1255342173337288704/ACeB8rae_normal.jpg,,2020-04-29 03:19:37,,,False,23,243,22,0,17,False,
+49,517923034,Caribou,CaribouLive,Streamer for @InvictaGG | @Twitch Affiliate! https://t.co/ABhzvDQHs2,http://pbs.twimg.com/profile_images/860529778616442880/L5l8ljnI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-07 20:44:31,"Minnesota, USA",,False,843,1315,6584,31,4051,False,
+50,280602871,Zack O'Connor,z_oconnor,I post clips of me gaming on apex . ps4- cranberry_vamp23,http://pbs.twimg.com/profile_images/1287001867499843586/UeKY8cvW_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-04-11 17:20:53,Indianapolis ,,True,504,501,3806,0,669,False,

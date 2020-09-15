@@ -1,0 +1,20 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,01:25
+,>>> Analyzed user:,Lucifer34495768
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1390094958,Delator,ElQueLosDELATA,"Daniel Mendoza Leal. Periodista,escritor,criminólogo. Demócrata. Espacio de opinión. Guionista de MATARIFE y Fundador de LA NUEVA PRENSA@lanuevaprensaco",http://pbs.twimg.com/profile_images/1034294278216921094/8Ayr87-2_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-04-29 18:09:22,,,True,295284,3836,22896,169,16960,False,
+2,1191025938970169345,luisa fernanda,777Luisa_,,http://pbs.twimg.com/profile_images/1275651811786010632/8T2c2XCD_normal.jpg,,2019-11-03 16:15:00,Colombia,,False,12,17,18,0,24,False,
+3,1045930203644678144,María,MamaDeYisus,"Empoderada, independiente: mamá del hijo de @godcolombiano, esposa de Chepe; mi  @colombianchisus multiplica 🍷, camina sobre; me gustan las 🕊.
+
+ - Parodia-",http://pbs.twimg.com/profile_images/1224906279505813506/yXa-K2Fe_normal.jpg,,2018-09-29 06:56:07,In tha Sky. ,,False,20326,146,7351,18,4940,False,
+4,77557278,MIGALA,RevistaMigala,"Desde tiempos de Sócrates, la función del filósofo ha sido corromper a la juventud: https://t.co/1e8TEONRnH",http://pbs.twimg.com/profile_images/960637642449629184/MJGkWuLp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-26 19:41:43,"México, Mexico",,False,30854,785,5037,140,10156,False,
+5,1384805383,LA RASTA,_rastasoul,Locutora en @lapolapod,http://pbs.twimg.com/profile_images/1269810017865269248/_1LEcZ98_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2013-04-27 15:55:34,"Bogotá, DC, Colombia",,True,12116,200,35480,7,27290,False,
+6,28840516,Nicolás Arrieta,nikoarrieta,Profeta del mal ejemplo.,http://pbs.twimg.com/profile_images/1229756371350032386/5yOapNpN_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-04-04 18:13:15,El infierno,,True,782829,1234,58156,840,8741,True,
+7,45854565,La vieja amargada.,EriitheD,"Recuerden que sólo estoy aquí para quejarme. Feminazgul, Satanista de tiempo completo y hater profesional. Más ordinaria que un gallinazo de peluche.",http://pbs.twimg.com/profile_images/1252273916707569664/P12Q-cn7_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2009-06-09 14:59:33,Rune Midgard,,True,57074,771,46215,92,30185,False,

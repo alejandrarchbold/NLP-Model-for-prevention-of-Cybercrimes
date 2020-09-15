@@ -1,0 +1,22 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,19:22
+,>>> Analyzed user:,Rsclinz
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1051936203216445442,GP,The Gammon Containment Unit. Leaks so much toxic gas that Walter Peck wants to shut it down.,2950,12,/Ecto1Fan/lists/gp,Ecto1Fan,Sat Jun 16 21:13:43 +0000 2012,Slimer Meeseeks 🇪🇺 ANTIFA ✊ VOTE KHAN,"Fan of Ghostbusters, comedy & video games. Socialist & Rejoiner. Gozer Worshipper. Pro abortion, vaccinations, 5G & EU. Anti guns, capitalism, war & military.",2482,4994
+2,758712679561297922,Work Wellbeing LDN,Key London commentators about wellbeing at work,4594,48,/mylondonworks/lists/work-wellbeing-ldn,mylondonworks,Tue Sep 23 18:22:12 +0000 2014,MyLondonWorks,What if every day everyone woke up feeling excited about going to work? My London Works is a burgeoning movement aimed at making this a reality #FutureOfWork,7878,5289
+3,744574944890261505,Sutton Legends,,4341,19,/LondonLiveEvent/lists/sutton-legends,LondonLiveEvent,Mon Aug 22 17:55:22 +0000 2011,London Live Events⭕️,News and Events from #London #UK,11379,3786
+4,739290440936083456,game of thrones,,4233,5,/jennifferx9/lists/game-of-thrones,jennifferx9,Thu Mar 03 18:48:19 +0000 2011,Jenniffer Chevez,,100,439
+5,729947892849496064,Team LH,,4399,172,/MercBenzHerts/lists/team-lh,MercBenzHerts,Fri Mar 13 12:49:57 +0000 2015,Mercedes-Benz Herts,"Mercedes-Benz Hertfordshire is a premium dealership group comprising Bishop's Stortford, Hertford and Stevenage.",1341,636
+6,233682980,Eagles Fanatics,,4257,93,/D_Stro/lists/eagles-fanatics,D_Stro,Tue Oct 14 15:03:49 +0000 2008,Dana Strokovsky,"Head of Social Media & Content at @FanDuel. Current Marketer, former Sports Reporter/Journalist, always a fanatic and enthusiast. From Philly went to #TheU",6300,881
+7,704032829923962880,PitchesToRiches,,4195,41,/SkinnyTanHQ/lists/pitchestoriches,SkinnyTanHQ,Fri Jul 26 03:38:20 +0000 2013,Skinny Tan,"Streak-free tanner infused with Guarana. 100% natural form of DHA. No parabens or sulphates. Vegan friendly. In @Superdrug, @feelunique & @lookfantastic.",9888,4577
+8,230070737,linked7,,4594,3,/151r88/lists/linked7,151r88,Thu Aug 13 17:51:56 +0000 2015,151r88,,1,0
+9,55867808,Trampolining Peeps,,103,4,/EllieDJ/lists/trampolining-peeps-5,EllieDJ,Tue Feb 10 20:48:36 +0000 2009,Ellie DJ,"Proud happy mum, former GB trampolinist, quite nosey so love twitter! :)",299,507
+10,21123675,Friends,,25,1,/itydarling/lists/friends,itydarling,Sat Sep 01 09:18:36 +0000 2007,Jane,UK Book and Lifestyle Blogger. Wittertainee and West Wing enthusiast. I probably fancy your dad.,1261,835
+11,29117608,Trampolining,Trampolining,10,1,/Johnnytenn10/lists/trampolining,Johnnytenn10,Tue May 18 07:46:53 +0000 2010,Johnny Tenn,"Owner: http://t.co/AFYNdh6tke specializing in: Executive, Life, and Sports confidence coaching, facilitating Team building and leadership workshops.",406,217

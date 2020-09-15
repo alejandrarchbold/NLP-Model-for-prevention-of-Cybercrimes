@@ -1,0 +1,21 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,12:55
+,>>> Analyzed user:,Nicholas_1878
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,201532292,Jenny Márquez,Kdemar92,,http://pbs.twimg.com/profile_images/1272339531052863488/Y1auNTKY_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-10-12 01:56:10,Bogota,,True,25,355,183,0,72,False,
+2,1111863748376043520,Jaka0263915,Jaka02639151,Persona Analítica.  Jaka02639154 Mi tweeter que cerraron,http://pbs.twimg.com/profile_images/1111871963767758848/U3yy2J3x_normal.jpg,,2019-03-30 05:32:29,,,False,948,3371,18909,0,79,False,
+3,266287163,Anticomunista,antimamert0s,"Si ud cree que soy un bot porque no creo en el comunismo, el bobo es ud. No defiendo a ningún comunista/socialista sin importar su condición.",http://pbs.twimg.com/profile_images/1252800001710764033/Bme6Bwzj_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-15 00:23:33,Colombia,,False,1595,3477,7006,1,15359,False,
+4,357804919,TATIANA ZAPATA,TATIANAZAPATA5,,http://pbs.twimg.com/profile_images/2867158616/e24c9ac3f2d04a766fa19914b6160bbd_normal.jpeg,http://abs.twimg.com/images/themes/theme10/bg.gif,2011-08-18 22:57:00,,,False,31,44,862,0,669,False,
+5,1944466434,Paola Zapata,PaolaZapataL1,"Profesional en Comunicación Social y Periodismo con gran pasión por las relaciones públicas, el marketing y buscando ser mejor ser cada día",http://pbs.twimg.com/profile_images/970686352969871360/Mi05DH6U_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-07 15:49:34,"Cajicá, Colombia",,True,76,186,491,2,1727,False,
+6,1204857634509209602,Dianka,Dianka67169861,Solo se vive una vez para ser externamente libre!,http://pbs.twimg.com/profile_images/1204857788238848008/-AeXRC0I_normal.jpg,,2019-12-11 20:17:16,,,False,5,12,7,0,35,False,
+7,160369706,Camila Rico,Cami_Rico,Estudiante de Derecho amante a la música y a estar con amigos,http://pbs.twimg.com/profile_images/1214055296781488130/yVAp_Djn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-28 00:29:55,,,True,92,266,8920,0,221,False,
+8,2304363328,Natalia Zapata,nataliazapatal,"Ingeniera, católica, madre orgullosa y seguidora de los BeeGees y de la @FCFSeleccionCol",http://pbs.twimg.com/profile_images/493488709338009603/PTCXKQdf_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-25 21:43:19,"Bogotá, Colombia",,False,15,47,192,0,1165,False,
+9,123307082,Ivonne Rivera,IvonneRiivera,"Prof. en Relaciones Económicas Internacionales  ✨Desde el amor, por el amor y para el amor...",http://pbs.twimg.com/profile_images/1250433156060045312/fnaPhxsb_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2010-03-15 17:35:16,Bogota ,,False,244,526,840,3,2120,False,
+10,2401985309,Botingol,botingol,Canal de YouTube informativo del fútbol argentino | Seguinos en https://t.co/bjW3fOgZVj e https://t.co/lFRsG0F1qE | Mail contactobotingol@gmail.com,http://pbs.twimg.com/profile_images/1030686571580850176/cHVEcegs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-11 11:32:33,Argentina,,True,18477,4335,55822,61,131,False,

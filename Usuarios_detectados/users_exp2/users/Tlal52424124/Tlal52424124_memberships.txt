@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,16:15
+,>>> Analyzed user:,Tlal52424124
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1179869970798391306,UK Opinions,,12,0,/ekwensuu/lists/uk-opinions,ekwensuu,Wed Mar 22 21:41:14 +0000 2017,Morningstar,"A travers l'art, nous imaginons le monde tel qu'il devrait etre. | The Aunist",20,32

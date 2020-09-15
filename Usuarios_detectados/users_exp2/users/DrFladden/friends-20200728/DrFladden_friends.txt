@@ -1,0 +1,83 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,17:55
+,>>> Analyzed user:,DrFladden
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1261308954048696320,Poe's Law = Literally Dead,scribeimmortal,"As a child, I used to play with fire.
+
+I mean, I still do.
+
+But I used to, also.",http://pbs.twimg.com/profile_images/1287867358661562369/CL0lTPBB_normal.jpg,,2020-05-15 14:54:30,,,False,968,2,13,0,5,False,
+2,1023722780968280069,Barrett Wilson,BarrettWilson6,Writer: @Quillette @areomagazine @FDRLST @StandpointMag Editor: @TheSwift12 @TPostMillennial Designer: @wokestore Email: barrett@thepm.news,http://pbs.twimg.com/profile_images/1237466301033074693/Bs5cPlQr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-07-30 00:11:45,,,False,11173,1443,18030,82,23828,False,
+3,3008218574,CosplayCatLuver,CosplayCatLuver,"Anime geek since 10 years old (thanks 90’s Toonami) & cosplayer since 2005 Anti SJW, Anti Polical Correctness/Cancel Culture #screwSJWfeelings #IStandWithVic",http://pbs.twimg.com/profile_images/1212020932350492673/wDiqQvSM_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2015-02-02 17:06:27,,,False,333,267,14700,0,11581,False,
+4,1270531866634878977,Tina40,Tinaforte7,Proud patriot .. pissed off American ... spartan warrior.. Trump2020 .. proud deplorable... we the people.. conservative 🇺🇸❤️🇺🇸 Unfiltered,http://pbs.twimg.com/profile_images/1270557951841968128/ZHXkASFP_normal.jpg,,2020-06-10 01:43:10,"Bronx, NY",,False,94088,323,501,132,6111,False,
+5,1249350606122143746,Leafy,Leafy,"😛 😛 😛 😛 😛 😛 😛 😛 😛 😛 😛 😛 😛
+😛 😛 😛 😛 😛 😛 😛 😛 😛 😛 😛 😛 😛
+@AlwaysLuckbox @AxisofEvil https://t.co/7kB9pf6eOp
+https://t.co/KmuxlYfDC7",http://pbs.twimg.com/profile_images/1278721411821867008/Ml8SPahl_normal.jpg,,2020-04-12 14:56:40,new york,,False,403141,99,1126,112,1372,False,
+6,1285949564437041157,Bevelyn Beatty,BevelynZBeatty,The Wife of Christ. This is the official Bevelyn Beatty page! #JesusMatters,http://pbs.twimg.com/profile_images/1285949884890320896/LD2kPUw-_normal.jpg,,2020-07-22 14:47:41,,,False,68225,0,23,55,4,False,
+7,4821099369,Lisa S.🌸🇺🇸💗🇺🇸🐶,LisaStone1928,,http://pbs.twimg.com/profile_images/1268251945577385989/p9pLksNv_normal.jpg,,2016-01-17 14:18:22,"Florida, USA",,True,725,1603,2107,0,13286,False,
+8,3872346202,Being Libertarian,beinlibertarian,"#Liberty based media company uniting libertarians of all stripes, fighting for a free world. #Politics #Libertarian #TaxationIsTheft",http://pbs.twimg.com/profile_images/1245777617707503617/YqUGYaIU_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-05 15:41:20,USA,,True,37007,1048,27941,230,22064,False,
+9,2955698452,BackWordz,BackWordzMusic,Pissed off and Anti-Statism.,http://pbs.twimg.com/profile_images/1268466678079401985/9IbLPk51_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-01 22:52:44,Texas,,True,7866,230,1716,53,2106,False,
+10,566608157,Eric July,EricDJuly,Vox in @BackWordzMusic & Cofounder of @Beinlibertarian. @BlazeTV fire-starter. Anarcho-Capitalist. Host of 'For Canon Sake.' Youtube: https://t.co/doqU5KxZ6L,http://pbs.twimg.com/profile_images/1280499960463704066/TjHLoqs3_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-04-29 19:35:23,Dallas & Corpus Tx/ Memphis,,True,71936,406,26906,356,16019,True,
+11,730121169194655748,Count Dankula🏴󠁧󠁢󠁳󠁣󠁴󠁿🏳️‍🌈 #BLM,CountDankulaTV,"That guy with the dog. ""Comedian"". Lolbertarian. Youtuber. Free-Speech advocate. Salt farmer. Go away gubmint.",http://pbs.twimg.com/profile_images/1250476361027915776/kAzCKtMp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-05-10 19:43:46,http://bit.ly/DankulasDiscord,,False,248844,451,37261,497,8965,True,
+12,1213611994936250368,Tankity tank tank🇺🇸🇺🇸🇺🇸🇺🇸,I_am_M1_Abrahms,"American, favorite video game “Star Wars empire at war”. CRUNCH BARS ARE AMAZING! Trump Supporter, Baseball fan 🇺🇸",http://pbs.twimg.com/profile_images/1287762357637328898/la55mOsO_normal.jpg,,2020-01-05 00:03:56,United States,,False,240,508,3277,0,18227,False,
+13,2412552091,𝐁𝐫𝐢𝐭𝐭🇺🇸,jbcpsm,"Daughter of the One True King, Happy wife to @JUSTinQase & Momma to 3 beautiful babies! ♥️Acts 2:38🔥TX CONSERVATIVE🚂🇺🇸 #Trump2020 #KAG #MAGA #WWG1WGA",http://pbs.twimg.com/profile_images/1285419898878005248/YLLGFMM1_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2014-03-26 12:38:08,#women4trump,,False,14205,6384,3175,5,6611,False,
+14,1272937501968269313,⭐️⭐️⭐️VOTE TRUMP 2020❤️,patriot_sarah11,#Trump2020 #2A #MAGA HAPPILY MARRIED 💍 #Christian let Trump do his Job #GreatEconomy #WWG1WGA.I’m a proud Black Patriot,http://pbs.twimg.com/profile_images/1287696997856796672/pdXTVkoO_normal.jpg,,2020-06-16 17:02:13,,,False,16979,1133,280,6,318,False,
+15,34033738,Tom Z,Tom_Zavresa,"A husband, dad, pro life conservative, NY Giant fan, laughs at his own jokes and himself, a private citizen that receives fan mail, and an advertising guru.",http://pbs.twimg.com/profile_images/481474501494853633/ko42ZcTX_normal.jpeg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-04-21 20:41:24,"York, PA",,True,429,2550,1899,12,194,False,
+16,3530404094,David J Harris Jr,DavidJHarrisJr,Husband. Father. Lover of God & Country. Speaker. Best Selling Author of - Why I Couldn’t Stay Silent - Get it signed from my store! Fellow at @Falkirk_Center,http://pbs.twimg.com/profile_images/1047949800463720448/D_WBZBlr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-11 20:34:46,"Texas, USA",,False,537235,2258,19821,931,13976,False,
+17,2480268229,Brandon Tatum,TheOfficerTatum,"Brandon Tatum's Official Twitter page.
+
+Founder/CEO of The Officer Tatum LLC.
+
+Co-Founder of #Blexit. 
+
+Ex-Police Officer. 
+
+Father. Man of God.",http://pbs.twimg.com/profile_images/1284928758705606662/f97x7iES_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-06 19:22:00,"Arizona, USA",,True,468681,1303,5456,895,10322,False,
+18,1141852920461320193,lauren 🇺🇸,ellleylove,"Fiancé 💍, CPA, farmer (at ❤️), friend",http://pbs.twimg.com/profile_images/1141866231580045312/Zeve_sX__normal.jpg,,2019-06-20 23:38:45,,,False,124,458,1959,0,25969,False,
+19,16305370,terry crews,terrycrews,"Lover to my wife, father to my children, friend to my friends, and servant to my Lord and Savior Jesus Christ.",http://pbs.twimg.com/profile_images/1109681981510475776/pIEwQE6e_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2008-09-16 01:56:01,,,True,1761220,1901,24506,2995,22362,True,
+20,847112047913586688,Carla Spalding For Congress FL23 2020,carla_spalding,"Navy Veteran | COVID-19 Frontline Nurse | The CURE for Congress vs ""Debbie the Defunder"" | Make America EVEN Greater! | DONATE: http://CarlaForCongress",http://pbs.twimg.com/profile_images/1282032161021820928/JOpRrtVR_normal.jpg,,2017-03-29 15:43:45,"Sunrise, FL",,True,21230,2568,2007,52,1522,True,
+21,975592586810404864,Tony Pipitone,TonyLeeBass,"Cancer Sucks!!! My Wife watches the news and says “ Everybody’s always wanting something , I just want to live.”",http://pbs.twimg.com/profile_images/1208921541490163719/wO5RtgKB_normal.jpg,,2018-03-19 04:39:33,Hickory Lake,,True,91,265,2248,3,796,False,
+22,28265608,SomeBlackGuy,someblackg,Derrick Blackman | Big Dreams and Dank Memes | Biz: sbginquiry@gmail.com | MERCH: https://t.co/MZoLcLAzej | IG: https://t.co/ILuMmy9Fgf,http://pbs.twimg.com/profile_images/1283191850891796483/Ta5MhxSi_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-04-02 02:50:57,"Los Angeles, CA",,True,86011,674,18566,208,27144,False,
+23,4641461550,Hike Meadly,MikeHeadly39,Send me $1 if I make u laugh,http://pbs.twimg.com/profile_images/1244298919896547330/OfDw2eaG_normal.jpg,,2015-12-24 05:55:55,"Mississauga, Ontario",,True,14547,1159,11198,12,19320,False,
+24,3187848737,Ahmed Baba,AhmedBaba_,27 | Co-Founder & President/Editor-in-Chief @RanttMedia | Op-eds @Independent | Documenting Trump’s presidency and yet still sane—https://t.co/XZybXrY4Ao,http://pbs.twimg.com/profile_images/1163227052675387392/FZlU4QQ-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-20 18:12:13,VA/DC,,True,95442,81297,24870,314,18343,False,
+25,1268671335095508993,MorCreed6.5,5Morcreed6,just me!,http://pbs.twimg.com/profile_images/1286048111765454856/rPWJ3vjh_normal.jpg,,2020-06-04 22:30:18,,,False,2287,4960,7671,0,7915,False,
+26,1204159686221664256,Uncle Tom,uncletomdoc,Feature length documentary telling the story of the American Black Conservative. Release: Juneteeth 2020,http://pbs.twimg.com/profile_images/1204160201861029890/dvGvWoJ0_normal.jpg,,2019-12-09 22:03:42,,,False,1401,0,188,0,247,False,
+27,1082836280206131200,Alyssa Jade,TinyAndAnnoyed,Treat others as if it were you living another life.,http://pbs.twimg.com/profile_images/1249466017539031041/zKsbjDBS_normal.jpg,,2019-01-09 03:07:42,"Maryland, USA",,False,32,36,1448,0,675,False,
+28,548840150,Samuel Sey,SlowToWrite,"I’m a blogger at https://t.co/dwWTIDipnm, and I’m a pro-life advocate at @canadiancbr.",http://pbs.twimg.com/profile_images/927985220690825216/bRBO35Uw_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-04-09 01:14:33,"Brampton, Ontario",,False,28091,819,11961,116,22002,False,
+29,441080463,Damani Felder,TheDamaniFelder,"Founder of YouTube's #TheRightBrothers. #MAGA. Gig 'Em. If God is for us, who can be against us? Opinions are my own. #Trump2020 #IdentityPoliticsIsDead 🇺🇲",http://pbs.twimg.com/profile_images/1270897986181181440/VWcz6nbV_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-12-19 18:31:09,"Dallas, Texas",,True,148635,3916,8122,220,12449,False,
+30,280813205,Dimitri Monroe,TheSMonroeShow,"Youtuber, streamer, fudanshi, VA, ex sonic 06 speedrunner, kind and charming person. 'cute but a cis gamer boy' |https://t.co/xGBoW0zo6X |",http://pbs.twimg.com/profile_images/1285721946353807361/wo_Gzlxs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-12 02:25:45,www.twitch.tv/thesmonroeshow,,False,30598,1378,27496,82,125281,False,
+31,1080220495381962752,BJC 🇺🇲🇺🇲 MAGA WWG1WGA,BJCWWG1WGA,Faith Family Country!,http://pbs.twimg.com/profile_images/1088246596842733574/_QZl5wbv_normal.jpg,,2019-01-01 21:53:30,"South Carolina, USA",,False,1309,2079,7464,0,12898,False,
+32,1282980273672433664,StandupMink58,BrennanJ13,"I Draw, I sketch, I game, I nerd. 
+Page will mostly consist of drawings for my Red Order Story... but other stuff too for fun 😁 #RedOrderStory #StandupMink58",http://pbs.twimg.com/profile_images/1282985322339422208/tWLfRaTd_normal.jpg,,2020-07-14 10:09:21,,,False,4,36,10,0,276,False,
+33,1235264823811686400,🇺🇸 Cheri 💋,politicheri,Former Lib/Dem (◍•ᴗ•◍)♡ 🇺🇸 Asian American ❤️ Family & Country First 💙 #WalkAway 🙏 18+ Model (@heycheri) 🎉 Patriot and Fighter! 💗 TAKEN 🥰,http://pbs.twimg.com/profile_images/1276424997557334016/4Arw7-WZ_normal.jpg,,2020-03-04 18:04:29,"California, USA 🇺🇸",,False,23247,466,6734,39,16280,False,
+34,1273833483723517952,Entropy 🇨🇦 🏳️‍🌈,Entropy00580728,Protogen UwU | Ultimate Furry Lord | Hella Gay | Shitposter | Weird | Short Temper | Short | H | Literally Only Plays Geometry Dash | Canadian |,http://pbs.twimg.com/profile_images/1278253545083543558/_5o9fBTn_normal.jpg,,2020-06-19 04:22:32,"Hell (Canada, Ontario)",,False,73,74,980,3,112,False,
+35,2941665345,Blue Lives Matter,bluelivesmtr,"*Official* Twitter Account of Blue Lives Matter. Blue Lives Matter is a media company, founded and run entirely by active and retired law enforcement officers.",http://pbs.twimg.com/profile_images/882653767883272192/L66pNPjD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-26 03:49:15,Estados Unidos,,False,82083,8802,16259,247,16520,True,
+36,2274338543,MyCatsAreJudgingYou🐈,DrMom25MA,"Wife, mom, physician, conservative, chocolaterian 🍫. Loves animals, Kristen Stewart fan. #MAGA. RT does NOT = endorsement!",http://pbs.twimg.com/profile_images/1024323985998340096/HGU327RZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-11 07:15:17,,,False,1944,3103,116913,59,379018,False,
+37,816967790758363136,Ben York,benyork7106,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-01-05 11:21:14,,,False,4,170,129,0,25,False,
+38,30540789,🇺🇸 Antoine Tucker for Congress NY-14,montaga,Former Gangster turned believer in God. Running for Congress in NY14 to defeat @AOC’s globalist agenda. DONATE HERE👉🏾https://t.co/cESVQx5GmN Instagram @montaga,http://pbs.twimg.com/profile_images/1281380178636099584/mRq_-Jgr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-04-11 22:32:07,"Bronx, NY, USA",,False,192593,1315,15895,314,5776,False,
+39,1255595017730551808,CO_Native,Ajhubb1,"Colorado Native, Loves America, Loves Jesus and wants to spread Laughter, Joy and Common Sense!!
+#Trump2020 #KAG #Patriot",http://pbs.twimg.com/profile_images/1276734060920897536/dXw0W4Hq_normal.jpg,,2020-04-29 20:29:30,,,False,95,446,368,0,2091,False,
+40,2909359250,1st World Parent,1stWorldParent,professional kid wrangler,http://pbs.twimg.com/profile_images/536990946831785985/1Hc5VJC7_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-24 19:16:15,,,False,349,758,5530,2,11825,False,
+41,261850681,Travis,travis204s,political trolling among other hobbies,http://pbs.twimg.com/profile_images/615782011953807360/z5d-_Moq_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-03-06 20:53:37,,,True,456,947,11670,11,179027,False,
+42,753771308660453376,Mushu Gone,mushugone,"SAHD, aquarium guy, Becker/Friedman/Mustaine devotee.
+#KAG 
+All flavors are welcome. Watching the slow, painful, fiery death of the Democrat party.",http://pbs.twimg.com/profile_images/1266510143950290945/POI7WE0k_normal.jpg,,2016-07-15 02:00:59,"Atlanta, GA",,False,462,519,6643,0,16236,False,
+43,1258444399119343618,Jolene,Jolene22568617,"WWG1WGA🇺🇸 WORLD 🌎WIDE
+TRUMP 2020❤🤍💙
+GOD WINS",http://pbs.twimg.com/profile_images/1283800138373304321/O7n7vIVq_normal.jpg,,2020-05-07 17:11:55,,,False,86,317,215,0,2567,False,
+44,824989065892286464,Jeullio,jeullio,"Latino, not white. 
+★",http://pbs.twimg.com/profile_images/1280267272209272835/AJVkPZEI_normal.jpg,,2017-01-27 14:34:55,New Jersey,,False,99,133,1270,0,15790,False,
+45,46559228,𝐊𝐨𝐝𝐲 𝐏𝐞𝐦𝐛𝐞𝐫𝐭𝐨𝐧,KodyPemberton,@USMC vet. @uofalabama alum.,http://pbs.twimg.com/profile_images/1247297268190982146/f233O72R_normal.jpg,http://abs.twimg.com/images/themes/theme6/bg.gif,2009-06-12 02:35:10,Epstein Didn’t Kill Himself ,,True,1428,283,1080,11,63614,False,
+46,1256735086671613952,SwanglySteakNEggs,SwanglyKillface,,http://pbs.twimg.com/profile_images/1287891262633209857/84xpq2T__normal.jpg,,2020-05-02 23:59:37,,,False,70,575,1058,0,2541,False,
+47,243287822,The Chosen One,KidCudi,musical anarchist/the originator,http://pbs.twimg.com/profile_images/1276531162521825283/b23e-qPd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-26 18:34:00,some place higher,,False,2390032,11,13266,3955,4034,True,
+48,4658257213,TJ Moore,SinCityNana,"""People have been calling me crazy my whole life. You get used to it.""  (Annie Wilkes)",http://pbs.twimg.com/profile_images/1217915774385315840/o7xk8L6T_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-12-27 00:26:07,"Nashville, KY",,False,211,394,2067,4,1609,False,
+49,1218969098450808832,Leon 🇨🇦,Shameless_Leon,Twitter memed my last account so here we go again...,http://pbs.twimg.com/profile_images/1224480744946401280/xkXrLG9__normal.jpg,,2020-01-19 18:51:01,"Purgatory, Canada",,False,10,621,309,0,9386,False,
+50,859472464258023424,Lauren Kim 🇺🇸,laurennkkim,"proud Christian, Conservative, Asian-American. NEVER BOW DOWN BEFORE THE MOB!!! hoping to be the voice for other outspoken young conservatives :)",http://pbs.twimg.com/profile_images/1278122514791583744/8r8IvUZJ_normal.jpg,,2017-05-02 18:19:38,"California, USA",,False,159,81,595,0,3814,False,

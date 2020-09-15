@@ -1,0 +1,87 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,23:37
+,>>> Analyzed user:,ty24112
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,728696590026743808,TeeJay,TJAllen2001,#maga,http://pbs.twimg.com/profile_images/728697860716265473/STE6GpBL_normal.jpg,,2016-05-06 21:23:00,"Albuquerque, NM",,False,1265,2290,22623,1,70957,False,
+2,1111101951020720128,Neil Girrard,NGirrard,"truth seeker
+Follow me on Parler @NeilGirrard",http://pbs.twimg.com/profile_images/1134017432199213057/iuEoiNBt_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2019-03-28 03:05:23,New Mexico,,False,8734,9515,176511,8,17798,False,
+3,4916499262,Ricky Lavina,LavinaRicky,Ad Majorem Dei Gloriam - Husband - Dad - Cuban 🇨🇺 American 🇺🇸 - @taxfyle co-founder - @ForbesFinanceCl - ENTJ,http://pbs.twimg.com/profile_images/1178461271303344128/3yKAv89g_normal.jpg,,2016-02-15 23:41:13,"Miami, FL",,False,2632,9664,2321,11,1123,True,
+4,1228317132213104640,Kristin,rudolphkristin6,,http://pbs.twimg.com/profile_images/1228317722032865280/Ssq2hm7N_normal.jpg,,2020-02-14 13:57:19,San Diego,,False,2848,3305,192,1,235,False,
+5,1279258968825622528,Takoda,Takoda74056158,A good fortnite player a faze mew fan and a absorber to,http://pbs.twimg.com/profile_images/1279259148228497408/8ka7LDMr_normal.jpg,,2020-07-04 03:41:40,,,False,8,34,15,0,75,False,
+6,15668483,#UnitedNM,salazmic,,http://pbs.twimg.com/profile_images/2539534255/9ivldmkvhe08s4a6a8q2_normal.jpeg,http://abs.twimg.com/images/themes/theme6/bg.gif,2008-07-31 00:25:46,"ÜT: 10.103845,-66.721258",,False,773,1588,8003,0,31834,False,
+7,1205811995477307392,Jinxkee,Jinxkee1,Jill of many trades. Master of some. I probably like/trust my dogs more than you. ❤️ pew pew & bang bang tools. ENTJ & often sardonic. Parler: jinxkee71,http://pbs.twimg.com/profile_images/1274867277242830849/jzvbFgaJ_normal.jpg,,2019-12-14 11:29:30,USA,,False,768,1503,1950,0,77433,False,
+8,825851808861949952,donna ford,lostinnm1,"America 1st FULL STOP
+I'm not PC if U don't like shove off",http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-01-29 23:43:09,,,False,841,1003,25007,0,39795,False,
+9,1144428163772010496,Lin505,Lin5051,"8 generations my family has lived in the beautiful state of NM. I am proud to be a native New Mexican. I love God, my country, & DJT. #KAG #WWGOWGA 🇺🇸🇺🇸🇺🇸",http://pbs.twimg.com/profile_images/1274713668333125632/AyPSOBmX_normal.jpg,,2019-06-28 02:11:51,"New Mexico, USA",,False,1293,1387,2592,0,6696,False,
+10,1101278066272157696,Michael Anthony,Michael15055662,,http://pbs.twimg.com/profile_images/1101280544371826688/jIHejjNM_normal.jpg,,2019-03-01 00:28:46,,,False,42,64,126,0,2613,False,
+11,583509263,JLynne,JLynne4444,,http://pbs.twimg.com/profile_images/1009928312301314050/aNuE1Orb_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2012-05-18 05:56:38,,,False,372,1190,4208,0,12023,False,
+12,1276275612840153088,New New Mexican,NewNewMexican1,Someday I'll Tell You The Whole Story,http://pbs.twimg.com/profile_images/1283121334151606272/qh5ERKws_normal.jpg,,2020-06-25 22:06:40,,,False,773,1117,23,1,701,False,
+13,1260779306008997888,@Qanon NM on Parler🐸🐸🐸⭐⭐⭐,NmQanon,Out of the Matrix,http://pbs.twimg.com/profile_images/1260779629087875074/5jMAlGGo_normal.jpg,,2020-05-14 03:50:02,"Nuevo México, USA",,False,2765,5000,10910,3,32411,False,
+14,17087924,Hutch (Starsky has been 'retired' - permanently),jchutch2,Cybersecurity Engineer👨🏻‍💻|LEO🚔|Veteran🎖️|Constitutional Conservative📜|Married|2A|MAGA|#BlueLine,http://pbs.twimg.com/profile_images/1244862775849095168/zQmC6PhW_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2008-10-31 16:50:52,"South Carolina, USA",,False,16873,17053,31379,2,26523,False,
+15,189464282,Ashleeeeee,AshPac21,Trump supporter 2nd amendment supporter 🇺🇸land of the FREE🇺🇸 America MAGA2020 WWG1WGA,http://pbs.twimg.com/profile_images/1256938771972407296/TEh_XOSI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-11 09:53:40,,,False,132,182,690,0,1540,False,
+16,896446161866944513,Thomas Grover 🇺🇸,ThomasRGrover,"Anti-bully, former LEO and street boss, BK21, always from Massachusetts, and always summoning “power from the injuries.” ❤️💪🏃‍♂️👮‍♂️",http://pbs.twimg.com/profile_images/1179181235249274884/rk7gSe8b_normal.jpg,,2017-08-12 18:59:54,"Albuquerque, New Mexico",,True,86,225,898,0,1200,False,
+17,777239255500197888,WhoKilledSethRich,EpicSoleil,"MARRIED Mom,Hispanic & Native woman BackTheBlue WalkAway newmexit LatinosForTrump 2A MAGA TurnNMRed KAG2020 Cryptos.I RT info we should see.",http://pbs.twimg.com/profile_images/1285310276720455680/im-9g3_v_normal.jpg,,2016-09-17 20:14:13,"Nuevo México, USA",,False,3600,3708,63437,37,82165,False,
+18,17332808,Jaime Jim Hernandez,JaimeorJim,"Multilingual sales & marketing strategist & speaker. CEO of SBC/SoJedi.   Helping bus. pros find,  sell, close, and keep more customers. Dream Big! 🇨🇦🇪🇦🇺🇸",http://pbs.twimg.com/profile_images/869041170659254272/9QMr7A5v_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2008-11-12 05:34:30,"Canada, USA, Latin America",,True,1152,3593,2118,35,3008,False,
+19,636252919,StikNtheMud,StikNtheMud,"Trying to amplify the voice of everyday ppl being harmed by Obamacare, as the media & Government ignore our plight. God Loving, HAPPILY MARRIED, Proud American.",http://pbs.twimg.com/profile_images/1221538492288626688/m-AOJK2C_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-15 15:20:50,New Mexico,,True,5221,5053,25064,54,61141,False,
+20,751192717850386432,Latinos Speak,latinos_speak,Conservative Business Consultant and Writer,http://pbs.twimg.com/profile_images/1281803335360708610/UV7ujaGC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-07-07 23:14:35,USA,,True,1444,3413,6449,1,482,False,
+21,823261267175555073,Dr. Nasir Shaikh for Congress 2020 NC04,NasirShaikhShow,Host of The Dr. Nasir Shaikh Show on Conservative Commandos Radio Network & AUN-TV Broadcasting Group in California #MAGA #Conservative #KAG❤God ❤Guns ❤Constitu,http://pbs.twimg.com/profile_images/1062565221796118528/gTnW9ZAA_normal.jpg,,2017-01-22 20:09:16,Officially Started 11/4/18 ,,False,122127,96031,13221,78,12232,True,
+22,995775377275478016,QT@Anon 🌟🌟🌟,QTAnon1,Toxic Male | GAB @Trumpster111 MAGA | Meme Maker | Gender Enthusiast | Cereal Killer | Climate Racist | Punographer I expert level silly walker | Pizza Sniffer,http://pbs.twimg.com/profile_images/1058128393642762242/1i78EixF_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-05-13 21:18:45,,,False,178153,187330,217664,267,653633,False,
+23,1227252884141678592,DOGFACE,2wheelsfreedom,"#GOD #TRUMP2020 
+#ARMY12CAV #BIKER HUCKLEBERRY #CRASHDUMMY🩸BLOOD4BLOOD #REDPILLED #WWG1WGA #CODEOFVETS #IBACKBLUE  #DOGSAREPEOPLE2  #HARLEYS #K9ADOPTER 🌬420",http://pbs.twimg.com/profile_images/1269930241558011904/rQa7EJOa_normal.jpg,,2020-02-11 15:29:09,Republic of by God Texas ,,False,2231,2590,9560,1,10125,False,
+24,806227338870607874,DuchessKelly⭐MAGA🇺🇸ᵛᵉʳᶦᶠᶦᵉᵈᵀʳᵘᵐᵖ,KellyC7002,"⭐MAGA🇺🇸#Trump2020🇺🇸KAG2020
+⭐🚂 Followback patriots⭐
+💯TRUMP Gal! CONSERVATIVE #WickedMonsterParty
+❤️#ShoutOutBlitzTrump2020❤️
+PARLER- @kellyc7002",http://pbs.twimg.com/profile_images/1269050028489879553/oCrQ5EL8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-12-06 20:02:31,❤️TEXAS❤️,,False,41260,41286,63438,3,66243,False,
+25,382305341,Big Tuna,BigTuna6,"ArmyVet.Married39yrs.3Kids8GrandKids.#SonInLaw Corpsman 2💜BrnzStar,RescPetsRBest,MAGA🇺🇸GodBlessPresTRUMP🇺🇸FB GenFlynn🇺🇸🇬🇧🇮🇱🇩🇪🏴󠁧󠁢󠁥󠁮󠁧󠁿🇧🇷🇦🇺",http://pbs.twimg.com/profile_images/1568622843/is_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-09-29 20:54:53,Lake Mission Viejo,,False,52946,55768,14634,17,14324,False,
+26,329630089,LaffingGUY says demonicRATS can ruin a pile of 💩,LaffingGUY,"YOUR Bully Smasher 👊 ambidex KO artist My honesty WILL hurt ur feelings My profanity WILL offend U it all went 2shit n2008 socialism is death2 USA
+IFB kag2020",http://pbs.twimg.com/profile_images/1230027316283068417/jJ_cCSso_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-05 11:42:09,blocked 200+ x -126 posted,,False,6766,6150,72106,152,50485,False,
+27,789868322280144896,❤️ 🅱🅺🅵🅾🆁45 ❤️,Bkfor45,"🅸’🅳 🆁🅰🆃🅷🅴🆁 🅻🅸🆅🅴 🅾🅽🅴 🅳🅰🆈 🅰🆂 🅰 🅻🅸🅾🅽, 🦁 🆃🅷🅰🅽 🅰 🆃🅷🅾🆄🆂🅰🅽🅳 🆈🅴🅰🆁🆂 🅰🆂 🅰 🆂🅷🅴🅴🅿.🐑",http://pbs.twimg.com/profile_images/1282357413073563653/KgbOG3QQ_normal.jpg,,2016-10-22 16:37:38,"Knoxville, TN",,True,34128,25069,16002,11,34411,False,
+28,1092086942198452224,🌟🌟Rooster🌟🌟,no_silenced,"Trump Supporter....I ❤️ 🇺🇸 
+
+Followed by👉 @GLostit....My Bestie♥️
+
+Followed by👉 @Julietknows1....♥️❤️",http://pbs.twimg.com/profile_images/1258930876395577344/5Kgx8p65_normal.jpg,,2019-02-03 15:46:31,,,False,95487,77382,170358,61,331112,False,
+29,508961616,⭐⭐PATRIOTS QNITE⭐⭐,NationJr,"🙏GOD BLESS AMERICA🇺🇸  
+             WWG☝️WGA      
+  #JESUS  #CCOT  #MAGA  #KAG",http://pbs.twimg.com/profile_images/1284051946375192579/llw75Ptb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-29 15:40:47,USA,,True,2163,3030,3448,5,3169,False,
+30,1142919084478291970,TexasNece,NeceTexas,"NM born, Texas raised, back in NM exposing the radical left wing democrat politicos destroying NM.",http://pbs.twimg.com/profile_images/1177269104807464960/bUVcWbsj_normal.jpg,,2019-06-23 22:15:18,Way up North NM,,False,1564,1503,8839,1,65376,False,
+31,937875802091413504,James Heckler,JMalsr,The destroyer of snowflakes and socialism. #stopwhitegenocide #Patriot #Christian #MAGA #Conservative #progun #whitelivesmatter #jobsmatter #blackgunsmatter,http://pbs.twimg.com/profile_images/1180993411438059522/PxTJlpo2_normal.jpg,,2017-12-05 02:46:30,"Tennessee, USA",,False,443,1070,1588,0,4328,False,
+32,1111618932404830208,Linda J. Bingham,LindaJBingham1,i am a designer. 23 years old. i also like to write but often i like hangouts with friends.,http://pbs.twimg.com/profile_images/1111620111352373248/WxFmLB7k_normal.jpg,,2019-03-29 13:19:41,Estados Unidos,,False,819,1238,53,0,20,False,
+33,28820184,sheila,liquidlaugh,"Sheila❌ 👠👠USA #MAGA#PATRIOT#CONSERVATIVE TRUMP2020❌VOTER ID-
+TERM LIMITS",http://pbs.twimg.com/profile_images/1260444651166859265/5D3aKF2X_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-04-04 16:18:08,CA,,False,39483,34966,82120,28,217221,False,
+34,1233435974987763714,憲政香港 Panzer Chan 怒砌模型,Panzer65873073,憲法如果不能代表自由民的共識，就是偽憲法。依據偽憲法行事的，就是偽政權!,http://pbs.twimg.com/profile_images/1274245055046316032/73KI1EXl_normal.jpg,,2020-02-28 16:57:16,,,False,485,1339,2290,0,3461,False,
+35,1203173776336281600,Omar Sowe,OmarSow54354204,We always keep on praying for better soon,http://pbs.twimg.com/profile_images/1203174872572211200/Mt3ibqXd_normal.jpg,,2019-12-07 04:46:08,,,False,231,4203,4,0,8,False,
+36,167603204,Sara,skb_sara,"I'm a mom & love anything that helps with anti-aging, working out, & staying healthy.",http://pbs.twimg.com/profile_images/1231025327910146052/wRWdWVZa_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2010-07-17 01:00:29,United States,,False,95599,32595,254518,125,216223,False,
+37,825048661780480001,QDROP8,QDROP8,#MAGA #KAG #WWG1WGA #TRUMP #QDROP8 #KAG2020 #Crowdstrike #VETS #2A #NRA #Q #QANON #CONSTITUTION #LANDFORSALE,http://pbs.twimg.com/profile_images/1286102076913852416/KZs5Fpyc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-01-27 18:31:44,USA,,True,73839,66927,2043,19,1161,False,
+38,2353221863,Grace & Truth,ReadMoreBible,"Husband, Father, Pastor/IFBC, PATRIOT, 🇺🇸 KAG 🇺🇸 🇮🇱Support Israel *MAGA* Voting Trump 2020 👉🏼Retweets do not mean endorsements.👈🏼",http://pbs.twimg.com/profile_images/1287111409696899075/_WhpHORN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-19 20:30:10,,,False,43107,42866,26333,151,82774,False,
+39,97970376,Alberto Storelli @AlbertoStorelli on Parler,retirewcashflow,2 wonderful kids 🇨🇦🇮🇹🇺🇸@AlbertoStorelli on Parler .Please follow on Parler as well I will follow back.Not here for porn or to flirt.#ppc #mcga #kag,http://pbs.twimg.com/profile_images/1183573635774025728/Z8ZcGvHC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-12-19 19:51:54,"Vancouver, British Columbia",,False,48058,48847,70916,9,61745,False,
+40,1177583593041862659,🇺🇲❤Conservative Trump Gal❤🇮🇱,SupporterHappy,GOD 1st in all things! Woman TRUMP supporter! State things the way I see it. A bit sarcastic😉 PROUD AMERICAN! Veterans/Military have my utmost respect!❤#KAGA.,http://pbs.twimg.com/profile_images/1275497568877924352/tbdPf5T0_normal.jpg,,2019-09-27 14:00:04,TheLessTheDemsKnowTheBetter!😘,,False,17229,12556,24549,1,38799,False,
+41,728222719356047361,Elaine,TheGreatFeather,"Trump! ALL IN! Period. ""And shall your flame or your sword trouble the wind?""(Keats). Thought-provoking & sarcasm as needed. #Trump2020 #KAG - No DM chat.",http://pbs.twimg.com/profile_images/1239705640341209094/duUesfWm_normal.jpg,,2016-05-05 14:00:00,Extreme NE Georgia Mountains ,,False,30490,29147,92477,5,33523,False,
+42,949655217414508546,Joe delfino,Joedelfino7,"Happy blessed cancer survivor. Father to beautiful daughter. God is Good.#MAGA #BUILDTHEWALL  #WALKAWAY #KAG 🇮🇹 🇱🇷
+I Follow Back All Patriots",http://pbs.twimg.com/profile_images/1033122919340236801/uf6t9A7i_normal.jpg,,2018-01-06 14:53:42,"Connecticut, USA",,True,32560,32906,49514,5,32968,False,
+43,447200783,𝔾 ᵗʰᵉ🪐ᴿᴵᴳᴵᴺᴬᴸ💫,G_TheOriginal,"Ｐ♡∫!✞!✌️!✞y🎈 
+
+𝕮𝖔𝖓𝖘𝖊𝖗𝖛𝖆𝖙𝖎𝖛𝖊ᴹᴬᴳᴬ 💯 
+
+Tɦαɳƙs ʄoɾ tɦe ɾetωeets❣️ 
+
+Ɩ ʄoƖƖoω ɓαcƙ 🇺🇸 
+
+👉 I'm following everyone back, so hang on ~ God bless!",http://pbs.twimg.com/profile_images/1279268206264254464/NUY_3hZl_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-26 16:32:18,So Cal 🌴,,False,163947,157478,28800,45,136827,False,
+44,79241079,Susy,Dachsiemama,#MAGA #trump2020. I follow fellow Patriots back.,http://pbs.twimg.com/profile_images/1025446962202636291/G7B_o8Lq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-10-02 17:47:27,"Albuquerque, New Mexico",,False,2704,3377,17724,1,33677,False,
+45,4278059375,COSTAGLIOLA,paulett08984331,Happy Country Girl who served my Country. President Trump 2020. Love Jesus 🚫democRats 🚫resist cults🚫#NODMS Married #MAGA 2020,http://pbs.twimg.com/profile_images/1092611749919055872/sGROPHpC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-25 20:36:36,"Lake Martin, Alabama",,False,5802,5603,7112,3,60300,False,
+46,985343778,Debbie 🇺🇸,izzytina,Florida mom❤️ #Trump #MAGA #AmericaFirst🇺🇸#TrumpSupporterFromDay1 #Patriot #Trump2020🇺🇸❤️ #TakeTheOath #WWG1WGA,http://pbs.twimg.com/profile_images/1119942720699686913/I00VvQdf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-02 20:44:31,"Florida, USA",,False,1574,2229,9651,5,60402,False,
+47,2279902657,MAGA,mgtrust26,"Small business owner with great ambitions, #MAGA supporter, for strong America",http://pbs.twimg.com/profile_images/1263611811208675328/cx_uqlOT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-07 02:38:59,"California, USA",,False,1078,3984,3173,1,18376,False,
+48,998331617264496640,Patriotgames64,Patriotgames64,"Retired Army, Artillery to the bone. living the quiet life and enjoying it. Veteran, Husband, Father & Opa. 
+
+🇺🇸 MAGA 🇺🇸 🇬🇧 Brexit 🇬🇧",http://pbs.twimg.com/profile_images/1227200200873213952/vb8icUDl_normal.jpg,,2018-05-20 22:36:20,"Oklahoma, USA",,True,74,258,1166,0,20339,False,
+49,737101233995948032,Chance,KellySpringer11,"wife, mother, Christian, #NRA member. #Trump2020",http://pbs.twimg.com/profile_images/1135197012507406337/P_9C6rOf_normal.jpg,,2016-05-30 02:00:03,United States,,False,2519,3276,13554,18,18181,False,
+50,1152145740,Pat Hobart,hobart9579,,http://pbs.twimg.com/profile_images/1219022001404334080/mGx6poI2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-05 21:49:08,"Fairfield, CT",,True,238,781,894,0,4421,False,

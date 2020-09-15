@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,18:56
+,>>> Analyzed user:,FESIRA
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,231676624,EU2016NL,,0,0,/FESIRA/lists/eu2016nl,FESIRA,Fri Aug 13 08:17:44 +0000 2010,Celine Fabrequette,I'm all about getting citizens into the right room with the right people. EXPERT on EU Social Law| Gender Equality| Women Rights|Migration|ENVI |BUDGET & SDG#5,569,411
+2,217762632,FGM,"
+",4,0,/FESIRA/lists/fgm,FESIRA,Fri Aug 13 08:17:44 +0000 2010,Celine Fabrequette,I'm all about getting citizens into the right room with the right people. EXPERT on EU Social Law| Gender Equality| Women Rights|Migration|ENVI |BUDGET & SDG#5,569,411

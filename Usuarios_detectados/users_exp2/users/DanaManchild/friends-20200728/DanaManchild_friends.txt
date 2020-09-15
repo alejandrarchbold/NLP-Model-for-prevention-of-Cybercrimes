@@ -1,0 +1,69 @@
+Source	Target	Kind	f.follower		followers
+georgecarrasc0	DanaManchild	mutual	follower	georgecarrasc0	keviarsound
+churchill_ld	DanaManchild	mutual	mutual	churchill_ld	churchill_ld
+HunterDonahue5	DanaManchild	mutual	follower	HunterDonahue5	arenafirearms
+Markbizzy	DanaManchild	mutual	mutual	Markbizzy	georgecarrasc0
+medic_patriot	DanaManchild	mutual	follower	medic_patriot	AndreaMartino89
+RealSamMelton	DanaManchild	mutual	follower	RealSamMelton	P3rF3tC10N
+JESSLYNN1745	DanaManchild	mutual	mutual	JESSLYNN1745	FierceLioness
+BQEDINAS1	DanaManchild	mutual	mutual	BQEDINAS1	ColorHeather
+RedWolfe45	DanaManchild	mutual	mutual	RedWolfe45	_ChildOfChrist
+PatrioticRachel	DanaManchild	mutual	follower	PatrioticRachel	USAPATRIOT4MAGA
+LukaWills	DanaManchild	mutual	mutual	LukaWills	LukaWills
+ColorHeather	DanaManchild	mutual	mutual	ColorHeather	PatrioticRachel
+dls0054	DanaManchild	friend	mutual	0	RedWolfe45
+Jon_Risley	DanaManchild	mutual	mutual	Jon_Risley	FaubionSuzy
+ScottAyres11	DanaManchild	mutual	mutual	ScottAyres11	cq2101
+USArmy_vet	DanaManchild	mutual	mutual	USArmy_vet	BQEDINAS1
+GypSeaMammaBear	DanaManchild	friend	mutual	0	JESSLYNN1745
+PeterMuckle1	DanaManchild	mutual	mutual	PeterMuckle1	RealSamMelton
+Jocava327919	DanaManchild	mutual	mutual	Jocava327919	medic_patriot
+Bob93023415	DanaManchild	mutual	mutual	Bob93023415	Markbizzy
+RadIS	DanaManchild	mutual	mutual	RadIS	HunterDonahue5
+lindalindaann	DanaManchild	mutual	follower	lindalindaann	bobjafco
+Sheryl47591046	DanaManchild	mutual	follower	Sheryl47591046	DDretiree
+LtBaker2	DanaManchild	mutual	follower	LtBaker2	Debbie_Vesino
+Slaybells3	DanaManchild	mutual	follower	Slaybells3	AllinTerra
+TeaBoots	DanaManchild	mutual	follower	TeaBoots	El_Melvin1
+Marlene45MAGA	DanaManchild	friend	mutual	0	TeaBoots
+cq2101	DanaManchild	mutual	mutual	cq2101	petersmg1
+JVER1	DanaManchild	mutual	follower	JVER1	mikehay06033019
+inthecopa	DanaManchild	friend	mutual	0	Jon_Risley
+RBruceAllRighty	DanaManchild	friend	mutual	0	USArmy_vet
+mwpeaceoff	DanaManchild	friend	mutual	0	RadIS
+murphmom02	DanaManchild	mutual	mutual	murphmom02	Bob93023415
+FierceLioness	DanaManchild	mutual	mutual	FierceLioness	ScottAyres11
+FaubionSuzy	DanaManchild	mutual	follower	FaubionSuzy	NativeHalf
+petersmg1	DanaManchild	mutual	follower	petersmg1	BeyondSavage7
+Traceynq	DanaManchild	friend	mutual	0	Slaybells3
+CueB4TheStorm	DanaManchild	friend	mutual	0	Jocava327919
+ShadowBannedQ	DanaManchild	friend	follower	0	McDonal67511972
+gegifford44	DanaManchild	friend	mutual	0	PeterMuckle1
+amajudy	DanaManchild	friend	follower	0	grwagar
+1TechnoMAGA	DanaManchild	mutual	follower	1TechnoMAGA	mdrobiulislam30
+_ChildOfChrist	DanaManchild	mutual	mutual	_ChildOfChrist	murphmom02
+TRUMP_4LIFE	DanaManchild	friend	mutual	0	Sheryl47591046
+Gurliechew	DanaManchild	friend	mutual	0	lindalindaann
+DOITQ3	DanaManchild	friend	mutual	0	LtBaker2
+dougallday	DanaManchild	friend	mutual	0	JVER1
+DebbyShultz	DanaManchild	friend	mutual	0	1TechnoMAGA
+TimesBig7	DanaManchild	friend	follower	0	BulletinPal
+patriotpandamom	DanaManchild	friend	follower	0	Lew2Nai1
+keviarsound	DanaManchild	follower			
+arenafirearms	DanaManchild	follower			
+AndreaMartino89	DanaManchild	follower			
+P3rF3tC10N	DanaManchild	follower			
+USAPATRIOT4MAGA	DanaManchild	follower			
+bobjafco	DanaManchild	follower			
+DDretiree	DanaManchild	follower			
+Debbie_Vesino	DanaManchild	follower			
+AllinTerra	DanaManchild	follower			
+El_Melvin1	DanaManchild	follower			
+mikehay06033019	DanaManchild	follower			
+NativeHalf	DanaManchild	follower			
+BeyondSavage7	DanaManchild	follower			
+McDonal67511972	DanaManchild	follower			
+grwagar	DanaManchild	follower			
+mdrobiulislam30	DanaManchild	follower			
+BulletinPal	DanaManchild	follower			
+Lew2Nai1	DanaManchild	follower			

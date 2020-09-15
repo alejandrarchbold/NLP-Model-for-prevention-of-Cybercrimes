@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,23:36
+,>>> Analyzed user:,nowhitechalk
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1129368407198109696,NBA Basketball Empire,All NBA Basketball News,197,0,/inspyrelife/lists/nba-basketball-empire,inspyrelife,Mon Jan 28 23:08:37 +0000 2019,In My Opinion 🇧🇧,"Fan of Wrestling, UFC, AEW, NWA, NBA Basketball, TV Series and English Football. Not here for a following. I will follow what news I want to see on my timeline.",26,586
+2,1264966904080367621,Core Group,Friends on Twitter,15,11,/HalMarshall2309/lists/core-group,HalMarshall2309,Tue Feb 12 00:26:37 +0000 2013,Hal Marshall,"Grateful for my education, from public school in Midland, Texas, to the University of Texas, and Stanford Law School. Keep the doors of advancement open to all.",1565,1078
+3,1261710052186042368,All Interests Empire,NBA MMA UFC AEW Wrestling,782,0,/inspyrelife/lists/all-interests-empire,inspyrelife,Mon Jan 28 23:08:37 +0000 2019,In My Opinion 🇧🇧,"Fan of Wrestling, UFC, AEW, NWA, NBA Basketball, TV Series and English Football. Not here for a following. I will follow what news I want to see on my timeline.",26,586

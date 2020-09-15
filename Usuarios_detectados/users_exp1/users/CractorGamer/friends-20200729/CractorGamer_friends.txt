@@ -1,0 +1,84 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,01:03
+,>>> Analyzed user:,CractorGamer
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,71629213,LG elded,dedreviil,Idolo de masas. Negocios: ded@dogmacreators.com - Amelia We Love You Baby! YouTube: https://t.co/SFQN4yvbL3 - Team @Luminosity // Powered by @GFuelEnergy,http://pbs.twimg.com/profile_images/1024126654522826753/GvaeD2OQ_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-09-04 20:24:18,"Chicago, IL",,False,1015375,608,51232,207,60771,True,
+2,285081945,ElJuaniquilador 💪🏻,JuanSGuarnizo,Streamer y youtuber / XX❤️ / AAGA😍 / Negocios: juansguarnizo@agenciaplaybook.com,http://pbs.twimg.com/profile_images/1240368645345292291/24jLFT64_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-04-20 14:03:41,"Monterrey, Nuevo León",,True,481844,358,62767,49,59188,False,
+3,219678694,MOSHPIT,moshpxt,piece by piece || Nothing’s As It Seems,http://pbs.twimg.com/profile_images/1255105272873435136/NzqcQTil_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-11-25 15:15:06,Universal,,True,3085,542,22260,8,14671,False,
+4,279390084,Anonymous,YourAnonNews,"We are Anonymous, we are legion, we do not forgive, we do not forget. Expect us. 
+
+#Anonymous #HackThePlanet",http://pbs.twimg.com/profile_images/1276653965531283457/IhAJeBDG_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-09 05:10:37,The Interwebs,,False,7356369,737,178341,15241,9142,False,
+5,969361755238477825,ZombsRoyale.io,zombsroyale,100-player 2D Battle Royale game inspired by PUBG and Fortnite!   By @endgameco @yangcliu,http://pbs.twimg.com/profile_images/1029805658189656064/oMjOqWNS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-03-02 00:00:27,,,False,43476,1,205,4,27,False,
+6,1056396672,Grefg =),TheGrefg,"Suelo hablar de lo que entiendo, de lo que no, cierro la boca y aprendo. 💙😳 YouTuber, Twitch Streamer & @TeamHeretics Owner - thegrefg@vizz-agency.com",http://pbs.twimg.com/profile_images/1258495649974231042/HWyS5D28_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2013-01-02 23:46:59,Youtube Sky,,True,3714478,1239,37160,1182,51666,True,
+7,4517970557,Nil Ojeda,nilojeda,Tu YouTuber favorito,http://pbs.twimg.com/profile_images/1286112271043895298/wMhbJXw__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-12-17 21:45:50,,,True,389572,187,8240,55,36096,False,
+8,104539868,KONAMI España,KONAMI_ES,Twitter oficial de KONAMI España #eFootballPES2021 #eFootballPES2020 #ContraRogueCorps #YuGiOh #YuGiOhDuelLinks #KONAMI50th #Konami,http://pbs.twimg.com/profile_images/1265349390102863878/p5Cx_aPi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-01-13 16:56:16,España,,True,51101,336,5066,247,2610,False,
+9,2874072033,Tarifa,bytarifa,"Dreams are to be fulfilled
+
+
+ 📩:bytarifa@youhub.es",http://pbs.twimg.com/profile_images/1277285490656509959/4XWme-Du_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-12 18:50:22,Andorra,,True,847977,235,22540,161,27336,True,
+10,2165368843,Corsair España,CorsairSpain,Periféricos y componentes para PC de alta gama.,http://pbs.twimg.com/profile_images/1052166183464697858/I2vf9UYj_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-30 19:46:07,,,False,141382,55,8781,146,6192,False,
+11,1340307043,Corvus Clan,CorvusClan,"Co-owner @Kpi_Gaming
+➡️Contacto: corvusclan@gmail.com
+
+📷https://t.co/xHvPvnCVOi…
+📺https://t.co/PG4WGZ3umQ…
+👾https://t.co/Vxr83ejDQ0
+
+#TeamCorsair",http://pbs.twimg.com/profile_images/836227107252498433/z9GQ_VNR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-09 21:40:12,Asturias,,False,326343,762,13412,138,13710,True,
+12,747845387235405824,CRACKS MX,mx_cracks,"El canal informativo sobre ⚽️ mexicano más visto de YouTube. 👀🇲🇽 Noticias, resultados, fichajes, polémicas y MÁS ¡Suscríbete! ⬇️",http://pbs.twimg.com/profile_images/1261916569376043008/lKJfJ8Y3_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-06-28 17:33:29,+1.38 M en YouTube.,,True,38393,169,14732,24,2478,False,
+13,1679137812,Manu Bravo,MBravo_,"⚽️📽️ | Doy las noticias en @cracks_oficial , el informativo sobre FÚTBOL más visto de YOUTUBE (4.9 millones de subs) Contacto: cracks@dogmacreators.com",http://pbs.twimg.com/profile_images/1156416616541970432/VoaxiecB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-08-17 21:20:28,"Guadalajara, Jalisco",,True,52514,1426,10981,33,19218,False,
+14,142295586,FIFA.com en español,fifacom_es,"Reportajes, información y entrevistas del planeta ⚽️. Fútbol femenino en @FIFAWWC. Camino a #Qatar2022 en @fifaworldcup_es. Y las 24h en la 📲 FIFA App.",http://pbs.twimg.com/profile_images/1209040605579501568/VOOq_-hz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-10 13:59:58,,,True,4526613,457,56101,7623,844,True,
+15,202535200,DjMaRiiO,DjMaRiiO,Subo el Camino. Hice un directo con 278.000 espectadores... Contacto: djmariio@vizz-agency.com  https://t.co/rddj5BKMah,http://pbs.twimg.com/profile_images/1160298127309643776/jb2US3sV_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-10-14 07:45:08,6.200.000 de Suscriptores,,True,1627168,560,16684,649,18539,True,
+16,4163353939,CRACKS,cracks_oficial,"¡Bienvenidos, #CRACKS! 👋🏻⚽️ | El canal de fútbol internacional más visto en TODO YouTube 📹 | 🇲🇽🇨🇴🇦🇷🎮 | By @MBravo_ 
+Negocios: cracks@dogmacreators.com",http://pbs.twimg.com/profile_images/1255870530030374915/cdZWcC1r_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-08 02:03:36,+4.800.000 en YouTube,,True,133135,84,18766,92,9749,False,
+17,4663496243,Chollometro,chollometro,La primera y más grande comunidad de chollos y ofertas en España 🔥 Y el canal de Chollos de Telegram original. No aceptes imitaciones https://t.co/FncvF4tqi3 👍,http://pbs.twimg.com/profile_images/953999008447557632/vkdhMjOq_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2015-12-31 10:13:10,España,,False,877457,55,18336,241,2942,True,
+18,965704518,Papa Franciscus,Pontifex_ln,Tuus adventus in paginam publicam Papae Francisci breviloquentis optatissimus est.,http://pbs.twimg.com/profile_images/507824195217018880/RQBdiqvr_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-23 08:13:46,Ex Civitate Vaticana,,False,928448,8,2484,1080,0,True,
+19,610239094,RadikalSive,sive100YT,"Una vez escuche un dicho que decia asi: Abibu ba uuhhka uhka uhka jah, desde entonces me dedico a subir videos a YouTube :)",http://pbs.twimg.com/profile_images/1206318410134626304/hNHfjLEn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-16 19:54:41,Madrid,,True,28637,160,9705,37,7494,False,
+20,777925579,Alex Stone,Stoneismynamee,Sonrío mucho y hacía vídeos en YouTube: Stoneismyname | @teloputodije1 | Madrid | Contacto comercial: stoneismynamee@gmail.com,http://pbs.twimg.com/profile_images/1081899830786641920/BmJNA_0L_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-24 10:52:29,YouTube: Stoneismyname,,True,112069,1242,44108,176,196331,True,
+21,821621400,Glowen,Mega_Glowen,"Youtuber, músico y creador :) contacto: PropuestasComercialesGlowen@gmail.com",http://pbs.twimg.com/profile_images/1197772827094638592/CFwhzinw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-09-13 14:40:03,España,,False,109994,126,15386,153,72936,True,
+22,965741665,Papa Francisco,Pontifex_pt,Bem-vindo ao Twitter oficial de Sua Santidade Papa Francisco,http://pbs.twimg.com/profile_images/507821121211596802/qZA8NDFU_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-23 08:32:02,Cidade do Vaticano,,False,4896544,8,2587,2065,0,True,
+23,281228560,Tri-line,srtriline,"Cuenta oficial de Tri-line.
+Líder del club de los pezones duros y un fan de los porqué",http://pbs.twimg.com/profile_images/1096226858461552640/uZJs_Jqk_normal.png,http://abs.twimg.com/images/themes/theme7/bg.gif,2011-04-12 22:04:16,Vivo delante del ordenador,,False,359617,1,4351,123,4258,False,
+24,267437582,Leo,iLeoVlogs,"#Youtuber #Soñador #Tuneador #PremioNobel #CientíficoAeroespacial 
+
+Contacto comercial: iLeoVlogs@gmail.com",http://pbs.twimg.com/profile_images/1081148045369200640/Yg02s-jR_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-03-16 23:28:46,"Madrid, Comunidad de Madrid",,True,99987,424,75477,162,15608,True,
+25,708318164069818368,Lizy P,Lizyy_p,Belleza / Moda/ Lifestyle. +4 MILLONES SUBS. EN YT! Instagram:lizy_p_makeup ➡ Facebook: lizyy.p ➡ Snapchat: lizyy_p,http://pbs.twimg.com/profile_images/1103460747588395008/wna4trDs_normal.jpg,,2016-03-11 15:46:25,makeupbyme.lizyp@gmail.com ,,False,150461,34,595,38,589,False,
+26,2942721593,8cho,8choOficial,Cuenta inactiva. Solo la activo para que no me roben el nombre.,http://pbs.twimg.com/profile_images/1089145549075476480/7encaKgL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-26 21:16:35,,,False,651041,0,49,225,9949,True,
+27,3730206857,PopperCraft 💎,PopperCraft,"🔴 Creador de contenido en YouTube (+700.000 suscriptores) 
+➡️Graduado de ADE en la ULE
+NEGOCIOS: poppercraft@gmail.com",http://pbs.twimg.com/profile_images/1142437795434323968/sMI81iaw_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-21 17:08:07,"León, España",,False,24527,632,5344,9,13199,False,
+28,824932019616489472,Global Accelerex,GlobalAccelerex,"We accelerate e-payments and make business processes seamless. Call 0700ACCELEREX today, for tailor-made business solutions.",http://pbs.twimg.com/profile_images/1126037260183457797/it8zBk6R_normal.png,,2017-01-27 10:48:14,"Lagos, Nigeria",,False,3792,43,1049,1,2784,False,
+29,832573311414583296,Mark Bernard,markbchan,"send feet pics
+
+YouTube: https://t.co/mOAFUyuH0k
+Insta: https://t.co/Z2fiFXVE9n",http://pbs.twimg.com/profile_images/1274539176117985280/wWIMH3IR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-02-17 12:52:00,"Melbourne, Victoria",,False,103,23,2,0,19031,False,
+30,546200355,vithushan Jeyachandran,imjvithu,Journalist | Reporter | Producer | Social Media Promoter | SriLankan | Executive Editor at Athavan TV #lka #Srilanka,http://pbs.twimg.com/profile_images/1189207040570343425/IJ9w0Fuq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-04-05 16:50:45,"Colombo, Srilanka",,False,2147,3222,8840,9,17660,False,
+31,711897825118953472,joydeb bag,JoydebBag,"I love my india. Because i am indian.
+joydebbag0@gmail.com 
+ mob- 8334055777",http://pbs.twimg.com/profile_images/932606810426458113/zbKEhUF9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-21 12:50:42,Kolkata - Arambagh - Hooghly (W.B),,True,360,1249,962,4,31,False,
+32,780920007115022336,duda,eduarda4287,não me limite que eu quero ir além ✨ 13/10 💏💖@FaelOliveira_00,http://pbs.twimg.com/profile_images/1274354781163786240/qjNDxnDI_normal.jpg,,2016-09-28 00:00:13,"Santa Cruz, Rio de Janeiro",,True,606,137,15062,0,3585,False,
+33,3429851653,Dillon Keeling,KeelingDillon,I dream with my eyes wide open of becoming a successful writer someday. I dream of inspiring others by sharing my story.. God is guiding me.,http://pbs.twimg.com/profile_images/861698844886802432/UiHvSw0__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-02 21:16:34,,,False,154,653,221,1,129,False,
+34,496388659,Mo,eyanom_,CSU Alumna | interdependency 🌻| traveling | Gemini ☉ Capricorn ☽ ↑ Sagittarius | she/her.,http://pbs.twimg.com/profile_images/1279973229562679296/cqk74mEt_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-18 22:25:15,,,True,377,258,11011,0,5256,False,
+35,746402175002238976,Chiboni Jr,ChiboniTimothy,GRACEFULLY UPLIFTED|ZESCO UNITED|ROAN UNITED|MANCHESTER CITY FAN,http://pbs.twimg.com/profile_images/1283731709570277379/nQFxR8p-_normal.jpg,,2016-06-24 17:58:40,"Lusaka, Zambia",,False,670,603,4569,0,6881,False,
+36,449910536,Huie,WhoIsHuie,Singer/Songwriter,http://pbs.twimg.com/profile_images/1143201570965901315/Sb2hmkzg_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-12-29 17:00:00,"Gadsden, AL",,False,2288,4,7,4,51,False,
+37,841349826965078018,Tarek Ibrahim,mercodcom,,http://pbs.twimg.com/profile_images/841350815713484800/eOBgP4ec_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-03-13 18:06:45,Brasil,,False,356,2508,1,0,0,False,
+38,1002399415,☞ Nidia❤,MogoNidia,☞ Sigueme y te Sigo,http://pbs.twimg.com/profile_images/853464479836852224/LffarILA_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2012-12-10 20:10:05,"Brockton, MA",,True,336,198,1839,0,125,False,
+39,781714678464458752,m a r c e l,mqrzel,,http://pbs.twimg.com/profile_images/1270438277259112449/8kQ7Eu5E_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-09-30 04:37:57,Costa Rica,,True,269,139,2183,1,4536,False,
+40,3876485656,Ssani ♏️,busani_libago,Red wine over Fed time,http://pbs.twimg.com/profile_images/1284536485455306756/cQD-AZXI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-06 02:08:44,"Cape Town, South Africa",,True,1330,860,14849,1,6223,False,
+41,3048243518,Rahul,awaramizaaz,follow @khwaab_,http://pbs.twimg.com/profile_images/1272203876599345154/bZ2qPzh9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-28 02:02:36,,,True,252,887,5433,0,7825,False,
+42,440557887,Diego Silva,diegouefa,,http://pbs.twimg.com/profile_images/1152188755240988674/gNa98zFN_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-19 04:25:43,,,False,1266,1186,4340,0,559,False,
+43,21844115,🌈OhJenJen™,OhJenJen_OG,Retweets of Giveaways ▪️Method seller▪️Product reviewer ▪️Streaming comic relief▪️Tech nerd▪️PS4 player▪️Member of #MilkSquadz,http://pbs.twimg.com/profile_images/1144885455453872128/ftWiW_Hz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-02-25 06:56:41,road to 500 followers.,,True,337,1930,2970,10,1089,False,
+44,841988579509301248,Hugo Silva Bezerra,Hugosilva377,,http://pbs.twimg.com/profile_images/843230712954327040/j0216ijE_normal.jpg,,2017-03-15 12:24:55,,,False,979,1982,747,0,0,False,
+45,812974468385607680,Nelson Christopher,Chris_karick,,http://pbs.twimg.com/profile_images/834434940456558592/9NLmawp7_normal.jpg,,2016-12-25 10:53:12,,,False,22,117,12,0,2,False,
+46,726553788316790784,🇳🇵हरिशरण🇳🇵,BaniyaSharan,I'm not single. I'm in a long-standing relationship with fun & freedom.,http://pbs.twimg.com/profile_images/1137756824000536577/g2nv3DLM_normal.jpg,,2016-04-30 23:28:16,Democratic Republic of Nepal,,True,729,821,496,0,1709,False,
+47,2777568114,Prithu Shahi,prithushahi,Be Calm & Just Tweet!! 😊😊,http://pbs.twimg.com/profile_images/819820017688555520/EYco-iLp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-08-29 02:23:28,Nepal,,True,757,778,186,2,354,False,
+48,711590067530104832,Daniel Ray Whovian,DHWhovian,Daniel Ray Waters Hazelton Ortiz,http://pbs.twimg.com/profile_images/878208374935920641/dC_PuEqh_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-20 16:27:47,"Olympia, WA",,False,3927,1340,2,4,168,False,
+49,3178350967,Michael Hodgdon,michael_hodgdon,Michael Hodgdon- Expert SEO Consultant | Director Marketing / SEO Infront Webworks. #seoexpert #internetmarketing #digitalmarketing #seo #infrontwebworks,http://pbs.twimg.com/profile_images/911720587776495617/Yctk5j4E_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-28 15:02:05,"Colorado Springs, CO",,False,2978,1018,2546,48,5294,False,
+50,22690886,Infront Webworks,InfrontWebworks,"The premier Web Design and Development firm in Colorado Springs. Offering Web Design, Web Development, Internet Marketing, SEO and more.",http://pbs.twimg.com/profile_images/412728054180352000/vP6RdOMA_normal.png,http://abs.twimg.com/images/themes/theme4/bg.gif,2009-03-03 22:22:02,Colorado Springs,,True,3106,1279,3612,84,3602,False,

@@ -1,0 +1,25 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,14:41
+,>>> Analyzed user:,TrumpSheri
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1244301741186842624,Fans of facism & autocracy,,270,1,/ssstraub/lists/fans-of-facism-autocracy,ssstraub,Mon May 18 02:08:26 +0000 2009,Scott,Impatiently waiting for the future to arrive,151,53
+2,903768588724482048,! TRUMP SUPPORTERS 4of6,Those indicating support for Trump or using #MakeAmericaGreatAgain or #MAGA,3950,68,/BraveLad/lists/trump-supporters-4of6,BraveLad,Sun Oct 12 02:17:59 +0000 2008,Markham Robinson,American Independent Chair✝Christian Constitutional Conservative #TCOT #MAGA #TRUMP2020 #CCOT #PROLIFE #2A #TEAPARTY #ZIONIST https://t.co/W6VcSykV6K,524990,574729
+3,911650855937609728,rocket man project,,334,3,/KyleSeanWells/lists/rocket-man-project,KyleSeanWells,Mon Aug 17 11:17:38 +0000 2009,Friend to the Stars,"Young, Disabled Lad, with +40,000 Followers! ... #MJ 👍🏻 #WWE 👍🏻 #ManUnited 👍🏻 ... My YouTube Channel link is below 🎥👏🏻",41034,39791
+4,815558959230832640,But Hillary!...,"What about Hillary and/or Obama???
+#WhatAboutism",550,1,/NedSparks/lists/but-hillary,NedSparks,Wed Aug 12 23:47:51 +0000 2009,Cool Daddy NedSparks,"Music (Lee Hazlewood, Wax Trax!, Delta Blues) Rare Movie Provider (Noir, Cult, etc.) Hockey, Politics & Copyright. Nixonologist. This Twitter Kills Fascists",2047,4966
+5,865394479397720064,Dumber than Box of Rocks,,104,0,/JohnSalisbery/lists/dumber-than-box-of-rocks,JohnSalisbery,Fri Oct 02 16:19:04 +0000 2009,John Salisbery,"Proud American, embarrassed that we elected an incompetent, draft-dodging President. Helping to #EmptyThePews",241,600
+6,817901019057295360,Dezinformatsiya,,169,0,/ltwukwuk/lists/dezinformatsiya,ltwukwuk,Mon Jul 20 17:47:32 +0000 2009,lieutenant-wukwuk,I have disappeared into the ether,613,1714
+7,821046760667828225,RT FoxNews: UPDATE: FBI a,,121,1,/srivats95/lists/rt-foxnews-update-fbi-a,srivats95,Thu Feb 19 16:28:10 +0000 2015,Srivats,,57,566
+8,788385884005629952,wikileaks,,3748,8,/JusticeOutcry/lists/wikileaks,JusticeOutcry,Fri Oct 23 06:39:07 +0000 2009,JusticeOutcry,Let's spread the truth about politics.,2115,2499
+9,771838460118364161,Trump Idiots,Idiots who follow Trump. No thinking allowed. ,873,5,/NewsView100/lists/trump-idiots,NewsView100,Sun Jul 13 16:27:07 +0000 2014,News View,"I share the news and my opinions about the news. I don't suffer fools gladly. Blocked by Sean Hannity, Brit Hume, Sebastian Gorka, Roseanne Barr, Dan Bongino",51305,41808
+10,788179650455502848,My list!,Trump supporters and people who believe in America!,362,8,/Tamoralrice/lists/my-list,Tamoralrice,Wed Nov 11 02:41:54 +0000 2015,Trump WON! fact!,"Congrats to our 45th POTUS, DONALD J TRUMP! 🚂❤🇺🇸💨 very proud of you😊🙏🏻",289,643
+11,782082430668636161,TweetdboutBLM,This list contains Twitter accounts that tweeted using BLM hashtag early on. Feel Free To use.,3951,44,/RobBobBobby/lists/tweetdboutblm,RobBobBobby,Mon Mar 21 17:39:44 +0000 2011,Robert Norton,"I’m a good guy. A true ally of People of Color, A gentle guy who is learning to release the badass I’ve got inside when the times are right.",94,311
+12,772006810396004352,Will DJT able to do this,,3617,17,/shitisallFU/lists/will-djt-able-to-do-this,shitisallFU,Sun Jul 31 23:46:56 +0000 2016,ShitIsAllFuckedUp,The reality.,1142,546
+13,765525060769738753,NeverHillary,,2348,33,/edsull/lists/neverhillary,edsull,Tue Mar 13 19:59:42 +0000 2007,Edward Sullivan,"CEO and Founder of TrustExchange @b2bTrust, Founder of @AriaSystemsInc and Serial Entrepreneur",3553,4866

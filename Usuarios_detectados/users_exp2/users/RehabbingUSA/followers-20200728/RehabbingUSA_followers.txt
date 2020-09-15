@@ -1,0 +1,87 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,20:07
+,>>> Analyzed user:,RehabbingUSA
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,2688159560,Videostratus,Videostratus,"Property listing videos and website for realtors and real estate agents. 
+
+Generate your next listing video with one click. Try us now!",http://pbs.twimg.com/profile_images/1185411930606850049/3VOpmBaB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-28 19:11:08,Canada,,False,2635,1924,599,65,12657,False,
+2,1877896970,Olivier,Olivierolivierm,Owner of Olivier salon lips restaurant New York Florida Atlanta Chicago San Diego,http://pbs.twimg.com/profile_images/1251450582621196288/jKPqUxdG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-18 03:32:28,"New York, USA",,True,917,4992,726,2,4296,False,
+3,1229115874709319683,BEE BTC,BeeBtc,"🔥Cryptocurrencies signals🔥
+💲Daily 20% Profit💲
+💰Daily 4-6 Trading Signals🐃
+📲Whatsapp: +1 239 235 4278 📲
+👇🏻 FREE CHANNEL 👇🏻",http://pbs.twimg.com/profile_images/1239071891987587073/5SayrVaL_normal.jpg,,2020-02-16 18:50:43,,,False,257,1547,7,0,0,False,
+4,1287462181982703616,Manish Kasana,ManishK73722663,manish,http://pbs.twimg.com/profile_images/1287462617984798720/lUoLdDjs_normal.jpg,,2020-07-26 18:58:32,,,False,18,114,4,0,0,False,
+5,806441509,hasan uçar ,789142,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-09-06 09:29:41,,,False,19,338,50,0,146,False,
+6,897843557519601664,Grace Holmes | Singer,realgraceholmes,"🔥Singer-🎤 Songwriter- ✍️ Producer-🎹🎸🔥Soulful, heartfelt, and passionate acoustic music Insta @ realgraceholmes Click the link below please, watch my video!",http://pbs.twimg.com/profile_images/1256840809996890113/6Idk9v2w_normal.jpg,,2017-08-16 15:32:40,Oregon,,True,909,1644,116,1,2141,False,
+7,2610366562,Crypto Anonymous,Crypto_Anon_,"Formerly The Crypto Jew! 
+
+Posting Market Analysis and Free Signals. Join my Telegram!
+
+$ZIL $HOT $FRM $WRX $ICX $VET $ARK
+
+Check out my E-book!",http://pbs.twimg.com/profile_images/1270063243516575750/wXdjGTPX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-15 03:18:19,tel aviv,,False,4434,1098,12511,18,4312,False,
+8,1253895813731946502,Collette 🇺🇸🇺🇸🇺🇸,Paranor01397856,also on parlor @Talonye77,http://pbs.twimg.com/profile_images/1253896665947406341/o4zo_zaV_normal.jpg,,2020-04-25 03:58:18,USA,,False,838,957,6096,0,41344,False,
+9,802119236,emino_04@hotmail.com,emino_04hotmail,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-09-04 09:30:23,,,False,22,341,49,0,184,False,
+10,907205244001574912,Crypto Wolfpack,CryptoWolfPack,The best and most trusted #crypto and #forex signals since 2017. View our past trade results via our website below:,http://pbs.twimg.com/profile_images/1176751159442362368/pYyJvSw4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-09-11 11:32:40,#blockchain,,False,14195,5804,5817,112,3322,False,
+11,225243144,PGomez,Fight4itUSA,"Conservative, defender of my God, Family, Our Constitutional Rights, My AMERICA, OUR FREEDOM! A lover of natural beauty, exploration, and COMMON SENSE.",http://pbs.twimg.com/profile_images/824622902452617218/7_95Im4d_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-12-11 02:39:03,U.S.A.,,True,43,120,423,0,636,False,
+12,841966526,kağan coskun,kaancoskun6,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-09-23 16:08:16,,,False,18,327,50,1,127,False,
+13,735361844391612417,Riverrat republican,ChrisMriverrat,"hard working, GOD fearing, Loving Father! 2 beautiful kids, and an amazing wife! Fiscal Conservative, center leaning on social Policies! #maga",http://pbs.twimg.com/profile_images/1287091431522230272/w5wITh0S_normal.jpg,,2016-05-25 06:48:20,,,False,416,836,1308,0,1279,False,
+14,715647420,On The Level Trading (OTL),ontheleveltg,"Community for aspiring traders, focusing mainly on Price Action, S/R Levels and Candlestick Analysis. 
+
+We trade #forex, #futures, #commodities and #crypto",http://pbs.twimg.com/profile_images/1232382265742721027/6y5x6tUj_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-25 07:17:11, Pennsylvania,,False,2939,4091,166,8,5100,False,
+15,1173910308378828801,madfish.solutions,madfishofficial,"MadFish Solutions is a professional team of highly skilled developers. We mainly work with Web and blockchain, helping build tech teams for various businesses",http://pbs.twimg.com/profile_images/1281582740408803329/qI02m_RT_normal.jpg,,2019-09-17 10:43:28,,,False,1408,2212,48,6,46,False,
+16,2235329532,John Morgan,johnmorganFL,"Even when he has a 50/50 shot, the odds are 80/20 in his favor 🚀",http://pbs.twimg.com/profile_images/1121812566098030593/yIJ3zzjt_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-12-08 02:06:19,"For now, Earth",,False,16152,15711,41639,45,123,False,
+17,140906382,Premiere Suites ON,PremiereOntario,"With hundreds of furnished executive suites in cities across Ontario, we provide stylish, safe and spacious homes-away-from-home you'll love. #certifiedclean",http://pbs.twimg.com/profile_images/969047364794109952/JSQRyd52_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-05-06 17:29:57,"Ontario, Canada",,True,2249,1876,3799,50,441,False,
+18,1065305100720226304,Asiriboya Fataw,asiriboya,,http://pbs.twimg.com/profile_images/1272532958189158401/CfOuvtuL_normal.jpg,,2018-11-21 18:05:03,"Upper East, Ghana",,False,155,1179,23,0,2308,False,
+19,4060615408,CryptoGirl news🗯    🚀🌛⚡️,CryptoGirl_News,"Lover of cryptos, lover of freedom. Tips, Apps and Bitcoin World News.  Also post hot web promotions and products.",http://pbs.twimg.com/profile_images/1187811559856398344/7g7JjzTJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-28 12:26:51,worldwideweb,,False,4175,166,72502,67,326,False,
+20,1282285200660201473,cryptoarte,cryptoarte1,"HELPİNG FOR POOR PEOPLE CAUSE OF COVİD-19
+YOU CAN HELP THEM:1DWjkJNT9mSFxKRzg3ALtMLZmZD89gEXQx",http://pbs.twimg.com/profile_images/1282285663119958016/-o-X3HHT_normal.jpg,,2020-07-12 12:06:38,,,False,12,169,4,0,0,False,
+21,1256299738552340483,Dr H Quinzel Ⓥ,Dr_H_Quinzell,"✏️I'm an Artist...ish✏️ #NOTHINGisNORMAL
+🎦Youtube ▶️ 
+https://t.co/7ZTeqMAO8i",http://pbs.twimg.com/profile_images/1288158528356536320/mJAEevsm_normal.jpg,,2020-05-01 19:09:45,,,False,1480,1155,1468,6,3940,False,
+22,1284979394168029185,JD CENTRAL,JDCENTRAL10,ดีครับ,http://pbs.twimg.com/profile_images/1284979699161067520/jnriNfLs_normal.jpg,,2020-07-19 22:32:53,,,False,24,990,377,0,39,False,
+23,2584785794,xDexy,XDexy52,"Needless to say, nobody is born an avid gamer.",http://pbs.twimg.com/profile_images/1266839175761760256/py0-J4sG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-24 00:08:14,,,False,88,675,96,1,558,False,
+24,1105552023787843584,Christopher Chase,ChainHaven,Avid learner. Entrepreneur. Trader. Strong opinions loosely held. Founder Chain⛓Haven - verifiable alpha. Opinions on markets ≠ financial advice #bitcoin $ETH,http://pbs.twimg.com/profile_images/1213875241132445702/ihnJyRHd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-03-12 19:31:57,,,False,6652,2596,1942,18,15311,False,
+25,1259672504546856965,XRP enthusiasts,GoogleMeNow6,"XRP / ChainLink / bitcoin / Ethereum
+cusp-sign: ♎️ ♏️ 
+Disability: dis ability to get this bread 💰 
+Future millionaire",http://pbs.twimg.com/profile_images/1286206238016122880/XNSOs13W_normal.jpg,,2020-05-11 02:31:55,To the moon,,False,73,253,691,1,2111,False,
+26,991246014978953218,SyndicateCapital,ask_syndicate,"financial solutions for infrastructure and as well to consumers, small businesses, corporations, governments and institutions",http://pbs.twimg.com/profile_images/1267585459460255744/C8PBowJc_normal.jpg,,2018-05-01 09:20:41,Hk | INDIA | UAE |UK ,,False,749,5000,2392,3,568,False,
+27,1266629905468608515,CryptoLurker Ⓥ ₳ 🌊,CryptoLurker6,I just sharded 😉,http://pbs.twimg.com/profile_images/1266631412989517824/zoWdBg9T_normal.jpg,,2020-05-30 07:18:11,I lurk in the shadows,,False,175,635,568,1,4206,False,
+28,2198293900,Chief,ChiefSS67,"Proud Turncoat! I Love our President n our Country !! 🇺🇸🇺🇸❤❤
+#WWG1WGA #BackTheBlue",http://pbs.twimg.com/profile_images/1226940421420523520/phrYfXfk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-11-27 19:11:50,,,False,132,380,5306,0,6523,False,
+29,1130255770262614016,wyhfyhe_Lisa,wyhfyhe_Lisa,"When You Have Faith You Have Everything! God Bless 🤗
+I follow back",http://pbs.twimg.com/profile_images/1253485819433803780/jRKh1Kpl_normal.jpg,,2019-05-19 23:35:49,"Kansas, USA",,False,3809,4512,2174,2,10692,False,
+30,1121272335129022465,abuarham,abuarham17,make me friend follow me am 100% follow you believe me😍,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-04-25 04:38:51,in your heart,,False,3455,3504,1050,2,592,False,
+31,4185143260,Boulogne,boulogne123,"#MAGA, #KAG, #BanShariaLaw, #BlackoutCNN, #BoycottHollywood, #FreeMilo, #BoycottNIKE, #TermLimits, #AllLivesMatter!",http://pbs.twimg.com/profile_images/776981647820455936/n6hePmWh_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-14 08:44:14,,,True,11130,11605,82571,53,118977,False,
+32,2496899466,musa touray,musatouray10,"Honest, believer in God, single, orphan self depend nice to everyone who comes to my way. 🇬🇲Love Donald Trump 🇺🇲",http://pbs.twimg.com/profile_images/1132382730233221121/HA6o8np8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-15 18:35:43,sukuta ,,False,54,657,15,0,359,False,
+33,760148909796777986,Roger Skånøy,murregutt,"I AM ONE OF THE EVANGELICALS CHRISTIAN DEPLORABLE TRUMP SUPPORTERS & I LOVE IT. MILITARY, BLUE LIFE & JAIL YOU KNOW WHO. TOP PICTURE:THIS IS HOW TDS LOOK LIKE",http://pbs.twimg.com/profile_images/1247953921257037825/79Dm0Jub_normal.jpg,,2016-08-01 16:23:17,,,False,1903,3315,7264,1,2161,False,
+34,153831249,Kendall Research Sys,GelThotics,Make your favorite shoes more comfortable without changing the fit. Prevent foot injury and the pain of plantar fasciitis. Video: https://t.co/mFdMKwnfNG,http://pbs.twimg.com/profile_images/598924886346629120/FoQ8IR66_normal.png,http://abs.twimg.com/images/themes/theme18/bg.gif,2010-06-09 17:04:08,San Diego,,False,24865,26170,18496,344,123,False,
+35,792660210,NahBabyNah,NahBabyNah,"My patriotic heart beats red, white, & blue! Married/Father of 4; followed by @GenFlynn @SharylAttkisson @SaraCarterDC",http://pbs.twimg.com/profile_images/1259964662604537860/LO0hwXUb_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2012-08-31 00:01:02,"Flyover, State (Ohio)",,True,162430,131698,635527,520,208620,False,
+36,104924567,Mike,mikeandersonsr,Veteran US Navy Hospital Corpsman. Parler ID: mikeandersonsr #maga,http://pbs.twimg.com/profile_images/822630336966365190/xf5IwIZu_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2010-01-14 20:36:18,USA,,True,65154,61413,293811,270,84950,False,
+37,1275656642542043140,ALAXIA23🇺🇸🇺🇸,BGibhon,,http://pbs.twimg.com/profile_images/1277297930093772800/YlfTeO1V_normal.jpg,,2020-06-24 05:07:24,"Texas, USA",,True,728,1647,110,0,947,False,
+38,908742804804792320,Patriot Recreation Anonymous Backup,P_R_Anon_Backup,PatriotRecreationAnonymous on Parler. Digital Soldier creating Patriot themed games with a Q drop on each score sheet. These are our snapshots in time. (Backup),http://pbs.twimg.com/profile_images/1275979389637885952/Lz4yv8K0_normal.jpg,,2017-09-15 17:22:23,,,False,334,824,248,0,4,False,
+39,1042501433260564480,American Male Wellness,MaleWellness,"Welcome to American Male Wellness!
+We are a medical facility in Las Vegas that specialized in the Men’s Health.",http://pbs.twimg.com/profile_images/1276625297912270853/OKFOxHDA_normal.jpg,,2018-09-19 19:51:25,"Las Vegas, NV",,False,177,863,265,1,50,False,
+40,746362627,Pouissant,Pouissant1,God 1st #KAG #ConservativePatriot. I love my country. I love OUR President. #PatriotsStandUnited   🇺🇸🙏,http://pbs.twimg.com/profile_images/1133180349473873920/1oKODsHg_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-09 02:16:36,South,,False,11923,11869,14639,11,33204,False,
+41,16135967,Open Vegas!! Trump 2020!!,AlabamaAnnaJ,"Born in the South, live in Vegas, Air Brat, Married, on the Trump Train, WALL,MAGA, KAG! I'm ONLY here to support President Trump and vote out the NV Dems!",http://pbs.twimg.com/profile_images/1196834725135937536/wHFmkQnr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2008-09-04 21:54:51,"Las Vegas, NV",,False,1886,2348,3455,3,33222,False,
+42,790019230389248000,Political HEDGE,politicalHEDGE,"Aggregating Political, Wall St. & World News.",http://pbs.twimg.com/profile_images/1281379843372982272/mFfrlu4m_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-10-23 02:37:17,Everywhere,,False,102846,87842,863795,218,30109,False,
+43,1240468572020736000,NvPatriot💥 Parler: @NvPatriot,Nvpatriot2,#2A #1A DIG MEME PRAY (the letter Twitter banned) 🐸 back in the twitter again... Round 3 FIGHT!,http://pbs.twimg.com/profile_images/1255961197112745985/bQkjxYpX_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2020-03-19 02:42:48,Nevada,,False,2595,2182,2678,3,10551,False,
+44,238657525,❌ GCR ❌⭐️⭐️⭐️,DreamerLV,"Life member of NRA since 1973. #WWG1WGA #QANON @DreamerLV on Parler ......No DM’s! Twitter has me restricted on FB, please bear with me.",http://pbs.twimg.com/profile_images/1265085110853894144/2kciAudI_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-01-15 18:16:51,"Las Vegas, NV",,True,3541,4980,18782,0,142131,False,
+45,1272168483166523393,TENNESSEE Volunteer,mboropatriot85,"Peace, Light and Love to everyone ❤️worldwide 🌎#IhavefriendsofallracesfromdifferentCountries #GODWINS #WORLDWIDE #GODIStheLORD #ANGELSareHERENOW #GODiseternal",http://pbs.twimg.com/profile_images/1286399697138126848/CKDD3Y9x_normal.jpg,,2020-06-14 14:06:31,"Earth, The Milky Way Galaxy",,False,1378,3068,944,0,1065,False,
+46,1262973226491146240,Heather 🇺🇸✌🏼❤🤍💙,Heather50783317,"Just a hard working, foul mouthed, sarcastic Patriot. 💙my state, country, freedom, & ready to take a stand for what's right. 🇺🇸  #Trump2020 ✌🏼🙏🏼 WWG1WGA",http://pbs.twimg.com/profile_images/1280757404917829632/mrT_xVQX_normal.jpg,,2020-05-20 05:07:50,,,False,105,185,435,0,1474,False,
+47,1278307988667863041,Jen Orbis,OrbisJen,"Patriot. WWGIWGA ♥️🙏🙏🙏🙏God is great. ❤️❤️I love Pres. Trump, i love humanity
+This is my new account.
+You can follow me dear Patriots, I'll follow you back.",http://pbs.twimg.com/profile_images/1284917789522886656/-dqTPhkv_normal.jpg,,2020-07-01 12:43:18,Amsterdam🇪🇬Dutch Patriot ,,False,546,488,1039,0,1839,False,
+48,1272284770374836225,Jay Bizzle 🇺🇲,Jay_Beezy27,"Patriot. Buckeye. Digital Soldier. 
+Romans 8:38-39",http://pbs.twimg.com/profile_images/1272971486320418816/gNL04ctt_normal.jpg,,2020-06-14 21:48:39,In your head,,False,2469,2819,6539,3,11070,False,
+49,984855580652294146,Kashif Jameel,jameel_kashif,hospitality,http://pbs.twimg.com/profile_images/988699247737556992/mGT28BuH_normal.jpg,,2018-04-13 18:07:22,"Lucknow, India",,False,1235,3871,11009,0,12836,False,
+50,1276687991772250115,Mycommerceinfo,Nadeera99335895,#Commerce #Business #Positive_things related website,http://pbs.twimg.com/profile_images/1276689956694560768/pz-zir9E_normal.jpg,,2020-06-27 01:25:36,,,False,225,2144,14,0,16,False,

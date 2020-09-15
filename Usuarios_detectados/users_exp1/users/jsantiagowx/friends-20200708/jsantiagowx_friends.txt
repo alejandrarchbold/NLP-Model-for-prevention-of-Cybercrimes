@@ -1,0 +1,169 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-08
+,>>> Time:,17:10
+,>>> Analyzed user:,jsantiagowx
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,76678975,Maria Angelica Prada U.,MariaPradaU,"Abogada| Climate Protection Fellow, @AvHStiftung| Profesora @URosario| Feminista| Desde abajo y a la izquierda👈✊#RentaBásicaYa (She/Her/Comrade)",http://pbs.twimg.com/profile_images/1258748382958542850/X9x1KQ08_normal.jpg,http://abs.twimg.com/images/themes/theme3/bg.gif,2009-09-23 16:01:26,"Bogotá, Colombia",,True,3702,4444,6715,20,9425,False,
+2,1279035352418865153,Lucha de voces,LuchaDeVoces,Portal digital independiente e informativo.,http://pbs.twimg.com/profile_images/1280681795189714945/KWZaToQg_normal.jpg,,2020-07-03 12:53:32,Colombia,,False,3545,0,7,3,124,False,
+3,529588816,Ale.,AlejandraTuk,Soy la oveja roja de mi familia.,http://pbs.twimg.com/profile_images/1272025810807988226/gbxAPn-q_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2012-03-19 18:10:51,Latinoamérica Libre ☭,,False,12040,185,58229,44,47901,False,
+4,1013595948,El Antituiter.,andrefelgiraldo,Infiltrado en esta red de tartamudos ortográficos y poetas baratos para destruir la anorexia intelectual y la bulimia literaria. Pena debería darles estar acá.,http://pbs.twimg.com/profile_images/1265690852464168961/5j2wp4Ek_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2012-12-15 17:20:37,Por ahí.,,True,37363,5753,52916,74,47257,False,
+5,995379504553103361,Derli López,derlopeza,#Activistapolitíca #DDHH | #Ambientalista por conveniencia | La #Fotografía mi liberación... 🇨🇴 Insta / Face: @derlopeza,http://pbs.twimg.com/profile_images/1280555316665552896/kx2LZPdn_normal.jpg,,2018-05-12 19:05:41,Colombia ,,False,16591,7066,15766,21,12197,False,
+6,2295504656,Edwin zagi,edwinzagi,todavia soñando con un mundo mejor...,http://pbs.twimg.com/profile_images/1279419234100142080/_QPmpM9X_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-17 05:08:13,,,False,1150,1727,801,0,3299,False,
+7,85495176,Suárez,SandSuarez,Perra intergaláctica.,http://pbs.twimg.com/profile_images/1198222013321695238/M8bKc9vs_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-10-27 04:10:53,,,False,23958,748,116257,132,91609,False,
+8,79585327,Noticias Uno,NoticiasUno,"#YoSoyLaRedIndependiente. Sintonícenos en @CABLENOTICIAS a las 8PM todos los sábados, domingos y festivos. Noticiero colombiano ganador de India Catalina.",http://pbs.twimg.com/profile_images/1201158486832365570/QeO381wk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-10-03 22:56:21,"Bogotá, Colombia.",,True,2024521,3610,69315,4985,3998,True,
+9,785686681672294400,La Falacia Del Día,FalaciaDelDia,Admiradores de Fallacy Man. Divertimento sobre la mala argumentación. Esta cuenta se maneja con un enorme sesgo de confirmación. (Alter Ego: @habladivertido),http://pbs.twimg.com/profile_images/858894484087738368/aUZFS86v_normal.jpg,,2016-10-11 03:41:17,,,False,6245,98,6541,13,434,False,
+10,982392467239645185,Lord Petrosky,iLordPetrosky,Perfil Fake del dirigente político progresista Colombiano Gustavo Petro. Por una Colombia Humana con justicia social y paz. #LaResistencia Cuenta parodia.,http://pbs.twimg.com/profile_images/982393823962849281/4A_QMWj7_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-04-06 22:59:50,Colombia,,False,132414,63936,1539,51,70779,False,
+11,1920140406,Santiago Alarcón U,Santialarconu,Y es verdad soy un Payaso,http://pbs.twimg.com/profile_images/1277750431926665216/4UgI8kHt_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-30 13:58:23,"Bogotá, D.C., Colombia",,True,220238,836,22936,86,7198,True,
+12,353978937,El Vago de la Procrastinación,BajaAlcurnia,"Antes era el vago de los hilos, pero ahora estoy es procrastinando con toda. Abogado, especialista en DDHH y DIH.",http://pbs.twimg.com/profile_images/1242337160302379009/vsj1hMbk_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-08-12 23:13:15,"Bogotá, Colombia",,True,26235,1281,41184,37,115723,False,
+13,174443391,María Jimena Duzán,MJDuzan,Periodista y columnista en @RevistaSemana | Directora de @Semanaenvivo,http://pbs.twimg.com/profile_images/1742716015/image_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-03 23:13:24,Colombia,,True,1044722,4311,12437,1846,2443,True,
+14,274291771,Verónica,verozco,♀️💚 Podcaster 🎙 #VidaRealPodcast Episodio 27: QUEER con Santiago Aguirre @aroundcolombia,http://pbs.twimg.com/profile_images/1182314585048698880/tluq2BfM_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-03-30 02:41:07,,,True,122744,767,26820,339,95939,False,
+15,93573457,Juliana Ramírez Prado,Julianaramirez6,"Caleña, reportera e imprudencer. Premio Nal. de Periodismo CPB 2017- Premio Simón Bolívar 2019. (OPINIONES PERSONALES). Julianaramirezprado@gmail.com",http://pbs.twimg.com/profile_images/1277593835669987328/SwObkN4m_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2009-11-30 06:09:30,,,True,40633,2328,25085,97,52280,False,
+16,848923514119884800,Sara Tufano,SaraTufanoZ,socióloga | feminista | columnista @eltiempo,http://pbs.twimg.com/profile_images/1154076214111477761/33mHpWba_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-04-03 15:41:52,Colombia,,False,51663,1423,7550,131,25945,False,
+17,782474533089443840,Gener Usuga,gener_usuga,"Activista Político. #DefensorDDHH 
+
+En el Exilio
+
+#EnResistencia #CreoEnDios 
+
+#EscenarioCalle
+#MovimientoAntiuribista 
+
+ https://t.co/Q4nYG2cN08",http://pbs.twimg.com/profile_images/1277867207280771072/MrB6WIn7_normal.jpg,,2016-10-02 06:57:21,"Paris, France",,True,23587,11275,112718,47,132532,False,
+18,189534765,Mateus,diegomatteus,"Comediante. Tengo un canal en youtube donde digo más cosas. véalo, si le gusta, ró te lo. Libre dis/pensador. Hablo en broma, usted es que se lo toma en serio.",http://pbs.twimg.com/profile_images/1235181876542926848/uJMNkGpW_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-09-11 14:48:20,"Bogotá, D.C., Colombia",,True,295253,1146,61281,286,16875,False,
+19,280244466,steffany,teffirojitas,,http://pbs.twimg.com/profile_images/1267271683221729282/CrYWMZqC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-10 23:23:04,colombia,,False,25,73,268,0,825,False,
+20,1242839085892460546,El Uberrimo,leuberrimo,"Progre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La realidad y la consciencia me hicieron antiuribista.",http://pbs.twimg.com/profile_images/1280946324263796736/Uj_W9-sz_normal.jpg,,2020-03-25 15:41:56,,,False,101,328,678,0,1716,False,
+21,348218292,Javier Ruiz Agudelo 🐝🥑⛰️🐭🌋👞📰🏳️‍🌈🦈🍳🇷🇺 ☭,ContraGodarria,"""Que ser valiente no salga tan caro, que ser cobarde no valga la pena"" @Contragodarria2 cuenta alterna Instagram: https://t.co/SXARH5F7cP",http://pbs.twimg.com/profile_images/1849634654/av_normal.gif,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-08-04 02:13:53,"Bogotá, D.C., Colombia",,True,45752,17403,299617,130,182888,False,
+22,444813339,Martín De Francisco,MdeFrancisco12,Qué vergüenza con ustedes.,http://pbs.twimg.com/profile_images/514443867283001344/o6yBJrhM_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-23 17:32:48,,,False,1541543,665,9586,1234,6571,False,
+23,157202279,Celso Tete Crespo 🇨🇴,elsemblante,| Política | 📚🥑🐝 . La derecha sólo pa' bajarme del bus. Comunicador Social. |Opiniones personales| Juniorista - Bostero ⚽. #Caribe 🌴.,http://pbs.twimg.com/profile_images/1201228847750033414/uaePY5wi_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-06-19 04:04:31,"Bogotá, D.C., Colombia",,True,62242,10629,77127,71,197264,False,
+24,334921284,Félix de Bedout,fdbedout,"Periodista, presentador del Noticiero Univision Fin de Semana. WRadio Colombia. @fdbedout en Instagram.",http://pbs.twimg.com/profile_images/1269633940245151752/4pTj-ogT_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2011-07-13 21:40:54,"Miami, FL",,False,2228411,657,33043,2874,290,True,
+25,922257222050238464,Santiago Moure,MamerMoure,,http://pbs.twimg.com/profile_images/922259431714324480/PswrAGnH_normal.jpg,,2017-10-23 00:23:51,,,True,317469,456,1642,199,1634,False,
+26,3150590389,Dr. Manhattan ⚛️,DrNickolaz,I'm tired of Earth. These people. I'm tired of being caught in the tangle of their lives... ☭🔻,http://pbs.twimg.com/profile_images/1254281541771055105/OK0dceZP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-11 23:04:10,,,True,5891,4319,13792,3,68059,False,
+27,81487904,María José Gómez,MajoDoria,"Abogada, activista de todas las causas en las que creo, apasionada por los deportes y temas socio-políticos🌎 #FtePatriaGrande",http://pbs.twimg.com/profile_images/1274817198599671808/q8dKTsC5_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2009-10-11 01:41:56,"Buenos Aires, Argentina",,True,56773,6165,30658,36,52897,False,
+28,324448788,Lalis,smilelalis,"Periodista, creadora de contenido para Youtube. Directora de @pasumarse- Escribo en @vocesco Panelista en @PolasOpuestas 💛",http://pbs.twimg.com/profile_images/1261848871472435207/0r7YHjwj_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2011-06-26 16:52:35,Bogota- Colombia ,,True,104164,1125,19610,84,15752,False,
+29,58956408,Julián F. Martínez,JulianFMartinez,Periodista. Autor de ChuzaDAS | jfmartinezv@gmail.com |,http://pbs.twimg.com/profile_images/1253520417437945856/84boKAPw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-07-21 23:14:34,"Bogotá, D.C., Colombia",,True,171331,1841,65796,413,6846,False,
+30,825074170191032320,PeliColombianas,Pelicolombianas,"Bienvenidos al corrompido mundo del entretenimiento chibcha.
+Decimos verdades a punta de mentiras.
+Elevados niveles de sátira.
+#PelicolombianasMinistroDeMemes",http://pbs.twimg.com/profile_images/1243690476282294272/kyyPmrA8_normal.jpg,,2017-01-27 20:13:06,"Bogotá, D.C., Colombia",,False,75893,5088,59459,71,67922,False,
+31,142240353,Carlos Carrillo,CarlosCarrilloA,脚踏实地 。Concejal de Bogotá por el PDA. ¡#Despertemos!,http://pbs.twimg.com/profile_images/1191151478133669888/XiUwbRDs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-10 10:24:53,"Bogotá, Colombia",,True,63212,735,37764,135,20640,False,
+32,156456941,Rosa Moreno🐝🐝🐝,ismene2,Mamerta.🔻,http://pbs.twimg.com/profile_images/1156291095380340737/UOiu-7zv_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-06-17 00:37:27,Colombia,,True,87276,14294,127182,357,923,False,
+33,1010113508233699328,Levy Rincón,LevyRincon,¡Mamerto resentido!Facebook: https://t.co/LBhdFow0ix YouTube: https://t.co/xDu7JuTxC3,http://pbs.twimg.com/profile_images/1210283198669828098/SEZ-liyW_normal.jpg,,2018-06-22 10:53:22,"Cali, Colombia",,True,82768,384,1346,73,5572,False,
+34,142465457,AUGUSTO A OCAMPO,AUGUSTOOCAMPO,Abogado especialista en Investigación Criminal...,http://pbs.twimg.com/profile_images/1275068768641675270/gkW-_jR7_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-05-10 23:46:16,"Bogotá, Colombia",,True,23598,50,143110,51,90554,False,
+35,1228271184724320257,Dianita Diaz,sandia2416,"Perfil antiuribista- Izquierda. Teacher! Opiniones personales, Se habla de todo un poco! Que bonito es saludar y ser saludado, les traigo una rica y deliciosa..",http://pbs.twimg.com/profile_images/1273001698190123008/fAoP7xtY_normal.jpg,,2020-02-14 10:54:18,"Bogotá, D.C., Colombia",,False,9632,4506,14110,8,24480,False,
+36,2151746461,Vicosito,DonBarbado,Te sienta bien ser cool.,http://pbs.twimg.com/profile_images/1259563068000014337/atmjjXHG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-23 22:01:00,Colombia,,False,10709,3976,1713,21,4163,False,
+37,1006874666986811392,mariapaula,mariapa05527055,Resistencia por la paz. Por una educación digna para los niños y niñas que viven en el campo!,http://pbs.twimg.com/profile_images/1157486474931122176/O3onOTWW_normal.jpg,,2018-06-13 12:23:22,,,False,29774,5027,56487,24,143799,False,
+38,2978268105,Sra. Patria,SraPatria,"Populus me sibilat, at mihi plaudo ipse domi.",http://pbs.twimg.com/profile_images/1062817663540445184/A9LCj2Zl_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-14 16:31:06,Colombia🌹,,True,28556,2137,59182,22,68684,False,
+39,2593740297,Miguel Angel Del Río Malo,migueldelrioabg,Abogado Especializado en Ciencias Penales y Criminología de la Universidad Externado de Colombia. Litigante.,http://pbs.twimg.com/profile_images/971491928675180544/CPPoHgnS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-09 02:30:04,,,True,56956,49,632,49,937,False,
+40,1196627989892653057,Giovani v.,giovani_twiter,,http://pbs.twimg.com/profile_images/1275275385245184000/JuIMAzT4_normal.jpg,,2019-11-19 03:15:41,Colombia,,False,395,781,2086,0,11305,False,
+41,461527998,U L D A R I C O,UldaricoChilito,"Excandidato a la Asamblea.
+ExRepresentante Estudiantil UPTC. Ing Industrial.
+Estud Esp en Planeación y gestión del Desarrollo territorial.
+Progresista|Activista",http://pbs.twimg.com/profile_images/1224571127189643264/oh_6ekNc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-01-11 22:13:36,"Boyacá, Colombia",,True,29519,5243,8269,27,34078,False,
+42,1240803407268585472,Vorágine,VoragineCo,Periodismo Contracorriente. Escríbenos a info@voragine.co,http://pbs.twimg.com/profile_images/1278007514332872705/Ix5Fk6XB_normal.jpg,,2020-03-20 00:52:51,Colombia,,False,47274,74,436,77,275,False,
+43,138206058,Gonzalo Guillén,HELIODOPTERO,Periodista.,http://pbs.twimg.com/profile_images/3506848393/c91d7e17ac74d62700ff2fcbcd5fa85f_normal.png,http://abs.twimg.com/images/themes/theme5/bg.gif,2010-04-28 22:49:33,,,True,274748,956,114933,654,174,False,
+44,1206373349049454592,Victoria Mono,mono_bogota,Bogotá Bogotá Bogotá. Respiro Bogotá 🐵 Críticas constructivas 🗺️ Fútbol Bogotano ⚽⚽ el tiempo no se recupera 🕰️ Animalista 📆 y me gusta gritar.📢📣📢📣📢,http://pbs.twimg.com/profile_images/1260924051305848839/wSvGr6Mv_normal.jpg,,2019-12-16 00:40:06,"Bogotá, D.C., Colombia",,False,688,1082,308,0,860,False,
+45,917133063737561089,Camilo Arteaga,EpicuroDeSamos_,"«¿Quieres ser rico? Pues no te afanes en aumentar tus bienes, sino en disminuir tu codicia».
+
+ —Epicuro de Samos.",http://pbs.twimg.com/profile_images/1264995489310801923/kJFvVBLs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-10-08 21:02:16,"Bogotá, Colombia",,False,43877,7085,90222,48,64708,False,
+46,1260023987242848258,Matarife,matarifeco,¨Matarife¨ Un genocida innombrable. Serie para whatsApp basada en las investigaciones de Daniel Mendoza e inspirada en hechos reales.,http://pbs.twimg.com/profile_images/1260365180216709121/XXPXWoy__normal.jpg,,2020-05-12 03:45:18,,,False,224960,1,573,52,1459,False,
+47,1159600588503560198,Colombiano Indignado,ColombianoInd,Portal de información política y cultural de Colombia. Síguenos en: https://t.co/wISaMweNV3,http://pbs.twimg.com/profile_images/1248053817456963588/Gbp2drW2_normal.png,,2019-08-08 23:01:39,Colombia,,True,4432,202,2298,6,65,False,
+48,1000770503991324673,Gabriela,Gabrielahh31,,http://pbs.twimg.com/profile_images/1251797914634072064/-Frue9x5_normal.jpg,,2018-05-27 16:07:36,Colombia,,False,47,229,216,0,1116,False,
+49,1390094958,Delator,ElQueLosDELATA,"Daniel Mendoza Leal. Periodista,escritor,criminólogo. Demócrata. Espacio de opinión. Guionista de MATARIFE y Fundador de LA NUEVA PRENSA@lanuevaprensaco",http://pbs.twimg.com/profile_images/1034294278216921094/8Ayr87-2_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-04-29 18:09:22,,,True,294727,3836,22896,169,16976,False,
+50,969658749085540352,La Nueva Prensa,lanuevaprensaco,"#LaVerdadSeaDicha
+
+Canal de YouTube: https://t.co/0xtO7Eyy1v
+
+Facebook: https://t.co/YlFDaKNegA",http://pbs.twimg.com/profile_images/1276852646205218816/7-J94LJ1_normal.jpg,,2018-03-02 19:40:35,Colombia,,False,71938,526,4603,157,225,False,

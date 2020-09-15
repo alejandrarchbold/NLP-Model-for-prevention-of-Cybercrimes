@@ -1,0 +1,87 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,03:31
+,>>> Analyzed user:,alterahuevos
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1083763198245982208,Maria Camila Vergara,macamilavergara,🎙📻📺📽⚽️,http://pbs.twimg.com/profile_images/1137390601610190848/rFH_88kJ_normal.jpg,,2019-01-11 16:30:56,,,False,1671,965,3531,0,2646,False,
+2,2828845243,Valeria 🇨🇴,_valeryco,"Todo el mundo nace con cosas preciosas que explorar. Najwa Nimri
+.
+.
+. 
+
+✨Be mentally attractive ✨",http://pbs.twimg.com/profile_images/1273465859982405632/B7Dsvmv3_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2014-09-23 22:04:07,Colombia,,True,518,589,12045,7,42219,False,
+3,351951761,AMA.,animaria_98,BJJ 🥋,http://pbs.twimg.com/profile_images/1228106183640256519/85S70dXR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-09 23:18:07,,,False,29,190,105,0,570,False,
+4,770739722,Cristian Ortega,CristianMDE,"Estudiante de Economía de la Universidad de Antioquia, líder estudiantil y Columnista, Critico de la Política tradicional y las mafias políticas Colombianas.",http://pbs.twimg.com/profile_images/1214561640709935110/ENqJA4_A_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-21 03:26:20,MEDELLIN. ANTIOQUIA ,,True,887,806,3625,1,1726,False,
+5,1284671424481972225,D'ossa,D_ossa_97,En proceso de una reconstrucción interna.,http://pbs.twimg.com/profile_images/1285010685810835456/AGFcBTK__normal.jpg,,2020-07-19 02:08:37,,,False,51,217,130,0,220,False,
+6,3378008613,Carolina Garcés,dcarolina_gr,"Inefable/Este mundo no se morirá de una bomba atómica como dicen los diarios, morirá de risa, de banalidad, haciendo un chiste de todo, y además un chiste malo.",http://pbs.twimg.com/profile_images/1287067527697387521/wz-lz66a_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-15 23:57:15,221B Baker Street,,True,265,276,3927,1,5288,False,
+7,1048233925,cosasquenotienenestetica,cqnte1312,,http://pbs.twimg.com/profile_images/1237923455737237504/ITMivXNm_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2012-12-30 16:03:14,,,True,129,123,1712,1,4293,False,
+8,422752125,Caro,carosernaq,,http://pbs.twimg.com/profile_images/1286693281376722946/Z3IwFtE2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-27 17:03:27,"Medellín, Colombia",,True,2663,2933,13576,4,2175,False,
+9,943323757107712000,⍟ Largo ⍟,J_suxT,"Me rio mucho, pero igual me voy a matar.",http://pbs.twimg.com/profile_images/1247730699429449728/by828zDQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-12-20 03:34:44,Colombia,,False,27,311,422,0,15543,False,
+10,2871165936,Luisa García.,lugf19,-Soy una soñadora que no puede ser domada-,http://pbs.twimg.com/profile_images/983349714899828736/sRjDrVCb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-22 15:20:03,"Medellín, Colombia",,True,609,740,5968,5,5158,False,
+11,1606611307,Dharma y Karma,999courage999,"I know not what tomorrow will bring. 
+Reaprendiendo. Arte y antropología. Revolución.",http://pbs.twimg.com/profile_images/879890778436374528/L2Y0rCLk_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2013-07-19 19:17:09,Medellín,,False,691,287,395,3,7427,False,
+12,1282772347490127877,Girl Up Bogota,GirlUpBogota,"Coalición de @girlup y @unfoundation
+Desde Bogotá, Colombia- 📍🇨🇴",http://pbs.twimg.com/profile_images/1282772473419911169/Xj22KWIp_normal.jpg,,2020-07-13 20:22:24,,,False,11,92,2,0,7,False,
+13,941554521817350144,Grupo Mujeres zayed,MujeresZayed,"Fundación Zayed entidad sin animo de lucro de objeto social amplio enfocada en prevención,proyectos productivos,sociales,culturales, deportivos",http://pbs.twimg.com/profile_images/948978924826087425/3i-jJ78c_normal.jpg,,2017-12-15 06:24:26,Calle 21 sur # 68G 04,,False,62,687,624,1,6,False,
+14,1242468196797550593,Olivia,MMC_O18,"Estudiante de Medicina Veterinaria.
+
+Piensa bonito por salud. 🌻",http://pbs.twimg.com/profile_images/1270239772003491841/xAMmBZZp_normal.jpg,,2020-03-24 15:08:13,,,False,45,268,281,0,471,False,
+15,2537345409,Douglas,douglas08710,,http://pbs.twimg.com/profile_images/476448183158325249/78iE09Tf_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-09 16:38:38,"Sabaneta, Colombia",,True,63,210,738,0,16910,False,
+16,1271522104257765379,Andrea Mendez,lamendez24,"Estudiante de Derecho⚖
+Militante activa de la 🇨🇴 Humana,
+Autentica bruja💜
+LosSinNombre equipo Maria Jose Pizarro 
+¡con el ❤ a la izquierda!",http://pbs.twimg.com/profile_images/1271723829820358658/8BbAfpVw_normal.jpg,,2020-06-12 19:18:04,"Huila, Colombia",,False,1027,741,221,0,1532,False,
+17,448569690,Maria Gallego,MariaGallegoV,"Un mundo donde quepan muchos mundos🖤❤️
+UdeA 💚
+Feminista 💜
+Congreso de los Pueblos 🧡
+Deportivo Independiente Medellín💙❤️",http://pbs.twimg.com/profile_images/1262164094028861440/qLCMpp3h_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2011-12-28 04:24:08,,,True,173,92,461,0,520,False,
+18,2367935259,PETUNIO,dezquiciado_hz,Masturbándome con las radiografías que la belleza está por dentro.,http://pbs.twimg.com/profile_images/1122509380627382272/Jr6wWm2x_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-27 00:23:49,Buenas las tenga,,True,188,459,7152,0,4063,False,
+19,989227737750626305,Iggypop,Adonis_Baldr,"Pero a ti quiero mirarte hasta que tu rostro se aleje de mi miedo, como un pájaro del borde filoso de la noche. A. Pizarnik",http://pbs.twimg.com/profile_images/1287794482394673152/3zocHWjG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-04-25 19:40:46,en Comala comprendí...,,False,1951,3619,3207,2,4501,False,
+20,83449447,LuisFer Torres,luisFerTorress,"Soy una persona muy educada, muy ordenado, religioso, excelente cocinero, caritativo, trabajador y muy mentiroso XD",http://pbs.twimg.com/profile_images/2443379750/lv3utyz7tzapvn5b1xxv_normal.jpeg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-10-18 21:21:25,Bogotà - Colombia,,True,227,4846,535,0,3845,False,
+21,1330173408,JAVIER ECHAVARRIA,jhoncito_javier,"Estudiante de trabajo social 
+
+
+Tecnologico de Antioquia",http://pbs.twimg.com/profile_images/1280638846120734720/mflNkscX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-05 22:23:57,Medellin ,,False,201,554,1427,0,702,False,
+22,1268269812746194950,PeonxsRevolucionarixs,PenRevoluciona1,"A partir de pequeños mensajes y simples piezas gráficas, queremos hacer un llamado a las memorias, la resistencia y a la lucha desde abajo.",http://pbs.twimg.com/profile_images/1275141800878051331/4cj35VYw_normal.jpg,,2020-06-03 19:54:30,,,False,13,41,45,0,71,False,
+23,1265686992416919552,Jesús,paisachiviada,"Una rolita en medellín.
+The Order, segunda temporada, capítulo 2, minuto 8:30.
+🌹🇺🇳",http://pbs.twimg.com/profile_images/1288129689551282176/Srnq9-fF_normal.jpg,,2020-05-27 16:51:33,metrallo,,False,574,790,1220,0,3431,False,
+24,714667027135393793,Germán Arenas,arenasgermanjfc,Estudiante de Derecho-Activista de DDHH y ODS Parlamentario Juvenil Mercosur (2014-2016) Comisionado Nacional Juvenil de paz (2016-2017)       The World 20/30,http://pbs.twimg.com/profile_images/1264742835766603777/MKUO6G0v_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-29 04:14:31,"Manizales, Colombia",,False,1189,3036,1934,3,5881,False,
+25,1090787925112078336,Fernando,HugoFernandoRu9,100 % #Antiuribista 🤮🤮. Hincha del Bucaramanga.,http://pbs.twimg.com/profile_images/1090788316394475525/5Okoxcyx_normal.jpg,,2019-01-31 01:44:41,,,False,247,365,737,0,402,False,
+26,37694113,Cristhian Garzón,garzoncristhian,"Escribo en https://t.co/qkWfsE6YIp Ingeniero Industrial, Cultura Geek, Procastinar es un arte. @encriptadotv - Opiniones Personales.",http://pbs.twimg.com/profile_images/1285566002021965831/tU3yX2hA_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-05-04 16:22:23,Bogotá Colombia,,True,3335,2711,3855,6,3384,False,
+27,1278363893564346369,Recogida de Escombros,DeRecogida,Recogida de colchones  muebles viejos escombros botamos todo lo que quieras  botar en el valle de aburra,http://pbs.twimg.com/profile_images/1278364134933962761/Fb5a0ioj_normal.jpg,,2020-07-01 16:24:59,,,False,6,166,3,0,0,False,
+28,1274186792087011331,Uve 🦇,CalvaHijueputa,"Estudiante de Licenciatura en Artes Escénicas, Universidad de Antioquia.",http://pbs.twimg.com/profile_images/1287144156633194497/zJSxXbdu_normal.jpg,,2020-06-20 03:46:28,Yugopotamia,,False,114,88,315,0,500,False,
+29,1345863967,Alejandro,alejogarrip,"Estudiante de Ciencia Política, Universidad de Antioquia
+#MatriculaCeroAntioquia",http://pbs.twimg.com/profile_images/951107985979428865/JXMwuciB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-12 03:10:34,"Medellín, Colombia",,False,41,459,458,0,343,False,
+30,312221393,Camila Giraldo. ♡ ‏,hazzaftluke,dancing in the dark in the pale moonlight🌝,http://pbs.twimg.com/profile_images/917955530081087490/wlKrbcEf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-06 19:35:49,,,False,67,349,596,0,654,False,
+31,1251649619630718978,camilo ortega,cortega_17,Ψ un futuro psicólogo más loco que sus propios pacientes.  Trans-man,http://pbs.twimg.com/profile_images/1270147123611303942/r1qIpAOJ_normal.jpg,,2020-04-18 23:11:49,,,False,76,186,401,0,382,False,
+32,1273394440061816833,La Hoguera,NadaTeQuema,"Podcast Independiente y Feminista!
+SI ARDES NADA TE QUEMA",http://pbs.twimg.com/profile_images/1273394819767959558/B9OjjYxr_normal.jpg,,2020-06-17 23:18:04,,,False,4,66,21,0,58,False,
+33,1272949082005307398,DavidEscobar,DavidEs585379,,http://pbs.twimg.com/profile_images/1272963531957309444/RSrJ9zKn_normal.jpg,,2020-06-16 17:48:29,"Tungurahua, Ecuador",,False,2,31,0,0,2,False,
+34,909942812824784896,Kelly Duque,duquekelly31,,http://pbs.twimg.com/profile_images/1269799993268895745/Bj0YQgC8_normal.jpg,,2017-09-19 00:50:47,,,False,3,30,7,0,6,False,
+35,128830560,Kamilo Manrike,x_med,"Mi Pasión mi nación, Mi vida la familia.",http://pbs.twimg.com/profile_images/1008823189747781633/QrNtk2Ms_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-04-02 09:26:41,Colombia,,False,405,785,24837,1,22851,False,
+36,1242854239862493185,Camilo,jmilo_88_,"...Un poco cansado, pero decidido...
+#Antiuribista",http://pbs.twimg.com/profile_images/1242854742793035782/1Iy5ut0t_normal.jpg,,2020-03-25 16:42:10,,,False,99,385,362,0,667,False,
+37,3398169203,Alex Anders,JACarroway,,http://pbs.twimg.com/profile_images/1260660152862203904/EVb_A6sv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-01 03:35:12,,,False,492,1949,2789,1,32818,False,
+38,904717448,Jacobo Lince,JacoboLince1,Lector en formación. Dime sobre qué trinas y te diré quién eres.,http://pbs.twimg.com/profile_images/677915990806691840/nbGACeoN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-25 21:35:02,,,False,176,3009,491,0,1092,False,
+39,213668932,La Piedra en el 👞,Mcortes65,gente con EX!TO,http://pbs.twimg.com/profile_images/1212448858623619072/ps7ytXay_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-11-09 14:05:36,bogota-col,,True,95,809,3145,0,1432,False,
+40,215466588,Ysai Muñoz,ysai_munoz,"Tecnologo administración financiera @Tecdeantioquia, critico, independiente, estudiante de comunicación audiovisual universidad de Antioquia.",http://pbs.twimg.com/profile_images/734584106131017729/9RxAF9kB_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2010-11-14 01:04:42,MEDELLIN,,True,126,554,1605,1,5706,False,
+41,1300309884,marian,marianyani100,,http://pbs.twimg.com/profile_images/1262462999228493824/cdl_2qK-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-25 17:16:41,,,False,806,2697,27872,0,39186,False,
+42,586193929,jose de los santos lozano,gatozano1,"trabajador independiente,perceptivo de la realidad nacional,observador,de Ibague,Colombia",http://pbs.twimg.com/profile_images/726153010829742080/5SF6Flft_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-05-21 02:53:54,"Tolima, Colombia",,True,1317,3034,25289,3,54277,False,
+43,251857829,Kanabico Objetor 🍁🔻,elANTIMILI,Cuenta Oficial ||#ANTIMILITARISTA y Sudaca🔻||20años en Defensa de #DDHH||En #Oposición a @IvanDuque.||@ConpazMed ||@LaOrejaRoja @El_Shabbat y @LuchaDeVoces 📝,http://pbs.twimg.com/profile_images/1279858953929871361/sCHofMVs_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2011-02-14 00:24:32,Medellin - Colombia,,True,11410,9297,79978,31,156857,False,
+44,386330680,Ivan Hurtado,ihurtadop,,http://pbs.twimg.com/profile_images/1272543306300502020/kD9WGr39_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-07 02:15:38,,,True,1779,4924,71815,1,32031,False,
+45,45745174,Flor de Escudo,juliplum,"Mujeres en la lucha y la rebeldía, Lesbiana Feminista #AbortoLegalSeguroYGratuito",http://pbs.twimg.com/profile_images/1253138823338512385/japHrhbM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-09 02:48:37,"Medellín, Colombia",,True,129,547,507,0,2894,False,
+46,307198737,BL...&,anquita175,"Independiente
+#sigamoslosbuenos2020",http://pbs.twimg.com/profile_images/1160455050185060354/uvE05N8V_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-29 06:05:37,"Cali, Colombia",,False,1683,3501,6134,0,5424,False,
+47,1167186305060679680,María Clara,Clara9928,Trabajo Social 💜💚✊🏻,http://pbs.twimg.com/profile_images/1167186494697672704/dsNBHTD1_normal.jpg,,2019-08-29 21:24:49,,,False,20,83,95,0,811,False,
+48,400712614,Ian Stewart,istewart1919,"I mostly tweet about tech, economics, politics, 🇨🇴 + 🇻🇪, and the Packers.",http://pbs.twimg.com/profile_images/1214665139049390088/7rCpe-bs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-29 13:17:30,"Florida, USA",,True,286,3459,6144,2,7378,False,
+49,292710844,Esteban Ríos Bedoya,Coprologo,No necesito un 'chulito' azul para confirmar que soy yo ;)  --- Mirada fija en el presente.,http://pbs.twimg.com/profile_images/1279906146283905024/8u1K7CRX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-04 03:00:51,Medellín,,True,101,303,358,0,136,False,
+50,1236553959151714304,Mr Gonzo,PutxKenneth,"Cree en ti, todo es posible viejo.",http://pbs.twimg.com/profile_images/1236810235404304384/nQ1ZqACn_normal.jpg,,2020-03-08 07:27:03,"Medellín, Antioquia ",,False,50,155,1667,0,2659,False,

@@ -1,0 +1,72 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,22:44
+,>>> Analyzed user:,KittiKarella
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1269414925828362245,kenzo maeda,kenzo8930maeda,地球人です🌏,http://pbs.twimg.com/profile_images/1269415092484837377/Jw234zq6_normal.jpg,,2020-06-06 23:44:52,,,False,6,207,154,0,1287,False,
+2,1288286845349105664,العنتيل,lDrSpKMtrAStuag,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-07-29 01:35:23,,,False,4,108,0,0,0,False,
+3,1232108745762705410,Diego,Diego53821388,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-02-25 01:03:44,,,False,15,325,1,0,6,False,
+4,1288139164387381248,Michael Scott,Michael77927736,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-07-28 15:48:13,,,False,6,67,0,0,1,False,
+5,1054795057910419459,L&M,luan_mamuti,,http://pbs.twimg.com/profile_images/1197760192705900544/LBlXTTTh_normal.jpg,,2018-10-23 18:01:53,,,False,7,182,1,0,1355,False,
+6,861628274048421888,BlGGZZ Gaming,Biggzz340,"GAMER : Most played Need For Speed.... 
+OTHER GAMES ARE : GTA V DIVISION 2 GHOST RECONS ETC... Am also New on Youtube thanks for your Subcribes In Advance",http://pbs.twimg.com/profile_images/1254440675862609921/xZoRs21h_normal.jpg,,2017-05-08 17:06:03,,,False,165,519,4736,0,12955,False,
+7,1159831893183016960,🌻🤤JUICY JAZZ W/ THE PHAT ASS🍑🧁💦🌻,JazzySunflowerz,"🔞.
+Verified.
+🥵MILF
+42DDD W/ FATTEST 😽 💦
+BBW Content Creator🍑
+👣model 
+#420goddess
+💵 makes me cum💦
+https://t.co/j6CCYll9tJ‼
+FETISH/KINKS 👍
+GFE💋",http://pbs.twimg.com/profile_images/1274214114496319488/sXCgrk0V_normal.jpg,,2019-08-09 14:20:46,"In your wildest dreams, USA",,False,5393,1672,8589,10,8382,False,
+8,1094100063339581441,Gibson,Gibson23621675,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-02-09 05:05:57,,,False,16,632,33,0,1721,False,
+9,1096882424003276800,YSL BIRKIN 1k🤴🏽💼,justaballer1,706📍Big Homie of GA ‼️,http://pbs.twimg.com/profile_images/1157775818476728320/Mj5U_i3c_normal.jpg,,2019-02-16 21:22:03,,,False,80,2913,27,0,61,False,
+10,3241758336,1chevyjl01,JclOne23,,http://pbs.twimg.com/profile_images/1259755919711191040/rjN3aN5a_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-11 01:03:12,,,False,12,345,0,0,349,False,
+11,1024110410876821504,h,nothing1234kj,v,http://pbs.twimg.com/profile_images/1086447989726556161/g6-r75DO_normal.jpg,,2018-07-31 01:52:03,,,False,8,808,5322,0,3738,False,
+12,1279939746572251136,😈🐶#NotASimp,HornDugg,A King Of The K-9Zz Vision. think B.E.T Uncut...but...With Fuckin MustBe18orOlder #XXXContent #BannedFromOF like 2LiveCrew From 📺,http://pbs.twimg.com/profile_images/1280073787476672512/RjrN4hsC_normal.jpg,,2020-07-06 00:46:39,House Of Hard On Hoe,,False,94,1006,3255,1,1024,False,
+13,1269537196471652352,darker200,darker2004,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-06-07 07:51:06,,,False,14,976,0,0,0,False,
+14,1272460046732058625,güvenilirsırdas07,rdas07,Dürüstlük güvenilirlik arayan yalnız bayanlar dul hanımlar huzursuz ve mutsuz bayanlar burdayım farklı heyecanlar için burdayım,http://pbs.twimg.com/profile_images/1287397463146496008/4RRzlZf9_normal.jpg,,2020-06-15 09:25:22,"Antalya, Türkiye",,True,21,495,73,0,1304,False,
+15,3699462200,Quincy W  Anderson,BigQ3579,"I am a knowledge seeker, a cigar lover, cars, book collector.",http://pbs.twimg.com/profile_images/784418493634482176/R3LTgdzX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-27 03:32:20,"Tulsa, OK",,False,134,3360,20,0,10,False,
+16,1248121180118081536,koltenkey25,koltenkey25,,http://pbs.twimg.com/profile_images/1248313560083525632/tgZ7ljwG_normal.jpg,,2020-04-09 05:31:11,Estados Unidos,,False,21,86,0,0,191,False,
+17,1199275522125189120,Paulo Ricardo,PauloRi30877271,Um cara legal e bacana,http://pbs.twimg.com/profile_images/1199275693810552832/cQx9G_xB_normal.jpg,,2019-11-26 10:36:10,,,False,117,3366,0,1,3449,False,
+18,1287940977622122496,Saulo,Saulo13979768,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-07-28 02:40:47,,,False,2,36,0,0,0,False,
+19,1053574096301232130,Victor,Victor24052475,Heavily loaded,http://pbs.twimg.com/profile_images/1243266233195212809/gvxh9re1_normal.jpg,,2018-10-20 09:10:13,"Benue, Nigeria",,False,73,905,31,1,13846,False,
+20,1287823901200982016,اااا,fgB8RNZJbAuhX5d,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-07-27 18:55:43,,,False,5,38,0,0,0,False,
+21,1287818015321587715,juanka vivas,VivasJuanka,juanka,http://pbs.twimg.com/profile_images/1287818118442737664/uy-yWnpt_normal.jpg,,2020-07-27 18:32:05,,,False,6,112,0,0,0,False,
+22,2379054552,TNL.KLB,LuhBGEM,TNL ⛽💵💲/ LongLiveLilStan 🙏 / Instagram: @tnl.klb,http://pbs.twimg.com/profile_images/819422419526053888/L6aufxwJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-08 17:33:41,"Centreville, IL",,False,119,459,6,0,61,False,
+23,865410769659207681,Ben James,Bepij56849625,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-05-19 03:36:20,,,False,26,404,4,0,269,False,
+24,125794968,Bully Ortega,Butter_Da_Bully,I'm just a nigga gettin high nd butt fuckin da stars. A fat nigga in a skinny niggas world. Backshot Champion '97 #RecklessAviGang #MSUAlumni FAT FLY and COCKY,http://pbs.twimg.com/profile_images/1083752118916390913/LlDCAO9L_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-23 22:16:46,"Buttermore, Maryland",,True,533,1702,57961,10,4414,False,
+25,1275279692883464192,Eduzinnn,eduzinnn,eitaaaa,http://pbs.twimg.com/profile_images/1275280085604544512/QD3-yxu1_normal.jpg,,2020-06-23 04:10:13,,,False,4,172,1,0,0,False,
+26,1267467795706654722,Thomas Grim,dcscboy,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-06-01 14:47:37,,,False,123,1930,0,0,1,False,
+27,433795168,farid elshaar,FaridElshaar,‏‏شاعر,http://pbs.twimg.com/profile_images/1224004520889536512/spBwKpNc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-11 01:24:33,cairo,,False,61,3231,39,0,2287,False,
+28,1158450132091854848,PHG,PHGod20,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-08-05 18:50:09,,,False,29,2802,0,0,1813,False,
+29,1287007616577626113,Big Cock,BigCock62931801,+18,http://pbs.twimg.com/profile_images/1287007788682506240/bR70iWFf_normal.jpg,,2020-07-25 12:51:55,,,False,34,407,1,0,15,False,
+30,1215331517708275713,DonCarracho77,carracho77,"Metall, Xbox, VfB Stuttgart, Handball, V8",http://pbs.twimg.com/profile_images/1215331771748737024/2uS8g4ov_normal.jpg,,2020-01-09 17:56:37,,,False,13,285,3,0,2,False,
+31,1285970572082544641,Steve,Steve77168196,ben,http://pbs.twimg.com/profile_images/1285971199160459264/xzzoKOSu_normal.jpg,,2020-07-22 16:12:23,,,False,34,376,1,0,19,False,
+32,1285917829716480000,Azd,Ale40176385,123456789,http://pbs.twimg.com/profile_images/1285918323377614848/mh5QyV78_normal.jpg,,2020-07-22 12:41:35,,,False,25,461,0,0,267,False,
+33,1166871236565196800,Kenzii,Kenzii46412089,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-08-29 00:32:55,,,False,8,74,1,0,0,False,
+34,1084031830016311296,Rose Ritter,RoseRitter11,My all friend,http://pbs.twimg.com/profile_images/1084041346149699585/cRkCVxSt_normal.jpg,,2019-01-12 10:18:23,"Hail Weston, England",,False,223,3315,165,0,201,False,
+35,1276488113221763077,Tamil Sex Man,TamilSexMan3,l like really sex all can meet ok v please,http://pbs.twimg.com/profile_images/1276488320952889344/UKM1G0iY_normal.jpg,,2020-06-26 12:11:07,,,False,204,3077,152,0,460,False,
+36,1286124782514245632,God,God19451284,God help those who help themselves,http://pbs.twimg.com/profile_images/1286125332412739584/4Nj1zLJs_normal.jpg,,2020-07-23 02:23:50,,,False,13,264,16,0,2,False,
+37,883639501,BIG-D,big_d_opm,┌П┐(•_•)┌П┐ NEED I SAY MORE? no regrets.Only lesson learned ツ,http://pbs.twimg.com/profile_images/1270921721005117441/jpA7un3D_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-16 03:49:33,Harlem World Baby,,True,541,1834,21610,2,894,False,
+38,1283485729780310017,Savages4L,Savages4L,Savage,http://pbs.twimg.com/profile_images/1284354603690205184/tu4cve0J_normal.jpg,,2020-07-15 19:37:11,"Trenton, NJ",,False,7,220,1,0,0,False,
+39,2328914905,edwin ramos,Edwin0412,,http://pbs.twimg.com/profile_images/1178886976319164416/4r-2reL8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-05 14:54:19,"Penbrook, PA",,False,28,824,5,0,8,False,
+40,1246151143635501059,Rafael Jose Torres Pietri,torres_pietri,,http://pbs.twimg.com/profile_images/1246151551204372480/yr4rAFX4_normal.jpg,,2020-04-03 19:02:55,,,False,2,46,0,0,11,False,
+41,1149741291808415744,tre,treb1236,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-07-12 18:04:19,,,False,174,3846,4056,0,32234,False,
+42,1264038073576427522,DAREALPOUND4POUND_420,DAREALPOUND4PO1,,http://pbs.twimg.com/profile_images/1264038452070400004/okLZTnza_normal.jpg,,2020-05-23 03:39:06,"South Carolina, USA",,False,14,303,3,0,1146,False,
+43,439708744,DJ Johnson,Djsilentking,,http://pbs.twimg.com/profile_images/3181735452/3242c9d512e32823f64f0feb6c07647d_normal.jpeg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-12-18 03:34:58,"Baltimore, Murderland",,True,9,155,22,1,9,False,
+44,948328343996280832,lowkey aka LeRenZo,lowkeyApsen,2020 Vision... Is getting Through 2020.,http://pbs.twimg.com/profile_images/962536742459990016/h5rSjhfz_normal.jpg,,2018-01-02 23:01:11,,,False,732,1456,46730,1,59322,False,
+45,808899715781824512,THAT MF WITH THE WHITE TEETH😩,shelovesdevo__,,http://pbs.twimg.com/profile_images/1255867475218116611/ghHIuXsE_normal.jpg,,2016-12-14 05:01:35,"Houston, TX",,False,10,113,6,0,53,False,
+46,708415340284399617,Nick Whila,souljawhila,,http://pbs.twimg.com/profile_images/1110743278465548288/YmTLIQlv_normal.jpg,,2016-03-11 22:12:33,"Prichard, AL",,False,71,1284,49,1,2168,False,
+47,1284864798908350468,احمد,eXJ0EmFhbRyAhmt,,http://pbs.twimg.com/profile_images/1284873637489790976/aASjouo7_normal.jpg,,2020-07-19 14:57:05,,,False,36,730,3,0,6,False,
+48,1279788900249108480,سناء,Zbzaj9JireSYakI,,http://pbs.twimg.com/profile_images/1280948607961751559/nTNLl_lh_normal.jpg,,2020-07-05 14:48:34,,,False,4,203,0,0,1803,False,
+49,1284420356665741312,NSFW88,NSFW881,,http://pbs.twimg.com/profile_images/1285765126252113925/AldGawiG_normal.jpg,,2020-07-18 09:31:16,,,False,13,403,0,0,0,False,
+50,1238105378505793537,Cee-Major,CeeMajor5,,http://pbs.twimg.com/profile_images/1281188269032722434/JWFWLpZN_normal.jpg,,2020-03-12 14:11:58,,,False,1,634,144,0,39,False,

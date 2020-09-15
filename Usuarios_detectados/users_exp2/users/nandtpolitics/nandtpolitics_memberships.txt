@@ -1,0 +1,15 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,14:21
+,>>> Analyzed user:,nandtpolitics
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,915559328916099073,remnant denizens ♘,🦉,260,2,/fl0res/lists/remnant-denizens1,fl0res,Mon Feb 02 20:26:58 +0000 2009,md,,3,0
+2,810274912543899648,Follow December 18 2016 a,,1483,1,/ynndead/lists/follow-december-18-2016-a,ynndead,Tue Nov 29 05:36:08 +0000 2016,💩,,169,491
+3,213349012,AwesomePeople,,1044,44,/3ative/lists/awesomepeople,3ative,Wed Jun 03 13:17:46 +0000 2009,3ATIVE,"3D Animator, Video / VFX Designer and a Massive Geek",5080,247
+4,766668584693141504,Trumpians,,3493,44,/Dems4_Trump2016/lists/trumpians,Dems4_Trump2016,Sun Mar 27 00:23:56 +0000 2016,Dem4Trump!2016,Unapologetic Trump Supporter,698,1250

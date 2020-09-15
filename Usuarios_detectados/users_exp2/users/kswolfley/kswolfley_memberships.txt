@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,01:34
+,>>> Analyzed user:,kswolfley
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,766073246815023104,MAKE IN GREAT AGAIN,,2794,13,/CoatsTrump2016/lists/make-in-great-again,CoatsTrump2016,Tue Jul 05 16:45:36 +0000 2016,UNITY: Dan Coats,Unofficial Unity Campaign! Vote Dan Coats for Senate and Donal Trump for POTUS in 2016! Make Indiana Great Again!,120,937
+2,717720446175731712,Gender Equality,,4262,75,/uclg_women/lists/gender-equality,uclg_women,Tue Jul 17 10:02:08 +0000 2012,UCLG Women,The @uclg_org Standing Committee on #GenderEquality. We are the global voice of locally elected women/ @uclg_women,5145,1819
+3,169568817,Midwest connections,Spread the word re local events,205,2,/indydina/lists/midwest-connections,indydina,Fri Feb 27 03:40:06 +0000 2009,dinarobertswakulczyk,"Veterans advocate, LGBTQ rights advocate, liberal, Pastafarian, NHRA fan, cancer survivor (fighting again), love bonk, jazz chicken  #UniteBlue",1858,1809

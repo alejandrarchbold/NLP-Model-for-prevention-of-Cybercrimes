@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,18:31
+,>>> Analyzed user:,RupertaMargate
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1195676826871447552,Twitter nonces,"🚨UH-OH🚨 You’ve been caught speaking like a paedo, unlucky",43,0,/ryannfarrow/lists/twitter-nonces,ryannfarrow,Sat Feb 22 13:54:35 +0000 2014,ry ☭,socialism | man utd | the smiths,497,2237
+2,185121043,Mum let me go on Twitter,Misguided children,414,3,/BarneyRubbl/lists/mum-let-me-go-on-twitter,BarneyRubbl,Mon Jul 22 19:01:59 +0000 2013,Barney Rubble,"Oh oh oh gotta stay young you can never grow old. Oh oh the golden age of rock and roll
+🎶",994,1481

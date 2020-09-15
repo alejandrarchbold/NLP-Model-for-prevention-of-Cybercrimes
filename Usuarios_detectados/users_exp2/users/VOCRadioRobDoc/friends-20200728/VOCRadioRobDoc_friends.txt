@@ -1,0 +1,105 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,17:32
+,>>> Analyzed user:,VOCRadioRobDoc
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1024803242360877056,Mr. BOTUS,MrBOTUS_520,"If you know, you know. RTs are Not endorsements. Info is for you to discern",http://pbs.twimg.com/profile_images/1286440427613122560/7DL6oL5-_normal.jpg,,2018-08-01 23:45:07,United States,,False,47510,438,900,91,789,False,
+2,36528126,Kirstie Alley,kirstiealley,"Mother, actress, Lover of CAPS, lemurs and off color language",http://pbs.twimg.com/profile_images/992559243831132161/5PmJrMAg_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2009-04-30 00:01:00,Hollywood,,True,1345792,770,74818,11275,20530,True,
+3,1009049424599937024,United States Space Force ➐................ ᵖᵃʳᵒᵈʸ,SpaceCorpsUS,"United States Space Force twitter: Stay up to date on all things Space Force! (Following, RTs & likes ≠ endorsement)",http://pbs.twimg.com/profile_images/1286011862212124674/voYh0ltO_normal.jpg,,2018-06-19 12:25:04,"Washington, DC",,False,41374,166,1294,109,987,False,
+4,4282987814,Puppet String News,NewsPuppet,"Anti mainstream news source, Created by a US NAVY vet. silenced! #MAGA as fuck, love calling out fake #MAGA as well.
+#Qanon #WWG1WGA",http://pbs.twimg.com/profile_images/1090919297667424258/P-_fyoBv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-18 21:48:06,"Lakeside, FL/Jacksonville, FL",,False,5347,90,41607,70,4573,False,
+5,1198316679047991296,Oz,OzRevealed,"Backup on Parler: @OzRevealed
+
+Question EVERYTHING. Judge EVERY tree by its fruit. Stand united and get in the FIGHT! 
+
+#StandUp #TheGreatAwakening",http://pbs.twimg.com/profile_images/1267647829528342528/OraURhM3_normal.jpg,,2019-11-23 19:06:02,,,False,5779,12,468,13,411,False,
+6,1183197550645526528,Ginger,TrumpEmGingerly,"#Freedom
+#Liberty
+#Constitution 
+#2A
+#1A
+#Patriot 
+#Veteran
+#MAGA
+#KAG2020
+#ChildOfGod",http://pbs.twimg.com/profile_images/1183197967177658369/g552w37x_normal.jpg,,2019-10-13 01:47:50,"Murfreesboro, TN",,False,1512,1867,18870,0,30353,False,
+7,750899256983257088,John,Gsm3636John,"Business & Finance, News, Politics, History, MAGA, US Army Warrant",http://pbs.twimg.com/profile_images/1135403247894638592/wp0NMEfC_normal.jpg,,2016-07-07 03:48:28,Idaho,,True,464,164,33354,1,58171,False,
+8,1230589207791493123,🇺🇸 3Days3Nights 🇺🇸,3days3nights,👁‍🗨 Pro Trump 2020 ✝️ Christian ⭐️ RT’s are not endorsements. 🔺 I am not a conspiracy theorist. 🇺🇸 Pro Life 🔎 All Opinions Are My Own #MAGA #KAG2020,http://pbs.twimg.com/profile_images/1231348403885543429/dqsj5UyC_normal.jpg,,2020-02-20 20:25:57,,,False,45820,1111,5450,178,2869,False,
+9,342391099,🇺🇸🇺🇸🇺🇸ⓌⓌⒼ①ⓌⒼⒶ,SpongeHarris,Nickelodeon TV ⭐️ Twitter won't verify since I'm Pro-Trump. Outdoorsman. NPO Founder. WWG1️⃣WGA 💯follow-back for Patriots.,http://pbs.twimg.com/profile_images/1041075540055060480/giXmbW4a_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-07-25 23:08:54,"California, USA",,False,20047,9113,12098,14,27510,False,
+10,876356191219331072,Yankee Rebel B⭐tch 🇺🇸,YankeeBitch,"Pure American N*tionalist 🇺🇸🙏
+
+Fmr Talent Mgr/Intern. business scholar/PTK alum/Team Trump
+
+I was taught to speak the truth & I'll NEVER apologize for it.",http://pbs.twimg.com/profile_images/1236671092380635138/JuLFQyae_normal.jpg,,2017-06-18 08:29:32,Here & there ALL over the USA,,False,1508,2022,1843,1,4015,False,
+11,1195161449728892928,Cowboyw2b,ToddWal47945939,"🇺🇸WWG1WGA🇺🇸
+Just throwing stuff at the wall, to see if anything sticks.
+Hive mind is a thing.",http://pbs.twimg.com/profile_images/1195174894805192704/kv_8OqhN_normal.jpg,,2019-11-15 02:08:25,Grand Canyon State,,False,9378,758,6389,16,2318,False,
+12,1121220100009414656,stuart lea,stuartlea6,"Christian first, Freedom of Speech, Gun Rights, and love of the true America! Freedom and Justice go hand in hand. My opinion based on religion/values!",http://pbs.twimg.com/profile_images/1121221585145421826/rc7oxxkN_normal.jpg,,2019-04-25 01:11:17,,,False,1527,1412,28798,0,100276,False,
+13,390127278,JKash ⭐️⭐️⭐️,JKash000,"Former actuary, at-home mom, wife, math tutor, kickboxer, joined to follow PDJT, love learning about US gov/world, always searching for truth",http://pbs.twimg.com/profile_images/1272171058171449345/hAHkT4_A_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-13 14:12:53,East Coast,,True,15466,13058,24251,13,176665,False,
+14,1276329771832684548,Wait What?,WaitWha34223703,Seeker of truth... have many questions.... some ting wong...bang..ding.. ow..... oh by the way I ❤Q+...,http://pbs.twimg.com/profile_images/1276330456062058501/9I0cokk7_normal.jpg,,2020-06-26 01:41:55,,,False,735,1532,1490,1,211,False,
+15,1239307288717991936,TheStormHasArrived17,TArrived17,The Storm is Upon Us,http://pbs.twimg.com/profile_images/1286069494075609089/jncHGe4o_normal.jpg,,2020-03-15 21:47:50,,,False,12863,1159,1624,13,6060,False,
+16,1144961064989331456,The Punisher,PunishDem1776,"Natural Justice is the only True Justice.
+Slaves No More. Give it your all, or give up all. Live on ur feet, or die on your knees.
+Know your enemy🔥",http://pbs.twimg.com/profile_images/1196094689293848577/0FDD5hLQ_normal.jpg,,2019-06-29 13:29:25,Behind You ,,True,115472,6267,32482,316,95392,False,
+17,1283278432269406209,EOQ,Ey3s0nQ,,http://pbs.twimg.com/profile_images/1287391734142513154/M-Wxor3x_normal.jpg,,2020-07-15 05:54:02,,,False,79242,433,294,122,242,False,
+18,134644085,artsmylife,akartsmylife,"An #Artist, #mother, #married #Christian 🇺🇸#MAGA 🇺🇸 #republican #Trump2020 #militarybrat flag still stands for freedom and you can't take that away.",http://pbs.twimg.com/profile_images/2627941333/ytalsi7103qtg6ika80m_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-04-19 01:55:25,"Florida, USA",,True,2572,3750,4148,3,11827,False,
+19,1167184716161802241,Veterans Against Terrorism,HSubspecies,"US Navy Vet, '81-85. FSU grad. Multilinguist, 12 languages. Editor, Human Evolution News, Subspecieist-dot-com. Full bio at my site. 1.5k followers at Gab.",http://pbs.twimg.com/profile_images/1258593670556770310/48uO4EfW_normal.jpg,,2019-08-29 21:18:38,Coastal South Texas,,False,325,191,15095,0,3097,False,
+20,1201901918966231046,Deplorably Anonymous 🐸⭐⭐⭐,DeplorablyAnon1,YET ANOTHER NEW ACCOUNT!! StraWoman stuck in the Cabals war against Humanity. Proud Nationalist PATRIOTICALLY CORRECT. Welcome to The Great Awakening ΜΟΛΩΝ ΛΑΒΕ,http://pbs.twimg.com/profile_images/1201902158653874177/8BXkjGMk_normal.jpg,,2019-12-03 16:32:14,Texas,,False,1706,1691,9775,2,35235,False,
+21,1208269741804134401,Silent Lucidity,Cult45_4_Evah,Parlor: @Bealeman. Awakened after 22yrs active duty by watching Bush and Obama 'lead' our country. Lynched 10x by Twitter. Grateful for Prez Trump!,http://pbs.twimg.com/profile_images/1208274986307334144/ZcpY5VwO_normal.jpg,,2019-12-21 06:15:46,www.everywhere.i.think.i.am/no,,False,627,484,7280,0,964,False,
+22,1081931769996292098,Purgatory,Purgato30507553,"#FlynnWins    ⚖️⚔️
+Live one day at a time . 
+#Lifematters
+⚔️⚖️🇺🇸⚖️⚔️
+  USAFgroundpounder",http://pbs.twimg.com/profile_images/1279601495776911361/6tKgpPIE_normal.jpg,,2019-01-06 15:13:30,🔔,,False,1785,1896,28284,3,6087,False,
+23,2370953706,Jason Sullivan,JasonSullivan_,"American Political Strategist. Strongly support Trump 2020. #MAGA #AmericaFirst #NoCollusionRequired
+
+Developer - BrioTV - Take Back The Airwaves",http://pbs.twimg.com/profile_images/1271991737188147200/GyJituWq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-03 21:20:01,United States,,True,14959,13348,28701,57,2775,False,
+24,12524522,Dr. Joseph Mercola,mercola,"Health activist and founder of the #1 natural health site.
+
+Twitter has banned my website. Visit 𝗠𝗲𝗿𝗰𝗼𝗹𝗮.𝗰𝗼𝗺 to read my latest articles and updates.",http://pbs.twimg.com/profile_images/757500786188300288/VKqAzYkD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2008-01-22 05:37:28,"Cape Coral, FL",,False,289382,30018,77873,5765,760,False,
+25,1251638956359385089,Judy A. Mikovits PhD,DrJudyAMikovits,"World renowned PhD Biomedical Research Scientist with 50+ scientific published articles. Author of Plague of Corruption,Restoring Faith In The Promse of Science",http://pbs.twimg.com/profile_images/1251639892423200772/Hs93g72F_normal.jpg,,2020-04-18 22:30:23,USA,,False,178441,16,58,399,79,False,
+26,1011306681689608194,michel schoevers,michelschoever2,#MAGA #KAG #TRUMP,http://pbs.twimg.com/profile_images/1260844171608424450/FhsmKDG8_normal.jpg,,2018-06-25 17:54:36,Nederland,,True,57290,56722,99180,10,292610,False,
+27,4184152827,Scotty was here,scotty_kiker,"I believe in God, Family, Country. Common sense approach and always have humility and humor in everything we do! #MAGA #Trump2020 #Conservative #KAG #Trump",http://pbs.twimg.com/profile_images/1083843803293847554/LaCLOBOJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-14 06:02:55,Funny Farm😂 ,,False,54660,54782,72249,12,34317,False,
+28,1198651135378239488,AMERICAN CITIZEN,GodFamilyJesus,Videos 🎥 Polls📍News Updates🚨• #MAGA🇺🇸 Helping patriots get connected on here. 📲 🚀,http://pbs.twimg.com/profile_images/1288182233581457408/_Mh3xr8j_normal.jpg,,2019-11-24 17:14:46,,,True,44484,11294,56259,50,12978,False,
+29,2168933815,Lady Candy 4 Trump,CandysOpinions,"🇺🇸#TRUMP🇺🇸#KAG🇺🇸#MAGA🇺🇸#CONSERVATIVE🇺🇸#PATRIOT🇺🇸#IFBP🇺🇸#DRAINTHESWAMP  Libs welcome to follow me, you may learn something",http://pbs.twimg.com/profile_images/1245108794096365569/CW6iuLHu_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2013-11-01 19:02:39,Oregon USA🚂,,False,53018,37870,38580,24,0,False,
+30,1086053403376144384,Riley Rogue,RileyRogue,I value Life Liberty Pursuit of Happiness Individual Responsibility Thought & Expression. 🇺🇸 #VoteRedToSaveAmerica #KAG2020 #PatriotsUnited #AmericaFirst,http://pbs.twimg.com/profile_images/1215499871018541056/CGx2VPWC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-01-18 00:11:24,"Florida, USA",,False,22783,21231,9744,1,23169,False,
+31,982327509797580800,🇺🇸⚓️LEADFOOT🇺🇸⚓️AMERICAN 💀 PUNISHER⚓️🇺🇸,Dilligaff1962,🇺🇸⚓️#NAVYVET⚓️ 🇺🇸 #NRA & #TRUMP🇺🇸 #2ndAMENDMENT 🇺🇸⚓️🇺🇸2020🇺🇸 #NEVERFORGETBENGAHZI  🇺🇸 #MOLONLABE 🇺🇸 LIBS R TURD BURGLARS !! #MAGA #KAG,http://pbs.twimg.com/profile_images/1285379544841682944/_MXlQrQH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-04-06 18:41:43,DEEPINAHEARTA  OKLAHOMA,,False,59738,60142,92616,6,88959,False,
+32,1256656362475528193,Eyesopen17,EyesopenQ,"#GodWillWin! 
+
+#SaveTheChildrenWorldWide ‼
+
+#fromdarktolight 
+#InItTogether 
+#outofshadows 
+
+#FreedomOfSpeech 
+#ourvoicescount",http://pbs.twimg.com/profile_images/1256657445189029889/gySqKN-p_normal.jpg,,2020-05-02 18:46:49,,,False,3090,3282,24094,0,21261,False,
+33,49741795,dave,darktolight,,http://pbs.twimg.com/profile_images/443428582958718976/SQXGMsCP_normal.png,http://abs.twimg.com/images/themes/theme4/bg.gif,2009-06-22 19:50:10,,,False,190,264,384,0,410,False,
+34,1157675838290055168,ConservativeCaliChick,CaliChick777,IFB ALL Patriots #MAGA #Trump2020 #Conservative #ProLife #JesusIsLord #AmericaFirst #Women4Trump 🌴FlipCaliRed🌴#BuildTheWall #KAG2020 Parler @CaliChick777,http://pbs.twimg.com/profile_images/1157753661340016640/AwwSbhwS_normal.jpg,,2019-08-03 15:33:23,"California, USA",,False,16726,17020,75511,3,32358,False,
+35,1269357728205504515,Mike The Patriot,mike_patriot1,Supporting @realDonaldTrump since the beginning! Patriot 🇺🇸 #MAGA #KAGA #TRUMP2020 #TRUMPTRAIN #REAGANCONSERVATIVE #2A #LIFELIBERTYPURSUITOFHAPPINESS #WWG1WGA,http://pbs.twimg.com/profile_images/1269358064609755144/piZeZMnH_normal.jpg,,2020-06-06 19:57:49,"Raleigh, NC",,False,4008,5000,430,0,328,False,
+36,966317909659103232,Battle Born,BattleBornThom,Navy Vet OIF OEF! follow me on parlor @battlebornthom  follow before Jack kicks us off for exposing the truth of the evil in our world,http://pbs.twimg.com/profile_images/1280149219064508417/T9rhz9y7_normal.jpg,,2018-02-21 14:25:17,,,False,54233,52530,185340,21,50380,False,
+37,1014653963986259969,Megan 🦄 🇺🇸✝️,the_silkyway,"Reality TV fan! BB, Survivor...etc! 
+Enjoy watching all sports-All Cleveland teams- plus Go Blue!😳😂
+Life is stressful so instead of judging, help each other",http://pbs.twimg.com/profile_images/1231598453756743682/6V_Zg9Qq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-07-04 23:35:31,,,False,12601,13719,9901,8,16071,False,
+38,1401055296,floyd d dunagan,floydddunagan,"⭐️⭐️#SavedByGrace-VET! ( Army 66-69 ) retired commercial electrician, MAGA - Pa-Pa x 13-great Pa-Pa x 14 ! NRA / life member- #2A  C/C 24/7  IFB Patriots #CCOT",http://pbs.twimg.com/profile_images/1074430512222023681/KkgkiMZL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-05-04 00:43:28,okc,,False,52469,52754,47671,19,34486,False,
+39,1702969784,Jay Preece,j20godschild,"Trump-Army grows strong! #MAGA Unite with Keyboard Warriors who  fight for America. Follow them, support them & RT their winning message Pray For DJT #Winning",http://pbs.twimg.com/profile_images/378800000366141179/86ae44a4274d262b62dbd0ba05570b47_normal.jpeg,http://abs.twimg.com/images/themes/theme14/bg.gif,2013-08-26 21:23:21,Dallas Texas,,False,50291,49732,153110,70,34,False,
+40,222506048,STEVE THOMAS,Hafasteve,"Originally from Guam.Retired from UPS.Enjoying the good life in Oro Valley,Arizona.Volunteer for charity.Married.",http://pbs.twimg.com/profile_images/601621260360028160/4ZXJoosJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-12-03 16:30:42,ORO VALLEY,,True,2286,4998,30863,2,5319,False,
+41,1263246263509643265,💫Emmy 2.0💫,Brixea,"Proud Vietnamese-born freedom-loving American here to promote #MAGA, escaped from communism, #walkaway in 2017, IFB patriots",http://pbs.twimg.com/profile_images/1263261732148883456/FRv5R1z9_normal.jpg,,2020-05-20 23:12:58,,,False,23715,21334,10689,4,203,False,
+42,2875700829,AmericAnon 🌟🌟🌟,AmericAnon57,"Married Christian Conservative Pro-Life Pro-2A #PatriotsUnited #AmericaFirst #SupportOurTroops #MAGA #WWG1WGA
+           🚫Lists 🚫Porn 🚫Trolls 🚫Solicitors",http://pbs.twimg.com/profile_images/1210361326612209665/eipqiXDo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-13 22:18:49,,,True,43489,42792,88165,7,49128,False,
+43,956880871260344320,⭐⭐⭐American Girl,AwakeWWG1WGA,"Loves God, My Family and America! Happily married 😊❤🇺🇸🌍🙏",http://pbs.twimg.com/profile_images/1231560791545012225/wtbvBIuG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-01-26 13:25:52,,,False,4284,4707,7957,0,64023,False,
+44,2687954641,Journey Home Project/ Founder Charlie Daniels,TJHproject,"We assist not-for-profit causes that provide veterans with rehabilitation, reintegration and opportunities as they transition to civilian life.",http://pbs.twimg.com/profile_images/493917799883210752/tgSb1TLI_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-28 17:06:19,"Tennessee, USA",,False,19985,5085,4924,40,40174,False,
+45,1010489235630149632,Tommy@JMP,tommy_jmp2,Veteran#MAGA #TrumpTrain#KAG #CodeOfVets#NRA #NeverForgetOurFallenHeroes#ProLife #ProIsrael#BuildTheWall#JESUS #BackBlue#TermLimits #AboveTheLawSyndrome 🇺🇸,http://pbs.twimg.com/profile_images/1200182027913482240/1qOhLGYH_normal.jpg,,2018-06-23 11:46:22,United States,,False,30583,31683,85788,6,65254,False,
+46,837369375128711172,A . Breacher,BreacherAlec1,"Conservative , I believe in the Constitution as Written.  @Maga. Veteran,  NRA, Follow @Veterans, @MAGA ,@KAG, @GOD, NOT LOOKING TO Date :DO NOT ADD TO LISTS.",http://pbs.twimg.com/profile_images/1204965380088901632/W56C2mqL_normal.jpg,,2017-03-02 18:29:51,Estados Unidos,,False,23252,22965,43233,0,49704,False,
+47,1186625826,@FarRight1_2 Mike's Vets 4 Trump,FarRight1_2,"#MikesVets4Trump @FarRight1_2 @RyanAFournier, @wdunlap @prayingmedic @TimRunsHisMouth, @MsAvaArmstrong @1776Stonewall @michaeljohns #USAF vet . English only",http://pbs.twimg.com/profile_images/1189545510132240384/SxuVjxUO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-16 15:53:55,,,False,35591,21522,94362,5,21310,False,
+48,1126580582740185088,mr.white,mrwhite90864194,"U.S. Army Veteran : Patriot : WWG1WGA : Pissed off American : For those confused White is my last name : RIP DJ Screw, best to ever do it 🤘:",http://pbs.twimg.com/profile_images/1279268442424504321/sYQBlIoS_normal.jpg,,2019-05-09 20:11:56,Washington State,,False,1430,1775,15738,3,4558,False,
+49,990038812335247361,USAR Veteran,ArmyVet2x,3 years Active Army Veteran. 18 years USAR Veteran. Married father of 4. Constitutionalist. #LatinoForTrump #MAGAVeteran,http://pbs.twimg.com/profile_images/1044617248726568960/f-Q9v1pN_normal.jpg,,2018-04-28 01:23:41,,,False,8234,8206,54925,6,53757,False,
+50,76548444,Red Pill Dealer🍀🇮🇪🇺🇸,hmcd123,"Q Soldier 2nd Revolution🥊🍀
+Q-Researcher for Truth  #DigFag  #WWG1WGA FB @GenFlynn
+Parler @RedPillDeal",http://pbs.twimg.com/profile_images/1285793355214008321/9T65RlYm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-23 03:37:32,"Michigan, USA",,False,31399,3211,79086,78,118326,False,

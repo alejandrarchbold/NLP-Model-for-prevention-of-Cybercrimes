@@ -1,0 +1,81 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,17:46
+,>>> Analyzed user:,DrFladden
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,4821099369,Lisa S.🌸🇺🇸💗🇺🇸🐶,LisaStone1928,,http://pbs.twimg.com/profile_images/1268251945577385989/p9pLksNv_normal.jpg,,2016-01-17 14:18:22,"Florida, USA",,True,725,1603,2107,0,13288,False,
+2,1262596164354019328,David Branum,DavidBranum2,God fearing. Jamie loving. US Army veteran and football fanatic.,http://pbs.twimg.com/profile_images/1262596819797843968/X4StHxPO_normal.jpg,,2020-05-19 04:09:48,,,False,134,454,1531,0,822,False,
+3,25784494,Jennifer Johnson,JenJohnson,I like television.,http://pbs.twimg.com/profile_images/106111237/jen_1_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-03-22 05:09:08,Live from La La Land,,False,71,1015,975,4,782,False,
+4,1213611994936250368,Tankity tank tank🇺🇸🇺🇸🇺🇸🇺🇸,I_am_M1_Abrahms,"American, favorite video game “Star Wars empire at war”. CRUNCH BARS ARE AMAZING! Trump Supporter, Baseball fan 🇺🇸",http://pbs.twimg.com/profile_images/1287762357637328898/la55mOsO_normal.jpg,,2020-01-05 00:03:56,United States,,False,240,508,3277,0,18226,False,
+5,2412552091,𝐁𝐫𝐢𝐭𝐭🇺🇸,jbcpsm,"Daughter of the One True King, Happy wife to @JUSTinQase & Momma to 3 beautiful babies! ♥️Acts 2:38🔥TX CONSERVATIVE🚂🇺🇸 #Trump2020 #KAG #MAGA #WWG1WGA",http://pbs.twimg.com/profile_images/1285419898878005248/YLLGFMM1_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2014-03-26 12:38:08,#women4trump,,False,14201,6384,3175,5,6611,False,
+6,34033738,Tom Z,Tom_Zavresa,"A husband, dad, pro life conservative, NY Giant fan, laughs at his own jokes and himself, a private citizen that receives fan mail, and an advertising guru.",http://pbs.twimg.com/profile_images/481474501494853633/ko42ZcTX_normal.jpeg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-04-21 20:41:24,"York, PA",,True,429,2550,1899,12,194,False,
+7,824989065892286464,Jeullio,jeullio,"Latino, not white. 
+★",http://pbs.twimg.com/profile_images/1280267272209272835/AJVkPZEI_normal.jpg,,2017-01-27 14:34:55,New Jersey,,False,99,133,1270,0,15780,False,
+8,1335761934,Tommy Tuckahoe,TommyTuckahoe,Don’t let Monday ruin your Sunday 😎,http://pbs.twimg.com/profile_images/959834714730311680/BD4eabuH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-08 04:58:59,,,True,145,1844,6094,0,13423,False,
+9,1141852920461320193,lauren 🇺🇸,ellleylove,"Fiancé 💍, CPA, farmer (at ❤️), friend",http://pbs.twimg.com/profile_images/1141866231580045312/Zeve_sX__normal.jpg,,2019-06-20 23:38:45,,,False,124,457,1959,0,25955,False,
+10,975592586810404864,Tony Pipitone,TonyLeeBass,"Cancer Sucks!!! My Wife watches the news and says “ Everybody’s always wanting something , I just want to live.”",http://pbs.twimg.com/profile_images/1208921541490163719/wO5RtgKB_normal.jpg,,2018-03-19 04:39:33,Hickory Lake,,True,91,265,2248,3,796,False,
+11,3008218574,CosplayCatLuver,CosplayCatLuver,"Anime geek since 10 years old (thanks 90’s Toonami) & cosplayer since 2005 Anti SJW, Anti Polical Correctness/Cancel Culture #screwSJWfeelings #IStandWithVic",http://pbs.twimg.com/profile_images/1212020932350492673/wDiqQvSM_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2015-02-02 17:06:27,,,False,333,267,14700,0,11581,False,
+12,1262780306421166081,Bankroll.shxwty 🇵🇷🇪🇨 #BLM,bankroll_bxby,"I post random and important thingz🤣 
+ʙᴀꜱᴋᴇᴛʙᴀʟʟ🏀
+Latina💞
+Xxxtentacion Fan 💔 #LongLiveJah
+New friends welcome
+
+Ⓕⓞⓛⓛⓞⓦ ⓕⓞⓡ Ⓕⓞⓛⓛⓞⓦ ⓑⓐⓒⓚ",http://pbs.twimg.com/profile_images/1282490850744967168/IWoQQ3-L_normal.jpg,,2020-05-19 16:21:13,NJ🗽📍,,False,31,672,237,0,408,False,
+13,1268671335095508993,MorCreed6.5,5Morcreed6,just me!,http://pbs.twimg.com/profile_images/1286048111765454856/rPWJ3vjh_normal.jpg,,2020-06-04 22:30:18,,,False,2287,4960,7671,0,7915,False,
+14,1080220495381962752,BJC 🇺🇲🇺🇲 MAGA WWG1WGA,BJCWWG1WGA,Faith Family Country!,http://pbs.twimg.com/profile_images/1088246596842733574/_QZl5wbv_normal.jpg,,2019-01-01 21:53:30,"South Carolina, USA",,False,1309,2079,7464,0,12898,False,
+15,1282980273672433664,StandupMink58,BrennanJ13,"I Draw, I sketch, I game, I nerd. 
+Page will mostly consist of drawings for my Red Order Story... but other stuff too for fun 😁 #RedOrderStory #StandupMink58",http://pbs.twimg.com/profile_images/1282985322339422208/tWLfRaTd_normal.jpg,,2020-07-14 10:09:21,,,False,4,36,10,0,276,False,
+16,2274338543,MyCatsAreJudgingYou🐈,DrMom25MA,"Wife, mom, physician, conservative, chocolaterian 🍫. Loves animals, Kristen Stewart fan. #MAGA. RT does NOT = endorsement!",http://pbs.twimg.com/profile_images/1024323985998340096/HGU327RZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-11 07:15:17,,,False,1944,3103,116913,59,379018,False,
+17,816967790758363136,Ben York,benyork7106,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-01-05 11:21:14,,,False,4,170,129,0,25,False,
+18,1258444399119343618,Jolene,Jolene22568617,"WWG1WGA🇺🇸 WORLD 🌎WIDE
+TRUMP 2020❤🤍💙
+GOD WINS",http://pbs.twimg.com/profile_images/1283800138373304321/O7n7vIVq_normal.jpg,,2020-05-07 17:11:55,,,False,86,317,215,0,2567,False,
+19,1268560526755467264,MissDaune🇺🇸,MissD81941647,"#potsmokingpatriot #MAGA2020 Lost my last account now I must rebuild😏 Just a mom, #1A #2A #FreeIran #WWG1WGA NoDMs #AmericaFirst",http://pbs.twimg.com/profile_images/1281554732163760128/G9mYtLcM_normal.jpg,,2020-06-04 15:09:46,"Connecticut, USA",,False,1432,3573,2910,0,39299,False,
+20,1255595017730551808,CO_Native,Ajhubb1,"Colorado Native, Loves America, Loves Jesus and wants to spread Laughter, Joy and Common Sense!!
+#Trump2020 #KAG #Patriot",http://pbs.twimg.com/profile_images/1276734060920897536/dXw0W4Hq_normal.jpg,,2020-04-29 20:29:30,,,False,95,446,368,0,2091,False,
+21,2909359250,1st World Parent,1stWorldParent,professional kid wrangler,http://pbs.twimg.com/profile_images/536990946831785985/1Hc5VJC7_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-24 19:16:15,,,False,349,758,5531,2,11825,False,
+22,261850681,Travis,travis204s,political trolling among other hobbies,http://pbs.twimg.com/profile_images/615782011953807360/z5d-_Moq_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-03-06 20:53:37,,,True,456,947,11668,11,179006,False,
+23,753771308660453376,Mushu Gone,mushugone,"SAHD, aquarium guy, Becker/Friedman/Mustaine devotee.
+#KAG 
+All flavors are welcome. Watching the slow, painful, fiery death of the Democrat party.",http://pbs.twimg.com/profile_images/1266510143950290945/POI7WE0k_normal.jpg,,2016-07-15 02:00:59,"Atlanta, GA",,False,462,519,6643,0,16236,False,
+24,1055193782688219136,Not-So-Silent Bob,MmMenstruation,*sign language for fuck you*,http://pbs.twimg.com/profile_images/1287246553271296001/T8F7-Gba_normal.jpg,,2018-10-24 20:26:17,"Washington, USA",,True,131,197,10735,0,3183,False,
+25,1256735086671613952,SwanglySteakNEggs,SwanglyKillface,,http://pbs.twimg.com/profile_images/1287891262633209857/84xpq2T__normal.jpg,,2020-05-02 23:59:37,,,False,70,575,1058,0,2541,False,
+26,4658257213,TJ Moore,SinCityNana,"""People have been calling me crazy my whole life. You get used to it.""  (Annie Wilkes)",http://pbs.twimg.com/profile_images/1217915774385315840/o7xk8L6T_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-12-27 00:26:07,"Nashville, KY",,False,211,394,2067,4,1609,False,
+27,1218969098450808832,Leon 🇨🇦,Shameless_Leon,Twitter memed my last account so here we go again...,http://pbs.twimg.com/profile_images/1224480744946401280/xkXrLG9__normal.jpg,,2020-01-19 18:51:01,"Purgatory, Canada",,False,10,621,309,0,9386,False,
+28,2323250778,Care Bear,CareBear11333,Be The Light - We The People - Freedom For All - Jesus Lives - Cancer Survivor - World Peace - Love - We Are Not Alone - Angels Are Real - Consciousness - Truth,http://pbs.twimg.com/profile_images/1272965827751481349/IOTI2K1g_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-02 05:34:24,,,False,110,782,145,0,580,False,
+29,1236040653139841032,Jizzlaine Maxwell ⭐️⭐️⭐️,SueGunn16,I fully support President Trump. I share the same birthday as my two favorite people: President Donald John Trump & Boy George! #WWG1WGA #WalkAway #GaysForTrump,http://pbs.twimg.com/profile_images/1286059253099372546/FvjIvfjy_normal.jpg,,2020-03-06 21:27:30,,,False,1292,2721,22374,2,19872,False,
+30,484187773,donnie k,DonKearschner,,http://pbs.twimg.com/profile_images/1068915090903232513/yRZ02_Vd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-05 20:41:19,,,True,183,1595,1289,1,13243,False,
+31,1884338184,Aza Manga Soros where's my marxist check?,MangaAza,Novice Illustrator and an aspiring graphic novelist. I play Switch and PlayStation. Anarcho socialist and a God Fearing Atheist(wait......),http://pbs.twimg.com/profile_images/1268236612342812673/w5jaiAcc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-19 20:56:31,Vibe Check,,True,59,486,4948,0,2153,False,
+32,1244727161371623425,jax,jax90341659,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-03-30 20:44:38,,,False,0,1777,638,0,22258,False,
+33,84921906,Tymac,dreftymac,,http://pbs.twimg.com/profile_images/378800000125779508/0ad324969bc31287f0d8d9a11bef306a_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-10-24 19:37:04,,,False,311,1290,14543,7,23216,False,
+34,931605743517749253,Zacharia Cox,zacharia_cox,"Father, Coach, horrible golfer, guy that makes things.",http://pbs.twimg.com/profile_images/1270097033630748672/6xtciTje_normal.jpg,,2017-11-17 19:31:32,"Moseley, VA",,True,179,337,2398,0,25520,False,
+35,1268957600562978817,🅒𝐎𝐍𝐒𝐄𝐑𝐕𝐀𝐓𝐈𝐕𝐄,ConTruthMatters,"𝑃𝑟𝑜𝑢𝑑 𝑡𝑜 𝑟𝑒𝑝𝑟𝑒𝑠𝑒𝑛𝑡 𝑡ℎ𝑒 𝑡𝑟𝑢𝑡ℎ. 𝑃𝑟𝑜𝑢𝑑 𝑡𝑜 𝑏𝑒 𝐶𝑜𝑛𝑠𝑒𝑟𝑣𝑎𝑡𝑖𝑣𝑒.
+
+Join @parler_app & follow there as well: @RealVoiceofTruth",http://pbs.twimg.com/profile_images/1280635021896888321/UWlC4xNz_normal.jpg,,2020-06-05 17:27:39,"Inglaterra, Reino Unido",,False,674,656,583,0,258,False,
+36,1230458291089747968,372829,Alex16_24,,http://pbs.twimg.com/profile_images/1260298435707756544/exgBIyV0_normal.jpg,,2020-02-20 11:45:04,,,False,218,2395,3684,0,43751,False,
+37,3573799035,"dont forget to wear that mask, cutie",Z33Z8N8,zee/zed | 21 | dumbass | better twitter : @frozenwaifuu,http://pbs.twimg.com/profile_images/1284170972413788167/nLmuoJzB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-07 05:47:12,Santa Destroy,,False,396,3286,48328,32,129410,False,
+38,1259706354769571840,🏴‍☠️ BUTTPIRATE 🏴‍☠️,BUTTPlRATE,Pro-perty gundamentalist,http://pbs.twimg.com/profile_images/1264788652535754753/h7Ru5g5Z_normal.jpg,,2020-05-11 04:46:24,,,False,70,228,264,0,12113,False,
+39,207612822,Indigo01,Indigo190,"Don't DM me bro. 
+God bless all of us.",http://pbs.twimg.com/profile_images/1079570347123339264/mVSPcA6q_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-25 17:34:23,,,False,1008,2127,22094,0,55641,False,
+40,3997174695,Jim2Jim,burn1frmJim2Jim,There is no Jim only Zuul,http://pbs.twimg.com/profile_images/818948606795268097/bsULsfMx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-19 21:17:57,"Las Vegas, NV",,True,75,405,1270,0,1556,False,
+41,897868528560345088,Sunshine Megatron,DumpyUnicorn,Too much wrongthink.,http://pbs.twimg.com/profile_images/910756381426438144/i7jee54h_normal.jpg,,2017-08-16 17:11:53,Estados Unidos,,False,15,92,828,0,2186,False,
+42,1275094931510616064,Permaculture Bro,PermacultureB,"American Permaculture Designer, Bachelor's in Landscape Architecture, Visual Artist, Fitness Enthusiast, Kombucha Brewer, Jokester, and 100% pure Bro.",http://pbs.twimg.com/profile_images/1275095038264049664/CQxhpC0X_normal.jpg,,2020-06-22 15:55:05,,,False,19,112,406,0,628,False,
+43,1279892867666907138,Sherman T James 🇺🇸🦞🛶🌲,ShermanTJames1,"Just a #Mainer, standing for #Liberty because your life matters.
+
+Find me on Parler at Shermantjames1",http://pbs.twimg.com/profile_images/1279893965605670912/5bYAzPSP_normal.jpg,,2020-07-05 21:40:25,"Maine, USA",,False,108,338,677,1,2402,False,
+44,630422888,MagiciansWheel,MagiciansWheel,Manipulator Of The Material World,http://pbs.twimg.com/profile_images/2379662183/IMG00804-20100905-2155_1__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-08 18:33:10,Planet Earth,,True,3805,3685,248772,32,158448,False,
+45,3413959305,GrandJames,GrandJamez,Instagram/SnapChat: Grand James https://t.co/FZXTM1wkrm https://t.co/miBXHycMyw,http://pbs.twimg.com/profile_images/1215770003871608833/QkQSvZsG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-11 01:20:24,,,False,216,769,376,0,689,False,
+46,250896170,Cathleen,CatAnCie,,http://pbs.twimg.com/profile_images/1043933407787569152/EcNHloQe_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-12 01:18:24,,,False,590,618,10467,0,125939,False,
+47,1265763602063114247,Sean,Sean_123RL,play for @JinXESP team for Fortnite/probably bored 😐... I won’t break your ankles I will sit there in silence and let you score ..,http://pbs.twimg.com/profile_images/1284043510740639744/ZWp4zoCv_normal.jpg,,2020-05-27 21:55:57,Toy section in Asda,,False,37,332,84,0,51,False,
+48,1491620370,WorthlessPieceOfShit,SteelierHare187,uwu  shut up,http://pbs.twimg.com/profile_images/1287417240200110081/4PfN4Cl3_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-06-08 00:56:51,United States,,False,152,786,969,0,14987,False,
+49,1034264607114883072,Maw,TheEbonyMaw,Your Tweets Are Inconsequential Compared to Mine.,http://pbs.twimg.com/profile_images/1286639522198028288/XqI4pB5p_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-08-28 02:21:12,,,False,2909,496,16577,7,48075,False,
+50,711558521670787073,Strawberry Narwhal ‽,unvarnishedvoid,"Sticks and stones may break your bones but kings will never own you...  for art DM me  (ㆁᴗㆁ✿) Patreon https://t.co/rNMkjpiFQe
+Ko-fi
+https://t.co/lmEKaXTTay",http://pbs.twimg.com/profile_images/1188977886776221702/wRaymTrk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-20 14:22:26,,,False,3046,820,91243,38,144684,False,

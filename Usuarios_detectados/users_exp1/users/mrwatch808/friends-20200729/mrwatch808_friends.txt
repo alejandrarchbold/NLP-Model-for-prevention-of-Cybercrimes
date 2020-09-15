@@ -1,0 +1,23 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,02:40
+,>>> Analyzed user:,mrwatch808
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1102042171,ivan gallo,IvanGallo78,,http://pbs.twimg.com/profile_images/679418822269526017/78KLXM9S_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-18 21:13:21,,,False,2049,1635,1047,19,645,False,
+2,175273213,Agustín Laje,AgustinLaje,"Escritor. Lic. en Ciencia Política, Mgter. en Filosofía. Libros: Los mitos setentistas, Cuando el relato es una farsa, El libro negro de la Nueva Izquierda.",http://pbs.twimg.com/profile_images/877517509922086912/zBi1mcR0_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2010-08-06 04:15:57,Argentina,,True,333125,5716,24800,561,9481,True,
+3,1271196928643137537,Marie Curie Legión,CurieAnti,Es un deber moral ridiculizar #FEMINAZIS,http://pbs.twimg.com/profile_images/1278763916751974400/M4nrxiPP_normal.jpg,,2020-06-11 21:45:47,,,False,297,955,800,0,524,False,
+4,288489495,Luis Cardona,luisbetocardona,,http://pbs.twimg.com/profile_images/1092744437736898560/maE0VJKx_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2011-04-26 23:15:30,Medellin,,True,64,489,351,0,3,False,
+5,73007294,Secretaría de Movilidad de Medellín,sttmed,"Brindamos soluciones sostenibles 🍃, inteligentes y efectivas de movilidad.",http://pbs.twimg.com/profile_images/1283865358617780230/J5ZAp3DQ_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2009-09-10 01:25:38,"Medellín, Colombia",,True,636048,14180,691214,758,28299,False,
+6,3034916907,Metro de Medellín,metrodemedellin,"Cuenta oficial del #SistemaMetro, sistema de transporte masivo de Medellín y área metropolitana | Información operativa y de interés | PQRS: https://t.co/9FbfcQyUK8",http://pbs.twimg.com/profile_images/1098778355367854081/KlRzi22v_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-13 16:25:38,"Medellín, Colombia",,True,351629,385,95889,226,31390,True,
+7,176449552,Bryan Ferry,bryanferry,For your pleasure: the official Bryan Ferry Twitter feed,http://pbs.twimg.com/profile_images/1196346562798067712/bJ40fi_L_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-08-09 15:32:13,"London, UK",,False,43993,60,734,611,1,True,
+8,524167164,Pet Shop Boys,petshopboys,"New album ""Hotspot"" out now. New video for ""Monkey business"" out now. Tickets for ""Dreamworld: The Greatest Hits Live"" on sale now.",http://pbs.twimg.com/profile_images/1220633784615350272/PYBBYf_N_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-14 08:59:58,,,True,99790,50,5612,935,80,True,
+9,306570209,musinetclasicos,musinetclasico,programa de Tv que pasa viernes y sábados por el cabal cnc Medellín,http://pbs.twimg.com/profile_images/1132413234798108672/ZV0-N_2S_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-28 03:22:36,Medellín,,True,9553,2,429,42,3,False,
+10,124526312,Kevin Johansen,k_Johansen,"Live and let love..y deberás amar/ amar, amar hasta morir. Amo a los animales y a los humanos, somos lo mismo, solo que más feroces. The Nada. Sur!.",http://pbs.twimg.com/profile_images/874729129052164096/QHgWj7nh_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-19 17:51:23,Kevinjohansenoficial Instagram,,True,208555,7249,26307,1189,618,True,
+11,36928426,Rubén Blades,rubenblades,RUBEN BLADES | Página oficial • Official page | Contrataciones • Booking https://t.co/Yd9SnBPGUh | Daniel Aisemberg,http://pbs.twimg.com/profile_images/1246198346307551232/XoVU_cSb_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-05-01 11:58:52,,,True,1021052,290,2096,1913,305,True,
+12,239647972,La X Medellín,laxmedellin,"Estación de radio musical. Medellín 103.9 FM. Pop, Dance, Electrónica. @JoseGallegoP, @ChechoCano, @Estebanerc7, @Andreacamercado",http://pbs.twimg.com/profile_images/1133501950962688001/RFamWPHr_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-01-18 03:13:42,"Medellín, Colombia",,True,39898,294,43085,170,17822,False,

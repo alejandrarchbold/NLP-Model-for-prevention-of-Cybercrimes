@@ -1,0 +1,67 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,00:49
+,>>> Analyzed user:,juan_sebas_gil
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,2429058541,Jhenifer,jheniferroa,,http://pbs.twimg.com/profile_images/1262549863075545089/wXSSpnQT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-05 15:12:38,,,True,437,785,570,1,332,False,
+2,1148189079399518208,Laura Espinosa,LauraEs92597914,,http://pbs.twimg.com/profile_images/1148189549383868416/4SzIS-LK_normal.jpg,,2019-07-08 11:16:23,Madrid ,,False,4,34,1,0,2,False,
+3,1034819063824965633,Analitica,Analytic897,,http://pbs.twimg.com/profile_images/1130576016794165249/CUbD_23e_normal.png,,2018-08-29 15:04:25,,,True,0,1464,0,0,15,False,
+4,286758355,Sebastian Andrés Zapata,sebas_zs,,http://pbs.twimg.com/profile_images/1281007915789422593/sTfV6hxE_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2011-04-23 16:51:50,,,False,193,276,2400,0,2315,False,
+5,1085143081194848257,Habib Merheg,habib_merheg,,http://pbs.twimg.com/profile_images/1138476246973734913/cXUqKXv7_normal.jpg,,2019-01-15 11:54:06,,,False,736,321,579,0,53,False,
+6,123731499,Dani 3palacios,dani3palaciosdj,"Locutor de La Mega, Podcaster, Amante de lo paranormal, DJ, Viajero, Escritor, Amante de los animales, América 👹. Contratos: daniel3pa@gmail.com",http://pbs.twimg.com/profile_images/937767986487808000/UqIiE775_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-03-17 02:13:55,Bogota-Colombia,,True,615408,29189,232804,1678,79296,True,
+7,187663881,Valentín Torres 🚲,Jhonvalentorres,"Géminis, extrovertido, curioso, apasionado. 
+
+Politólogo en formación de la Universidad Nacional de Colombia Sede Medellín.",http://pbs.twimg.com/profile_images/1243080886670831616/2xofq0LB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-06 21:00:43,"Sabaneta, Colombia",,True,795,4667,2922,3,3073,False,
+8,989815807449468929,Alice Clark,sexyalice1997,,http://pbs.twimg.com/profile_images/989816170902679552/Sr4mqqmL_normal.jpg,,2018-04-27 10:37:33,,,False,14,71,2,0,0,False,
+9,952239692455571456,A04,aniskaryII,,http://pbs.twimg.com/profile_images/970759400779591683/ZPONsw--_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-01-13 18:03:29,,,False,1,137,62,0,16,False,
+10,943161180897665025,Nicolas Santiago Gil Quimbayo,GilQuimbayo,Y SEGUIMOS PA LANTE,http://pbs.twimg.com/profile_images/943480414773153792/yZXB20AX_normal.jpg,,2017-12-19 16:48:43,"Bogotá, D.C., Colombia",,False,2,12,0,0,2,False,
+11,753390332335841286,Carlos Osorio,Carlos_Osorio18,,http://pbs.twimg.com/profile_images/754725189930319872/TY3wrW1j_normal.jpg,,2016-07-14 00:47:07,,,False,8,79,3,0,3,False,
+12,1647149989,Hailet Vázquez,hailetkissme,😆♊🐰🌵🌱🌹🌾🌻🌚🌎💄👟💸💣🔬🔭📚🎃🎄🎉📟🎢🎮🎭🎥🎬🎨🎧🎻📺😜,http://pbs.twimg.com/profile_images/1280571429180694528/h5jjRSnv_normal.jpg,http://abs.twimg.com/images/themes/theme3/bg.gif,2013-08-05 06:55:44,"Guerrero, México",,False,924,2189,9876,2,10979,False,
+13,3901372888,LA NANA ❤,yorladisflorez1,(mente suicida y sonrisa falsa),http://pbs.twimg.com/profile_images/713063513774809088/HTe8Q_Uy_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-08 17:13:42,"Barranquilla, Atlántico",,False,37,67,101,0,193,False,
+14,710236774006525956,Dayerlis Escorcia,dayerlis314,,http://pbs.twimg.com/profile_images/711182320485703680/KxKDUVcj_normal.jpg,,2016-03-16 22:50:17,,,False,13,32,1,0,28,False,
+15,710110337681514496,Yenii!3,Yenibethescorci,,http://pbs.twimg.com/profile_images/722794172596559872/6GDQZAPU_normal.jpg,,2016-03-16 14:27:52,,,False,4,12,2,0,32,False,
+16,700410896590499841,jsmsismna,saharanoemi031,,http://pbs.twimg.com/profile_images/700414011024789504/U9dJwPp7_normal.jpg,,2016-02-18 20:05:45,,,False,24,217,0,0,0,False,
+17,4895421740,Aldahir Toledo,AldahirToledo2,,http://pbs.twimg.com/profile_images/697984511221456896/IcBP1yIK_normal.jpg,,2016-02-12 03:22:57,,,False,11,105,0,0,0,False,
+18,4845233276,Aldahir Toledo,ToledoAldahir,,http://pbs.twimg.com/profile_images/694188960436719617/4gMVXqyE_normal.jpg,,2016-02-01 16:01:02,,,False,11,113,0,0,1,False,
+19,4833871728,Aldahirt Toledo,AldahirtT,,http://pbs.twimg.com/profile_images/693332255003901952/Q3y518Tt_normal.jpg,,2016-01-30 07:16:08,,,False,13,105,0,0,0,False,
+20,3386695888,Mechu🔥😎,MechudoPte,🔴🔵⚪️ JUNIOR QUERIDO🔴⚪️🔵 23 De Diciembre ✌🏽,http://pbs.twimg.com/profile_images/955105093535391744/Mk3VxLvk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-22 01:28:36,,,True,712,571,10660,1,12062,False,
+21,1474867814,Carlos Andres Gil,AndresGil3415,,http://pbs.twimg.com/profile_images/1228418650836815878/URv1RRyo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-06-01 14:35:05,,,False,71,293,298,0,139,False,
+22,4187655021,Daysa_Sandoval,DaysaSandoval,,http://pbs.twimg.com/profile_images/825202686853312512/SL6ysoFl_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-14 16:57:24,,,False,65,500,11,0,35,False,
+23,3902430555,Nicole Herrera,nicolevh1947,anybody love me better than you,http://pbs.twimg.com/profile_images/652217983553675264/7pnRI4Cj_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2015-10-08 20:10:55,"Bogotá, D.C., Colombia",,False,12,80,1,0,1,False,
+24,3785524096,alii deivis,AliiDeivis,,http://pbs.twimg.com/profile_images/652638092311048192/Wd8oxMXR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-26 20:24:59,,,False,1,21,9,0,206,False,
+25,3343500155,vane herrera,nicolevh86,true friends are like a diamond,http://pbs.twimg.com/profile_images/621492455028989952/H1TFvks9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-24 01:51:31,"Bogotá, D.C., Colombia",,False,22,207,8,0,20,False,
+26,1450379275,Daniela.,BustosRodr,18/09/16👼💔,http://pbs.twimg.com/profile_images/837577972878086146/k4uZ4qJ7_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-05-23 02:24:23,"Bogotá, D.C., Colombia",,True,1093,1080,11019,14,16574,False,
+27,3353536492,nikki  ambrose  girl,FanNikkibellab,"it's mine with the exception of Renee Young .I love him so much  it 's in your DNA .follow to me  follow back 
+griezmann is was my senpai",http://pbs.twimg.com/profile_images/830629467827617797/k5d6Q6J0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-01 17:20:26,,,False,300,738,357,0,836,False,
+28,2285533459,Mariia Narvaez,Mariazmpe,"Porque un amigo es una luz, brillando en la oscuridad, siempre seras mi amigo  .. PARALE, PARALE Olvidate Eso No Existe ....",http://pbs.twimg.com/profile_images/827315962718388229/RqSxvawy_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2014-01-10 19:15:02,,,False,54,100,411,0,77,False,
+29,3255959460,RT OR UNFOLLOW,FreeFollow3Tree,Free Follow! RT https://t.co/idFNohNw6g to thanks Her!,http://pbs.twimg.com/profile_images/621346305575485440/dQ-_6itW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-25 22:35:42,,,False,23,99,29,0,30,False,
+30,3256009538,RT OR UNFOLLOW,Free_Follow2Two,Free Follow! https://t.co/idFNohNw6g,http://pbs.twimg.com/profile_images/621335636209893376/OmRDB1vu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-25 22:26:02,,,False,11,107,30,0,30,False,
+31,3345777611,Tee,lathmaf,,http://pbs.twimg.com/profile_images/666037994344837120/NHd5DTRK_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-25 18:33:24,"Uk, United kingdom",,False,103,335,121,1,100,False,
+32,3302225908,anis kary,IsakaryCaro,i love    S M I L E,http://pbs.twimg.com/profile_images/645320596616781824/OIfKoDu4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-28 21:11:11,Colombia,,False,28,175,15,0,16,False,
+33,3299760940,Valentina Mantilla,ElPapelHabla,"Le Dije Que Absolutamente Nadie Podía Romper Mi Corazón, Que Era Indestructible Y Al Parecer Lo Tomó Como Un Desafío.✊",http://pbs.twimg.com/profile_images/638115793432125440/EUseDYhT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-26 20:22:15,,,False,9,35,28,0,190,False,
+34,2923364398,°JDAB°,altahona_jesus,,http://pbs.twimg.com/profile_images/643926769347772416/w3sBKaiS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-15 18:13:20,,,False,108,364,2,0,57,False,
+35,2883250065,Melanie Zubiria ,Melaniezubiria1,"jen carlos canela ,Directioner , zayn malik, jarishana ,",http://pbs.twimg.com/profile_images/592504784059572225/FWhOHBad_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-18 23:02:46,,,True,215,483,805,0,57,False,
+36,1016231834,Dayanis Marín,DayanisMarcela,😍😍,http://pbs.twimg.com/profile_images/853692056555978753/Kv_je6RS_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2012-12-16 22:43:17,barranquilla ,,False,244,258,3246,0,64,False,
+37,1049131261,valuce 1125,valeriamanja,,http://pbs.twimg.com/profile_images/590522965189664770/yuaiJxxT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-31 00:25:40,"Soledad, Colombia",,False,7,11,5,0,0,False,
+38,3165198322,Andrea betancourth,andrea_betan_,,http://pbs.twimg.com/profile_images/588415194792996864/KbxOr8MQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-13 18:53:36,,,False,5,22,1,0,0,False,
+39,2844820417,Angeline,AngelineC06,,http://pbs.twimg.com/profile_images/1047333261528190976/-njD_dTx_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2014-10-07 21:09:22,"Colombia, bquilla",,False,165,142,2601,0,513,False,
+40,2409433831,Alii Davis 🤘🖕,alice201024,Nicolas Arrieta! Amor Por El Baile Y El Fútbol 😍💃 Meghan Trainor 🎶🎶,http://pbs.twimg.com/profile_images/846851415859478529/oObCRLJT_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2014-03-24 19:02:10,,,True,343,891,2143,0,1724,False,
+41,2964398800,carolinacaro,posada1105,,http://pbs.twimg.com/profile_images/552490758360805376/LVGU6mKi_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-06 15:40:54,,,False,4,11,0,0,2,False,
+42,2918896168,anis karina caro pos,pos_karina,soy una princesa las princesas no trabajan mas si  duermen ;) :3,http://pbs.twimg.com/profile_images/543584941196324864/VkuTpbTU_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-13 01:54:36,new york,,False,3,48,1,0,0,False,
+43,2317829730,angela ,angela23032000,"super fan de taylor swift,katy perry,carly rae jepsen, Bing time rush  OneRepublic                 axel fernando,alex ubago . ........................2000-03-23",http://pbs.twimg.com/profile_images/558674145504800768/c1ClK4EY_normal.jpeg,http://abs.twimg.com/images/themes/theme13/bg.gif,2014-01-29 21:36:14,colombia,,False,156,1029,197,0,8,False,
+44,2763609717,Martha,luz11romero,,http://pbs.twimg.com/profile_images/655129718337970176/Rss3pR-g_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-09-07 02:28:32,,,False,74,526,17,0,3,False,
+45,2887620568,Alberto the crazy,aecr1611,,http://pbs.twimg.com/profile_images/535984872612184064/Fh8oXFrE_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-22 02:10:53,,,False,11,72,10,0,0,False,
+46,2847342897,Leidy Rodriguez✖,leyrodriguez21,,http://pbs.twimg.com/profile_images/1031449810363207682/5X8fVUmE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-27 22:20:58,,,False,154,373,5,1,453,False,
+47,2805487743,yorladis florez,YorladisFlorez,,http://pbs.twimg.com/profile_images/617492111294898177/Tf_6dhy3_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-04 15:57:45,,,False,9,51,9,0,35,False,
+48,2827964387,NEIMAR LOPEZ,Neimarlopez_Off,"Jesus Mi Gran Amigo Fiel  
+What: 3045363075
+Inst: @Neimar_Lopez 
+Bendecido....!!!!",http://pbs.twimg.com/profile_images/538711320716390400/nf_7olBs_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-13 18:26:26,Barranquilla/Atlantico,,False,87,317,72,0,15,False,
+49,2789018406,XxV.milogaxxX,valentinambj,,http://pbs.twimg.com/profile_images/519634354692050945/rbJkW7Rm_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-09-04 03:18:26,,,False,6,12,1,0,3,False,
+50,1901740230,WABP🍁,Wilmanp1607,Ice Cream!,http://pbs.twimg.com/profile_images/981408633203445765/yhF-cVNT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-24 21:06:41,popayan,,True,158,955,56,0,28,False,

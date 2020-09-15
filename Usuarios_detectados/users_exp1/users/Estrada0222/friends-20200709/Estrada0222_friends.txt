@@ -1,0 +1,128 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,01:00
+,>>> Analyzed user:,Estrada0222
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,327660605,Rodolfo Acosta,rodolfoacos,سطوع عينيك❤,http://pbs.twimg.com/profile_images/1271267268228497415/Rauxpjsu_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-07-01 22:59:06,"Barranquilla, Atlántico",,True,171,160,3164,0,174,False,
+2,3982571800,beltrán en cuarentena,jbeltrn121,"me gustan las butifarras, hablar mondá y diseñar para @pitazo_final_",http://pbs.twimg.com/profile_images/1211675913655668737/8xkFmdK9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-17 22:05:01,"Barranquilla, Colombia",,True,682,997,19877,2,25819,False,
+3,22324918,German Garmendia,GermanGarmendia,sígueme en Insta: https://t.co/M2berOqu0G business@germangarmendia.com,http://pbs.twimg.com/profile_images/900199374831194113/ALVE-ARz_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-03-01 02:54:11,"Los Angeles, CA",,True,11635790,275,13171,7548,3717,True,
+4,1261893092535386112,Jhon Moreno,elchamoretamozo,"Venezolano 🇻🇪
+Barman 🍸
+Un hombre poco social.",http://pbs.twimg.com/profile_images/1262219198241165314/HyvSCDBK_normal.jpg,,2020-05-17 05:35:40,,,False,7,41,6,0,15,False,
+5,3303149332,🌺𝑲𝒆𝒗𝒊𝒏 𝒅𝒆 𝒍𝒂 𝑴𝒐𝒓𝒂 🌺,kevodelamora,🌻𝚞𝚗 𝚍í𝚊 𝚖𝚒 𝚖𝚊𝚖á 𝚖𝚎 𝚍𝚒𝚓𝚘 𝚚𝚞𝚎 𝚎𝚜𝚌𝚛𝚒𝚋𝚒𝚎𝚛𝚊 𝚝𝚘𝚍𝚘 𝚕𝚘 𝚚𝚞𝚎 𝚜𝚒𝚎𝚗𝚝𝚘 𝚎𝚗 𝚞𝚗 𝚙𝚊𝚙𝚎𝚕 📝 𝚢 AQUÍ 𝚎𝚜𝚝𝚘𝚢 😉,http://pbs.twimg.com/profile_images/1280266671534551046/YMnqlRt0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-29 19:39:55,"Malambo, Atlantico",,True,1188,649,20240,1,43721,False,
+6,1253501090059952128,perritos gorditos,PerrosGorditos,Tu dosis diaria de perritos gorditos para curar tu depresión 🐶,http://pbs.twimg.com/profile_images/1271889046806069253/A9tK_5ek_normal.jpg,,2020-04-24 01:48:48,,,False,90408,9,106,52,154,False,
+7,2398872895,Orlandorqm,Orlandorqm21,"Instagram: Orlandorqm 🔥KANKANKANKANKAN🔥 Hago videos random de cualquier cosa. tiktoks, doblajes, humor, etc. Disfruten de su estadía acá ptptptptpt",http://pbs.twimg.com/profile_images/1277308771803504640/efzZXPlu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-20 03:23:18,,,True,15019,509,6566,1,13711,False,
+8,1218247371836010498,¿Por qué Es Tendencia en Colombia?,Por_queEsTend,Nosotros te ayudamos a saber Por qué un Hashtag #EsTendencia en Colombia.,http://pbs.twimg.com/profile_images/1218347836477231105/-dY_nbhD_normal.jpg,,2020-01-17 19:03:16,Colombia,,False,18029,0,1886,28,20,False,
+9,136374182,Day ✨,dayana9529,Siempre habra una Razon por la Cual sonreir!,http://pbs.twimg.com/profile_images/1158958290459664387/3x97UID-_normal.jpg,http://abs.twimg.com/images/themes/theme6/bg.gif,2010-04-23 19:24:06,Barranquilla,,True,255,346,15034,3,2753,False,
+10,4831657281,Debora Valentina,delavallevale,insta: valentinadlavalle,http://pbs.twimg.com/profile_images/1255953702491471873/H1RACs9c_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-01-21 04:16:30,"Barranquilla, Atlántico",,True,11049,296,4396,5,4522,False,
+11,89773448,Fero Castro Ramírez,FeroCastroR,Creyente en Dios - Magister en Com. Social y otras cosas más - Gerente de mercadeo y ventas @Tatabluo @KatanaByGenki,http://pbs.twimg.com/profile_images/1280170200856498181/0gsH9y2R_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-11-13 19:28:14,En el cuerpo de un ser humano,,True,6263,296,50842,39,8217,False,
+12,279390084,Anonymous,YourAnonNews,"We are Anonymous, we are legion, we do not forgive, we do not forget. Expect us. 
+
+#Anonymous #HackThePlanet",http://pbs.twimg.com/profile_images/1276653965531283457/IhAJeBDG_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-09 05:10:37,The Interwebs,,False,7486325,814,178019,15266,9124,False,
+13,1251253909672386561,gatitos gorditos,GorditosGatitos,quiero a todos los gatitos gorditos,http://pbs.twimg.com/profile_images/1275754351076786178/cwQfwCw5_normal.jpg,,2020-04-17 20:59:22,,,False,166840,21,1458,162,370,False,
+14,1265281811229310976,Carlos Baldovino,CarlosBaldovin0,"I'm only human after all.💀
+
+Radio host. 🎙
+
+#ChooseLife",http://pbs.twimg.com/profile_images/1265341441859031041/SmrwdEn3_normal.jpg,,2020-05-26 14:01:15,,,False,36,106,214,0,132,False,
+15,1584148458,iFood Colombia,iFoodCo,"Descarga nuestra app y pide la comida que te gusta, cómo te gusta. (Android | IOS).",http://pbs.twimg.com/profile_images/1093303589479559168/bVqSkPLE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-07-10 22:31:15,Colombia,,True,2971,325,4407,8,320,False,
+16,969721683253846017,Tronco'EArepa,TroncoeArepa,Es una arepa de 18 cm con alguna de estas base maíz sin aceite y crocante para tu paladar.,http://pbs.twimg.com/profile_images/1167031345366929408/4oaRKOrm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-03-02 23:50:40,"Barranquilla, Colombia",,True,45,604,229,0,46,False,
+17,1390094958,Delator,ElQueLosDELATA,"Daniel Mendoza Leal. Periodista,escritor,criminólogo. Demócrata. Espacio de opinión. Guionista de MATARIFE y Fundador de LA NUEVA PRENSA@lanuevaprensaco",http://pbs.twimg.com/profile_images/1034294278216921094/8Ayr87-2_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-04-29 18:09:22,,,True,295271,3836,22896,169,16976,False,
+18,309085210,𝓓𝓪𝔂𝓪𝓷𝓷𝓪,DayannaRojas02,,http://pbs.twimg.com/profile_images/1278453600876929027/0hUif31E_normal.jpg,http://abs.twimg.com/images/themes/theme12/bg.gif,2011-06-01 14:15:29,"Barranquilla, Colombia",,True,1436,234,56427,3,1416,False,
+19,217310680,La solano 🦥,ValeriaSolano4,Welcome to esta montaña rusa emocional,http://pbs.twimg.com/profile_images/1277742629552304129/JK6dAVac_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2010-11-19 04:34:52,,,True,4562,340,7462,4,10461,False,
+20,1225271239398297602,Perfect Timing,timingperfecto,itsrelate@gmail.com,http://pbs.twimg.com/profile_images/1279777548386226176/z3OWe3Wq_normal.jpg,,2020-02-06 04:13:29,,,False,97579,0,113,66,0,False,
+21,2977035070,PÉREZ.,elsuciodanx,S I N C E  1 8 7 6  👁️,http://pbs.twimg.com/profile_images/1223912529426026497/o7Eo9GZn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-13 19:49:39,,,False,1158,970,3000,0,2396,False,
+22,323915775,Daniela🐼,Dovergara17,,http://pbs.twimg.com/profile_images/1236884164365955073/iusPxlXP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-25 17:14:13,"Barranquilla, Colombia",,True,212,287,1235,1,2922,False,
+23,1097746817717018624,Roberto Orellano,rorellan2,,http://pbs.twimg.com/profile_images/1097746942921183232/3Y02pPUc_normal.jpg,,2019-02-19 06:36:51,,,False,28,195,6,0,6,False,
+24,1239015122745638913,Jesus Ardila😎🍃,Jesus25802274,🤙🔥😎,http://pbs.twimg.com/profile_images/1239015375993528327/w8aOnPoK_normal.jpg,,2020-03-15 02:26:48,"Barranquilla, Colombia",,False,34,442,1,0,0,False,
+25,878704700748689408,andrés ribón,writrying,"escribo porque es para mí, la mejor manera de hablar después del silencio",http://pbs.twimg.com/profile_images/1192181957184147461/9BqL0k-j_normal.jpg,,2017-06-24 20:01:41,"Barranquilla, Colombia",,True,9567,3512,11596,12,45964,False,
+26,169807662,Jaime Pumarejo,jaimepumarejo,Alcalde de Barranquilla. Barranquilla no baja la guardia. Toda la información sobre la lucha contra el coronavirus 👉,http://pbs.twimg.com/profile_images/1247738315345813505/G_-wdgG-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-23 06:03:46,"Barranquilla, Colombia",,True,101100,532,6477,93,1066,True,
+27,1238874321537372166,Daniela Mejía Nájera,DanielaMejaNje1,Amate como eres!!!...,http://pbs.twimg.com/profile_images/1238874699070951425/RrjPIUoK_normal.jpg,,2020-03-14 17:07:22,,,False,17,31,10,0,50,False,
+28,61018481,EL HERALDO,elheraldoco,"Noticias sobre Barranquilla y los departamentos de la región Caribe colombiana. Síguenos también en @DeportesEH @NacionalEH @TendenciasEH
+Instagram: elheraldoco",http://pbs.twimg.com/profile_images/1185778246174085120/vvENze2-_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2009-07-28 21:04:02,"Barranquilla, Colombia",,True,1114053,4267,437165,3097,3590,True,
+29,620221786,Estefierrito,Estefayepesc,"me llamo estefierrote, but you can call me estefierrito",http://pbs.twimg.com/profile_images/1274910664297979905/8td_sila_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-27 18:12:38,"Medellín, Colombia",,False,29281,199,10288,12,85805,False,
+30,543688961,Jair,jairandres04,Just another random guy - IG: jair.andres1,http://pbs.twimg.com/profile_images/1177233398152224771/xi0tTXQa_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-04-02 19:56:55,"Barranquilla, Colombia",,True,180,296,3681,3,7125,False,
+31,1142648336593379328,OJO VALLENATO OFICIAL,ojovallenato_,"EL OJO QUE TODO LO VE 👁️ 
+- ÚNICA CUENTA OFICIAL DE TWITTER 🐦 
+🚨 NOTICIAS DE ACTUALIDAD 🚨 
+Medio de comunicación independiente - 
+Publicidad al DM 📩",http://pbs.twimg.com/profile_images/1239404251459305473/NG0i1XJy_normal.jpg,,2019-06-23 04:19:27,,,True,89184,191,9213,23,3013,False,
+32,358568836,AnaSofía,Anasofiah_o,Love is not a victory march It's a cold and it's a broken Hallelujah. Mi vida es mucho más que las cosas que hago. Aquí mis contradicciones florecen.,http://pbs.twimg.com/profile_images/1203177412487524352/okyIJtJE_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2011-08-20 03:57:46,colombia,,False,302,1026,10892,2,14071,False,
+33,424362867,𝕲𝖚𝖎𝖑𝖑𝖊 ➐,GuilleSwd,"UnPensadorMas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+هذا لا يقول شيئا",http://pbs.twimg.com/profile_images/1235805420003852289/JBpCnI9q_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-11-29 17:46:27,,,True,777,629,16561,1,13950,False,
+34,1025344639308652544,Nobody.,Sr_valeverga,En una introspección constante.,http://pbs.twimg.com/profile_images/1263250671123542023/uZkxd0Cy_normal.jpg,,2018-08-03 11:36:26,"Barranquilla, Colombia",,False,106,85,5451,0,2720,False,
+35,1222939443033788416,𝒥,intensodemierd,,http://pbs.twimg.com/profile_images/1280165308666466308/f9y3D5cA_normal.jpg,,2020-01-30 17:47:50,,,False,71459,169,19,17,33,False,
+36,876948470,ÉPICOS TWEETS.,EpicosTweets,"Un día alguien me dijo «Sebastián, deje de decir tantas bobadas» así que vine aquí a twitter para escribirlas 📩Contacto: epicostweets@gmail.com",http://pbs.twimg.com/profile_images/894759742823817220/t2E-SlVB_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-10-13 03:09:48,"Bogotá, D.C., Colombia",,True,412495,105,9579,143,45521,False,
+37,398306220,elrubius,Rubiu5,Catador profesional de Hentai | Me gustan los gatos obesos,http://pbs.twimg.com/profile_images/1185706291689349121/uo20xtiO_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-10-25 21:37:48,Madrid/Noruega,,False,14820832,667,24639,7728,0,True,
+38,154284860,Kimberly Reyes,KimberlyReyesH,"Owner of Kimberly Reyes B & C, Actress, Fashion Designer and instagramer enjoying the soundtrack of Life !!!",http://pbs.twimg.com/profile_images/858791095253295105/JmRTvmOi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-10 21:22:23,Bogota Colombia,,True,481539,977,23226,487,5055,True,
+39,177625592,¡Karen Julia!,LaAhuyamita,Nací en la tierra que está entre la Sierra Sagrada y el mar 💙🤍🏔🏖💃🏻.,http://pbs.twimg.com/profile_images/1180870555710480389/G_15qqsV_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-08-12 16:58:11,"Bogotá, D.C., Colombia",,True,89931,958,185374,170,132227,False,
+40,3432325623,cejamochita,ennabaquero,"Andrajosa, incomprendida, alternativa",http://pbs.twimg.com/profile_images/1272268664226668545/QCldP-2W_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-20 03:57:20,Curramba,,False,174,440,7162,1,4366,False,
+41,1079820176697237504,Alejandro Cianci Bonet,gastro_bloggers,Perreo 24/7,http://pbs.twimg.com/profile_images/1269794331130572802/aIQ4gD1N_normal.jpg,,2018-12-31 19:22:47,"Barranquilla, Colombia",,True,5035,676,4973,1,9603,False,
+42,365174625,.,thequeenjuls,nita algo o solo chismoseando?,http://pbs.twimg.com/profile_images/1280283586009206786/96pqdFKc_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2011-08-31 00:08:18,"Medellín, Colombia",,True,40973,373,73331,29,78306,False,
+43,391000977,𝐶𝑜𝑐𝑜𝑜𝑛,gisellec___,I'm stuck in the dark but you're my flashlight.,http://pbs.twimg.com/profile_images/1242505906706886659/kQq0wkUd_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2011-10-14 21:57:41,Colombia,,True,215,197,12360,0,3138,False,
+44,620050491,Miranda,capriqornio,Instagram: 🌿@seisraices • 🔥@capriqornio,http://pbs.twimg.com/profile_images/1239684105513680897/uu_pbGUF_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2012-06-27 12:55:51,"Medellín, Colombia",,True,14853,309,28662,5,53885,False,
+45,1089922612057329664,200 de cilantro🌿,MontesNadith,Sin memoria y sin mente como las Barbies. 🦄🏳️‍🌈,http://pbs.twimg.com/profile_images/1262587229450403840/XbDgSA8G_normal.jpg,,2019-01-28 16:26:15,"Barranquilla, Colombia",,True,152,210,1562,0,6421,False,
+46,821785469197418503,Triana 🌱,triannacamilo,Instagram: https://t.co/lfb9kDh0Bx,http://pbs.twimg.com/profile_images/1280646340540850179/teJn10ek_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-01-18 18:24:58,"Bogotá, D.C., Colombia",,False,87847,990,15551,14,46830,False,
+47,298847006,❌,__EduardoMejia,Instagram: Eduardomejiap,http://pbs.twimg.com/profile_images/1207068787335409668/_AEpGMNA_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-05-15 01:55:26,"Barranquilla, Colombia.",,True,820,499,23715,0,1468,False,
+48,2902830081,El Hijueputa.,TheHijueputa,"El pelaito de Cali. Cada día más makia. 
+Contacto/Publicidad: Mensaje directo.
+Vé, ¿Ya me seguís en instagram?⤵️",http://pbs.twimg.com/profile_images/1180695967957487616/c4r2lkRp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-02 20:41:44,"Cali, Colombia.",,True,684360,31919,13191,148,24064,False,
+49,312887235,Presidencia Colombia 🇨🇴,infopresidencia,"Cuenta oficial de la Presidencia de la República de Colombia. Construyendo un país con Legalidad, Emprendimiento y Equidad. #ElFuturoEsDeTodos",http://pbs.twimg.com/profile_images/1186047865409421319/PsaXH44E_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-07 20:34:49,Colombia,,True,1249272,287,136155,2254,19293,True,
+50,229837949,Gabriela Tafur,GabrielaTafur,Abogada.,http://pbs.twimg.com/profile_images/1267301028027871233/IUjGrh2U_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2010-12-23 13:25:45,"Bogotá, D.C., Colombia",,True,93102,550,3242,44,15579,False,

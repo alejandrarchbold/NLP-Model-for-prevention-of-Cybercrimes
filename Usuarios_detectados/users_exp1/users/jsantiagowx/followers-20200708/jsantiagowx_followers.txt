@@ -1,0 +1,157 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-08
+,>>> Time:,17:01
+,>>> Analyzed user:,jsantiagowx
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,388416275,Juan M. Banquez,don_juan13,Futbol y política...c´est amusant to talk about it.,http://pbs.twimg.com/profile_images/1066010208349143040/Yrbw47kd_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2011-10-10 18:19:03,,,False,4230,4347,6372,6,4103,False,
+2,1228038931524001792,Rayito de 🌞de la mañana,rayitodesol71,"""MUJER DE UN GITANO 😍HERMOSO Y ORGULLOSO""(ANTIURIBISTA AL 1000%)SI NO TE GUSTA NO ME SIGAS,ME PRODUCEN ASCO🤮",http://pbs.twimg.com/profile_images/1272898783592972289/M_i86tea_normal.jpg,,2020-02-13 19:31:36,Cartagena tierra mía🏖️☀️🐠🏝️,,False,1750,2557,5326,1,12344,False,
+3,1247828343908687874,Javier,Javier54694122,"soy creativo,sociable, me gusta leer,cine,tengo un carácter fuerte,soy muy apasionado",http://pbs.twimg.com/profile_images/1278461049944059904/j_68RkaM_normal.jpg,,2020-04-08 10:07:31,,,False,3,263,168,0,263,False,
+4,714416130715156480,Mujer Mamerta,MujerMamerta,Si usted es uribista es mejor que no me siga. Se va a emputar dos veces: Cuando le hable mal de su mesías y cuando ignore sus insultos. No se amargue.,http://pbs.twimg.com/profile_images/1205875822814547970/R0NLj9Es_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-28 11:37:33,Colombia,,True,14905,8577,100906,19,69708,False,
+5,795089911321858048,Javier Alfonso Bohor,Jaborq,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2016-11-06 02:26:21,,,True,507,1801,12433,0,1842,False,
+6,1264600532058079233,Bazarov.,AmaFe20,Nihilista escatológico. Soy caleño y no bailo salsa. Amante del chontaduro.,http://pbs.twimg.com/profile_images/1273021591069343747/YvpHaWuf_normal.jpg,,2020-05-24 16:54:32,,,False,522,1036,3570,0,6077,False,
+7,890268097764106244,Jhonatan sanchez,jasanchez811,laboratorista de  laboratorios SGS Colombia. musico estudios realizados en IE luis Carlos Galán ..Sena.. universidad del Tolima y por supuesto PETRISTA..,http://pbs.twimg.com/profile_images/1276217940489183234/KQRK7Twz_normal.jpg,,2017-07-26 17:50:29,"Bogotá, D.C., Colombia",,False,169,485,1439,0,2548,False,
+8,1256700999588286469,Rafael,elsonambulante,"Intento de políglota, licenciado en idiomas 🇨🇴 Perdí acceso a mi antigua cuenta ""lokombiano"" #AntiUribistaSigueAntiUribista",http://pbs.twimg.com/profile_images/1267549360331644937/rumZHWjg_normal.jpg,,2020-05-02 21:44:26,,,False,1093,1460,128,0,200,False,
+9,352342683,El Brico,Afbrico,"#ElProfeDeFút⚽
+
+Las opiniones acá expresadas no reflejan las de mis gatos ni las posiciones de las instituciones con las cuales tengo obligaciones contractuales",http://pbs.twimg.com/profile_images/1179788702048018432/6cVpMBge_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-10 13:51:27,Polombia,,True,25519,25389,26773,25,53700,False,
+10,995379504553103361,Derli López,derlopeza,#Activistapolitíca #DDHH | #Ambientalista por conveniencia | La #Fotografía mi liberación... 🇨🇴 Insta / Face: @derlopeza,http://pbs.twimg.com/profile_images/1280555316665552896/kx2LZPdn_normal.jpg,,2018-05-12 19:05:41,Colombia ,,False,16591,7066,15766,21,12197,False,
+11,457220509,𝙳𝚊𝙼𝚊𝚞𝚛𝚘🌎,jmdiaz28,,http://pbs.twimg.com/profile_images/1249079266526081026/lM083scO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-01-07 04:54:46,"New Jersey, USA",,True,91,448,1797,0,5682,False,
+12,2295504656,Edwin zagi,edwinzagi,todavia soñando con un mundo mejor...,http://pbs.twimg.com/profile_images/1279419234100142080/_QPmpM9X_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-17 05:08:13,,,False,1150,1727,801,0,3299,False,
+13,458564104,☞Olimpo osorio,Olimpo_O_R,EST.sistemas💻Sena,http://pbs.twimg.com/profile_images/1237957806529134593/322UohI9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-01-08 18:15:04,"Neiva, Colombia",,True,104,286,930,1,7454,False,
+14,184491812,Andrés Martínez C.,edanmar80,,http://pbs.twimg.com/profile_images/1190058154131939328/DY0FYixw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-29 18:10:42,"Ibagué, Colombia",,True,930,391,39647,4,42916,False,
+15,1273491333492211714,Homólogo,Homlogo1,"gato mamerto
+Antiuribista.",http://pbs.twimg.com/profile_images/1273492087527354368/Vz_ag7Kd_normal.jpg,,2020-06-18 05:43:05,,,False,1864,2237,3,0,36,False,
+16,3401480861,Guillermo Pérez,GPerezPardo,Antropólogo y Defensor de la Paz con Justicia Social. Militante de la vida. Hago parte de @PrensaRural.,http://pbs.twimg.com/profile_images/1270826149808091136/gRKf22wT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-03 16:28:23,Colombia,,True,11959,7735,10331,26,4935,False,
+17,1246459454444494849,Alexroamigos✏✏,alexroamigos,"📍Somos profes y compañeros del caricaturista colombiano Alexro. 
+Apoyamos la Libertad de Expresión y difundimos su obra artística.✊✊",http://pbs.twimg.com/profile_images/1246461147433308160/Od1nePC1_normal.jpg,,2020-04-04 15:28:03,Colombia,,False,675,942,199,0,1030,False,
+18,167394234,Sebastián 𝚁𝚘𝚓𝚊𝚜 𝚁𝚒𝚌𝚊𝚞𝚛𝚝𝚎 🇨🇴 💛,QueDiceSebas,"Dir. @ElChapinPrensa. Vocero @NoTM7a y 🌳. Ing. @Uniandes. CTO https://t.co/0S8NVHCb7V. No me quedo en Twitter, salgo a la calle. ""Los disléxicos también somos persianas"".",http://pbs.twimg.com/profile_images/1278228443239497728/6EtICed4_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-07-16 13:41:11,"Bogotá, Colombia",,True,6950,4180,39473,29,22948,False,
+19,1042927057846591488,🛂👮‍♂️,Loja2503,👌,http://pbs.twimg.com/profile_images/1279640739824238592/Xbet0eUc_normal.jpg,,2018-09-21 00:02:42,,,False,26,49,6,0,4157,False,
+20,1171165273816215552,Émerson Jiménez García,EmerJiGa_m,MAESTRO EN FORMACIÓN 👨🏻‍🏫📚💙    |     #Morat 💛   |   #AntiUribista 1️⃣0️⃣0️⃣%,http://pbs.twimg.com/profile_images/1280793032774823936/jPMZALAg_normal.jpg,,2019-09-09 20:55:53,"Pensilvania, Colombia",,False,28,437,37,0,975,False,
+21,1253513457569280001,Hector florez,Hectorf31997161,El mejor..,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-04-24 02:38:06,,,False,1165,3337,7799,0,7735,False,
+22,1255964663356981268,Paola Torres Franco,PaolaTorresfco,"Coach, conferencista y entrenadora del equipo John Maxwell para Latinoamérica.
+Líder mundial en el networkmarketing.
+Empresaria e inversionista.",http://pbs.twimg.com/profile_images/1255964880466857984/6rovTuHZ_normal.jpg,,2020-04-30 20:58:23,,,False,216,1188,73,0,253,False,
+23,2149925462,Andrés 🎈,MiloAndres20,"look at the leaders we've followed,look at the lies we've swallowed,and i don't want to hear no more,my hands are tied,for all i've seen has changed my mind",http://pbs.twimg.com/profile_images/1275812116444971008/-exojCAu_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-10-23 00:06:10,- MagicMusicBox🇨🇴🏴‍☠️,,True,560,550,4260,1,18739,False,
+24,1275644507070103552,Jugando Con Caperucita,ConCaperucita,Especialista en libros sensoriales para niñas y niños  en educación inicial,http://pbs.twimg.com/profile_images/1275644725182300160/p8KKqjpD_normal.jpg,,2020-06-24 04:19:21,"La Vega, Colombia",,False,6,140,16,0,1,False,
+25,212095977,paz,JUKARUBE,Defensor de DH,http://pbs.twimg.com/profile_images/1272694580706672642/Cs7Z9mB9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-11-05 03:30:57,Colombia,,False,638,4465,2833,0,5966,False,
+26,1272557771909627905,Calavera Polombia,CPolombia,"una persona no uribista ,en contra de la expropiación de duque ..digo hipoteca ala inversa .",http://pbs.twimg.com/profile_images/1272558009441554432/af4ZKqNf_normal.jpg,,2020-06-15 15:53:33,,,False,189,355,168,0,21,False,
+27,1271275666801979392,Museo Colombiano de Internet 🇨🇴,mcolombianodi,Biblioteca digital de los mejores momentos de nuestra gente linda colombiana.,http://pbs.twimg.com/profile_images/1271275897836892161/Yws1Wwe0_normal.jpg,,2020-06-12 02:58:41,Colombia,,False,323,404,59,0,140,False,
+28,1253409367833149442,julian white,julian_whitex,"Ejecuten la justicia, no a los hombres.",http://pbs.twimg.com/profile_images/1274847371722178561/tSib8Y59_normal.jpg,,2020-04-23 19:44:30,Ecuador,,False,168,439,89,0,279,False,
+29,155043059,c a r o l i n a ®,aycaroola,"A veces lo que voy a decir  no es mejor que el silencio... y lo escribo aquí.  📜
+Instagram: aycarola",http://pbs.twimg.com/profile_images/1263488732923125761/QOGUtGZi_normal.jpg,http://abs.twimg.com/images/themes/theme3/bg.gif,2010-06-12 23:58:24,Colombia,,False,15632,2772,5401,23,81959,False,
+30,280244466,steffany,teffirojitas,,http://pbs.twimg.com/profile_images/1267271683221729282/CrYWMZqC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-10 23:23:04,colombia,,False,25,73,267,0,823,False,
+31,1242839085892460546,El Uberrimo,leuberrimo,"Progre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La realidad y la consciencia me hicieron antiuribista.",http://pbs.twimg.com/profile_images/1280946324263796736/Uj_W9-sz_normal.jpg,,2020-03-25 15:41:56,,,False,101,328,678,0,1716,False,
+32,1209910182035283969,Alejandro.,Alejo_Power007,Animalista y Antiuribista. Apoyo las ideas progresistas de la Colombia Humana que propone Gustavo Petro.,http://pbs.twimg.com/profile_images/1277634451372216320/UpbvmB0O_normal.jpg,,2019-12-25 18:54:11,,,False,1415,3192,16016,0,18438,False,
+33,1228271184724320257,Dianita Diaz,sandia2416,"Perfil antiuribista- Izquierda. Teacher! Opiniones personales, Se habla de todo un poco! Que bonito es saludar y ser saludado, les traigo una rica y deliciosa..",http://pbs.twimg.com/profile_images/1273001698190123008/fAoP7xtY_normal.jpg,,2020-02-14 10:54:18,"Bogotá, D.C., Colombia",,False,9632,4506,14110,8,24480,False,
+34,336498416,Alvaro Gonzalez M.,algomar19,Una generación pasa volando y en veinte años podemos presentar un Hombre nuevo hecho en casa.,http://pbs.twimg.com/profile_images/761531146958012416/DHfsFtrI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-16 11:52:50,Cartagena,,True,2854,3791,25968,3,4206,False,
+35,126990913,MisterBlister,MisterBlister13,"Estrato 3, Ochentero, fan del jugo de tomate de árbol, paisa antiuribista, nieto de arrieros, hijo de artesanos, andariego. 
+#siganmelosbuenos",http://pbs.twimg.com/profile_images/1232702547921686531/-Tb0CYOt_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-27 17:30:03,,,True,1148,2098,3254,4,1711,False,
+36,53220683,Luis Alberto Franky,Babetofranky,"Opinador de todo, con sarcasmo, pero CON TODO RESPETO, para que no se deliquen",http://pbs.twimg.com/profile_images/860268330183274496/CEGUyjHg_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2009-07-02 23:13:21,Colombia,,True,586,2094,1776,1,330,False,
+37,1307493697,Don Gato,jebelapa,Porque los buenos somos más...Por una Colombia Humana🇪🇨🕊,http://pbs.twimg.com/profile_images/1115757787118800898/xGpuEgIO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-27 13:23:44,,,False,2095,4295,59254,1,43991,False,
+38,1270739746550173698,Isabel Benítez,BenitezMo23,"En Colombia  o tomas las riendas de tu país o nos llevo el putas, 🇨🇴🇨🇴🇨🇴COLOMBIA LIBRE  🇨🇴🇨🇴🇨🇴",http://pbs.twimg.com/profile_images/1278832602556674048/tGjKw9Gw_normal.jpg,,2020-06-10 15:29:12,Colombia,,False,159,326,424,0,691,False,
+39,255838244,Jhon....,jhogacha,"Empatía, consiste en tener la capacidad de ponerse en el lugar del otro.",http://pbs.twimg.com/profile_images/1263288140325892096/IGbpoIir_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-22 04:12:58,Cartagena-Colombia,,True,122,440,692,0,2097,False,
+40,365594005,Juan David Quintero,JD_Quinteror,"Defiendo ideas liberales. Co-dirijo @ColombiaLides donde pensamos a Colombia más igualitaria, justa y con desarrollo sostenible. Fui Edil de Usaquén. Amo Bucear",http://pbs.twimg.com/profile_images/1197926890889207808/qQiYkKKb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-31 18:04:53,"Bogotá, D.C., Colombia",,True,2126,1511,5961,8,1561,False,
+41,156456941,Rosa Moreno🐝🐝🐝,ismene2,Mamerta.🔻,http://pbs.twimg.com/profile_images/1156291095380340737/UOiu-7zv_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-06-17 00:37:27,Colombia,,True,87276,14294,127182,357,923,False,
+42,1258434250724040706,German Castro,GermanC25598071,100% antiuribista feliz de ser colombiano,http://pbs.twimg.com/profile_images/1269034959043530752/e1uswVF-_normal.jpg,,2020-05-07 16:31:34,,,False,1119,4171,3606,0,3775,False,
+43,1242619820962611200,©®™🔎🔎🔎,CrIsTaL_MariNa_,🌼 Luna Lune®a🌼,http://pbs.twimg.com/profile_images/1277820968824700931/ZcODUW6O_normal.jpg,,2020-03-25 01:10:49,Estados Unidos,,True,1201,571,4817,0,5271,False,
+44,364451402,Juan Daniel,juancho090,Persona partidaria de los acuerdos de paz en la Habana. Es hora de pasar la página de la guerra. Busquemos concensos entre todos para lograr la paz en Colombia.,http://pbs.twimg.com/profile_images/1250968012183699463/soQMJMIG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-29 19:57:09,"Cali, Colombia",,False,1223,3440,10338,0,5291,False,
+45,967990280833159168,UnEnfermeroAntiSistema.,Brayanstar4,Enfermero de cuidado crítico - Activista - lector -Emprendedor - Pensamiento Crítico,http://pbs.twimg.com/profile_images/1266808328249802752/jOF05FOO_normal.jpg,,2018-02-26 05:10:42,Colombia,,True,392,921,3138,0,3299,False,
+46,1227404979310383110,Lobito,Lobitoherrera_1,🤍🤍🤍,http://pbs.twimg.com/profile_images/1227405243278905344/l_9DQwud_normal.jpg,,2020-02-12 01:32:22,,,False,0,452,752,0,3324,False,
+47,2952950195,ﾌㄖ尺Ꮆ乇 💎,jorgeprotesta,"Me sigues, te sigo 🔄",http://pbs.twimg.com/profile_images/1254750280085909504/5p5lYcoD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-12-31 11:37:51,Medellin,,False,6154,6758,14537,2,46153,False,
+48,928998846,Pestilencia,La_Pestilencia,"Pestilencia Oficial Punk Hardcore  - Colombia 
+30 años de verdades aquí https://t.co/jg86MqhsDr",http://pbs.twimg.com/profile_images/1259523884476399617/jjOpLlhv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-06 04:41:38,,,False,10021,7527,5269,30,6092,False,
+49,1196627989892653057,Giovani v.,giovani_twiter,,http://pbs.twimg.com/profile_images/1275275385245184000/JuIMAzT4_normal.jpg,,2019-11-19 03:15:41,Colombia,,False,395,781,2086,0,11305,False,
+50,1123363833232412672,@bgallon,bgallon4,aprender ❤,http://pbs.twimg.com/profile_images/1233596524640206851/ndBhvAZE_normal.jpg,,2019-04-30 23:09:43,,,True,999,2333,1897,0,35999,False,

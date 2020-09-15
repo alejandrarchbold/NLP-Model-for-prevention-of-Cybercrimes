@@ -1,0 +1,20 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,23:15
+,>>> Analyzed user:,LittletonTWalle
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1198624849880657926,His fans. ,Very fine people...maybe.,4654,113,/rayk58/lists/his-fans,rayk58,Mon Mar 16 19:18:48 +0000 2009,Antifa(scist) Hermit,I love a good dystopia. I have not and will never subscribe to the New York Times. #bothsidesdont,2040,1947
+2,955973279214223361,USMC Family,"Marines, FMF Corpsmen, and the families that support us",475,32,/headhunterchron/lists/usmc-family,headhunterchron,Sat Apr 18 14:54:44 +0000 2015,Todd Starkey 🇺🇸,"Door gunner to @EndresTr Desert Storm #USMC 0352 Seen the worst humanity has to offer and still standing.
+μολὼν λαβέ 
+Freedom Ninja",5797,5912
+3,129332700,Veterans and Soldiers,Thank you for your service to our country. God bless you and yours!,91,4,/PatriotGinger/lists/veterans-and-soldiers,PatriotGinger,Sun Jul 26 13:52:51 +0000 2009,`Patriot Ginger Snap,"#Prolife, #2A, #NRA Life-member, #ProIsrael #Bengahzi #MAGA #SOT Support #Veterans https://t.co/Rq7WCFPhPE #WWG1WGA Pray For Pres Trump & USA #BuildTheWall",36578,34654
+4,144558310,Political Minds 2014, (generated using http://SocialBro.com),3489,15,/ticckle/lists/political-minds-2014-2,ticckle,Sun May 29 19:54:18 +0000 2011,ticckle,30 second video thoughts and discussions. Be Heard,3546,1582
+5,144492590,Political Minds 2014, (generated using http://SocialBro.com),3509,10,/ticckle/lists/political-minds-2014,ticckle,Sun May 29 19:54:18 +0000 2011,ticckle,30 second video thoughts and discussions. Be Heard,3546,1582
+6,119107346,You are awsome,Follow us,3285,26,/MostTalkedAbou1/lists/you-are-awsome-200,MostTalkedAbou1,Mon Apr 21 14:14:22 +0000 2014,Writical.com,"Most talked about videos, news, pictures and more We also like to make you laugh!  https://t.co/ZbFIfKfQ2z email - Writical@gmail.com",4627,1333
+7,119089333,You are awsome,Follow us,3215,24,/MostTalkedAbou1/lists/you-are-awsome-195,MostTalkedAbou1,Mon Apr 21 14:14:22 +0000 2014,Writical.com,"Most talked about videos, news, pictures and more We also like to make you laugh!  https://t.co/ZbFIfKfQ2z email - Writical@gmail.com",4627,1333

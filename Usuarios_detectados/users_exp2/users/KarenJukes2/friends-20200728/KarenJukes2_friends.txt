@@ -1,0 +1,88 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,18:20
+,>>> Analyzed user:,KarenJukes2
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,198996470,James Beal,JamesSBeal,"US Editor, The Sun. Got a story? Email james.beal@the-sun.co.uk",http://pbs.twimg.com/profile_images/1259579414020534272/S6XXyBPD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-05 19:32:18,"New York, USA",,True,2047,1665,2603,61,867,True,
+2,964809003393003522,Rule Britannia 🇬🇧🇭🇲🇨🇦🇺🇲🇳🇿,RealViewOfLife,"Deport illegals, right of centre, always follows back",http://pbs.twimg.com/profile_images/1285173118881996800/aL36nPln_normal.jpg,,2018-02-17 10:29:26,United Kingdom,,False,3743,5000,5197,3,11474,False,
+3,1140832599016972288,Christopher - Massive Spanner - Ironic I hope!,Chrissi52027025,"Street Philosopher
+Professor in Hindsight
+(BSc (Open). Dip Econ. Cert Soc Sci.)
+Mine is a sensitive and poetic nature, a bit like Boris.",http://pbs.twimg.com/profile_images/1287377068574081024/l-KnVgiZ_normal.jpg,,2019-06-18 04:04:22,"England, where else!",,False,2922,2921,9534,2,12342,False,
+4,269788397,Steve Barclay,SteveBarclay,Chief Secretary to the Treasury & MP for North East Cambridgeshire 🇬🇧,http://pbs.twimg.com/profile_images/882189578316152833/uEgaoHPq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-21 13:07:52,North East Cambridgeshire,,False,32224,710,3108,715,482,True,
+5,2323710210,Robert Jenrick,RobertJenrick,"Member of Parliament for Newark. Secretary of State for Housing, Communities & Local Government.",http://pbs.twimg.com/profile_images/1251829501866184704/3aHsMadf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-02 12:33:41,,,True,41744,1645,6710,547,5407,True,
+6,3345478306,GrouchoMarxist,GrouchoMarxist5,"Passionate about Socialism, Liverpool, Palestine, social justice, and the New Orleans Saints.",http://pbs.twimg.com/profile_images/960886516565336064/ry13QxzO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-25 12:41:38,,,True,818,1214,4328,0,21559,False,
+7,811975057455124481,"Q Mac (Back Boris, Wear a mask - save lives)",QMac784,Wolves fan. Cricket fan.  Military Veteran. Pro-Brexit. Pro-Mask (why would you not want to save lives?) Animal lover (nicer than us) Retweets not endorsements.,http://pbs.twimg.com/profile_images/1274363723038285824/2cYdqdKx_normal.jpg,,2016-12-22 16:41:54,Weston under Penyard,,False,554,1094,4445,0,4728,False,
+8,1350873470,Kris in Ohio 🌊,warmthwantNlove,"Mom, lover of books/art/music/animals/photography/writing/baking, corporate girl, insomniac, grammar snob, shopping addict, pluviophile & realist. #resist #FBR",http://pbs.twimg.com/profile_images/1254435314954899456/GoINu6Jd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-14 03:33:11,"Westerville, OH",,False,1462,1572,3665,0,16995,False,
+9,1213733167342878720,clickertyclack - F'tang F'tang Olé Biscuit barrel,clickertyclack,,http://pbs.twimg.com/profile_images/1281187022389084162/vUoQzvTp_normal.jpg,,2020-01-05 08:05:24,,,False,287,407,12432,0,16988,False,
+10,988418402,Prajwal Gowda 🇮🇳,drprajgowda,Doctor,http://pbs.twimg.com/profile_images/1268087946713817089/MeIsdVqM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-04 09:32:41,"Madikeri, India",,False,3083,2591,8471,8,8829,False,
+11,1241070474198683649,Jesse Lang,JesseLa00558616,"Father, believer in justice, recently red pilled Patriot and Trump supporter #MAGA #WWG1WGA #TRUMP2020",http://pbs.twimg.com/profile_images/1260378118851788805/ITXuzt4M_normal.jpg,,2020-03-20 18:34:39,"Belleville, IL",,False,14038,5051,580,11,3926,False,
+12,20368664,Bryony Jameson,bryony_jameson,Northerner in London 🙋🏻‍♀️ Arts Marketer 🎭🏛 Baker 👩🏻‍🍳 Theatregoer 🎟 Movie Buff 🍿 Bookworm 🐛,http://pbs.twimg.com/profile_images/1201942059231387654/Kx5VyBZh_normal.jpg,http://abs.twimg.com/images/themes/theme8/bg.gif,2009-02-08 14:22:13,"London, England",,True,1347,3698,6797,23,16793,False,
+13,1278426719058309125,Dutch Schultz,DutchSc33704909,Bootlegging and the Numbers,http://pbs.twimg.com/profile_images/1278427063674966016/nsLFYREU_normal.jpg,,2020-07-01 20:34:45,,,False,61,86,490,0,1228,False,
+14,1004728196665958400,Tombaan,Tombaan66,"#factsmatter #sciencematters #ruleoflawmatters
+#FBR",http://pbs.twimg.com/profile_images/1264982338779459590/xBzIIXpF_normal.jpg,,2018-06-07 14:14:03,"Houston, TX",,True,10405,10462,23922,3,35531,False,
+15,3850478543,Chris Cross,Chris73737373,enjoys a laugh. face like a smacked arse.,http://pbs.twimg.com/profile_images/1287006943991799809/7o3r15HT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-03 07:52:56,,,True,174,186,8042,3,13434,False,
+16,2691186956,Hope - NOT Marxism #KBF,HopeNotPC,"I will speak up for what is good and true. I do not ""stand"" with any one group, I believe in truth and justice. I will speak out against wrong doings",http://pbs.twimg.com/profile_images/1218939136440176640/HfbWPA-9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-29 22:25:56,Britain,,False,2944,4970,67946,13,89439,False,
+17,1015802182053056512,Fenrir Wolf,FenrirWolf26,"🇬🇧 Nationalist libertarian 🇺🇸, free speech extremist. 🧐
+
+Anti-socialist. 🚫🦀",http://pbs.twimg.com/profile_images/1024037459187957762/M1_HLYwa_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-07-08 03:38:07,The Moon,,False,9628,10539,79380,5,159856,False,
+18,931965266996711424,Donaldski..Doesn't have a smartphone,jumped797,"Graduate at the school of hard knocks
+
+Confidence is a preference for the habitual voyeur",http://pbs.twimg.com/profile_images/1222805485583241216/poWXPFei_normal.jpg,,2017-11-18 19:20:09,London ,,False,2586,2843,75913,1,52637,False,
+19,719637459794051073,Sozzinski,Sozzinski,"I used to be of the Left, until they abandoned reason, showed signs of serious mental illness, and became far, far more dangerous than the Right.",http://pbs.twimg.com/profile_images/793401218957611008/IcYt84ra_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-04-11 21:25:15,"Central London, UK",,False,7769,7724,117427,56,135084,False,
+20,2835451658,Andy Ngô,MrAndyNgo,"Editor-at-large - @TPostMillennial. ""Unmasked"" now available for pre-order: https://t.co/nHDpgWNnvX",http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2014-09-29 05:58:06,,,True,530241,690,14434,2360,41830,True,
+21,702231159,FreeSpirit,hunterathelen1,"In the words of Albert Einstein,  ‘The world will not be destroyed by those who do evil,  but by those who watch them and do nothing’.",http://pbs.twimg.com/profile_images/1218098318812815360/t36AGCjW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-05 19:32:42,Uk,,False,5392,5932,46984,16,25928,False,
+22,19985444,Robert Spencer روبرت سبنسر रॉबर्ट स्पेंसर 🇺🇸,jihadwatchRS,"Director of Jihad Watch. Author of 21 books, including numerous bestsellers. The History of Jihad: https://t.co/SVUt87wIrk",http://pbs.twimg.com/profile_images/1186705898539909120/1H9pu5vC_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-02-03 17:23:43,,,False,154769,195,91618,1609,333,True,
+23,967200910526074880,Taqiyya Watch 🇸🇪,JustSimon13,"Hi, I'm Simon. I challenge Islamic arguments with evidence. EX-muslim ally. A right winger. I run a Youtube channel: https://t.co/cY5kc5UiiB",http://pbs.twimg.com/profile_images/1202478316911038466/TNTWDSWf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-02-24 00:54:01,,,False,7292,3158,13125,18,8696,False,
+24,24544452,Marlow Stern,MarlowNYC,Senior Entertainment Editor for The Daily Beast. @ColumbiaJourn alum. Likes whiskey.,http://pbs.twimg.com/profile_images/615821143090446336/6Mc_OzCQ_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-03-15 16:21:38,"New York, NY",,True,42458,915,90735,910,54652,True,
+25,1653255012,Jay,jay21775,🔴⚪️🇬🇧,http://pbs.twimg.com/profile_images/1277176468376821762/1b0J_SIl_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-08-07 15:59:45,,,False,609,1114,130,0,152,False,
+26,47601024,Jeremy,Sindrake,#Family 👨‍👨‍👦‍👦 #Unity 🙏 #Faith 👼 #Hope 💖 #Justice ⚖ #Child 👬 #InvestigateCPS 😒 #Injustice 🤐 Family Man Love My Children Bring My Children Home #MAGA,http://pbs.twimg.com/profile_images/508125301/674432106_m_normal.gif,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-16 11:23:51,"Shawnee, OK",,True,1651,2220,18307,1,13180,False,
+27,1281301355018227714,Anthony Russo,AnthonyRusso222,"Father , husband, son, poppy ,brother , friend , American, conservative ..",http://pbs.twimg.com/profile_images/1284522467193753600/eGroE7sg_normal.jpg,,2020-07-09 18:57:13,"New Jersey, USA",,False,38,444,199,0,285,False,
+28,761499948890329088,Esther McVey,EstherMcVey1,Esther McVey is the Conservative MP for Tatton. Contact email address: Esther@tattonconservatives.org.uk & Creator of the podcast 🎧 https://t.co/Crrudok1vx,http://pbs.twimg.com/profile_images/844845795392143360/zARCJyvV_normal.jpg,,2016-08-05 09:51:50,,,False,55549,171,2507,454,197,True,
+29,1168254479541690368,Mumma Goose 🇬🇧,GooseMumma,YAY... WE'RE OUT! 🥳🇬🇧🥳🇬🇧🥳🇬🇧🥳🇬🇧🥳🇬🇧 Passionate Brexiteer and @brexitparty_uk registered supporter...interested in politics and Maths 😊,http://pbs.twimg.com/profile_images/1260965591327932420/xmBbh74l_normal.jpg,,2019-09-01 20:09:36,UK,,True,1042,1813,4078,1,4410,False,
+30,2572639884,Dez,AlfJRogers,"Lockdown is abhorrent. Boris is a let down.  Fuck the new normal, there is only normal or abnormal.
+
+From Redditch, England.",http://pbs.twimg.com/profile_images/1259864962840907776/4qqvF7dd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-17 10:23:02,UK,,False,277,542,6978,6,5508,False,
+31,2692125771,Andy V,andyvblue,"We're losing our Countries and identities.. Time to get them back....  Your Country needs YOU!!   
+
+
+
+#Lestweforget             #Brexit",http://pbs.twimg.com/profile_images/890555269771665408/bPZVHIs4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-09 19:03:15,ENGLAND,,True,42665,35295,55100,78,45684,False,
+32,1256392047180873729,BIGDAVE,BIGDAVE21420668,"Southern Bible Belt strong, Tri-racial Country Boy Patriot, supporting my president on Twitter.
+#MAGA
+#TRUMP2020
+
+         Pronouns: Nope/Not",http://pbs.twimg.com/profile_images/1256396324779458560/g61IgE8x_normal.jpg,,2020-05-02 01:16:34,"Tennessee, USA",,False,12266,2475,5657,13,12119,False,
+33,1253238100052107264,adele 🦇,boovandort,"you either love johnny depp or you're wrong.                 
+
+🎃👻🥀🦇🏴‍☠️",http://pbs.twimg.com/profile_images/1287870707104460800/XIzZqRgE_normal.jpg,,2020-04-23 08:23:56,sleepy hollow,,False,1210,113,5172,3,9071,False,
+34,1273377514451320832,Based Belgium 🇧🇪,based_belgium,Conservative content from 🇧🇪 in English.,http://pbs.twimg.com/profile_images/1273377750599041024/bA25y_JA_normal.jpg,,2020-06-17 22:10:42,Belgium,,False,2746,3488,605,7,4121,False,
+35,1108020329643823109,Akki,akkitwts,The Feel Good Page ❤️,http://pbs.twimg.com/profile_images/1276861363965419522/kGXqm8rJ_normal.jpg,,2019-03-19 15:00:07,dm for promo,,True,87879,137,185,270,4172,False,
+36,1207099187801841665,Winston Johnson 🇬🇧,infodbondcomec1,"Proud to be British 🇬🇧 pro Union, hate Antifa and BLM !!!love a good 🥃 🍺 🍾 Glasgow Rangers FC 🏴󠁧󠁢󠁳󠁣󠁴󠁿 till I die",http://pbs.twimg.com/profile_images/1274750599444250628/AisLYX3J_normal.jpg,,2019-12-18 00:45:07,,,False,3445,4667,9213,2,2689,False,
+37,80699016,Peter 🇬🇧🇦🇺🏴󠁧󠁢󠁥󠁮󠁧󠁿,PJA1066,"Chartered Eng. Politically right. Not a fan of EU, Islam, socialism, Marxism, & PC. Can also be found on Parler with same handle.",http://pbs.twimg.com/profile_images/842461082191040512/A3fK36nq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-10-07 22:46:29,Suffolk UK mostly.,,True,3365,3292,123337,32,10877,False,
+38,16285793,Paul Charlton,MeanderingPaul,Father first everything else is gravy........,http://pbs.twimg.com/profile_images/1212729721282273281/kQbi7cv-_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2008-09-14 18:43:08,Cramlington,,False,859,831,10186,21,15640,False,
+39,1253312574214615041,🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧 🇮🇪🇦🇺🇨🇦🇺🇸,mickeythomas_9,"#WWG1WGA
+#savethechildren",http://pbs.twimg.com/profile_images/1282703763153850368/BAw82RsJ_normal.jpg,,2020-04-23 13:20:00,777,,False,438,1080,1790,0,3572,False,
+40,709031949936037888,kwilliam,kwilliam111,Rotherham used to be famous for The Chuckle Brothers https://t.co/KGBmja3TZF,http://pbs.twimg.com/profile_images/855013406746738689/xkpFmm1I_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-13 15:02:44,"Rotherham, England",,False,22153,22580,125616,26,188,False,
+41,144658847,Christopher Snowdon,cjsnowdon,"Author of Killjoys and, most recently, Polemics. IEA. 🇸🇪 Views are my own.",http://pbs.twimg.com/profile_images/1283154961321394180/zU88_pXV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-16 23:49:03,Sussex,,True,31328,2027,21444,0,6589,True,
+42,2453375773,Golden Memories and Silver Tears,MarcCorbishley,A nostalgic journey looking back at the 60’s/70’s/80’s & Food Yes or No debates & Stoke City F.C.⚽️ This is a Political free zone with friendly conversations😃,http://pbs.twimg.com/profile_images/1238654388446670848/abzB59Jp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-19 15:59:19,"Alsager, Cheshire, England ",,True,20405,19712,8625,25,121309,False,
+43,1971285530,Steve Clarke,clardewuk,"Managing Director, Innovative Trainer, Wigan Rugby & Man Utd Fan, Blessed with a wonderful family. MA (L&D), Chartered FCIPD, FCMI, FITOL & FBILD.",http://pbs.twimg.com/profile_images/541702526576246784/jcTwmXRj_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-19 11:14:33,"Wigan / London, UK",,False,189,650,30,4,47,False,
+44,3295681317,Chris Earle,LuzboyPt,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-23 21:01:50,,,False,321,847,374,0,32910,False,
+45,823238040013381633,Mark Brightman,BlueLewisham,"To be born English is to win first prize in the lottery of life"".
+*Literally* a Conservative!   Working class made good
+Warning : Unsentimental views on animals",http://pbs.twimg.com/profile_images/1132321209675333632/uWR_auS-_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2017-01-22 18:36:58,"London, England",,False,540,552,17765,2,1998,False,
+46,864030687120281602,Jessica Simor QC,JMPSimor,"EU/Brexit, public/regulatory, digital, human rights. ext. fellow @BinghamCentre Board: @GlobalPartnersD @StJohnsSmithSq & https://t.co/CrjxMtTfCy",http://pbs.twimg.com/profile_images/928974470861217792/BpfOxTvB_normal.jpg,,2017-05-15 08:12:23,"London, England",,False,93403,3909,23722,475,18917,True,
+47,17282663,Nick Wallis,nickwallis,Journalist. Covering the Johnny Depp libel trial. Presenter of the Great Post Office Trial on BBC R4 and Panorama's Scandal at the Post Office. DMs open.,http://pbs.twimg.com/profile_images/1109229189763338241/TArZ9Wem_normal.png,http://abs.twimg.com/images/themes/theme5/bg.gif,2008-11-10 06:50:32,London,,False,22182,3704,38313,127,4808,True,
+48,1065563649031499776,CRANNY 🙈🙊🙉 🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿⚒️⚒️⚒️😷,02sfield,"HAD ENOUGH OF THE COLD ❄ DRIVING ME CAB TO IBIZA 😎
+,❤️ 🌶️ 🥜s
+LONDONTAXI GREENBADGE 🚖 UTAG,,
+GSB OUT 👊LOONY LEFT BLOCKED ON SITE.💥💥
+NO KNEE BENDING HERE",http://pbs.twimg.com/profile_images/1267392108480077828/2VL-57v2_normal.jpg,,2018-11-22 11:12:25,benirras beach ,,False,3806,3778,17484,3,15407,False,
+49,1078999918575079426,UncleSam 2.0,UncleSamBotski2,So we go inside and we gravely read the stones,http://pbs.twimg.com/profile_images/1252720352750428160/8Y_1MM6z_normal.jpg,,2018-12-29 13:03:22,United Kingdom,,False,802,830,20953,1,31269,False,
+50,1206572284464566274,Ansuboy,Ansuboy4,All politicians are fake I hat politicians they use to use all kind of their politicians words when they are looking for positions but now come after the electi,http://pbs.twimg.com/profile_images/1287534588848418817/rRbON2Uo_normal.jpg,,2019-12-16 13:50:42,Gambia,,False,108,2191,4,0,63,False,

@@ -1,0 +1,15 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,23:13
+,>>> Analyzed user:,self_govern4us
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,170759902,BC Activists,,57,0,/Vida_Jay/lists/bc-activists,Vida_Jay,Mon Jan 04 08:30:34 +0000 2010,Vida Jaugelis ن,Pilgrim in search of the heart of life where justice and mercy meet. Lutheran interim pastor. Like=bookmark | #refugees #humanrights,1853,2729
+2,231194095,Hidden Cameras,,4800,22,/spygearco/lists/hidden-cameras,spygearco,Tue Nov 06 02:55:56 +0000 2012,Security Cameras,Custom Security Cameras for Home & Business #spygear #surveillance #security #homesecurity #homesafety #hiddencameras #spycamera,1770,4934
+3,204209555,Wurkers and allies,,289,9,/C5H4N4O2/lists/wurkers-and-allies,C5H4N4O2,Wed Oct 21 06:03:28 +0000 2009,Xanthine,"Educator, nerd, witch-of-all-trades. Science, bdsm, activism, bondage, & corporeal pleasure. Give me your shadows.
+Gifts: https://t.co/iWsOkjcYPv",2647,2482

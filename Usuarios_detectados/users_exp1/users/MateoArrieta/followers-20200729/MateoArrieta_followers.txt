@@ -1,0 +1,88 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,01:44
+,>>> Analyzed user:,MateoArrieta
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,128669929,Oicatá.,aeoggoea,"Nada es para siempre, todo lo que tenemos es prestado.",http://pbs.twimg.com/profile_images/1241881219610091528/-F14ywEf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-04-01 20:58:52,El Poblado de Ningun Lugar,,True,272,202,4617,0,29820,False,
+2,130016268,Biociencias I STEM América,BiocienciasInfo,"Conocimientos sobre centros de investigación, universidades y centros de salud",http://pbs.twimg.com/profile_images/1283711939533778944/88j-0lQS_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-04-06 02:22:24,América,,False,182991,4017,2050,871,1392,False,
+3,353916242,GABRIEL ANTONIO ARRIETA,GABRIELANTONI76,Estudiante de Medicina-- Universidad de Cartagena,http://pbs.twimg.com/profile_images/1271972079416553472/tGBJCKyi_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-08-12 20:58:50,COLOMBIA-CARTAGENA,,False,38,351,307,0,158,False,
+4,882274097572589570,RAFAELULISES 🌍,RafaelMuentes5,Fiel a la taja' con suero en el desayuno.,http://pbs.twimg.com/profile_images/1286881342979026945/NiLNMAMO_normal.jpg,,2017-07-04 16:25:11,"Purísima, Córdoba, Cartagena.",,True,604,1040,1343,0,1634,False,
+5,162169412,Luis Arboleda,Ludovik104,Medicina interna - Universidad de Cartagena.,http://pbs.twimg.com/profile_images/1132504955754045440/PdiCw9QO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-02 22:27:55,"Montería, Colombia",,True,134,833,1148,0,1877,False,
+6,1177082923763347456,Andrés Juan Salgado,AndresJuanSalg6,"Abogado en formación 
+Montería 
+IG: @andressalgadob6 
+IGNIS🔥",http://pbs.twimg.com/profile_images/1270698691695869952/OWtgavG6_normal.jpg,,2019-09-26 04:50:23,"Montería, Colombia",,False,39,162,287,0,787,False,
+7,113160736,Jean Villadiego Barrios,Inespecifico_,"Médico
+
+
+
+Universidad de Cartagena.",http://pbs.twimg.com/profile_images/1138641947046944768/fFU1we9q_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-02-10 22:25:38,"Cartagena, Colombia",,True,432,224,6774,1,474,False,
+8,174006970,Pablo,Pcastroa10,"Dios, Familia - LIF, Medicina, Fútbol, Junior♥. I belong to Jesús. // te amoo mucho, eres mi bendición
+
+1 cor 13: 4-5 P&L",http://pbs.twimg.com/profile_images/1248419757704933378/UKAaokPK_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-08-02 22:06:53,LFM♡,,True,293,279,8949,0,3882,False,
+9,48014813,Bancolombia,Bancolombia,"Entendemos tus necesidades en esta coyuntura. Porque Colombia nos necesita a todos, conoce las nuevas medidas que tomamos para apoyarte y seguir adelante 👇",http://pbs.twimg.com/profile_images/1278077511184855040/UeSVJQIp_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2009-06-17 16:23:17,Todos los días 6 am - 10 pm,,True,342918,48252,220103,771,6743,True,
+10,723684238806097921,MILEIDI,milebarrera241,,http://pbs.twimg.com/profile_images/724252099131899905/6V8tCynv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-04-23 01:25:42,Colombia,,False,19,44,15,0,50,False,
+11,229181877,María Palomino V.,MariaJPalomino,"Medicina, UdC 👩🏻‍⚕️",http://pbs.twimg.com/profile_images/873771874626437120/fJq4-a6c_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2010-12-21 18:58:17,,,True,799,505,7046,0,189,False,
+12,2574120926,Hotel Corales de Indias,Coralesdeindias,"El hotel se encuentra ubicado en Crespo, la zona norte de Cartagena, a tan sólo 5 minutos del aeropuerto internacional Rafael Nuñez. PBX (57)3163399464",http://pbs.twimg.com/profile_images/1038145954887680001/dm3CXD47_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-18 04:26:49,"Cartagena de Indias, Bolivar",,True,1394,4386,900,5,662,False,
+13,1242249927754907648,Aleja Zuluaga🤍,MalejaZuluagaR,"est. ing civil🚧👷‍♀️                                                           
+
+https://t.co/InQK7Q5h6g",http://pbs.twimg.com/profile_images/1252363619964076033/f3zNf76u_normal.jpg,,2020-03-24 00:40:49,Colombia,,False,366,372,927,0,1344,False,
+14,925544520,Paula Andrea,pguzman08,🇳🇬,http://pbs.twimg.com/profile_images/1246203286220345349/Mp0y3iSB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-04 15:26:11,"Montería, Colombia",,True,856,293,5122,1,18,False,
+15,1239650304469217283,𝓐𝓶𝓪𝓭𝓪 𝓭𝓮 𝓙𝓮𝓼ú𝓼 🌻,ParraEstefana,𝑴é𝒅𝒊𝒄𝒐 𝒆𝒏 𝒇𝒐𝒓𝒎𝒂𝒄𝒊ó𝒏⚕️. 𝑷𝒐𝒓 𝒍𝒂 𝒈𝒓𝒂𝒄𝒊𝒂 𝒅𝒆 𝑫𝒊𝒐𝒔 𝒔𝒐𝒚.,http://pbs.twimg.com/profile_images/1285012214466990080/VWrtZN2-_normal.jpg,,2020-03-16 20:30:57,,,False,26,199,44,0,222,False,
+16,1053436375394070528,Psiquiatría Uninorte,Psiquiatria_UN,"En búsqueda de desarrollar acciones encaminadas a  la promoción de la salud mental.
+#Hablemosdesaludmental
+#Yotambienvoyalpsiquiatra
+#Mentalhealth",http://pbs.twimg.com/profile_images/1268615605265092609/1sPO2jfx_normal.jpg,,2018-10-20 00:02:58,"Barranquilla, Colombia",,False,1477,1436,1578,6,2,False,
+17,493567236,Mafe Fontalvo,MafeFontalvo_,Estudiante de Medicina- Universidad de Cartagena. God♡,http://pbs.twimg.com/profile_images/1182109303383216128/xlPYeZal_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-15 23:03:07,Bq/Cgena,,False,189,175,2116,0,1043,False,
+18,1040069759700795394,Juan Camilo Castilla Ortega,Juancastilla_17,"Médico en formación 
+Universidad de Cartagena",http://pbs.twimg.com/profile_images/1286352171550810112/fR8KccHG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-09-13 02:48:49,,,True,72,189,224,0,999,False,
+19,312911693,Jairo Jimenez,jairojimenezrod,"Medicina para curar el alma y varias cosas más
+Universidad De Cartagena
+No fabriques fantasias cuando quieras realidades",http://pbs.twimg.com/profile_images/1282113628896989195/E0qHeLEx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-07 21:22:31,"Cartagena, Colombia",,True,231,331,13944,0,15336,False,
+20,448877452,carmelo,crdc2001,historia filosofía medicina crítica,http://pbs.twimg.com/profile_images/1113825610789543938/EcLhkICr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-28 13:37:07,Cartagena Colombia,,True,975,941,1832,5,846,False,
+21,1387724203,vélez,jxvell,⚕️,http://pbs.twimg.com/profile_images/1283555201207672833/CeZQFBaJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-28 19:21:30,Colombia,,True,8208,925,90341,582,260095,False,
+22,1144366510552571905,Edgar 🐻,EdgarHerazo2,Médico interno 👨🏼‍⚕️ Universidad de Cartagena,http://pbs.twimg.com/profile_images/1248458121153933312/MOyRrjBZ_normal.jpg,,2019-06-27 22:06:52,"Cartagena, Colombia",,True,154,167,496,0,683,False,
+23,1040281013027590147,𝓵𝓪𝓾𝓻𝓮𝓷𝓽,laurendiazm1,,http://pbs.twimg.com/profile_images/1277632181477703680/XW99Bg4i_normal.jpg,,2018-09-13 16:48:15,,,False,461,320,3358,0,14412,False,
+24,1209197972896059395,Carlos Barrios T,CarlosBarriosT3,Vive fresco.,http://pbs.twimg.com/profile_images/1209198576414470146/kF3lMbNe_normal.jpg,,2019-12-23 19:44:08,,,False,11,126,20,0,47,False,
+25,2530031676,Terminal de Transporte de Montería,TermiMonteria,Facebook: Terminal de Transporte de Montería. Instagram: TermiMonteria #TeCuida,http://pbs.twimg.com/profile_images/1215122157686140929/TGxWbkRs_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-28 13:37:29,Montería - Córdoba,,True,2617,719,7304,5,6195,False,
+26,285326252,Liza Matallana R,LizaMatallana,"I can, I will. Watch me",http://pbs.twimg.com/profile_images/1214999803630931974/yvYLqqYV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-20 23:29:49,Cartagena de Indias,,True,142,381,2768,0,324,False,
+27,708469795449139200,Miguel Ángel,migue08mp,"Ex-Médico Interno, Universidad de Cartagena.
+
+Amante del buen vallenato y de una cerveza fría.",http://pbs.twimg.com/profile_images/1265489916026400771/Ia3ZY8_W_normal.jpg,,2016-03-12 01:48:56,"Cartagena, Colombia",,True,835,827,5788,0,13730,False,
+28,1245355310,Cherie,sweetrhythms,"In appreciation, I follow ALL who follow me except NSFW (porn). To make space, I unfollow all unfollowers after a few days ... PLEASE, NO DMs.",http://pbs.twimg.com/profile_images/1280178601065758720/QmDjkE_v_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-06 05:44:22,,,False,148001,147360,110403,542,314359,False,
+29,1113585072849018880,Vanessa☀️,rubyhernandez07,"Psícologa, 
+En este Perfil Amamos el Vallenato,🎶
+Mi Familia mi Todo👨‍👩‍👧‍👧
+De la Mejor Ciudad del Mundo🌅",http://pbs.twimg.com/profile_images/1274794731663491074/Hj3gZMcP_normal.jpg,,2019-04-03 23:32:25,"Cartagena, Colombia",,True,351,389,1451,0,1836,False,
+30,335648806,Andrea,AndreaGuerr4,Médico UdeC⚕,http://pbs.twimg.com/profile_images/1248635960193175552/QXcXAEKD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-15 01:02:39,"Medellín, Colombia",,True,275,214,2011,0,3143,False,
+31,573207983,Karleth Sley,_SleyKarleth,Mirad qué amor nos ha tenido el Padre para llamarnos hijos de Dios.,http://pbs.twimg.com/profile_images/1145829135257952257/gpEOGb9J_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-05-07 02:07:52,,,True,990,369,17422,6,12338,False,
+32,146904954,FELIPE ARIZ GALARCIO,FELIPEARIZ,"Médico Auditor, comprometido con el trato humanizado, Director Médico de Clínica La Esperanza",http://pbs.twimg.com/profile_images/1271191449594482690/SW-MtpFx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-22 17:08:32,"Montería, Colombia",,True,209,371,1255,1,6572,False,
+33,1143695662179061762,Óscar Meza,scarMeza6,todo es posible,http://pbs.twimg.com/profile_images/1143700926869450753/U_vy7Wuv_normal.jpg,,2019-06-26 01:41:09,,,False,8,125,7,0,28,False,
+34,1522945123,Javier Cormane,JavierCormane,"Médico y cirujano, magister en gobierno y políticas públicas, docente universitario",http://pbs.twimg.com/profile_images/485399763928363011/rv4CyTE1_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-06-16 18:54:37,"Bogotá, Colombia",,True,16631,11077,55463,48,12882,False,
+35,846243044764635137,🏵,mafb0710,"23. 
+Me gusta estar donde puedo ser, por eso estoy aquí 🍃",http://pbs.twimg.com/profile_images/1280295980680843265/KSheR_bU_normal.jpg,,2017-03-27 06:10:39,"Montería, Colombia",,False,306,212,8507,0,6755,False,
+36,1020431985171488771,stephania lacouture,stephanialacou2,,http://pbs.twimg.com/profile_images/1176700988536885259/x-8rNY9t_normal.jpg,,2018-07-20 22:15:18,,,False,124,201,150,0,9548,False,
+37,262774013,✌,SebastiannZ_,"Yo tampoco sé cómo vivir, estoy improvisando.",http://pbs.twimg.com/profile_images/1278420186064969729/zcydR1Jx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-08 18:48:50,"Montería, Córdoba, Colombia.",,False,306,639,24812,0,8449,False,
+38,1114745434734563328,JHOINER ALEXIS GALVIS,GalvisJhoiner,Chico Genial,http://pbs.twimg.com/profile_images/1114745556906147840/ymg7tcf7_normal.jpg,,2019-04-07 04:23:17,,,False,62,91,0,0,9,False,
+39,602167618,LJ,JOARLOMA,,http://pbs.twimg.com/profile_images/1154855027737079808/nwU4YHQl_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-07 20:11:47,Colombia,,True,190,805,75,2,21,False,
+40,165128174,ag,AnaGuerraU,👩🏻‍⚕️,http://pbs.twimg.com/profile_images/1227794760020168704/xeti3EQQ_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2010-07-10 17:41:53,,,False,343,166,5081,19,1487,False,
+41,1078143214442422273,Maria Luisa 🤩,marialjimenezm,,http://pbs.twimg.com/profile_images/1114746305698574336/2TscCo1g_normal.jpg,,2018-12-27 04:19:08,,,False,39,83,119,0,111,False,
+42,880513519086469120,Dr. Doble U,DrDobleU,"Preguntas y trivias de medicina, basado en GPC, NOM, #ENARM, USMLE, Harrison, Schwartz, Nelson, Williams, Tintinalli, ACLS, ATLS, PALS",http://pbs.twimg.com/profile_images/880514432526295041/0Oqlrpq0_normal.jpg,,2017-06-29 19:49:16,Ciudad de México ,,False,1883,2006,105,2,12,False,
+43,3349610605,Historias mini,historiasmini,"Un cuento al día en un tweet.
+Los libros aquí https://t.co/W94Sjy3N1f
+Amor❤️Terror😱Ficción🤖Comedia😂
+por Óscar Toledo G. @nanochess ©2015-2020",http://pbs.twimg.com/profile_images/1068346026749296640/fIRILnYP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-26 15:08:33,"Distrito Federal, México",,False,17656,13685,3100,91,2087,False,
+44,4822077861,Cb♡,carobarretob,,http://pbs.twimg.com/profile_images/1287585937850073089/L0ix6RQi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-01-17 20:44:10,"Cali, Colombia",,True,1864,502,6781,1,6211,False,
+45,290130958,maría josé h.,mariiJhoyos,,http://pbs.twimg.com/profile_images/1285729789786103809/zBBzxlBC_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2011-04-29 19:43:24,Monteria,,True,792,475,51676,4,13262,False,
+46,1025009936277950464,Asociación de Radiología de Bogotá,Asorabog,,http://pbs.twimg.com/profile_images/1247608748874571777/R6IPiJX3_normal.jpg,,2018-08-02 13:26:27,"Bogotá, D.C., Colombia",,True,104,122,26,0,1,False,
+47,1056238016828792832,Maria José Cueter U.,MajoCueter19,,http://pbs.twimg.com/profile_images/1264409006870859778/SEyqZtV0_normal.jpg,,2018-10-27 17:35:41,"Ciénaga de Oro, Colombia",,False,48,79,92,0,400,False,
+48,783497865112985601,Bāmbišnān Bāmbišn🖤,DOMINVSETDEVSS,,http://pbs.twimg.com/profile_images/1173073175753777152/K90oAyzj_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-10-05 02:43:42,Domus Flavia ,,False,17,748,5983,0,2276,False,
+49,773719100472295424,Chicho,Sanchezlina1,"De alma loca y espíritu libre /  Insta: linasanchez1.
+Monteriana",http://pbs.twimg.com/profile_images/1280479697223254016/ixE_zFH8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-09-08 03:06:23,"Montería, Colombia",,True,470,251,2659,0,9408,False,
+50,888459519503761413,Manual Of Medicine,ManualOMedicine,"Dedicated to sharing #medical news, information and educational materials.  #medicine #doctor #MedEd #FOAMed",http://pbs.twimg.com/profile_images/1101540780114616320/7HlN2NBl_normal.png,,2017-07-21 18:03:51,,,False,37380,32021,926,196,291,False,

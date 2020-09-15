@@ -1,0 +1,41 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:52
+,>>> Analyzed user:,Oscar_GCh
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,54508860,Variedades,"Chistes, Farándula,",25,2,/Oscar_GCh/lists/variedades,Oscar_GCh,Fri Jul 23 17:01:46 +0000 2010,🙏 #RedAntiUribista,"Empresario
+Bogotá
+Monte Carmelo Ltda
+Gerente
+La Hormiga Res. Café Bar
+Gerente",1589,1351
+2,54508679,Deportes,Nacionales e Internacionales,53,0,/Oscar_GCh/lists/deportes,Oscar_GCh,Fri Jul 23 17:01:46 +0000 2010,🙏 #RedAntiUribista,"Empresario
+Bogotá
+Monte Carmelo Ltda
+Gerente
+La Hormiga Res. Café Bar
+Gerente",1589,1351
+3,54508605,Noticias,Nacionales,24,4,/Oscar_GCh/lists/noticias,Oscar_GCh,Fri Jul 23 17:01:46 +0000 2010,🙏 #RedAntiUribista,"Empresario
+Bogotá
+Monte Carmelo Ltda
+Gerente
+La Hormiga Res. Café Bar
+Gerente",1589,1351
+4,54508493,Política,Colombia,5,0,/Oscar_GCh/lists/política,Oscar_GCh,Fri Jul 23 17:01:46 +0000 2010,🙏 #RedAntiUribista,"Empresario
+Bogotá
+Monte Carmelo Ltda
+Gerente
+La Hormiga Res. Café Bar
+Gerente",1589,1351
+5,54508113,Movilidad,Movilidad,15,1,/Oscar_GCh/lists/movilidad,Oscar_GCh,Fri Jul 23 17:01:46 +0000 2010,🙏 #RedAntiUribista,"Empresario
+Bogotá
+Monte Carmelo Ltda
+Gerente
+La Hormiga Res. Café Bar
+Gerente",1589,1351

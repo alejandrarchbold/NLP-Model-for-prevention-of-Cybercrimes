@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,19:44
+,>>> Analyzed user:,DanaManchild
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1020501112317775872,Truth,,2166,21,/MorleyTowers/lists/truth,MorleyTowers,Thu Mar 29 12:58:10 +0000 2018,Morley Towers,"""Jesus said to him, I am the way, the truth, and the life: no man comes to the Father, but by me.""  #God #love #photo #music #video",3186,4859

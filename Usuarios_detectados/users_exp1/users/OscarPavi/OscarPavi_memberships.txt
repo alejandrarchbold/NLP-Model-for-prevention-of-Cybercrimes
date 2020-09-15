@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:49
+,>>> Analyzed user:,OscarPavi
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,169137286,Tecnología,,4435,18,/MediumHispano/lists/tecnología,MediumHispano,Thu Oct 11 21:52:49 +0000 2012,Medium Hispano,"Comunidad hispana que ama @Medium, únete a nosotros y continuemos sacándole partido a lo que lees. @MediumEs",1910,1203

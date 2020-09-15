@@ -1,0 +1,77 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,02:06
+,>>> Analyzed user:,loussonxx
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,978742393406148608,SuggarBluee 🔮 🇨🇴,Bluessalt,Intenta volver más grande tú ser que tú laberinto✨,http://pbs.twimg.com/profile_images/1288341428297510923/CQ2S9r0C_normal.jpg,,2018-03-27 21:15:45,,,False,237,1481,2783,0,22405,False,
+2,1105934908944470017,𝑩𝒖𝒃𝒖́🍒,cherryyqueen,,http://pbs.twimg.com/profile_images/1286550765109235712/21Ge-Dj3_normal.jpg,,2019-03-13 20:53:24,,,False,305,521,109,0,188,False,
+3,1021240892995317760,v,xfioled,"Me digo Fioled bc me gusta ✌🏻
+💜💚",http://pbs.twimg.com/profile_images/1286411754285625345/auVSTkjk_normal.png,,2018-07-23 03:49:37,Polombia 🇨🇴,,False,157,223,2063,1,3458,False,
+4,862191601,flor💫,stylsok,tuentitu,http://pbs.twimg.com/profile_images/1286322470342086659/ttrRdyPR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-04 23:19:13,tdf-arg 🇦🇷,,False,1461,703,13459,3,3615,False,
+5,70142964,deni 🌸,endlessdeni,✨,http://pbs.twimg.com/profile_images/1269758675905908738/lxhpM3zy_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-08-30 15:34:04,,,True,2261,1292,134358,49,2133,False,
+6,409560358,m,msschandelier,💫,http://pbs.twimg.com/profile_images/625877842778267649/u21HPMLe_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2011-11-10 22:37:47,🇵🇪,,True,4701,2742,18239,1,11671,False,
+7,130672674,❀ Gabriela ❀,GabrielaGzzG,"estudio diseño de moda, me pinto el cabello de colores, colecciono funkos y me gusta maquillarme. 22💕",http://pbs.twimg.com/profile_images/1241478348955504640/G7gyPYTJ_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2010-04-08 00:01:16,,,False,1404,1291,53080,10,4518,False,
+8,165825400,Batmalik,darkzregui,| BNHA • Pokémon • Zayn • Videojuegos | Cuenta gamer: @_Batmalik_,http://pbs.twimg.com/profile_images/1286404843985350658/lgbfXslN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-12 16:55:16,Barcelona ,,True,5506,4252,68433,8,1147,False,
+9,1265909264004124673,Joel Valle,JoelVal55665388,"Admirador de la belleza femenina, Tauro.",http://pbs.twimg.com/profile_images/1278689923231444995/KUd9SRQC_normal.jpg,,2020-05-28 07:34:31,Grecia,,False,17,673,33,0,2090,False,
+10,171350004,WillianG,WillianGarcia20,22.,http://pbs.twimg.com/profile_images/1284977446044012544/-NkA87uY_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-07-27 04:11:59,"Bogotá, D.C., Colombia",,True,5413,4767,11914,5,18081,False,
+11,1137806490763452416,Dani🌻,tobes0golden,20. 𝘛𝘳𝘦𝘢𝘵 𝘱𝘦𝘰𝘱𝘭𝘦 𝘸𝘪𝘵𝘩 𝘬𝘪𝘯𝘥𝘯𝘦𝘴𝘴.  ₒₜ₅,http://pbs.twimg.com/profile_images/1286763074360356864/O5RmRQ7O_normal.jpg,,2019-06-09 19:39:41,🇻🇪,,False,1298,1372,4848,32,6664,False,
+12,728937710463913986,franceeea🇨🇴,franceeea,"«Look, I didnt want to be a half-blood.»",http://pbs.twimg.com/profile_images/1286304786141282305/YJsKNORu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-05-07 13:21:07,Colombia ,,True,9860,1116,57890,42,89840,False,
+13,2845580691,𝑴 𝒆 𝒍 𝒊 𝒔 𝒔 𝒂,http_whatever,𝐵𝑟𝑒𝑎𝑡𝘩𝑖𝑛𝑔 𝑠𝑖𝑛𝑐𝑒 𝟣𝟫𝟫𝟩 | 𝐿𝑖𝑏𝑟𝑎.,http://pbs.twimg.com/profile_images/1285788483085271040/D8Dg1wZ7_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-26 19:04:40,"Medellín, Colombia.",,False,12567,10587,13160,19,81294,False,
+14,1200944124381343744,Alme 🇨🇴,alejxalmeja,"☼ 𝙲𝚘𝚖𝚏𝚘𝚛𝚝𝚊𝚋𝚕𝚎 𝚜𝚒𝚕𝚎𝚗𝚌𝚎 𝚒𝚜 𝚜𝚘 𝚘𝚟𝚎𝚛𝚛𝚊𝚝𝚎𝚍 ☼
+ ot5 ッ glugluglu",http://pbs.twimg.com/profile_images/1285959235948314627/getevdjG_normal.png,,2019-12-01 01:06:15,tu cora bb,,False,488,485,2476,6,6409,False,
+15,2982945064,𝑳.,backtoapril_,"🌈⃤ 𝘕𝘢𝘥𝘢 𝘩𝘢 𝘤𝘢𝘮𝘣𝘪𝘢𝘥𝘰, 𝘱𝘦𝘳𝘰 𝘯𝘢𝘥𝘢 𝘦𝘴 𝘭𝘰 𝘮𝘪𝘴𝘮𝘰.",http://pbs.twimg.com/profile_images/1286769611401199617/NBbiV1mW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-17 18:45:02,🇨🇴,,False,1879,1648,7034,24,5054,False,
+16,726780596760924162,Reno 🥀,RenataHeAr,Si no eres feliz fracasaste como lombriz.,http://pbs.twimg.com/profile_images/1267493389798379531/eNmBlA6A_normal.jpg,,2016-05-01 14:29:32,,,False,341,171,993,0,1636,False,
+17,1230751770168578050,Ady uwu,ady_uwu,♡✧♡✧♡,http://pbs.twimg.com/profile_images/1232197602822803456/HBcojmrS_normal.jpg,,2020-02-21 07:11:14,,,False,29,171,0,0,360,False,
+18,1218274977910345728,D(off)m!n!k.,Dontforgetsun,🇨🇴 ┊Random┊Don't you dare forget the sun. • BTR┊ily Lie - Lizzie my Drake.,http://pbs.twimg.com/profile_images/1285616995745050625/VXo2_cuN_normal.jpg,,2020-01-17 20:52:53,La tierra del olvido. ,,False,1448,1951,207,3,1000,False,
+19,1656699811,𝚜𝚊𝚕𝚘 ♡,dearnialIer,𝟸1 ~ 𝙻𝚎𝚝'𝚜 𝚜𝚔𝚒𝚙 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚜𝚖𝚊𝚕𝚕 𝚝𝚊𝚕𝚔 𝚊𝚗𝚍 𝚐𝚘 𝚜𝚝𝚛𝚊𝚒𝚐𝚑𝚝 𝚞𝚙 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚛𝚘𝚘𝚖 // 𝓃𝒾𝒶𝓁𝓁 𝓍5,http://pbs.twimg.com/profile_images/1286060176181563392/cB57-VSW_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2013-08-09 02:13:58,,,True,21495,1148,56866,152,19425,False,
+20,1148359104022351872,||ѕoғια||,arrobanat_11,ʟᴏ ᴍᴀs ʙᴇʟʟᴏ ǫᴜᴇ ᴘᴜᴇᴅᴇ ʜᴀᴄᴇʀ ᴜɴ sᴇʀ ʜᴜᴍᴀɴᴏ ᴇs ɪɴsᴘɪʀᴀʀ🌵,http://pbs.twimg.com/profile_images/1269302352684728326/lBk4D6-8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-07-08 22:32:00,Colombia,,False,33,75,234,0,1309,False,
+21,3043134021,regina🇦🇷 no va a ver a louis,ccpriority,#𝐂𝐀𝐌𝐈𝐋𝐀: “𝒂𝒍𝒍 𝒊 𝒅𝒐 𝒊𝒔 𝒘𝒂𝒕𝒄𝒉 𝒐𝒏𝒆 𝒅𝒊𝒓𝒆𝒄𝒕𝒊𝒐𝒏’𝒔 𝒗𝒊𝒅𝒆𝒐𝒔” @fifthharmony OT5 @onedirection @v5music @louis_tomlinson,http://pbs.twimg.com/profile_images/1288099927059554304/UJvNEcAV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-17 17:51:57,CAMILIZERLANDIA 🇦🇷,,True,1476,1645,10213,9,17230,False,
+22,879169326695284736,"𝑎𝑔𝑢𝑠 ⁱˢ ˢᵉᵉⁱⁿᵍ ʰᵃʳʳʸ,, ◟̽◞̽",MESS1FEATL0UIS,"- 𝑺𝒖𝒏?
+- 𝑺𝒉𝒉 𝒊𝒕’𝒔 𝒔𝒏𝒂𝒑𝒄𝒉𝒂𝒕. 𝑳𝒐𝒖𝒊𝒔, 𝒘𝒉𝒚 𝒄𝒂𝒏’𝒕 𝒚𝒐𝒖 𝒋𝒖𝒔𝒕 𝒈𝒊𝒗𝒆 𝒎𝒆 𝒂 𝒎𝒐𝒎𝒆𝒏𝒕?",http://pbs.twimg.com/profile_images/1285999670246817792/NvRB1U8e_normal.png,,2017-06-26 02:47:56,,,False,3590,1993,24773,31,22864,False,
+23,375864555,Fernanda Mireles,FerMirelesL,G O O D V I B E S 🌝💕,http://pbs.twimg.com/profile_images/912186731188953088/TeYtwXE4_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2011-09-18 21:37:31,"Aguascalientes, Ags",,False,92,168,204,0,389,False,
+24,454335232,val ☾,stuckinfxnzone,𝑻𝒓𝒆𝒂𝒕 𝒑𝒆𝒐𝒑𝒍𝒆 𝒘𝒊𝒕𝒉 𝒌𝒊𝒏𝒅𝒏𝒆𝒔𝒔. ❝ ❞ |04/05/14| gastando plata en conciertos,http://pbs.twimg.com/profile_images/1286770068374921225/tMpYIY9H_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-01-03 21:52:11,Argentina,,True,4307,2940,18066,12,20346,False,
+25,1272699195993010178,~•°Mile~•°,Mile41691205,,http://pbs.twimg.com/profile_images/1273127350155251714/oShsxi1m_normal.jpg,,2020-06-16 01:15:43,,,False,12,47,29,0,15,False,
+26,937352777973592064,p a z,whyfinewalls,"𝚕𝚘𝚟𝚎 𝚒𝚜 𝚘𝚗𝚕𝚢 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚋𝚛𝚊𝚟𝚎 🏳️‍🌈//
+𝕽𝖔𝖒𝖆𝖓𝖈𝖊 𝖙𝖗𝖆𝖈𝖐 𝟷𝟹 // 
+ᴛʀᴇᴀᴛ ᴘᴇᴏᴘʟᴇ ᴡɪᴛʜ ᴋɪɴᴅɴᴇꜱꜱ ᴇxᴄᴇᴘᴛᴏ ᴀ ʟᴀ ʏᴜᴛᴀ ᴀꜱᴇꜱɪɴᴀ // 
+06/12/19",http://pbs.twimg.com/profile_images/1285957725923368961/kvXDBQQy_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2017-12-03 16:08:12,🇦🇷,,False,548,585,13753,9,65642,False,
+27,356846656,§ari. 🐱,her_sar09,"Bailarina de ballet con ¾ de rodilla, Ingeniera Biomédica 63%. Me gustan los nuggets de pollo e ir al estadio.",http://pbs.twimg.com/profile_images/1246134564038336515/_CHb3Byy_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-17 13:23:23,,,False,87,171,3070,0,4782,False,
+28,1015330535051350016,𝑴𝒂𝒓𝒊 🇨🇴,roshxsalia,𝘮𝘪 𝘮𝘢𝘥𝘳𝘦 𝘮𝘦 𝘥𝘪𝘰 𝘭𝘢 𝘷𝘪𝘥𝘢 𝘺 𝘭𝘢 𝘳𝘰𝘴𝘢𝘭í𝘢 | 𝘩𝘢𝘳𝘳𝘺 | 𝘯𝘪𝘢𝘭𝘭 | 1𝘥𝘦𝘢𝘥 𝘭𝘢𝘴 𝘨𝘢𝘯𝘢𝘴 𝘥𝘦 𝘷𝘪𝘷𝘪𝘳𝘭𝘢.,http://pbs.twimg.com/profile_images/1287803776322146305/GIPaFI2Q_normal.jpg,,2018-07-06 20:23:58,susana distancia,,False,722,635,5708,9,1910,False,
+29,2764455340,valen×͜×🇨🇴,zaynparce,#LOUIS: love is only for the brave,http://pbs.twimg.com/profile_images/1285782089321914369/kTC38ZZP_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2014-09-08 01:13:44,col,,True,10313,4479,110674,11,97430,False,
+30,161715777,dani,feelswithgomez,selenarcos✨,http://pbs.twimg.com/profile_images/1276277001775693824/dZ4g5z7O_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2010-07-01 15:40:11,Venezuela,,True,9050,6470,100355,77,1107,False,
+31,1254134898358652928,Dannavalen🌈,itsdanna16,Aveces me gustaría ser la doctora Colleman con Jake en una Ducati:),http://pbs.twimg.com/profile_images/1260252937739292672/6GdxueEy_normal.jpg,,2020-04-25 19:47:40,,,False,75,317,211,0,70,False,
+32,621248444,Beltrán.,LauuBeltran_,Be the energy you want to attract. ✨,http://pbs.twimg.com/profile_images/1272694496703262721/N528BtqM_normal.jpg,http://abs.twimg.com/images/themes/theme17/bg.gif,2012-06-28 19:36:14,Bogota ,,False,855,629,3461,2,9656,False,
+33,1200545946209312768,Marga 🇨🇴,maggiebroka,no se que esperan que diga aca,http://pbs.twimg.com/profile_images/1287355844586278912/OeS0z_UK_normal.jpg,,2019-11-29 22:43:59,,,False,1438,978,8172,11,7785,False,
+34,1140354551146569729,muff is slytherin,tremendomuffin,Me paso el día llorandole a una cubana culona no esperes mucho de mi,http://pbs.twimg.com/profile_images/1286617891757076484/18ddvQ62_normal.jpg,,2019-06-16 20:24:46,,,False,2250,2104,7504,12,13137,False,
+35,455129571,valentina,sadcaffein,my sweetie pie @stupidasfvck_,http://pbs.twimg.com/profile_images/1287486468814966785/L1khgVG2_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2012-01-04 19:28:06,Colombia,,True,39787,22923,247680,108,217120,False,
+36,940339162280062981,Josefa Cabezas,JosefaCabezas2,"Chile📍Viña 
+Virgo ♍
+Altazor 
+Voley
+🇧🇷🇨🇱🇺🇸
+🏐🏊🏻‍♀🎼
+♀️🌊🐚",http://pbs.twimg.com/profile_images/1236748865241526272/dQqVu2hF_normal.jpg,,2017-12-11 21:55:01,"Viña del Mar, Chile",,False,2,41,4,0,58,False,
+37,2304280373,Mar,somnolientaa,perdida en el tiempo || 🦋,http://pbs.twimg.com/profile_images/1277017758367129601/1SO6Zz27_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-25 20:54:19,"Bogotá, D.C., Colombia",,False,76,173,350,0,2916,False,
+38,1159626482244902913,Paula.,artisttalking_,"soy una bomba de tiempo, no me enciendas.",http://pbs.twimg.com/profile_images/1275870508987428864/XmM7gVlO_normal.jpg,,2019-08-09 00:44:32,,,True,187,217,3145,0,9858,False,
+39,1209327552118042624,ann*,ltcarusfalls,#𝖫𝖮𝖴𝖨𝖲: I'm Really Excited for the Future | Fan Account,http://pbs.twimg.com/profile_images/1288328321412009991/gHxAuuga_normal.jpg,,2019-12-24 04:19:01,ᶜᵒˡ,,False,1676,1680,18287,63,5579,False,
+40,1105191854067326977,Anahi Obaco,anahi_obaco,김태형💜,http://pbs.twimg.com/profile_images/1105192101736861696/ptyonE1D_normal.jpg,,2019-03-11 19:40:46,,,False,3,22,489,0,850,False,
+41,1101271909126340608,María Jøsé,_seranil,🌝,http://pbs.twimg.com/profile_images/1256464981975011328/iXAlotX1_normal.jpg,,2019-03-01 00:04:18,"Montréal, Québec",,True,74,236,687,0,11697,False,
+42,1120524152476241920,Laura Alzate,lauralzatec,Cali	~Arte dramático ~,http://pbs.twimg.com/profile_images/1275639527118430209/mf0syk1R_normal.jpg,,2019-04-23 03:05:51,,,False,5,49,29,0,151,False,
+43,1215094540966809601,Ana María,anamariaav__,,http://pbs.twimg.com/profile_images/1247393910642618368/1ilNhNND_normal.jpg,,2020-01-09 02:15:03,,,False,31,83,1,0,152,False,
+44,1164643967339831296,Lau 🪐,laura__sua,,http://pbs.twimg.com/profile_images/1284628759157637123/YR-T-NK__normal.jpg,,2019-08-22 21:02:27,"Bogotá, D.C., Colombia",,False,12,118,42,0,563,False,
+45,1258138642662469634,Andrea Galvan,andreagb_10,,http://pbs.twimg.com/profile_images/1258138838913843200/YPESYxUC_normal.jpg,,2020-05-06 20:57:01,,,False,4,54,0,0,137,False,
+46,1105141719396483081,Ally Barahona✨,imanightmarea,Simply me.,http://pbs.twimg.com/profile_images/1283196019933577222/W-mI2FAh_normal.jpg,,2019-03-11 16:21:33,,,False,71,389,1672,0,3455,False,
+47,950404279705092096,asdfghjkl,ohjappyday,"Feminista 💜
+Creative gurl",http://pbs.twimg.com/profile_images/1258550696615522305/Rt5z5eWO_normal.jpg,,2018-01-08 16:30:12,,,False,22,232,153,0,179,False,
+48,3116419003,◟̽◞̽,sodefenceless,,http://pbs.twimg.com/profile_images/1154570682832961536/lo3_D9xx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-03-30 04:47:40,,,False,816,769,8835,7,2552,False,
+49,1247654643179675648,𝙅𝙖𝙣𝙚 TKN ◟̽◞̽,heisgold,"— 𝘊𝘢𝘶𝘴𝘦 𝘪 𝘤𝘢𝘯 𝘤𝘰𝘶𝘯𝘵 𝘰𝘯 𝘺𝘰𝘶 @jonasxhoran ‧₊˚✧
+
+            —  '𝙎𝙤 𝙬𝙚'𝙡𝙡 𝙥𝙞𝙨𝙨 𝙤𝙛𝙛 𝙩𝙝𝙚 𝙣𝙚𝙞𝙜𝙝𝙗𝙤𝙪𝙧𝙨'",http://pbs.twimg.com/profile_images/1286794938076794881/iKNlCD41_normal.jpg,,2020-04-07 22:37:40,,,False,7641,6439,13407,42,4105,False,
+50,136037995,nat?¡!,isntnat,"🛸 vamonos de rollin por ahí 🛸
+-extranjera en mi propio país-",http://pbs.twimg.com/profile_images/1244543019728228352/VgmlKIaF_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2010-04-22 21:46:08,Colombia,,True,2886,506,28186,22,2132,False,

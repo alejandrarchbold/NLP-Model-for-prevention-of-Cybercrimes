@@ -1,0 +1,21 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,22:21
+,>>> Analyzed user:,VioletNix666
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,701784482471239680,SiriusXM hosts,,40,0,/JasonJGreene/lists/siriusxm-hosts,JasonJGreene,Mon Feb 16 22:42:28 +0000 2009,Jason Greene,"Live in Greenville,SC.  Love to travel, sports, improv, theater, celebrity deadpool expert. Officially a Marathoner as of Jan '13 - Disney World.",630,826
+2,763466049668911104,Kitchen Design,,4583,52,/PlumbingTilingC/lists/kitchen-design,PlumbingTilingC,Sat Nov 01 21:08:58 +0000 2014,PTC,Helping #plumbers and #tilers find jobs in #GreaterLondon,1466,1550
+3,760486905939132417,Tweets in an area,,4396,23,/wheatsheafTbec/lists/tweets-in-an-area,wheatsheafTbec,Fri Feb 06 13:02:31 +0000 2015,The Wheatsheaf Tooting,"Iconic South London pub now operating as a Deli & Bottle Shop!
+
+Mon - Sun / 10am - 9pm
+
+Takeaway draught beer 🍻 Fresh Produce 🥦 DIY meal kits🍴Sunday Roasts",1629,1488
+4,762855406267838464,Awesome Etsy Sellers,,3713,73,/ProCrafterGuild/lists/awesome-etsy-sellers1,ProCrafterGuild,Fri Aug 12 09:21:26 +0000 2011,ProCraftersGuild,"Show the world you mean Business and join us as a member with your craft business.
+Tweet with Founder Anna",2650,2420
+5,98605369,Cool Bastards,,1577,8,/FoxBronteA/lists/cool-bastards-11,FoxBronteA,Thu Mar 11 03:02:23 +0000 2010,Fox Bronte,,17340,10138

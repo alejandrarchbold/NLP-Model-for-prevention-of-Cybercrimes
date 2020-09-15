@@ -1,0 +1,82 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,14:21
+,>>> Analyzed user:,nandtpolitics
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1259202579722100736,Emily Washington,EmilyWa71782980,"🔞 nsfw  ! 𝟏𝟖+ #𝐌𝐅𝐂 𝐂𝐚𝐦𝐠𝐢𝐫𝐥 😘
+camgirl next door ☆❤️‍
+Chat me💏🆕
+👍",http://pbs.twimg.com/profile_images/1263562374574940161/7IAoyHr5_normal.jpg,,2020-05-09 19:24:38,,,False,356,3079,13,0,0,False,
+2,2361418497,Colleen Roux,LESLiteracy,"Reading Specialist, Lakewood Elementary School | Director of Advanced Clinical Reading Experiences, Hood College| Mom of 3, Roux Crew",http://pbs.twimg.com/profile_images/1122948023041048578/2S41aD5k_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-23 19:17:27,MCPS,,True,362,382,1603,10,7270,False,
+3,1282740557094281218,Art Smith,ArtSmit48798375,"I'm j.r, you can d.m me if you want, if you ask for money you will be deleted",http://pbs.twimg.com/profile_images/1282740718784647169/GUEfYztc_normal.jpg,,2020-07-13 18:16:06,,,False,35,348,109,0,22,False,
+4,1086445093303840768,buckets of lead,BucketsofL,Mechanic. Hard hit collision tech. Freedom loving father and husband.,http://pbs.twimg.com/profile_images/1086445967338098689/QUwafafh_normal.jpg,,2019-01-19 02:07:50,"Maryland, USA",,False,22,232,384,0,3060,False,
+5,750566743,Tammi Fischer,Fischshack1,,http://pbs.twimg.com/profile_images/590843899817631744/7x7JfGe4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-11 03:30:43,"Damascus, MD",,True,71,248,984,0,629,False,
+6,20834145,Captain Sanity,ConservAgent1,Hurt feelings is not a punishable offense and the Constitution is not a suggestion.  Conservatarian.  Gulf War Army Vet.  Jesus is still in charge.,http://pbs.twimg.com/profile_images/1173233595831521283/mwz9OBhz_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-02-14 06:04:11,I'll show you flyover country.,,False,6133,6092,57089,146,5658,False,
+7,19116234,Trolly,TrollySays,"marylander, dc sports fan, tri-rho, attorney, swimmer, former H2o polo player",http://pbs.twimg.com/profile_images/650669787689918468/88EMz3fl_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2009-01-17 17:16:04,Southern Maryland,,True,177,595,8927,11,30278,False,
+8,819236636621934592,⭐⭐⭐Amos N. Lane,Perch313,"*If I dont follow back, twr has me throttled. Will asap.
+Catholic.
+•Trump #KAG2020 Landslide Victory 
+•Always Vote ♦️Red♦️
+Save Constitution & America. 🇺🇲",http://pbs.twimg.com/profile_images/1122311287868936192/uYE2e6Jv_normal.jpg,,2017-01-11 17:36:49,,,True,10952,12043,225449,18,270634,False,
+9,1274851110617047049,sleeping_giant 🇺🇸,USAwakeup1,"If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be.",http://pbs.twimg.com/profile_images/1278870163098648582/KCkJiQyl_normal.jpg,,2020-06-21 23:46:40,Estados Unidos,,False,115,1141,487,0,1570,False,
+10,3015805953,Jennifer C Martinez,JMasonMartinez,,http://pbs.twimg.com/profile_images/1253349499394719745/mcPTy8T5_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-04 00:47:12,,,True,27,201,241,0,431,False,
+11,1914896167,My Info,BLEEDS_RWBLUE,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-28 17:57:51,,,False,20,156,1026,0,2604,False,
+12,1153324152612413440,Winston Smith,OceaniaRm101,"Tonkin Gulf Yacht Club.  Triggered? Offended? Live with it! Call me any kind of ist, ic or phobe. Don’t care. Been called a lot worse by a lot better.",http://pbs.twimg.com/profile_images/1153468992314662915/342GUs2j_normal.jpg,,2019-07-22 15:21:20,"Crownsville, MD",,False,159,345,5585,1,128,False,
+13,1275516509591236608,PickUpBlocks Media,pickupblocks,Fun Videos,http://pbs.twimg.com/profile_images/1275516685009575936/AnBZ_zlu_normal.jpg,,2020-06-23 19:50:19,,,False,55,851,36370,0,1619,False,
+14,1098962840201953280,cb,cb64833728,,http://pbs.twimg.com/profile_images/1169678148046413824/ft2BNHI6_normal.jpg,,2019-02-22 15:08:53,"Illinois, USA",,False,189,427,3507,4,11972,False,
+15,1265728766,Bridget,all_the_endings,,http://pbs.twimg.com/profile_images/928229156973830144/JWA0dc_g_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-13 23:43:24,Australia,,True,38,159,427,0,788,False,
+16,533496073,TraceyLeeWrites,TraceyLeeWrites,"Recovering #journalist known to fall off the wagon. If you’re a victim of American exceptionalism, it’s you.",http://pbs.twimg.com/profile_images/1275833286309396481/iUgBfzkC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-22 20:58:26,"Washington, DC",,False,9830,9902,15699,10,70764,False,
+17,2158533485,Locard,rayvenslady52,"Conservative, Mommy, 2A. Don't tread on me. Nevermore.",http://pbs.twimg.com/profile_images/1049002939820462080/0oVblVLm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-29 12:02:43,"Nunya, USA ",,False,1028,3019,1938,3,28378,False,
+18,858934596,1st Amendment,1st4mendment,"Building Engineer - Loves God, Family and Country. My thoughts are my own.                                                   
+
+Parler: @1st4mendment",http://pbs.twimg.com/profile_images/1271159196797591554/LenpeRCg_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-03 00:34:10,Flanking,,False,247,531,1749,1,1423,False,
+19,936706142130057216,Janice Nunno,JaniceNunno,"You will starve to death waiting for someone else to spoon feed you God, faith, truth, love and self. Take control of you first.",http://pbs.twimg.com/profile_images/947093944814460930/AjRa9QoU_normal.jpg,,2017-12-01 21:18:42,Estados Unidos,,False,147,1176,2064,0,19106,False,
+20,1249096358197248000,Donald Lenin,ManlyCommie,,http://pbs.twimg.com/profile_images/1250220256842276865/PxL-pfmg_normal.jpg,,2020-04-11 22:06:14,the sibling society,,False,139,664,349,0,7527,False,
+21,41297338,MCWright,WrightRate,"American , Wife, CheerMom 2 Great Kiddos I ❤️Bulldogs , politics weather gardening reading learning Openminded fiercely tenacious & bit opinionated",http://pbs.twimg.com/profile_images/1267285528887558145/pbhwgL0l_normal.jpg,http://abs.twimg.com/images/themes/theme16/bg.gif,2009-05-20 04:38:04,United States,,False,417,1235,6307,8,4395,False,
+22,36048320,Dani Foster Herring,daniherring,"I'm an avid lurker...if I follow you, no need to reciprocate.",http://pbs.twimg.com/profile_images/1213788984/augustme_normal.jpg,http://abs.twimg.com/images/themes/theme3/bg.gif,2009-04-28 12:08:56,"Baltimore, Maryland",,True,39,225,26,0,1,False,
+23,1204898598359621633,gop ginger,GingerS98870509,"White, straight, married, Christian gun owning conservative.... what else can I do to piss you off?",http://pbs.twimg.com/profile_images/1264713425126653954/d5HYeeoG_normal.jpg,,2019-12-11 23:00:04,"Maryland, USA",,False,13,59,606,0,931,False,
+24,1261791809296044033,Sallie,Sallie39141498,Intense but laid back,http://pbs.twimg.com/profile_images/1261793167655010304/8nUAKWOY_normal.jpg,,2020-05-16 22:54:49,,,False,1,11,0,0,1,False,
+25,1077950875,Ringo,SouthernGirl_56,"I am Christian. I love my family, Church, friends, freedom, community, USA & SEC football. I believe in personal integrity, & responsible living. #Trump2020",http://pbs.twimg.com/profile_images/1283540571810926599/8LiMzJcd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-10 23:03:09,,,True,2812,3243,133998,60,63283,False,
+26,1729894669,Pebbles 🇺🇸🇺🇸,KerryG1016,,http://pbs.twimg.com/profile_images/1273342466909974529/d1C_gSwq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-04 20:46:09,"Maryland, USA",,False,856,492,39454,0,60684,False,
+27,1221140382576205824,Alwaysthequietones,Alwaysthequiet3,"The art of war teaches us to rely not on the likelihood of the enemy's not coming, but on our own readiness to receive him. Sun Tzu",http://pbs.twimg.com/profile_images/1260011617011609605/oJcCGboy_normal.jpg,,2020-01-25 18:39:00,MD,,False,199,600,2036,0,10307,False,
+28,1187063204691828738,Josh Tijerina,tijerina_josh,,http://pbs.twimg.com/profile_images/1275893324252090369/f1fXhOpB_normal.jpg,,2019-10-23 17:48:47,,,False,12,614,1353,0,1126,False,
+29,1256730520773365760,OhTheHypocrisy,hypocrisy_oh,WWG1WGA,http://pbs.twimg.com/profile_images/1256735116887498752/wRy8QFMO_normal.jpg,,2020-05-02 23:41:58,,,False,14,143,112,0,317,False,
+30,2569610618,KayDee 🌸 👩‍🌾,ally_gardener,"H3, W2 - family motto: Holy, Happy, Healthy, Wise & Wealthy - Proud old school Reagan Conservative. Alabama Crimson Tide, originally from Pittsburgh, PA yinz",http://pbs.twimg.com/profile_images/497565687016341504/e3CVHF8__normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-15 20:32:06,"Maryland, USA",,True,685,507,95079,20,6,False,
+31,3535656862,Ellie Bufkin,ellie_bufkin,Staff writer @Townhall / Other work @Fdrlst and @dcexaminer / Prone to TV and Champagne binges / I'm also a Sommelier / Tweets are mine and they’re spectacular,http://pbs.twimg.com/profile_images/1277790491069874177/dLkdpofn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-03 16:13:52,D.C.,,True,3358,1044,13807,38,15379,False,
+32,1256533822356819968,King Larry Hogan The Last (🚫MDKing) (FakeAccount),KingLarryHogan1,"Parody account. Satire. Not Larry Hogan.
+
+""I was playin' in the beginning/The mood all changed."" - MM
+
+#ReOpenMD #ReOpenAmerica #RiseUp #LibertyforAll #1A #2A",http://pbs.twimg.com/profile_images/1266544344842059787/kqmaGyRB_normal.jpg,,2020-05-02 10:40:19,Beijing-On-The-Severn,,False,48,122,1274,0,1369,False,
+33,3215355574,Baltimore🐻,baltimore_2020,Engineer using common sense and scientific methods to uncover unusual events/controversies. Always questioning popular science and mainstream narratives.,http://pbs.twimg.com/profile_images/1147305487010082817/gA7XBXcG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-28 03:08:04,"Baltimore, MD",,False,639,1363,6342,5,4150,False,
+34,222962691,Freedom Over Fear,FreedomGal2020,Entrepreneur helping others get access to the healthiest products on the market!  DM me!  #FreedomOverFear #organic #green #nutrilite #artistry #healthgoals,http://pbs.twimg.com/profile_images/1268927694751883264/lP1UWxee_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2010-12-05 00:04:27,USA,,True,527,777,21597,20,11950,False,
+35,1041073158,Top Shelf!,team_cocktail,"Me: 'So, Mr. Bond, prefer to die by my ingenious earthquake invention...or by my stupendous ocean vortex invention?'       
+
+
+
+
+
+Bond: 'Shaken, not stirred.'",http://pbs.twimg.com/profile_images/434355734591963136/6Lw7EAhq_normal.jpeg,http://abs.twimg.com/images/themes/theme18/bg.gif,2012-12-28 01:55:29,"Maple Lawn uranium, MD",,False,299,1161,1814,6,2491,False,
+36,1637778902,Brittany Pontius,BrittPontius,Future missionary to Mexico 🇲🇽,http://pbs.twimg.com/profile_images/1283810970645798913/ZRZYxaAj_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-08-01 11:32:08,,,True,323,227,1722,3,4847,False,
+37,1002220777,Elaine Kleid ***Jesus Keep You***,ElaineKleid,"Author, Poet & Publisher",http://pbs.twimg.com/profile_images/1229921191743414273/02rUTZng_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2012-12-10 18:28:39,Florida,,False,2001,2514,23873,31,18158,False,
+38,932350510178369536,Nick,NickNick711,🇺🇸👮💪 2A Live Free or Die,http://pbs.twimg.com/profile_images/1283818197146374144/am0u6WVl_normal.jpg,,2017-11-19 20:50:58,Beach United States 🇺🇸,,False,1183,4004,35638,0,104939,False,
+39,41130076,Marcman,MP1999,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-19 14:51:52,,,False,79,444,1994,0,16221,False,
+40,1225806975428157441,Deplorable Mike,realCWOmike,Imperfect follower of Christ. Former fetus. 30+yrs #USCG vet. I am the III%. I support POTUS. #MAGA #KAG #IStandWithTrump #Israel #NFLboycott #obaMAGAte,http://pbs.twimg.com/profile_images/1250394745349660673/9oqs7StD_normal.jpg,,2020-02-07 15:42:24,"Virginia, USA",,False,2734,4959,12930,2,6684,False,
+41,1151570113176510467,Ormond Arms LLC,ormondarms,"At Ormond Arms, we pride ourselves on our range of high-end rifle kits, upper assemblies, lower receivers, and accessories.",http://pbs.twimg.com/profile_images/1151570182151843846/MOJbfYmV_normal.jpg,,2019-07-17 19:11:24,,,False,696,1901,199,0,124,False,
+42,1099180873264648192,Pray4the_USA❌,Pray4theU,"We are the GREATEST group of people you will EVER meet. We believe in PEACE. JUSTICE, TRUTH, HUMANITY, FREEDOM and GOD. WE ARE....Q #MAGA #WWG1WGA #QARMY #TRUMP",http://pbs.twimg.com/profile_images/1226240294489935873/-f8n-_K-_normal.jpg,,2019-02-23 05:35:16,USA,,False,1225,1256,12583,2,42729,False,
+43,241273268,🇺🇸🦀🇺🇸,gforce891,,http://pbs.twimg.com/profile_images/1075952691153649664/dfyMw9A4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-21 21:40:20,,,False,15,961,28,0,51120,False,
+44,975013151598096384,Dagny Taggart,DagnyTaggartQ,,http://pbs.twimg.com/profile_images/975025311149690880/CjSfWso7_normal.jpg,,2018-03-17 14:17:05,,,False,200,550,3795,1,15543,False,
+45,1247071551070941184,Rameshsolanki,Ramesh973131,be kind and help others,http://pbs.twimg.com/profile_images/1259652488883507205/2FGN_uBG_normal.jpg,,2020-04-06 08:00:13,"Bengaluru, India",,False,56,1752,1,0,2,False,
+46,1216701626616074241,Skip Caverly 🏳️‍🌈🇺🇸,SkipCaverly,#Capitalist. #Conservative. Believer in #God. #Gay. Proud #Marylander. 💪🏋️✝️🇺🇸🏳️‍🌈,http://pbs.twimg.com/profile_images/1272502916935548933/MzD9RsxO_normal.jpg,,2020-01-13 12:40:58,"Maryland, USA",,False,269,742,775,0,1009,False,
+47,28488390,Scoochydoo,cameltowin,Rotten Fruit Grows Near The Root,http://pbs.twimg.com/profile_images/771768427736367104/tABx9_en_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-04-03 03:07:46,Right Behind You,,False,307,1236,14025,3,13321,False,
+48,1247940115219058688,The Machin Law Firm,MachinLaw,"The Machin Law Firm, LLC serving Frederick and Montgomery Counties, Maryland.
+We are the team that works for you!
+Divorce- Business- Immigration- DUI- Estates",http://pbs.twimg.com/profile_images/1247940772998942720/U9hfj2Cc_normal.jpg,,2020-04-08 17:31:33,"Rockville, MD",,False,10,296,54,0,146,False,
+49,637302720,Janice Rohme,Rohme2012,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-16 19:39:22,,,False,37,326,3488,0,6262,False,
+50,1195800048988233735,W. W. Neall,neall_w,#Trinity #Family 🇺🇸 #WWG1WGA #Trump2020 #MAGA #KAG #PatriotsUnite #HonorOurVets (not the traitors)  #SupportOurTroops 🇺🇸,http://pbs.twimg.com/profile_images/1213776092051492870/PIRsR3JT_normal.jpg,,2019-11-16 20:26:34,"Maryland, USA",,False,2120,3239,3388,0,14484,False,

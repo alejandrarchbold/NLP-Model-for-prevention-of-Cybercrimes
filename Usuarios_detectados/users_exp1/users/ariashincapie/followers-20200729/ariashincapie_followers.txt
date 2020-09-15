@@ -1,0 +1,95 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,01:15
+,>>> Analyzed user:,ariashincapie
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1235028800251006978,Tweet 1A,Tweet1A,Alcahueta del neocastrochavismo.,http://pbs.twimg.com/profile_images/1243388595416600578/VVMhrISN_normal.jpg,,2020-03-04 02:26:38,Colombia,,False,6615,5536,24384,1,7005,False,
+2,1124696242775310340,חואן דוד קסטיבלנקו,juan_haver90,"Dueño de Action Media. Judío mesiánico 🔯✡️🕎 soldado de Adonai Elohim. Cazador de neonazis, morenazis, etc. Ni izquierda ni mucho menos derecha. #Antiuribista.",http://pbs.twimg.com/profile_images/1182476651315286018/rVPRWzbZ_normal.jpg,,2019-05-04 15:24:14,"Bogotá, D.C., Colombia",,False,856,1671,1025,0,487,False,
+3,234890951,Alejandro Escobar,jaeralejo,"Musico, compositor, aprendiendo producción... padre super orgulloso y #AntiUribistaSigueAntiUribista",http://pbs.twimg.com/profile_images/702875747174711296/6pJRaHnP_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2011-01-06 20:47:42,Cerca al Nevado del Ruiz,,False,2457,2972,296,0,489,False,
+4,272475662,Charly Munévar,CharlyMunevar,"https://t.co/gFsOC4eJgW
+#AntiuribistaSigueAntiuribista. demócrata , antifascista, Activista sindical ADE",http://pbs.twimg.com/profile_images/1276501582725754880/eftV-DYA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-26 15:54:35,,,True,4558,5012,14807,1,1251,False,
+5,1281102265168822272,Capita 2.0 🥑🐝,57Aire,"Odio la guerra a la que nos someten los que cobardemente se esconden tras el poder.
+Antiuribista",http://pbs.twimg.com/profile_images/1281103228885663744/tNjJwVEk_normal.jpg,,2020-07-09 05:46:44,Colombia,,False,2272,2492,1183,0,2788,False,
+6,593211367,oscar johao yepes ,JOHAO_YEPES,"Cansado del monopolio en el gobierno, colombia necesita un cambio urgente, quiero que este pais progrese.
+
+instagram: @johaoyepes",http://pbs.twimg.com/profile_images/1279768467479113728/4LwfqzdB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-05-29 00:47:42,colombia,,False,2372,2484,316,1,218,False,
+7,381776103,Augusto Cat Santamaría,Gat3m,"SOUTH AMERICAN ROCKER
+🖕...The_Bitch_Is_Back...🖕
+Hard Rock Rules
+
+
+#SOYDELARESISTENCIA #Mamerto
+#AntiUribista #GobiernoCriminal 
+🐾🐱🐶🐹🐰🐾
+🥑🥑🥑🥑
+🐝🐝🐝",http://pbs.twimg.com/profile_images/1286807508531781637/EMP127Dk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-09-28 22:39:08,"Bogotá, D.C., Colombia",,False,3098,3715,692,1,4011,False,
+8,1197229049225105409,Rayuela,Rayuelita10,No todo tiempo pasado fue mejor,http://pbs.twimg.com/profile_images/1197229308877651976/3aWj_Xfl_normal.jpg,,2019-11-20 19:04:05,,,False,1723,1347,2219,0,3683,False,
+9,778385047527317505,🇬 🇦 🇨,gacs1987,"De Cali!!
+
+Se identifican bots y no se les contesta!
+No soy lo que ves aunque si soy yo..puro Faceapp
+
+
+
+#siguemeytesigo",http://pbs.twimg.com/profile_images/1285690706615574530/CGhduKSK_normal.jpg,,2016-09-21 00:07:11,"Bogotá, D.C., Colombia",,False,11191,10058,14637,4,34754,False,
+10,1207036503337132032,Polombia,Polombia6,soy un borrador de nata real.,http://pbs.twimg.com/profile_images/1207036932288602117/xAirzn6F_normal.jpg,,2019-12-17 20:35:13,,,False,762,1174,4180,0,3185,False,
+11,892940474704687104,Sabiduría Indígena,SabiduriaIndig,"🥑🥑🐝
+#LibertadParaElTibet",http://pbs.twimg.com/profile_images/892963609558474757/MSj9JKoc_normal.jpg,,2017-08-03 02:49:34,"Santa Marta, Colombia",,False,1526,1626,1700,2,2431,False,
+12,1209268851009097731,mario_henao,Mariohenaoz,vertical,http://pbs.twimg.com/profile_images/1229235419159711744/hgAWPb1c_normal.jpg,,2019-12-24 00:25:48,,,False,7034,6751,1174,3,4222,False,
+13,2505918042,Mariasmus 🦇,LaAgutiPaca,Bióloga y me creo Ornitóloga,http://pbs.twimg.com/profile_images/1279537480417587200/B_sLqzqU_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-19 00:42:11,"Bogotá, Colombia",,True,7473,5756,22756,6,82866,False,
+14,85376311,MAOLIN,mao_lin_,Pa'rriba y pa'bajo... #Antiuribista!!!,http://pbs.twimg.com/profile_images/1242061597813727232/aZOH4oBy_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2009-10-26 18:13:14,"Centro, Norte, Sur, W, O.",,False,1161,1299,22698,4,42832,False,
+15,1339789880,Elmer José Montaña G,elmermontana,"Abogado Penalista, Consultor, Defensor de Derechos Humanos, Ex fiscal seccional.",http://pbs.twimg.com/profile_images/861974866727231488/Unyx4rl8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-09 17:47:30,"Cali, Colombia",,True,33631,34393,69337,64,45037,False,
+16,843611743578406913,Athlete Tweets 🔥➐,AthleteTweetts,"“Winning isn’t everything, it’s the only thing” -Vince Lombardi 🏆 Do not own all posts! DM for promo or to be featured!!",http://pbs.twimg.com/profile_images/1266772249950007296/KYNqhNgh_normal.jpg,,2017-03-19 23:54:48,,,False,22906,25187,1713,14,2613,False,
+17,1130844340845023232,Wadith Jattin,wadithjattin,"Bosques, naturaleza y animales. Dios ante todo! #ContraElGolpe 🇧🇴🇧🇴🇧🇴",http://pbs.twimg.com/profile_images/1256742693692194818/0y60cjr9_normal.jpg,,2019-05-21 14:34:35,"Pando, Bolivia",,False,234,841,478,0,113,False,
+18,1188613430636359680,Fabs,FabsVargas14,"Sueño con un mundo infestado de ideas, creo en la revolución del pensamiento🔥",http://pbs.twimg.com/profile_images/1284712773180690432/uf1ubYfx_normal.jpg,,2019-10-28 00:28:36,"Socorro, Colombia",,False,433,620,965,0,11897,False,
+19,1549084562,Maria paula o,MPOviedo12,,http://pbs.twimg.com/profile_images/1275234102057349122/FIrF3BH5_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-06-26 20:55:32,Colombia,,True,288,117,2326,0,1383,False,
+20,1187860138788569088,santi_cel,santicel2,,http://pbs.twimg.com/profile_images/1283459240724770820/_z9t8m5M_normal.jpg,,2019-10-25 22:35:10,,,False,1,66,30,0,166,False,
+21,961840094071078912,Farruko Urrutia,FarukUrruti,Creado por el #82,http://pbs.twimg.com/profile_images/1209135549493235712/qtNSfUkJ_normal.jpg,,2018-02-09 05:52:03,Polombia,,False,252,190,251,0,280,False,
+22,1190377496706977793,Políto Gordillo,GordilloPolito,"Petro me Representa
+Ideas Progresistas.",http://pbs.twimg.com/profile_images/1190378866482790400/JJiCCOxK_normal.jpg,,2019-11-01 21:20:20,,,False,43,332,57,0,584,False,
+23,2229291119,John Triana,JTrianaGz,,http://pbs.twimg.com/profile_images/1278764740764995589/A6KSRyQL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-12-16 23:12:26, Medellín,,False,2294,5000,21353,0,36690,False,
+24,54978232,Rafael,lokombiano,Viajar es vivir,http://pbs.twimg.com/profile_images/1237094681311350787/QURq3B12_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-07-08 18:16:19,,,True,1749,2635,3437,0,2437,False,
+25,1701173107,La política,BuscandOpciones,"Los políticos viven de las menciones diarias, tanto a favor o en contra, si nadie los menciona es la muerte política para ellos.",http://pbs.twimg.com/profile_images/1288124384851329024/IPSpGimm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-08-26 06:48:32,,,False,1355,3528,17904,1,11665,False,
+26,399683468,Paola Ariza,sololetras_1,No tengo límites y si no te gusta dame unfollow ¡No estoy para soportarte! Juego de rol.,http://pbs.twimg.com/profile_images/1229228238246993921/Xm4xd7s2_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-10-27 21:43:47,Colombia,,False,13895,8514,18484,149,31019,False,
+27,3079175498,Carlos Rojas,carlosrojasl22,,http://pbs.twimg.com/profile_images/1245515792080408576/sBK-MIk-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-03-14 03:33:22,,,False,37,495,15,0,216,False,
+28,65801002,Mónica Bolívar🇨🇴🥑🌽🚜🐝,Monyrica,"PROGRESISTA💜
+Gustavo Bolívar PRESIDENTE 
+
+Colombia Humana hacia una era de paz",http://pbs.twimg.com/profile_images/1277287466710585345/UG-NZGH__normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2009-08-15 02:22:58,Colombia,,True,7195,7460,300897,12,167586,False,
+29,3206818702,Barush Spinoza,BarushSpinoza80,inconforme,http://pbs.twimg.com/profile_images/1160331804609523713/XedtJQ_a_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-25 16:23:00,"Páramo, Colombia",,False,4425,4852,28589,2,34071,False,
+30,1071499269880901639,©halecos Amarillosᴳᴸᴼᴮᴬᴸ 🍀ʷAͤNͣOͬNͤYˡMͤOᵍUͥSͦⁿ,ChalecosAmarill,"🆘 #CloversForAssange 🍀🆘
+
+🔥🔥LINK🔥🔥
+#ChalecosAmarillos🇪🇸🇦🇷🇨🇴... nos organizamos
+#YellowVests🇬🇧 we organize 
+Link 👉 https://t.co/t4JqPllbHL",http://pbs.twimg.com/profile_images/1077152427982405632/fGDv3JGr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-12-08 20:18:28,,,True,92754,79185,128999,249,104480,False,
+31,165906205,Yair Lesmes,yalesmes,Apasionado por el ciclismo. Dedicación esfuerzo y disciplina. El Matarife no es Colombia. Deportivo Cali. Cómo Jesús del lado de los pobres. Mamerto y que?,http://pbs.twimg.com/profile_images/1118520743581687808/nq11dj3K_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-12 21:09:50,Bogotá. Colombia,,True,4409,4991,66608,4,3331,False,
+32,959500460968366081,Pessudamerica,pessudamerica,Instagram: @pessudamerica Buscando adeptos a Pro Evolution Soccer en su mejor forma 🥅  Searching fans and players of Pro Evolution Soccer ⚽️,http://pbs.twimg.com/profile_images/1283859518393323520/Z_uyZ276_normal.jpg,,2018-02-02 18:55:11,"Bogotá, D.C., Colombia",,False,928,4389,545,1,112,False,
+33,944581731079938048,Juan Peralta,JuanP21bsc,FC Barcelona  Barcelona SC,http://pbs.twimg.com/profile_images/1094011171001253888/UWlpYF7y_normal.jpg,,2017-12-23 14:53:28,"Guayaquil, Ecuador",,False,100,4983,6279,0,31833,False,
+34,305120520,Andrés Chamorro,andresvisual,"“El mundo no está hecho de átomos, el mundo esta hecho de historias ”",http://pbs.twimg.com/profile_images/1226713574724251648/LeC4vdhX_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-05-25 17:38:27,Bogotá,,False,232,1251,881,0,1397,False,
+35,341606262,José Otoniel García JoTGaR,JoTGaR93,"Abogado 🔛
+
+Pensar, Creer, Soñar, Atreverse!",http://pbs.twimg.com/profile_images/1281581584211156994/BRlL7fba_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-24 17:05:54,Chemesquemena ,,False,4552,4444,643,2,4584,False,
+36,2961164117,El Maletas-,djmaleta,"Máster en Utopías y Truekes -Procrastinador profesional-Contra la política corrupta--Amigo de los animales.
+ #SigámonosLosBuenos
+#SigamonosLosBuenos2020",http://pbs.twimg.com/profile_images/1203604562185199616/GxhmIIhC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-04 23:44:47,"Bogotá, D.C., Colombia",,False,3510,3966,11308,5,6538,False,
+37,972455670825078785,🇨🇴 🇩🇪 Jairo Bohorquez Hamón,HamonJairo,,http://pbs.twimg.com/profile_images/1146028789580947457/nu3v1kqH_normal.jpg,,2018-03-10 12:54:34,"Zipaquirá, Colombia",,True,954,1419,33207,0,68565,False,
+38,803426951037931520,Michael Progresista,Michael_RYS,"(Seguido por GUSTAVO PETRO, GUSTAVO BOLIVAR, MATADOR y otros. Sigámonos por un cambio, unámonos por la causa) . #AntiUribistaSigueAntiUribista",http://pbs.twimg.com/profile_images/1241135619662925824/JZjw1ou1_normal.jpg,,2016-11-29 02:34:46,"Cali, Colombia",,True,17422,12706,1364,13,28634,False,
+39,146947474,Cristián Ferney Ruiz,CristianRuiz_91,"¿Han visto esas motos que hacen más ruido de lo que corren? Bueno, así son sus dueños; parecido a los Uribistas, defendiendo lo indefendible.",http://pbs.twimg.com/profile_images/1084263935010881536/rNCpMoB8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-22 19:43:00,Santiago de Cali,,True,15678,4021,16869,30,18662,False,
+40,1008889239612870657,DOCE VIDAS,DOCE_VIDAS,"Para las verdades, el tiempo. Amigo el ratón del queso. No hablo de lo que no sé, no abro nevera en casa ajena, no voy donde no me invitan.",http://pbs.twimg.com/profile_images/1206012159559454720/GRJ8zMOj_normal.jpg,,2018-06-19 01:48:33,Colombia ,,True,3157,3444,21890,3,1982,False,
+41,127349532,dmp,24danFt,,http://pbs.twimg.com/profile_images/1073424564657500160/fosUno1X_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2010-03-28 22:49:55,,,True,352,1007,3151,0,3163,False,
+42,1054694885603901440,Karina Garcia,soypolaris,Soy una mujer #sigamonoslosbuenos,http://pbs.twimg.com/profile_images/1088627788381331456/tlcoo610_normal.jpg,,2018-10-23 11:23:50,Colombia,,False,3020,3172,1056,0,579,False,
+43,972176727618342914,Andres. F.,AndresFLuisF,Nada queda en la impunidad. Algún día los corruptos estarán donde lo merecen por justicia. Creo en Colombia podemos ser un país mejor. Los honestos somos más!,http://pbs.twimg.com/profile_images/1067173619082674176/io-Dt-pC_normal.jpg,,2018-03-09 18:26:08,En la Colombia que nos merecem,,False,360,2532,2121,0,291,False,
+44,804857792184066048,Ｓｕｎｎｓｈｉｎｅ☀️,LySunnshine,UANL 🐯,http://pbs.twimg.com/profile_images/1287925790752079874/3LvN-ocO_normal.jpg,,2016-12-03 01:20:25,"Monterrey, Nuevo León",,False,1805,1754,971,0,1613,False,
+45,510272496,cristian ramirez,ramireztobar,,http://pbs.twimg.com/profile_images/1037868000911794176/dzClqOjO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-01 13:52:45,Bogotá,,True,4,190,92,0,3,False,
+46,1031679365162180614,VIVAMOS EL FÚTBOL,vivamoselfutbol,Fútbol ⚽️ Noticias 🗞️ Curiosidades 🤔 Datos Mundiales 🏆 Sorteos 🎁 Instagram👉 @vivamosefutbol,http://pbs.twimg.com/profile_images/1031680054999298048/1LUsJVA6_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-08-20 23:08:23,"Buenos Aires, Argentina",,False,209,392,176,0,0,False,
+47,1002844192580784129,Girl of the hour,Eva96961,"I #love #girls, find here beautiful girls to light up your day, #Follow me and I will #followback Get relaxed #smile be happy ❤️ We don't own any content posted",http://pbs.twimg.com/profile_images/1002845351773077505/TK_C9CHm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-06-02 09:27:42,Earth,,False,1043,3269,253,1,182,False,
+48,982392467239645185,Lord Petrosky,iLordPetrosky,Perfil Fake del dirigente político progresista Colombiano Gustavo Petro. Por una Colombia Humana con justicia social y paz. #LaResistencia Cuenta parodia.,http://pbs.twimg.com/profile_images/982393823962849281/4A_QMWj7_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-04-06 22:59:50,Colombia,,False,131934,63755,1539,52,70909,False,
+49,986016891264294913,Adrián,Adrianipulis,,http://pbs.twimg.com/profile_images/1251824842371936256/Xv1_mSZf_normal.jpg,,2018-04-16 23:02:00,"Las Palmas de Gran Canaria, Es",,False,4,29,9,0,46,False,
+50,750191498780606465,Christian Fernandez,Christi67759665,"Soy un joven, estudiante de admón pública , para servicio de la sociedad",http://pbs.twimg.com/profile_images/750197701606858752/tBQ2t_-B_normal.jpg,,2016-07-05 04:56:06,"Sincelejo, Colombia",,False,36,384,8,0,60,False,

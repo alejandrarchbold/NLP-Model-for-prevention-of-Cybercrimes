@@ -1,0 +1,70 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:33
+,>>> Analyzed user:,CronicasDeRafa
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1094998187763486720,Jorge,Jorge18176854,Politics Politics Soccer,http://pbs.twimg.com/profile_images/1157107259001974784/4pI3eXwl_normal.jpg,,2019-02-11 16:34:46,"New York, NY",,False,3,60,262,0,1507,False,
+2,932077347725103104,Jean Sierra,JeanSierra11,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-11-19 02:45:31,,,False,0,10,0,0,0,False,
+3,1256079302111703040,Lucianitassj,Lucianitassj,Ssj babyyyy,http://pbs.twimg.com/profile_images/1256333878542901250/umQ4vRWO_normal.jpg,,2020-05-01 04:33:59,en tu cora,,False,5,85,40,0,1008,False,
+4,1601452758,Kevin Siza Iglesias,KevinSizaI,Barranquillero | Abogado @Udeatlantico | Investigador Social | Secretario General de la @UP_Colombia en el Atlántico.,http://pbs.twimg.com/profile_images/1158166456045068290/f3XACBe3_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-07-17 17:42:46,"Barranquilla, Colombia",,False,664,662,4398,0,14272,False,
+5,1278071102091210752,JOHNNY MIRANDA RUBIO,JohnnyElProfe,"Sé cortés con todos, sociable con muchos, íntimo de pocos, amigo de uno y enemigo de ninguno.",http://pbs.twimg.com/profile_images/1278071405922394114/bu64kxSe_normal.jpg,,2020-06-30 21:01:43,,,False,204,708,133,0,662,False,
+6,443247445,Lozano© jeiler♬,jkoss17,,http://pbs.twimg.com/profile_images/1185226652000948230/0fZYfsTu_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-12-22 00:10:44,Colombia,,True,56,189,1730,0,3607,False,
+7,1265383178799284224,Furibundo Serna,serna_furibundo,Caribe. ☆ Amante de la pachamama. Sociologia+Filosofía.,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-05-26 20:44:26,,,False,3,103,24,0,17,False,
+8,1273714768948482055,Lili Botero Botero,LiliBoteroBote1,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-06-18 20:31:09,,,False,0,30,0,0,0,False,
+9,1185325202818904064,CarlosCeledon.,carlosC10M,"futbol⚽️, Dios, familia❤, leyes. ⚖",http://pbs.twimg.com/profile_images/1228187674197950469/FQlYWJJS_normal.jpg,,2019-10-18 22:42:30,,,False,33,51,252,0,374,False,
+10,1200965769057783808,Carlos Segovia,RkjSegovia,"Piensa y vive por tu cuenta.
+Ing Industrial.
+Lector, ecolog.., sindicalista🌎",http://pbs.twimg.com/profile_images/1226948531434422272/zymVyUsF_normal.jpg,,2019-12-01 02:32:30,,,False,457,551,1342,0,3361,False,
+11,1265968134,lourdes senior,lulysenior,God we us💗👼🏼,http://pbs.twimg.com/profile_images/1241449687640690688/B3NjQN26_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-14 02:29:33,,,False,39,732,106,0,126,False,
+12,400921949,andrunegrita,andrunegrita,,http://pbs.twimg.com/profile_images/1612697782/images_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-29 19:41:25,bogota,,False,5,45,1,0,0,False,
+13,2205334025,Ivan Parra,ivanparra01,,http://pbs.twimg.com/profile_images/378800000822679284/7900affe9ec83a7ebe342f035cf45c0c_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-12-03 01:08:08,Miami,,True,249,258,189,1,122,False,
+14,209702998,Rafael Edmundo Gomez⚖,RAFAGOMEZ_06,"Abogado Especialista en Derecho Administrativo. Ex funcionario fiscalia General de la Nacion, profesional en Superintendencia de Notariado y Registro.",http://pbs.twimg.com/profile_images/1252319723963981830/4WcwF516_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-29 18:49:40,Monteria - Cordoba,,True,664,1141,5301,2,1800,False,
+15,491818085,Gustavo perez gomez,guspergo2,,http://pbs.twimg.com/profile_images/1084586771038588928/bOIe3ILp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-14 01:51:32,"Barranquilla, Colombia",,True,82,368,2841,0,306,False,
+16,2626033004,Alex Pulido,apulidopinto,,http://pbs.twimg.com/profile_images/893627004087660546/zJfdFdB__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-12 14:56:51,,,False,47,146,1262,0,850,False,
+17,4007169318,Bnl,Bj_Blanco99,🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹,http://pbs.twimg.com/profile_images/1274890255993376769/mxefxzBM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-24 23:24:56,"London, England",,False,17,361,39,0,470,False,
+18,1223571528069144578,Juan Fernando Villegas Espada AntiUribista,villegas_espada,Nadie podrá llevar x encima de su ♥ a nadie ni hacerle mal en su persona aunq 🤔 y  diga diferente,http://pbs.twimg.com/profile_images/1223571699330883584/d4b4YueM_normal.jpg,,2020-02-01 11:39:35,"Cali, Colombia",,False,29,216,87,0,78,False,
+19,218507515,Louise Ferdinand,Ferdinan1206,,http://pbs.twimg.com/profile_images/1270094737379405824/uy_xohNs_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2010-11-22 14:51:40,Bogota - Colombia,,True,44,313,214,0,928,False,
+20,109170381,JULIO DIMAS,juliodimas2007,,http://pbs.twimg.com/profile_images/1082704859906916352/s2x0pJeN_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-01-28 05:13:16,puerto ordaz venezuela . ,,True,37,463,154,1,8,False,
+21,238935994,luzmcaro,luzmcaro,"Derecho y Ciencias Sociales, con estudios en Sociologa, especialista en D. Procesal, Ciencias Admitivas, Master en Gobierno Municipal. Consultora conferenc.",http://pbs.twimg.com/profile_images/1033911266224627712/CGNLEtYX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-16 11:31:28,Bogotá ,,True,10411,8479,140637,31,2575,False,
+22,1124016803267731457,David Gomez,GomezDavid92,,http://pbs.twimg.com/profile_images/1124017108965314560/4uyO9nnK_normal.jpg,,2019-05-02 18:24:23,,,False,32,221,292,0,3120,False,
+23,713544396,jaime romero,jaimelromero,,http://pbs.twimg.com/profile_images/2427254415/xqn96D5x_normal,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-24 02:38:21,,,False,18,112,10,0,28,False,
+24,510288241,alberto camargo,amcamargodg,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-01 14:04:17,,,False,2,18,5,0,0,False,
+25,1246429764946145281,Nano,Nano47270700,,http://pbs.twimg.com/profile_images/1246430566473502722/ja4A-Tr5_normal.jpg,,2020-04-04 13:30:06,,,False,0,10,3,0,51,False,
+26,909985476903391232,Saul Galeano,SaulGaleano10,,http://pbs.twimg.com/profile_images/1155521861578559488/GkAlqstg_normal.jpg,,2017-09-19 03:40:19,,,False,7,235,159,0,247,False,
+27,1075924291198304256,ROMARIO,ROMARIO20575446,,http://pbs.twimg.com/profile_images/1217573253880872960/2jQEzfPS_normal.jpg,,2018-12-21 01:21:55,"Santa Marta, Colombia",,False,52,322,207,0,286,False,
+28,1205600401795506177,Liliana Ramos,Liliana08366439,,http://pbs.twimg.com/profile_images/1205602630782849024/YkfWmBJ8_normal.jpg,,2019-12-13 21:28:42,,,False,2,136,0,0,42,False,
+29,716973604026626048,Alejandro | Vásquez,AlejandroVJ54,"Comprometido con la vida.
+El mundo puede ser mejor.
+Estoico",http://pbs.twimg.com/profile_images/1240337704560328707/E3pln5Ui_normal.jpg,,2016-04-04 13:00:02,"Cartagena, Colombia",,True,27,168,40,0,340,False,
+30,222613002,Alex Vargas,Alevarnieto,"Amante a la tecnología, siempre actualizado con nuevos temas que hoy en día se vive. hincha del mejor equipo Real Madrid!! Hala Madrid!!!!",http://pbs.twimg.com/profile_images/1094807861392277504/zpaMJRi7_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-12-03 22:51:55,Cartagena Colombia,,True,43,271,131,1,27,False,
+31,165610730,•Leydi Maldonado•,LEYDIMALDONADOQ,"Enamorada de mi familia 💕❣️
+Jesús en tí confío 🙌🏻💖",http://pbs.twimg.com/profile_images/1281026635375017984/-8Yuepuu_normal.jpg,http://abs.twimg.com/images/themes/theme4/bg.gif,2010-07-12 02:19:15,"Santa Marta, Colombia",,True,228,388,799,8,202,False,
+32,961443306403180544,Feerromero,Feerromero14,Amor a DIOS Sobre Todas Las Cosas 🙌❤️,http://pbs.twimg.com/profile_images/1277380080940040192/NyGQFZIt_normal.jpg,,2018-02-08 03:35:21,"Magangué, Colombia",,False,12,191,1,0,5,False,
+33,1276251121191968774,Diego,Diego85388372,la empatía,http://pbs.twimg.com/profile_images/1276266361086500864/j_UOhlcg_normal.jpg,,2020-06-25 20:29:55,Armenia,,False,5,107,2,0,1,False,
+34,808813982,tombo lopez,tombobmx,,http://pbs.twimg.com/profile_images/3010483945/040c098fd284e2d4c3864b0a03c57e20_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-09-07 12:49:51,,,True,3,40,0,0,76,False,
+35,2364052476,MATÍAS GÓMEZ,matiasgomez73,"No más bandidos en el poder, NO MÁS URIBE.",http://pbs.twimg.com/profile_images/1278868403671797765/TNvFUYdc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-27 11:47:13,"Barranquilla, Colombia",,False,9709,10231,1848,0,1548,False,
+36,96261564,🥵,pinacoladat,,http://pbs.twimg.com/profile_images/1197794114034700293/wzL4Llkr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-12-12 02:56:41,,,False,0,323,478,0,7071,False,
+37,979192910951473153,@Fede,FedericNieves,"Ingeniero, Docente, Melómano y Liberal. Antiuribista desde 2002, Regresé a Twitter con una cuenta nueva luego de recibir amenazas en la antigua.😎",http://pbs.twimg.com/profile_images/1280756620029497345/01cMgrTX_normal.jpg,,2018-03-29 03:05:57,Colombia,,False,262,150,389,1,200,False,
+38,613140295,ROQ SAN,faro950,"Ciudadano de a pie. 
+artesano",http://pbs.twimg.com/profile_images/1175087927740829696/OhMnkYQQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-20 04:42:19,"Barrancabermeja, Colombia",,True,53,228,2005,0,3625,False,
+39,620532977,ENRIQUE PINEDO,enriquepinedo1,,http://pbs.twimg.com/profile_images/1020515559430066176/v2CyK1qv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-28 01:56:07,SANTA MARTA,,False,94,2015,698,0,3444,False,
+40,2432233003,SISY LA BELLA,SiSyPrimera,"""La muerte y la vida, están en poder de la lengua"", y el que la ama, ¡comerá de sus frutos! Prov 18:21 RVR1960.",http://pbs.twimg.com/profile_images/1274582802290401281/zc_oZKux_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-07 15:39:34,Dubai Tolíma.,,False,1445,1967,47649,1,65550,False,
+41,3000302367,Duyerney,dugamgui,,http://pbs.twimg.com/profile_images/988594447100280833/w53Bzz_W_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-26 20:45:00,,,False,14,194,336,0,143,False,
+42,4126614981,INGENIEROCK,JOTAJ817,,http://pbs.twimg.com/profile_images/746312869956952064/b9osabWc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-06 12:08:17,-7 a 3150 MSNM.,,False,33,381,216,0,227,False,
+43,1279433438244868099,Roco Perez,RocoPer78704703,pasear,http://pbs.twimg.com/profile_images/1279433896493539329/MYu7_2s-_normal.jpg,,2020-07-04 15:15:50,,,False,0,3,0,0,0,False,
+44,902008169941135360,Romanorojo Drb,RomanorojoDrb,🇨🇴,http://pbs.twimg.com/profile_images/902011145787252736/ERdJ-952_normal.jpg,,2017-08-28 03:21:21,BOGOTÁ ,,False,502,907,8748,2,46,False,
+45,716470665793159170,Juan diego aldana,juanDaldana,,http://pbs.twimg.com/profile_images/1233025042130329600/6E24o6kM_normal.jpg,,2016-04-03 03:41:32,,,False,11,152,5,0,5,False,
+46,1198375630737465344,Gabriel Gaon,GabrielGaon3,"Joven - Activista - Luchador 
+#SiguemeyTeSigo",http://pbs.twimg.com/profile_images/1258053619821113344/Fr1sc1iA_normal.jpg,,2019-11-23 23:00:02,"Quininde, Ecuador",,True,80,184,127,0,512,False,
+47,192326076,eduardo castro,edu01908,Abogado especialista en Docencia Universitaria Magister en Política Fiscal y Tributario.,http://pbs.twimg.com/profile_images/856289311188299776/d7jjFezS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-18 20:35:44,"Quibdó, Colombia",,False,438,673,457,0,7652,False,
+48,317501258,flacofranklin@hotmail.com,franklin485,"Deportista. de perfil bajo, me gusta la literatura y los documentales",http://pbs.twimg.com/profile_images/1250251271346573312/-QGPH9SO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-15 01:18:44,ecuador,,False,1049,2253,3313,0,213,False,
+49,1924589090,jose antonio nunez v,Josejose_1987,Hay q sonreirle a la vida,http://pbs.twimg.com/profile_images/1137431062555086850/MGPv4XA7_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-01 20:46:28,Bosconia cesar colombia,,True,11,329,173,0,467,False,
+50,1224828384699723776,Jos lastrec,JLastrec,"El (caminante) 
+Soy caribe🌎
+Cadima💪🏾",http://pbs.twimg.com/profile_images/1279449738308435975/RrJuTEAE_normal.jpg,,2020-02-04 22:54:32,Colombia,,False,91,629,126,0,748,False,

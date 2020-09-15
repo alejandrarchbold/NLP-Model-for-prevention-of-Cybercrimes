@@ -1,0 +1,14 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,18:10
+,>>> Analyzed user:,KarenJukes2
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,69771958,Official EastEnders Cast,The ONLY official CURRENT EastEnders cast accounts. All others are fakes. Views expressed their own.,37,5638,/bbceastenders/lists/official-eastenders-cast,bbceastenders,Tue Oct 27 18:14:21 +0000 2009,BBC EastEnders,Official BBC EastEnders with the latest news and gossip from Albert Square.,2499084,5323
+2,1117485792702685184,Ones to watch,Influential and interesting Conservative MPs - the ones to watch.,75,4529,/SteveBakerHW/lists/ones-to-watch,SteveBakerHW,Wed Jun 18 12:32:28 +0000 2008,Steve Baker MP,Conservative MP for Wycombe | Treasury Select Committee (@CommonsTreasury) | 1922 Executive | https://t.co/nqSqXOwRjo,90076,3883
+3,218226978,UK News and Politics,"Analysis and news from journalists, pundits and politicians in the UK",424,18655,/UKMoments/lists/uk-news-and-politics,UKMoments,Fri Jan 17 15:28:22 +0000 2014,Twitter Moments UK & Ireland,The best of what’s happening on Twitter in an instant.,66061,13

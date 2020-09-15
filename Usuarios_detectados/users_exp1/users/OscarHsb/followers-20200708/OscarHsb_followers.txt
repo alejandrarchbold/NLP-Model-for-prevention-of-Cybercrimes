@@ -1,0 +1,80 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-08
+,>>> Time:,18:25
+,>>> Analyzed user:,OscarHsb
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1263535556241358849,A m m a r,Ammar53280417,Lo que más odio; son las disculpas.,http://pbs.twimg.com/profile_images/1263536116239605760/-FMy9Hlr_normal.jpg,,2020-05-21 18:22:56,,,False,1053,967,24,0,10,False,
+2,1250888341568045056,Policarpa,lapoladigna,"Laquelosexpone. Abogada, E. Derecho Público, Defensora de D.H. Antiuribista, Amo la Política y Me duele mi País 🇨🇴#sigamonoslosbuenos",http://pbs.twimg.com/profile_images/1265468818492551169/qy8xRRRo_normal.jpg,,2020-04-16 20:47:14,,,False,1843,3996,7267,0,5232,False,
+3,1271196928643137537,Marie Curie Legión,CurieAnti,Es un deber moral ridiculizar #FEMINAZIS,http://pbs.twimg.com/profile_images/1278763916751974400/M4nrxiPP_normal.jpg,,2020-06-11 21:45:47,,,False,286,974,772,0,521,False,
+4,338385868,💫Marce ❌,_marce84_,CON LOS PIES EN LA TIERRA Y LA MIRADA AL CIELO!! Que la vida les multiplique todo lo que me desean. Ex mamerta!! Por la derecha es más bonito ❤️ Anti feminista!,http://pbs.twimg.com/profile_images/1270109131828011008/7g1woe6K_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2011-07-19 14:15:08,Colombia,,True,20161,4404,57620,23,80407,False,
+5,1167486605168390144,decanon,MosadDCG,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-08-30 17:18:50,,,False,32,116,1177,0,1712,False,
+6,285447939,megavas,real_megavas,"Para evitar malos entendidos, asi naci en twitter, pero ahora soy @megavas, como en toda la web",http://pbs.twimg.com/profile_images/1325067540/twitter_032011_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-21 05:06:29,,,False,90,128,663,0,153,False,
+7,1041363297168179201,memes anti-mamertos,iLordPorky,"Extrema derecha, capitalismo salvaje y nacionalismo 🇨🇴",http://pbs.twimg.com/profile_images/1201189658379653121/5x0-JTlT_normal.jpg,,2018-09-16 16:28:52,"Bogotá, D.C. 💛❤",,False,955,234,5100,0,34263,False,
+8,75949917,orlyjes,orlyjes,,http://pbs.twimg.com/profile_images/990905141132955648/PCj9Xond_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-21 03:39:22,bogota,,True,911,1734,41940,0,52506,False,
+9,321365846,ADAN RC,ADANRIVERAC,"anticomunista, antimamertos. librepensador, dueño y defensor de mis ideas; no soy alienado ni fetiche de nadie",http://pbs.twimg.com/profile_images/1406329889/SIMONBOLIVAR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-21 13:14:55,,,False,1651,3076,4995,0,12481,False,
+10,2557986486,NANA,Martha_Marqui,"Solo intento ser correcta y concreta.
+
+Ayudemos a los que podamos, que nadie se duerma con hambre🙏🤝 Solidaridad!.
+ 
+Le recomiendo no busque que es.",http://pbs.twimg.com/profile_images/1180658974405939200/r67ZZelg_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-10 02:30:06,,,True,1339,278,25088,0,111975,False,
+11,61243172,Diana Muñoz C,DianaMunozC,"Abogada Penalista. Universidad de Cartagena. Mamá, profesora y litigante (en ese orden).",http://pbs.twimg.com/profile_images/1259699127899901952/waOqrwBz_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2009-07-29 17:08:20,,,True,42681,3298,34784,147,84543,False,
+12,420345478,Ruben Vieda,RubenDarioVieda,"Padre de familia. Bogotano, Buen Ciudadano, Santafereño desde siempre.",http://pbs.twimg.com/profile_images/1061736917446868992/ZH6YtDBd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-24 14:11:54,,,True,2578,4418,14752,3,31963,False,
+13,1254786269890007041,Marly I Arnedo Perez,i_arnedo,oir musica,http://pbs.twimg.com/profile_images/1254786635650064386/sTUuRnbz_normal.jpg,,2020-04-27 14:55:47,,,False,142,1154,1,0,5,False,
+14,3384779295,ju@pv,juliomonpox,hoy más que nunca vamos abrazar a nuestro presidente Iván duque dios le de sabiduría y enteligencia para guiar nuestro país Colombia,http://pbs.twimg.com/profile_images/1254508207055294465/8QQZVbL4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-20 19:02:51,"Medellín, Colombia",,False,787,4677,943,0,25,False,
+15,900915157966225409,Natalí García,NatalGarca1,Creo que el derecho a la vida del ser humano merece ser respetado desde la concepción. Creo en la paz con legalidad. Apoyo 100% FFMM. Soy 100% Capitalista.,http://pbs.twimg.com/profile_images/1218536471113715712/PWfgW5od_normal.jpg,,2017-08-25 02:58:06,"Bogotá, D.C., Colombia",,False,1216,1711,4058,1,6781,False,
+16,283759002,🦕🦖🦕🦖 deguello 🦕🦖,gaudigavr,🦕🦖,http://pbs.twimg.com/profile_images/1250088471852650498/OZQQSlrr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-17 23:55:43,🦕🦖,,False,1081,1462,174307,143,71579,False,
+17,957808588315033600,Abraham velasco,Abraham78186596,siempre por la derecha Dios y patria,http://pbs.twimg.com/profile_images/1250943896785428482/cmNXn-JI_normal.jpg,,2018-01-29 02:52:17,"Montería, Colombia",,False,671,2025,3431,0,6774,False,
+18,2688523673,Quintero,JuanE_Quintero,"Unicornio. 
+Doy memes, no opiniones.                                      
+https://t.co/6dKlFGLuXE",http://pbs.twimg.com/profile_images/1246942280604364802/j9wySOWY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-07-08 21:12:46,,,False,1048,1102,248,0,445,False,
+19,598502101,zabanero,Zabanero1,🤟,http://pbs.twimg.com/profile_images/1279894308196429826/QzcvuVEy_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-03 17:20:05,Río negro ,,True,1317,299,30288,7,21847,False,
+20,1198272897200087040,oscar acevedo,oscarac23777477,Diseñador gráfico Política de derecha y seguidor de la teoría : QUE EL TRABAJO DURÓ RINDE FRUTOS y URIBISTA por supuesto 😁,http://pbs.twimg.com/profile_images/1198273149500055553/r5uUQcuU_normal.jpg,,2019-11-23 16:11:44,"Bogotá, D.C., Colombia",,False,1988,1946,1184,0,2853,False,
+21,194535388,Andrea.,andreagossain,"Me gusta la Política!  de todos los males, nunca el de la izquierda!",http://pbs.twimg.com/profile_images/1101909088244518913/aQivhPga_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-24 11:19:46,Colombia,,False,6017,6062,26876,3,17433,False,
+22,61798345,Movistar Colombia,MovistarCo,"Eso que haces con tu tiempo, queremos cuidarlo. 💙💚 
+Es nuestro propósito, #EsTuTiempo",http://pbs.twimg.com/profile_images/1278416014930325505/n23OgsGo_normal.jpg,http://abs.twimg.com/images/themes/theme16/bg.gif,2009-07-31 15:40:56,Colombia,,True,336549,73882,338233,653,1829,True,
+23,153257006,German,Germansva,Cárcel para las Farc.  No a la impunidad.,http://pbs.twimg.com/profile_images/1134177022283079682/rpTIjN1d_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-08 02:34:57,,,True,1250,2311,61298,2,25104,False,
+24,1148599252186271745,El Viejo Zorro,ElViejoZorro81,"De derecha, pero aceptemos opiniones diferentes. Eso es debate y democracia.
+
+Llanero de corazón.",http://pbs.twimg.com/profile_images/1221824431598817283/QOAatNWT_normal.jpg,,2019-07-09 14:26:16,Bogotá,,False,3391,3570,656,0,420,False,
+25,776215164,EDGAR PAPAMIJA,EDGARPAPAMIJA,Ingeniero Civil y columnista.,http://pbs.twimg.com/profile_images/2539151704/r99ch7e5w5r3gqadfvx2_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-23 15:41:47,Bogotá ,,True,2184,786,14413,17,791,False,
+26,243741788,Lucía Bastidas Ubate,luciabastidasu,"Mamá de Jaime Andrés., defensora de las mujeres.,movilidad y espacio público.#SoyMiPalabra #CreoenEnriquePeñalosa #TrabajandoPorMiCiudad",http://pbs.twimg.com/profile_images/1233964565408501760/GtQg2jTM_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2011-01-27 18:23:54,Bogotá,,True,12859,3050,100462,113,44895,False,
+27,846770204159946753,PeticiónCuidadana,PeticionC,"Es una red social diseñada para que los ciudadanos denuncien la falta de atención de los políticos, registre su petición en: https://t.co/P6KhSUgqlH",http://pbs.twimg.com/profile_images/854700246638702592/gB4DMzrb_normal.jpg,,2017-03-28 17:05:23,Colombia ,,True,693,914,1621,2,289,False,
+28,221884966,🌹❤LUZ❤🌹,luzcary0226,"#URIBISTA hasta los tuetanos😊🤚❤
+Si le pides a Díos y te lo concede, no dudes, no cuestiones,ten fe.🌷 💋💋",http://pbs.twimg.com/profile_images/1280041227870707712/y1uooe3A_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-12-01 21:56:50,"Bogotá, D.C., Colombia",,False,7551,6631,40922,0,62516,False,
+29,1165734566495248385,Troll91👩‍⚖,Krol9911,La de los hilos... tuiteros.,http://pbs.twimg.com/profile_images/1277653210744922112/u4ygRs5a_normal.jpg,,2019-08-25 21:16:07,,,True,4859,2502,18928,1,27040,False,
+30,1156013155388182528,🍸betty criticona soy - cuenta actual,bettycriticonaa,"🍸CUENTA ACTUAL (la otra no sirve) Sátira, sarcasmo, humor, crítica, política, cocteles, música, deportes, gym. Soltera💕(ojo no solterona), con nueva mascota🐕",http://pbs.twimg.com/profile_images/1242616735020339204/MpZzhwLd_normal.jpg,,2019-07-30 01:26:28,En casa tomando martinis🍸🍸🍸,,False,20285,19226,1134,2,13502,False,
+31,553170698,Eder Sanchez,ederaldis83,"Cristiano evangélico, amante del fútbol y el rock, sigo ideas no nombres, Ingeniero Industrial - Experto en Costos y Productividad.",http://pbs.twimg.com/profile_images/1264934310932631552/FbNdi1er_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2012-04-14 02:15:43,Cali,,True,180,1505,7953,1,13817,False,
+32,1086986882901295106,Darschan Ocampo,DOcampo76,Edil Comuna Dos 2020 / Vicepresidente  JAC  Centenario / Líder  Cívica  / Ingeniera  Electrónica,http://pbs.twimg.com/profile_images/1086989384749068288/RuTnD7wH_normal.jpg,,2019-01-20 14:00:42,,,True,511,854,6109,2,1283,False,
+33,3187399679,(A.R.A.)®,AndreaRamirezA_,Activista Política La verdad saldrá a la luz #AraDenuncia ¡JUSTICIA!⚖️. En mi Twitter me sigue el mejor Pdte q tuvo🇨🇴 @AlvaroUribeVel lo admiro. Vivo en...,http://pbs.twimg.com/profile_images/1250873663735443457/1mzb0egy_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-20 15:28:04,Estados Unidos 🇺🇸,,True,16428,10169,31800,9,26184,False,
+34,48573939,Jose 🥚,dcfreak,"Vida, Libertad y Propiedad 😎 Mg. en Educación, Docente, Pedagogía Conceptual y Libertaria",http://pbs.twimg.com/profile_images/1236778556845436930/lbdmKioq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-19 02:03:53,,,True,603,1494,8578,1,9247,False,
+35,1150953944795033600,NeuroCoachPNL,PortalNeih,Espacio para el NeuroEmpoderamiento Integral Humano. Somos lo que pensamos y nos enfocamos. En Consciencia Activa  conectamos con las habilidades de la Mente.,http://pbs.twimg.com/profile_images/1152995487684943873/PpDMvmaa_normal.jpg,,2019-07-16 02:22:58,COLOMBIA/VENEZUELA/Chile,,False,41,207,58,0,60,False,
+36,352342683,El Brico,Afbrico,"#ElProfeDeFút⚽
+
+Las opiniones acá expresadas no reflejan las de mis gatos ni las posiciones de las instituciones con las cuales tengo obligaciones contractuales",http://pbs.twimg.com/profile_images/1179788702048018432/6cVpMBge_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-10 13:51:27,Polombia,,True,25530,25504,26773,25,53700,False,
+37,402979810,Baron Rojo 🏎,betoariza1017,"Este año ya no será, 😖😖. Ing Industrial y Mecánico. Bimmer & Flightsimmer",http://pbs.twimg.com/profile_images/1279954370587656193/_MPUwS_j_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-01 21:09:09,Italia,,True,123,396,5358,0,5473,False,
+38,87837604,PauPeroNoRubio,pauperonovega,"Soy hermosa, inteligente y como si fuera poco buena gente!",http://pbs.twimg.com/profile_images/1222584887108165632/dpPSVJhM_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2009-11-06 01:30:05,Colombia,,True,16265,2293,78126,17,166237,False,
+39,1019683996882612224,El Republicano®🇨🇴,Elrepublicano9,"El que se arrodilla para conseguir la paz, se queda con la humillación y con la guerra. W. Churchill.",http://pbs.twimg.com/profile_images/1277232545659265024/F3jHhaIx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-07-18 20:43:04,"Bogotá, D.C., Colombia",,False,39198,7773,17326,36,28555,False,
+40,236898556,Diego Ricardo Hinestrosa Velez,RoloVaquero,"Comunicador Social y Periodista del Externado,experiencia en Periodismo Deportivo y Cultural(deportes llaneros y distintas tradiciones de la Media Colombia).",http://pbs.twimg.com/profile_images/1930811310/Foto0132_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-11 16:31:37,Colombia,,True,2483,4852,9878,5,1798,False,
+41,708080464544800769,Carlito's Way,carlopoc7,"""Hace tiempo no trino como hace tiempos y eso que yo trinaba como un jilguero...""",http://pbs.twimg.com/profile_images/1200962789168295936/GDNdFkU4_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-03-11 00:01:53,Colombia,,False,645,1434,17550,2,4742,False,
+42,1360903964,Guillermo Tascón,GTascon10,,http://pbs.twimg.com/profile_images/616084474338611200/50Seulzz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-18 03:12:03,,,False,18,258,0,0,0,False,
+43,2429146661,CLAUDIA B.C.,CLABASCAM,URIBISTA A MUCHO HONOR!!!,http://pbs.twimg.com/profile_images/1225880348606828544/td1wsJhW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-22 16:07:41,Popayan,,False,1475,4984,13762,0,34926,False,
+44,996179556,Luis Gonzalo Morales,luismorales0621,"Mi vocación: servir a la gente. Médico con maestrías en Salud Pública y Ciencia Política. Especialista en Administración y Economía, 35 años de servicio.",http://pbs.twimg.com/profile_images/917389645998120960/wzEteri6_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-08 01:06:21,,,False,21305,10388,13703,74,49393,False,
+45,1106914520860184577,antiuribista,CentroCorriente,pandemia pan de que?,http://pbs.twimg.com/profile_images/1116437635692736512/f-y-6yku_normal.jpg,,2019-03-16 13:46:02,,,False,1003,2160,436,1,743,False,
+46,972537717652410368,CazadorDeZurdos,DeZurdos,hay que verificar sus dicursos con los hechos,http://pbs.twimg.com/profile_images/1019426315722739717/IzIhbF07_normal.jpg,,2018-03-10 18:20:35,Chile,,False,10230,6201,6883,9,19923,False,
+47,1279557092,Juan Pablo Camacho,JuanPCamachoS,Ciudadano,http://pbs.twimg.com/profile_images/1197576688235896832/maRDHldL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-19 04:55:17,Bogotá,,True,1220,1599,1045,2,335,False,
+48,394975806,Carlzanga,cfo1960,"#UribistaSigueUribista
+Si bis pacem para bellum
+ 
+                   
+                      
+
+
+Palo a los corruptos y a las farc!",http://pbs.twimg.com/profile_images/478112093749932034/YhO2xuf0_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-20 22:48:20,,,False,8861,8830,15740,4,6320,False,
+49,1067385353223528448,Katao,Kataodagaz,"vikinga,maga,loka,rockera,Feliz.",http://pbs.twimg.com/profile_images/1271359778347003904/g7lhQNJ1_normal.jpg,,2018-11-27 11:51:14,"Medellín, Colombia",,False,221,219,102,0,212,False,
+50,139403799,Luis  Soler,iguanaconcoco,"Etnoeducador de profesión y músico por pasión, Fundador de la Escuela @elem55 y @GnesisMusical formando músicos integrales, fortaleciendo nuestro Vallenato.",http://pbs.twimg.com/profile_images/1109466904606003200/rcRyZDBQ_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2010-05-02 14:09:29,Fonseca La Guajira ,,False,692,629,458,2,151,False,

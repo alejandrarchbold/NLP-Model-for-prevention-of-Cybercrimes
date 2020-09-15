@@ -1,0 +1,29 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,17:23
+,>>> Analyzed user:,VOCRadioRobDoc
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,818319066821632000,The Real News,,169,0,/DonaldTurtle/lists/the-real-news,DonaldTurtle,Tue Apr 12 04:18:12 +0000 2016,DonDenizen,"A 'denizen' of  the #MAGA Movement supporting a more safe, sane, prosperous, proud and #Sovereign-Nation.
+ I see what you see, but i 🦁#NOTICE what you see too.",2204,4990
+2,1264926070546915330,Patriot Observers MAGA2KA,,279,5,/DonaldTurtle/lists/patriot-observers-maga2ka,DonaldTurtle,Tue Apr 12 04:18:12 +0000 2016,DonDenizen,"A 'denizen' of  the #MAGA Movement supporting a more safe, sane, prosperous, proud and #Sovereign-Nation.
+ I see what you see, but i 🦁#NOTICE what you see too.",2204,4990
+3,184792771,Revolution of Compassion,His Holiness the Dalai Lama,687,4,/davidandrewbrya/lists/revolution-of-compassion,davidandrewbrya,Sat Aug 28 00:13:30 +0000 2010,David Bryan,"""There is supposed to be free speech in this country but you say a few things and they come down on you like a ton of shit.""-Brown Dog",328,1936
+4,71063307,Hurting America,"People so opposed to critical thinking, rational debate and compromise it damages democracy.",4975,46,/Drives_swiftly/lists/hurting-america,Drives_swiftly,Sat Jul 18 02:51:28 +0000 2009,🚗 💜,"Independent thinker. Compulsive tweeter. Lady. Pragmatist. News/media/tech junkie. Lover of graphs and bacon. Also: Food, IPAs, cars, politics. Facts matter.",2920,4838
+5,1019952378924208129,Propaganda Studies,wikipedia.org/wiki/Category:Propaganda,283,4,/Charpy73/lists/propaganda-studies,Charpy73,Sat Jan 06 02:48:13 +0000 2018,Christopher Lee Harper,I'm a victim of a violent crime and I Hope that NO KID ever experience the Violence & Hate of others.,189,1680
+6,1020021056948535296,Fascism,plus.google.com/+ChristopherLeeHarper/posts/P5dur4VEJJk,226,3,/Charpy73/lists/fascism,Charpy73,Sat Jan 06 02:48:13 +0000 2018,Christopher Lee Harper,I'm a victim of a violent crime and I Hope that NO KID ever experience the Violence & Hate of others.,189,1680
+7,1009241468580646913,Gospel Tweets,,4322,6,/EonFasting/lists/gospel-tweets,EonFasting,Mon Nov 21 01:15:45 +0000 2016,Eon Fasting,Changing the world through prayer and fasting.,5104,6095
+8,847676173681213440,Filmmakers,,3564,34,/LaurieMeisel/lists/filmmakers,LaurieMeisel,Thu Jan 22 15:48:57 +0000 2009,Laurie Meisel 📎📽️,Award Winning #SocialMedia #Marketing Speaker 📽️ #Film #Producer #Writer 💻 #Tech #Geek Founder of @ArchRecord @oddducksocial AUTO DM = UNFOLLOW,5621,2922
+9,799336133780000770,Milso,Your hero can return home w/ a purpose and & opportunity w/ college sports.,478,8,/AthletesofValor/lists/milso,AthletesofValor,Wed Sep 14 15:59:16 +0000 2016,Athletes of Valor,The path to collegiate athletics after military service. 📩 info@athletesofvalor.com,722,2493
+10,813474325063942144,Wounded Mind Project - A,,1582,22,/WoundedMindProj/lists/wounded-mind-project-a,WoundedMindProj,Wed Nov 30 04:03:36 +0000 2016,Wounded Mind Project,Non-Profit clothing/decal campaign spreading PTSD Awareness in our Vets as well as the elimination of negative social stereotypes #PTSD #veteran #PTSDawareness,1200,1045
+11,737294578731130880,Conservatives & Patriots,,611,3,/ConservativeTht/lists/conservatives-patriots,ConservativeTht,Sun Apr 10 21:32:13 +0000 2016,David Burke,"Son of an Army Combat Medic. I believe in Constitutional Conservatism, American Exceptionalism, Free Market Principles & Liberty 🇺🇸. #MAGA #KAG #Conservative",77445,74610
+12,776667768749977600,Those who Serve 🇺🇸,,43,0,/ConservativeTht/lists/those-who-serve,ConservativeTht,Sun Apr 10 21:32:13 +0000 2016,David Burke,"Son of an Army Combat Medic. I believe in Constitutional Conservatism, American Exceptionalism, Free Market Principles & Liberty 🇺🇸. #MAGA #KAG #Conservative",77445,74610
+13,801760692479082496,Talk Shows & Pundits,,42,3,/ConservativeTht/lists/talk-shows-pundits,ConservativeTht,Sun Apr 10 21:32:13 +0000 2016,David Burke,"Son of an Army Combat Medic. I believe in Constitutional Conservatism, American Exceptionalism, Free Market Principles & Liberty 🇺🇸. #MAGA #KAG #Conservative",77445,74610
+14,187373416,Military Networking,,1198,51,/MyAFWifeLife/lists/military-networking,MyAFWifeLife,Mon Jul 13 20:22:59 +0000 2009,Kathryn,"I’m a #coffee-obsessed #MilitarySpouse and #Mom, raising two #SpecialNeeds kids. I love to help encourage others who are on the same journey as me.",6643,3011
+15,787631903503421441,Scuba,,4096,36,/gemme/lists/scuba,gemme,Tue Apr 08 10:51:26 +0000 2008,gemme,,143,208
+16,83887260,Vets/SupportMilitary-2,,1639,69,/velvetrose15/lists/vets-supportmilitary-2,velvetrose15,Wed Jul 29 09:05:44 +0000 2009,Cheryl,"God, family, country, #conservative, Protestant.TY #veterans! I support Israel Daughter of Iwo Jima Navy vet Proud 2 B followed by @DarrellIssa & @tedcruz #MAGA",22330,19199

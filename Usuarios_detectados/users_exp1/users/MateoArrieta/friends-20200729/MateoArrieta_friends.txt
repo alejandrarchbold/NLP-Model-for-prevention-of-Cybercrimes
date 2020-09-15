@@ -1,0 +1,115 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,01:54
+,>>> Analyzed user:,MateoArrieta
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,728365509465526272,ALZAKFoundation,AlzakFoundation,Somos un Centro de Investigación que genera conocimiento científico y realiza actividades de formación y capacitación en Salud Pública y Economía de la Salud.,http://pbs.twimg.com/profile_images/882275151370473472/AF27YGzi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-05-05 23:27:24,"Cartagena, Colombia",,True,396,617,377,1,935,False,
+2,1082014807161798656,Coronavirus,CoronaVid19,"COVID-19 OFICIAL (de aquella manera).
+Soy pandemia.
+La RAE me ha hecho mujer.
+
+
+coronaviruscoronavid19@gmail.com",http://pbs.twimg.com/profile_images/1232060545626497024/ltc63x4__normal.jpg,,2019-01-06 20:43:27,,,False,847635,479,1063,625,1561,False,
+3,128669929,Oicatá.,aeoggoea,"Nada es para siempre, todo lo que tenemos es prestado.",http://pbs.twimg.com/profile_images/1241881219610091528/-F14ywEf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-04-01 20:58:52,El Poblado de Ningun Lugar,,True,272,202,4617,0,29820,False,
+4,353916242,GABRIEL ANTONIO ARRIETA,GABRIELANTONI76,Estudiante de Medicina-- Universidad de Cartagena,http://pbs.twimg.com/profile_images/1271972079416553472/tGBJCKyi_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-08-12 20:58:50,COLOMBIA-CARTAGENA,,False,38,351,307,0,158,False,
+5,516526019,Servientrega,ServientregaCS,"Centro de Soluciones - Oficial
+#EnCasaConServientrega 🏠 🚛.....",http://pbs.twimg.com/profile_images/1214905690499747846/EekvjNLS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-06 13:31:46,Av. Calle 6 # 34A - 11 Bogotá ,,True,103510,9183,45892,63,4708,True,
+6,927875047,Perlas Clínicas UdeA,PerlasClinicas,"#PerlasClínicas es una estrategia educativa y pedagógica de la Facultad de @Medicina_UdeA
+
+Copyright © Universidad de Antioquia",http://pbs.twimg.com/profile_images/1281361673446719488/bKTTiv_O_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-11-05 15:54:02,,,False,1000,43,372,5,135,False,
+7,882274097572589570,RAFAELULISES 🌍,RafaelMuentes5,Fiel a la taja' con suero en el desayuno.,http://pbs.twimg.com/profile_images/1286881342979026945/NiLNMAMO_normal.jpg,,2017-07-04 16:25:11,"Purísima, Córdoba, Cartagena.",,True,605,1040,1343,0,1634,False,
+8,162169412,Luis Arboleda,Ludovik104,Medicina interna - Universidad de Cartagena.,http://pbs.twimg.com/profile_images/1132504955754045440/PdiCw9QO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-02 22:27:55,"Montería, Colombia",,True,134,833,1148,0,1877,False,
+9,1113152987453587461,Xiaomi Colombia,XiaomiColombia,Cuenta oficial con las últimas noticias y actualizaciones de Xiaomi en Colombia 😎,http://pbs.twimg.com/profile_images/1113155268890775552/NbWKO1CV_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2019-04-02 18:55:28,Colombia,,False,13101,101,785,11,738,True,
+10,1132763274792058885,Bichos de Lima,BichoDatos,"Información, fotos y datos curiosos de los insectos de Lima (y otros bichos más)",http://pbs.twimg.com/profile_images/1160918559821840385/to9k4DBB_normal.jpg,,2019-05-26 21:39:45,,,False,15027,145,5427,19,3216,False,
+11,105269099,Falabella Colombia,Falabella_co,"Encuentra tendencias, consejos y ofertas aquí. ¿Necesitas Ayuda?",http://pbs.twimg.com/profile_images/1225070338842746881/q4My4FaS_normal.png,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-01-15 22:00:41,Colombia,,True,196235,6540,35710,426,4429,True,
+12,113160736,Jean Villadiego Barrios,Inespecifico_,"Médico
+
+
+
+Universidad de Cartagena.",http://pbs.twimg.com/profile_images/1138641947046944768/fFU1we9q_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-02-10 22:25:38,"Cartagena, Colombia",,True,432,224,6774,1,474,False,
+13,1271100920915525632,Subida Precios Colombia,PreciosSubida,Denuncias de las empresas que están subiendo precios de cara al día sin IVA en Colombia. Denuncias por DM. Toda la información de las denuncias es pública.,http://pbs.twimg.com/profile_images/1271102206159306752/UjlvenhT_normal.jpg,,2020-06-11 15:24:29,,,False,40431,0,81,21,10,False,
+14,174006970,Pablo,Pcastroa10,"Dios, Familia - LIF, Medicina, Fútbol, Junior♥. I belong to Jesús. // te amoo mucho, eres mi bendición
+
+1 cor 13: 4-5 P&L",http://pbs.twimg.com/profile_images/1248419757704933378/UKAaokPK_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-08-02 22:06:53,LFM♡,,True,293,279,8949,0,3882,False,
+15,2205602930,Dr. Osmar Perez S.,osmarperse,Especialista en Cardiología y Medicina interna- Máster en proceso en Insuficiencia Cardíaca- Cardiologo de la Clínica Shaio y de Los Cobos Medical Center,http://pbs.twimg.com/profile_images/1201693948189777921/P0Qkj2de_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-11-20 21:06:49,"Bogotá, D.C., Colombia",,False,541,430,1235,5,1837,False,
+16,963114199,Jóvenes en Acción,JovenesAccionCo,Programa del Gobierno Nacional dirigido a bachilleres en condición de pobreza y vulnerabilidad que busca mejorar sus capacidades y competencias para el trabajo.,http://pbs.twimg.com/profile_images/1110997735929458688/G4yviHzt_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-21 21:18:30,Colombia,,False,50962,439,26162,83,3398,False,
+17,723684238806097921,MILEIDI,milebarrera241,,http://pbs.twimg.com/profile_images/724252099131899905/6V8tCynv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-04-23 01:25:42,Colombia,,False,19,44,15,0,50,False,
+18,1260023987242848258,Matarife,matarifeco,¨Matarife¨ Un genocida innombrable. Serie para whatsApp basada en las investigaciones de Daniel Mendoza e inspirada en hechos reales.,http://pbs.twimg.com/profile_images/1260365180216709121/XXPXWoy__normal.jpg,,2020-05-12 03:45:18,,,False,241590,1,810,64,3331,False,
+19,1128683867819380737,Gatitos que curan tu depresión 🐱,gatitos_qctd,Búscanos en FB e IG como Gatitos que curan tu depresión (gatitos_qctd),http://pbs.twimg.com/profile_images/1267952873725480960/MUVDnht7_normal.jpg,,2019-05-15 15:29:38,,,False,347105,325,17713,276,19093,False,
+20,229181877,María Palomino V.,MariaJPalomino,"Medicina, UdC 👩🏻‍⚕️",http://pbs.twimg.com/profile_images/873771874626437120/fJq4-a6c_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2010-12-21 18:58:17,,,True,799,505,7046,0,189,False,
+21,1150432981980536834,JM Lloreda-García,jmlloreda1,"Desconfío de los que ponen aquí su currículum, salvo de Ijon Tichy. También en @mireinoporun",http://pbs.twimg.com/profile_images/1280565357674205184/xRYafZfy_normal.jpg,,2019-07-14 15:52:51,Ponapé,,False,29703,864,7086,71,7868,False,
+22,2574120926,Hotel Corales de Indias,Coralesdeindias,"El hotel se encuentra ubicado en Crespo, la zona norte de Cartagena, a tan sólo 5 minutos del aeropuerto internacional Rafael Nuñez. PBX (57)3163399464",http://pbs.twimg.com/profile_images/1038145954887680001/dm3CXD47_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-18 04:26:49,"Cartagena de Indias, Bolivar",,True,1394,4386,900,5,662,False,
+23,1240014677188501504,Darkkef,darkkef,"Internal medicine
+ 
+
+
+
+
+
+
+
+
+Critical care medicine
+ 
+
+
+
+
+
+
+
+
+90's & Videogames
+ 
+
+
+
+
+
+
+
+
+#Zentensivista",http://pbs.twimg.com/profile_images/1240021945183322113/aKW2Khq9_normal.jpg,,2020-03-17 20:39:07,,,False,443,911,1903,0,1197,False,
+24,891786046148628480,Sarah Belén 🐀,venusoncrack,"Colombiana. Psicóloga, sexóloga y sarcástica. | Instagram: @ sarahbelenolarte",http://pbs.twimg.com/profile_images/1280475852376023040/2PQBDX_R_normal.jpg,,2017-07-30 22:22:16,Madrid ,,True,47801,613,11434,37,45753,False,
+25,1005302310,Aldair,Aldaiir_G,Apenas estoy en el exordio de mi vida.  Monteriano; caribeño como la champeta. Aprendiendo del arte 🎭. Hijo de la U Pública.,http://pbs.twimg.com/profile_images/1262602980995608576/mQyWAWQl_normal.jpg,http://abs.twimg.com/images/themes/theme10/bg.gif,2012-12-12 01:45:56,Montería,,True,835,883,11677,3,69115,False,
+26,1242249927754907648,Aleja Zuluaga🤍,MalejaZuluagaR,"est. ing civil🚧👷‍♀️                                                           
+
+https://t.co/InQK7Q5h6g",http://pbs.twimg.com/profile_images/1252363619964076033/f3zNf76u_normal.jpg,,2020-03-24 00:40:49,Colombia,,False,366,372,927,0,1344,False,
+27,45383275,EPM estamos ahí,EPMestamosahi,"EPM - Empresa prestadora de servicios públicos. Desarrollando Territorios Sostenibles. Información sobre contingencia #ProyectoItuango:
+https://t.co/TSbUGUFxm7",http://pbs.twimg.com/profile_images/1054469879636598784/Xcc0QVZ__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-07 17:48:27,Medellín  |  Colombia,,True,115637,510,81151,312,9183,False,
+28,925544520,Paula Andrea,pguzman08,🇳🇬,http://pbs.twimg.com/profile_images/1246203286220345349/Mp0y3iSB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-04 15:26:11,"Montería, Colombia",,True,856,293,5122,1,18,False,
+29,178969297,Francisco Garrido,FGarridoB,Interventional/Endovascular Cardiologist.,http://pbs.twimg.com/profile_images/1296731345/DC1_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-16 04:32:17,"Medellín, Colombia",,True,794,297,19323,5,13497,False,
+30,397546706,ACINNACIONAL,acinnacional,"Asociación Colombiana de Infectología: agremia a médicos infectólogos, microbiologos, profesionales en enfermería, bacteriología. #CuídameparaCuidarte",http://pbs.twimg.com/profile_images/1249097838316969985/XKYBM5ak_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-24 20:50:54,,,False,9782,734,3191,57,291,False,
+31,396908032,Salim Mattar,mattarsalim,"Profesor universitario interesado en: enferrnedades transmitidas por vectores, zoonosis, infecciones alimentarias, resistencia antibióticos, salud publica",http://pbs.twimg.com/profile_images/3279822242/55002ae5d71b827c706525382ecd231e_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-23 23:20:54,"CORDOBA, COLOMBIA",,True,1359,348,140,0,1921,False,
+32,22276965,OPS/OMS,opsoms,Trabajamos cada día con los países de la Región 🌎 para mejorar y proteger la salud de la población. Oficina regional de @WHO #SaludParaTodos #COVID19,http://pbs.twimg.com/profile_images/1096094749902028801/ijbQWupW_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-02-28 17:40:31,Américas,,True,372506,3353,43161,1769,10024,True,
+33,1239650304469217283,𝓐𝓶𝓪𝓭𝓪 𝓭𝓮 𝓙𝓮𝓼ú𝓼 🌻,ParraEstefana,𝑴é𝒅𝒊𝒄𝒐 𝒆𝒏 𝒇𝒐𝒓𝒎𝒂𝒄𝒊ó𝒏⚕️. 𝑷𝒐𝒓 𝒍𝒂 𝒈𝒓𝒂𝒄𝒊𝒂 𝒅𝒆 𝑫𝒊𝒐𝒔 𝒔𝒐𝒚.,http://pbs.twimg.com/profile_images/1285012214466990080/VWrtZN2-_normal.jpg,,2020-03-16 20:30:57,,,False,26,199,44,0,222,False,
+34,1053436375394070528,Psiquiatría Uninorte,Psiquiatria_UN,"En búsqueda de desarrollar acciones encaminadas a  la promoción de la salud mental.
+#Hablemosdesaludmental
+#Yotambienvoyalpsiquiatra
+#Mentalhealth",http://pbs.twimg.com/profile_images/1268615605265092609/1sPO2jfx_normal.jpg,,2018-10-20 00:02:58,"Barranquilla, Colombia",,False,1477,1436,1578,6,2,False,
+35,493567236,Mafe Fontalvo,MafeFontalvo_,Estudiante de Medicina- Universidad de Cartagena. God♡,http://pbs.twimg.com/profile_images/1182109303383216128/xlPYeZal_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-15 23:03:07,Bq/Cgena,,False,189,175,2116,0,1043,False,
+36,951194358,Política Heroica,PoliticaHeroica,"Información & Opinión. Instagram: @politicaheroica Facebook: Politica Heroica, contactos Whatsapp: 3023404383",http://pbs.twimg.com/profile_images/1215780496602554368/UlwekaVx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-16 07:38:11,Colombia,,True,15844,1003,44936,61,3520,False,
+37,1040069759700795394,Juan Camilo Castilla Ortega,Juancastilla_17,"Médico en formación 
+Universidad de Cartagena",http://pbs.twimg.com/profile_images/1286352171550810112/fR8KccHG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-09-13 02:48:49,,,True,72,189,224,0,999,False,
+38,312911693,Jairo Jimenez,jairojimenezrod,"Medicina para curar el alma y varias cosas más
+Universidad De Cartagena
+No fabriques fantasias cuando quieras realidades",http://pbs.twimg.com/profile_images/1282113628896989195/E0qHeLEx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-07 21:22:31,"Cartagena, Colombia",,True,231,331,13944,0,15336,False,
+39,244210438,Facultad de Medicina | Universidad de Antioquia,Medicina_UdeA,"La Facultad de Medicina de la @UdeA cuenta con 3 programas de pregrado, 51 posgrados y un doctorado. Vigilada Mineducación.",http://pbs.twimg.com/profile_images/1286781766737571846/rQQGHf_M_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-28 19:56:30,Medellín - Colombia,,True,13248,695,10756,79,2376,False,
+40,215324848,Carlos Ordosgoitia,caordosgoitia,"Alcalde de la ciudad de Montería.
+Administrador de Empresas- Unisinú, Especialista en Gobierno y Gestión Pública - Pontificia U Javeriana.  #GobiernoDeLaGente",http://pbs.twimg.com/profile_images/1213265529651290112/P2mtnT_Y_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-11-13 16:34:04,"Montería, Colombia",,True,26292,2605,9091,23,2767,False,
+41,448877452,carmelo,crdc2001,historia filosofía medicina crítica,http://pbs.twimg.com/profile_images/1113825610789543938/EcLhkICr_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-12-28 13:37:07,Cartagena Colombia,,True,975,941,1832,5,846,False,
+42,1387724203,vélez,jxvell,⚕️,http://pbs.twimg.com/profile_images/1283555201207672833/CeZQFBaJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-28 19:21:30,Colombia,,True,8208,925,90341,582,260095,False,
+43,1144366510552571905,Edgar 🐻,EdgarHerazo2,Médico interno 👨🏼‍⚕️ Universidad de Cartagena,http://pbs.twimg.com/profile_images/1248458121153933312/MOyRrjBZ_normal.jpg,,2019-06-27 22:06:52,"Cartagena, Colombia",,True,154,167,496,0,683,False,
+44,1040281013027590147,𝓵𝓪𝓾𝓻𝓮𝓷𝓽,laurendiazm1,,http://pbs.twimg.com/profile_images/1277632181477703680/XW99Bg4i_normal.jpg,,2018-09-13 16:48:15,,,False,461,320,3358,0,14412,False,
+45,3023174739,APOLONIA LAPIEDRA,APOLONIAPORN,ACTRESS | MODEL | INFLUENCER   https://t.co/19acujdxf7,http://pbs.twimg.com/profile_images/1227662740388503554/uoL0E8fO_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-07 13:37:57,"Barcelona, Madrid  Spain",,False,694741,374,43818,1863,119067,True,
+46,1016891305643790336,Izzy Lush,IzzyLush_,COLOMBIAN BOMB 💣 🇨🇴 | instagram: @izzylush_  (disabled) backup: @colombianbomb | DMT | skeptical | psychedelics 🐍 | BOOKINGS: @motleymodels,http://pbs.twimg.com/profile_images/1282406070460256261/jnNb6bxo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-07-11 03:45:55,"Los Angeles, CA",,True,102100,836,3109,301,4304,False,
+47,1209197972896059395,Carlos Barrios T,CarlosBarriosT3,Vive fresco.,http://pbs.twimg.com/profile_images/1209198576414470146/kF3lMbNe_normal.jpg,,2019-12-23 19:44:08,,,False,11,126,20,0,47,False,
+48,285326252,Liza Matallana R,LizaMatallana,"I can, I will. Watch me",http://pbs.twimg.com/profile_images/1214999803630931974/yvYLqqYV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-20 23:29:49,Cartagena de Indias,,True,142,381,2768,0,324,False,
+49,1061191411,Angie Carolina💫,Caroo_Angiie,Estudiante de medicina👩🏻‍⚕️❤️,http://pbs.twimg.com/profile_images/1239776750273511424/bsI-f8cC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-04 19:04:25,Monteria - Cordoba! COLOMBIA ,,False,274,754,1776,1,1000,False,
+50,3034916907,Metro de Medellín,metrodemedellin,"Cuenta oficial del #SistemaMetro, sistema de transporte masivo de Medellín y área metropolitana | Información operativa y de interés | PQRS: https://t.co/9FbfcQyUK8",http://pbs.twimg.com/profile_images/1098778355367854081/KlRzi22v_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-13 16:25:38,"Medellín, Colombia",,True,351626,385,95889,226,31390,True,

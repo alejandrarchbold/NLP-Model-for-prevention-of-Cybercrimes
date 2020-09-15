@@ -1,0 +1,19 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,21:56
+,>>> Analyzed user:,democracee
+,>>> Information:,Ownership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1277761686901047297,Read This!,,1,0,/democracee/lists/read-this,democracee,Sat Jun 08 21:10:32 +0000 2019,💔Democracee 🇺🇸 💙👣💙,"#MomsAgainstFascists💔
+#BLM #CORVID19
+#FBR💙ItsABlueThing💙
+VOTEinYourBESTINTEREST
+BlackLivesMatterRESIST
+ItsAMoralChoiceBLUE💙
+HEALTHCARE♿
+MustBeOLDENOUGH2VOTE",8434,9243

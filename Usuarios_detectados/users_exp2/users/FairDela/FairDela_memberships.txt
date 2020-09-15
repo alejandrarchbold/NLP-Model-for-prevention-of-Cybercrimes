@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,17:03
+,>>> Analyzed user:,FairDela
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,184792771,Revolution of Compassion,His Holiness the Dalai Lama,687,4,/davidandrewbrya/lists/revolution-of-compassion,davidandrewbrya,Sat Aug 28 00:13:30 +0000 2010,David Bryan,"""There is supposed to be free speech in this country but you say a few things and they come down on you like a ton of shit.""-Brown Dog",328,1936

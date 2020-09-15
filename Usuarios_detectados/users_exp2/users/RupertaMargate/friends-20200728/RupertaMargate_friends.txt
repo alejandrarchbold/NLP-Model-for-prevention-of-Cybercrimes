@@ -1,0 +1,83 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,18:40
+,>>> Analyzed user:,RupertaMargate
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,4235617519,BaalambLW,BaalambLW,"Interested in News, Life , BRF- #Megxit -I hate Liars - Love Animal’s & I believe manners cost Nothing. 🇬🇧",http://pbs.twimg.com/profile_images/1270823025961730053/cFEaGrbg_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-14 14:52:52,"England, United Kingdom",,False,307,465,1504,1,6262,False,
+2,1215418676935122946,BallsOfSteel,MsBluesky1,"Equal Opportunity Ass Kicker
+Pronouns : No/One/Cares
+My views are my own. Who else's would they be?
+I usually follow back, unless you seem a bit peculiar.",http://pbs.twimg.com/profile_images/1228097910866313217/DrjSMZcC_normal.jpg,,2020-01-09 23:43:12,UK,,False,354,482,1884,1,1881,False,
+3,1103249614008971269,Family Defence League,FamilyDefence,"Say No to the nanny state. Evil only happens because Good People sit back and do nothing. Together we can!!! Please follow us on this platform, thank you.",http://pbs.twimg.com/profile_images/1103443829766660096/mv7HCVNX_normal.jpg,,2019-03-06 11:03:00,familydefenceleague@gmail.com,,False,8824,9417,13064,20,697,False,
+4,1178234170117672961,Hime baque #nocollusion,BaqueHime,Swears a bit.,http://pbs.twimg.com/profile_images/1181812088085401601/H__UA7yV_normal.jpg,,2019-09-29 09:05:09,"Independence, UK",,False,3745,3668,1758,1,38632,False,
+5,1069602442294243328,Heather Duke,hevadventurer,"Christian, Mum, Grandma and wife. 100% proBrexit, RTs not an endorsement. #Jesusmatters",http://pbs.twimg.com/profile_images/1263175130492145665/K0w_ZqV9_normal.jpg,,2018-12-03 14:41:09,,,True,1692,2532,7301,2,27558,False,
+6,1181308152467341313,Frank,corporal_frank,"Respect to all our armed forces and services, no time for religious fanatics. Pro hard Brexit, WTO if necessary. Still no perfect political home",http://pbs.twimg.com/profile_images/1282717535025143812/Wiz62Edf_normal.jpg,,2019-10-07 20:40:11,sheffield,,True,6337,6901,4892,2,2330,False,
+7,1148855875571978241,James Seaman,JamesSe88847379,crypto currency analyst,http://pbs.twimg.com/profile_images/1286105008002535429/d2FKyypG_normal.jpg,,2019-07-10 07:26:00,"Dubai, United Arab Emirates",,False,9,183,5,0,32,False,
+8,2332930785,belfast roy,belfastroy,Belfast born and bred proud member of loyal orders like a laugh and don't take things to serious 🇬🇧🇬🇧,http://pbs.twimg.com/profile_images/1243326786047524864/iaT7VlJo_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-09 02:04:16,"Belfast, Northern Ireland",,False,594,1099,1067,0,3840,False,
+9,937424317033443329,Harry Charles,boco8250,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-12-03 20:52:28,,,False,1065,4539,1074,1,41863,False,
+10,973031176431480832,La Liz,thegreygoose14,,http://pbs.twimg.com/profile_images/1285789076579393536/rjG-sHfz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-03-12 03:01:25,,,False,368,1243,5403,2,33399,False,
+11,634728585,#debslivetobekind,deb_king1965,Early Years Specialists. Believes that respect breeds respect. Was Labour now a Tory for the working class British people and British values. #justreal .,http://pbs.twimg.com/profile_images/1155770911536111616/zTeffh3L_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-13 15:23:15,Warwickshire,,True,624,836,8638,3,11707,False,
+12,1247795047535239171,StevenArtistUnknown,StevenArtistUn1,Bass fishing 🐟 🎣 and music 🎵 🎼 🎶 2 of the best things oh and exposing the truth! 🇺🇸 #WWG1WGA 🇺🇸 #Trump2020 🇺🇸,http://pbs.twimg.com/profile_images/1247795514742984704/HSWpLyu8_normal.jpg,,2020-04-08 07:55:08,,,True,11,169,72,0,105,False,
+13,242398620,Please do Retweet 🔱 @TweetForBritain,gmjuk,"It's nice to talk! So why not Reply? Please do Retweet.
+ Dyslexic obviously intelligent !!                   
+It all comes down to who you voted for.   l🇬🇧",http://pbs.twimg.com/profile_images/944514949602316288/2PixkmTn_normal.jpg,http://abs.twimg.com/images/themes/theme15/bg.png,2011-01-24 17:59:26,GreatBritain 🇬🇧  ,,False,1423,2621,21403,2,20596,False,
+14,583001068,Andy Brown,abline11,"🇬🇧British Unionist🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿 Love: Europe - Hate: the EU, virtue signaling, gotcha media & everything woke",http://pbs.twimg.com/profile_images/1213544286752514050/k1a1vqrF_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-05-17 18:02:51,"South East, England",,False,5932,5565,11670,5,35194,False,
+15,1079760458,Peter Wright,PeterWright530,"Secondary Progressive MS sufferer who will fight the fight by undertaking a stem cell transplant, in Mexico, to reboot my immune system.",http://pbs.twimg.com/profile_images/764782052235436032/h8Bw0njy_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-11 13:54:14,"Oldham, England",,True,93,172,4294,1,18662,False,
+16,1114014192,Chris P,mynonsensetogo,Love Europe and its peoples but dislike the EU. Not fond of cheese or the BBC.🇬🇧🇺🇸🇮🇱🇮🇹🇩🇰,http://pbs.twimg.com/profile_images/1043596848450154496/BpfLjSkN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-01-23 10:17:09,"London, England",,False,1257,1470,419,0,8750,False,
+17,1254366076055564288,Jenifer Wilson,Jenifer46277051,"Wife,mother,grandma,great-grandma.and definitely a Boris fan!🇬🇧",http://pbs.twimg.com/profile_images/1254370271131242498/vSRvh9tG_normal.jpg,,2020-04-26 11:06:25,United Kingdom,,False,1584,2143,20783,1,7537,False,
+18,1278741511916707841,Chris,Chris_74208,"🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧 conservative (small c). I'm a White person. Liverpool fan. #AllLivesMatter. 
+That's not me, it's Alexis.",http://pbs.twimg.com/profile_images/1286679510809747456/_tUTX1dJ_normal.jpg,,2020-07-02 17:25:25,United Kingdom,,False,321,831,1843,0,947,False,
+19,1284820122977415169,Washington John ME,Westie66167541,🇬🇧🇬🇧 All Lives Matter 🇬🇧🇬🇧 Free Speech Matters 🧡🖤🧡🖤,http://pbs.twimg.com/profile_images/1284820282730053634/-ep57-zy_normal.jpg,,2020-07-19 11:59:39,,,False,778,1178,863,0,686,False,
+20,1282693155884863488,The Angry Yorkshireman,TheAngryYorksh1,"Just an angry Yorkshireman.
+political right, patriot, ex army, conservative and very politically incorrect
+Got a Youtube Channel.",http://pbs.twimg.com/profile_images/1283730816598790146/lUf-vx1r_normal.jpg,,2020-07-13 15:07:46,,,False,1866,683,263,0,759,False,
+21,905480594192293890,Rick Sacrop. 🇬🇧 🏴󠁧󠁢󠁥󠁮󠁧󠁿🥋🎸🎹 🏉,RickSacrop,"Englishman, RIP EU, Conservative Council candidate, Rtd School Governor. Musician. Support our farmers. 🖕 BBC. Huge respect for armed services. On the square.",http://pbs.twimg.com/profile_images/1257371494369374210/ENKOLExS_normal.jpg,,2017-09-06 17:19:31,"Outside the pub, freezing and ",,False,2270,2046,27328,3,20789,False,
+22,1265904825222467584,The Hated Johnson,hated_johnson,,http://pbs.twimg.com/profile_images/1286641283038097408/4H1qWNdB_normal.jpg,,2020-05-28 07:17:04,,,False,257,486,2503,0,1554,False,
+23,1088813050109415424,sage14 🌻,sage1411,,http://pbs.twimg.com/profile_images/1088815001463332864/5oZTE3Ev_normal.jpg,,2019-01-25 14:57:15,,,False,1705,50,7399,8,6634,False,
+24,3242839879,Nancy,Nancy_LBE,"Mom to Maggie, Max, .🐩🐕🐶",http://pbs.twimg.com/profile_images/1235243578307358723/kBZ9v98v_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-12 01:29:13,,,False,689,941,34263,11,87461,False,
+25,315453843,Lesley Lubert,Lesqueenb,Convent-ed went to Sweden-Agent for military-PR for Swedish science w/wide-back in UK-17 yrs Justice system-seen it all-haven't written the book yet!,http://pbs.twimg.com/profile_images/1168826680795963392/0TdV-_W0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-11 22:12:57,,,False,3508,1008,77537,13,65302,False,
+26,395460119,Russ Edwards,edwards_russ,"#TRUMP2020, Retired, Libertarian, Constitutionalist, #NRA Patriot Life Member, Favorite Quote: There is no such thing as a smart Liberal. I Follow Back #MAGA",http://pbs.twimg.com/profile_images/1265532527323877378/6MaPq80v_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-21 17:59:27,"Kennewick, WA 🚫DM's",,True,31037,32288,46545,8,13544,False,
+27,781536462923784192,Mystique,Saphirial24,"DA Survivor. patriot, Brexit. Freedom of speach. No to wokeness, character not skin. The irony of the lefties spouting hate but accusing hate is bizzare..",http://pbs.twimg.com/profile_images/1260532158785085443/3mnd6txZ_normal.jpg,,2016-09-29 16:49:48,,,True,1225,1208,15565,1,8453,False,
+28,25235151,Rita Panahi,RitaPanahi,"The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is. Winston Churchill",http://pbs.twimg.com/profile_images/901301264406896640/Eis46gPG_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2009-03-19 04:09:43,"Melbourne, Victoria",,False,218061,2176,145794,1291,163295,True,
+29,1186460390,Beyond Absence,GusCaldas,"Reason is in fact the path to faith, and faith takes over when reason can say no more. T. Merton.
+God, Family, Nation, Nature, Beautiful Music, 🇺🇸🇧🇷",http://pbs.twimg.com/profile_images/1274350387940777984/S2NdvXZ8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-16 14:46:04,Beyond the poles,,False,189,472,3460,0,5179,False,
+30,920028595397029888,Jeff,PatriotismOK,"Passionate advocate of preserving our British culture, identity & heritage,for the benefit of future generations. Lefty loons & defenders of BLM blocked!",http://pbs.twimg.com/profile_images/929651193080578048/Ptj_mHJ5_normal.jpg,,2017-10-16 20:48:05,In my non-PC bubble in UK,,True,412,367,10885,2,10435,False,
+31,1208396175839285250,AllLivesMatter,GranshoabM,👼😡😡😭😭,http://pbs.twimg.com/profile_images/1280942222133821443/sRW_jJSt_normal.jpg,,2019-12-21 14:38:20,", England",,True,943,924,47084,0,53609,False,
+32,195957080,Denim Richards,DenimRichards,All praise to The Most High YAHUAH🙏🏾,http://pbs.twimg.com/profile_images/1097248293011173377/sDqTQGui_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-28 00:06:57,"Los Angeles, CA",,True,17650,586,9100,48,3599,True,
+33,1113011446651195392,Mmissy ♥️ 🇿🇦 🇬🇧🌻,mmissy24,"At HM Not So Secret Service- 
+#Megxit",http://pbs.twimg.com/profile_images/1244995255545536513/J55ARwU9_normal.jpg,,2019-04-02 09:33:02,,,False,387,890,17222,0,68211,False,
+34,608216010,Belann_Farrar,Belann_Farrar1,Goal to connect w/Trump supporters & work to reelect POTUS - Christian - Independent Constitutional Conservative - Trump/Pence 2020 #MAGA #KAG #Liberty,http://pbs.twimg.com/profile_images/1213988642588430336/gEBR4d3o_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-06-14 13:18:39,TEXAS,,False,31852,19702,55351,3,3568,False,
+35,1272657522709626885,Genie Really ❤God. 😇💜🙏MAGA 🇺🇸🇺🇸,GenieReal,"Christian Patriot starting Over onTwitter.  Very in love with my husband and family. almost died 20 months Ago,Heart Defect.  God is listening to 🙏 you. 🇮🇱",http://pbs.twimg.com/profile_images/1272658049463988229/XPrgaEkY_normal.jpg,,2020-06-15 22:30:07,,,True,1365,1706,3863,0,3109,False,
+36,782556137874915328,Mary,Marysailedaway,Been fishing 🎣  Threw it all back.,http://pbs.twimg.com/profile_images/868519829770207233/Gv0aQ4G4_normal.jpg,,2016-10-02 12:21:37,Anywhere but here.,,True,1114,1673,3650,4,79492,False,
+37,400023315,Tourre Bakahai,TourreBakahai,The law and life. My loves are Africa and Arsenal. Côte d’Ivoire is where it started. Justice for Palestine is where it's leading.  Soon.,http://pbs.twimg.com/profile_images/2539595275/wgb40bwmse1m7d1m4b4l_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-28 11:47:51,London,,False,3468,515,1883,15,2112,False,
+38,877319436675502081,"Miz Beaverhausen, Duchess of Soho",Reashelby1,"SJW Slayer
+Virtue Signal Detector
+Dowager Grantham-""You are a woman with a brain and reasonable ability. Stop whining and find something to do""
+#bluelivesmatter",http://pbs.twimg.com/profile_images/1146240401134837761/Asx8rqq7_normal.png,,2017-06-21 00:17:08,,,False,1180,1459,21390,2,91234,False,
+39,1258362518155608066,HomeThoughtsUK,HomeThoughtsUK1,Never quite realised how much there was to enjoy in the UK - until I moved away ...,http://pbs.twimg.com/profile_images/1258364479680557058/NkT_-1Xt_normal.jpg,,2020-05-07 11:46:39,,,False,25,8,276,0,582,False,
+40,1103507799190003713,JoCoCo (Dropping Hooray For Hollywood!),JoCoCo20,"⭐President Trump⭐  ⭐KAG⭐  ⭐USA⭐ 
+💝FAMILY and FAITH💝
+💝Team Cambridge💝
+Markle Shenanigans",http://pbs.twimg.com/profile_images/1279046004151660544/3-e7_2_X_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-03-07 04:08:56,USA! USA! USA!,,False,1516,295,10339,3,34661,False,
+41,13183742,The Hon. Lady Skylar McCready 😷 👑🌻,artbyskym,"Royally Royal
+Eccentric Irish Polymath
+Forensic Researcher (currently) 
+Retired Nurse
+International Selling Artist (recurring) 
+""A Lady knows when to leave""",http://pbs.twimg.com/profile_images/1271655340057165825/iHzGV_BS_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2008-02-06 23:58:40,,,False,2025,420,41890,49,39385,False,
+42,2163760392,Terrie Miller,Terrie1833,"Clap twice, lean back and twist for a while",http://pbs.twimg.com/profile_images/423963429506797568/WUp_SD9D_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-10-30 00:00:23,,,False,711,1183,5429,2,18008,False,
+43,1158947854368563200,@Texasgirl79,Texasgirl792,#Trump2020 #ProLife #Pro2ndAmendment #AntiGovernment #Megxsit,http://pbs.twimg.com/profile_images/1264315505420251136/vhbzxgw-_normal.jpg,,2019-08-07 03:47:55,United States,,False,346,394,9159,1,9836,False,
+44,1033295852004102144,ℳ𝓊𝓇𝓀𝓎 ℳ𝑒𝑔 ©,Murky__Meg,“Possibly the No 1 most dangerous Anti Meghan human being on the planet” ~ quote provided by the Sussex Squad. Come find my channel on Youtube,http://pbs.twimg.com/profile_images/1226146166770982912/ZbWQTyJ__normal.jpg,,2018-08-25 10:11:43,"Leicester, England",,False,13711,672,18689,40,66414,False,
+45,1085161132493553666,Duchess Royal 👸🏽🌈,things_royal,Watching the royal soap opera starring constitutionally irrelevant 6th in line & his z list wife. Then there r #therealroyals #PrinceWilliam #DuchessofCambridge,http://pbs.twimg.com/profile_images/1085161497230229504/hzUZ23Jl_normal.jpg,,2019-01-15 13:05:50,,,False,8414,1411,10540,31,55956,False,
+46,4559608274,Cora Munro,Cora_Munro1757,"""Posterity! You will never know how much it cost this present Generation to preserve your freedom. I hope you make good use of it.."" ~ John Adams",http://pbs.twimg.com/profile_images/1275129379681533952/j6eh1TR0_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-12-14 20:40:07,,,False,1161,1597,36201,14,5815,False,
+47,1248365263617171462,Wally,yankeewally2,"Finding Freedom, is Meghan Markle cataloging HER version of events, blaming others. Should be reclassified as a work of Fiction.",http://pbs.twimg.com/profile_images/1287728410983309314/TmMn8vlh_normal.jpg,,2020-04-09 21:40:58,I'm on YouTube and tumblr ,,False,4962,814,2114,13,7148,False,
+48,878932493147283456,"Joe,D",DobbieJoseph,"family, friends. Brexit.Trump. Exposing Pizzagate. English and proud. Christian.",http://pbs.twimg.com/profile_images/1267329388783288321/eVmSV8qL_normal.jpg,,2017-06-25 11:06:50,Northeast,,True,3456,5001,23571,1,19886,False,
+49,1219189930515206145,Immortality Preserver 🛶🐋,kingpawncurry,Here to chew gum and maybe get blocked by people 😎,http://pbs.twimg.com/profile_images/1268548996643069954/ygNnxu4__normal.jpg,,2020-01-20 09:28:38,,,False,683,1617,1033,0,1382,False,
+50,4595507615,Undercover Angel,about_lose,"I thought Nesara was a planet.  I follow back everyone, except pedophiles & rapists.
+17",http://pbs.twimg.com/profile_images/1287042467930558467/lJPiMafO_normal.jpg,,2015-12-25 02:38:08,,,False,437,408,3879,0,3048,False,

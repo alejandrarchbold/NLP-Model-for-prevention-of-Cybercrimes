@@ -1,0 +1,76 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,01:49
+,>>> Analyzed user:,BodeguitaLiber1
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1266889282461085698,Nico,Nico07063810,Libertad-Liberty-Freiheit,http://pbs.twimg.com/profile_images/1266889674657861632/P9d4_iF3_normal.jpg,,2020-05-31 00:28:46,,,False,35,381,471,0,1517,False,
+2,69907060,Conny Isaza,conny_isaza,,http://pbs.twimg.com/profile_images/1224087548068155394/vKzBKs2u_normal.jpg,http://abs.twimg.com/images/themes/theme13/bg.gif,2009-08-29 16:45:45,,,False,23,110,267,0,321,False,
+3,524435609,Andrés Holguín,andress_holguin,,http://pbs.twimg.com/profile_images/1216577550735949824/pEo2DbDT_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-03-14 15:07:18,"Salt Lake City, UT",,False,205,364,1681,0,515,False,
+4,1270500892337491968,Natalia Luna,Natalial1801,🥰,http://pbs.twimg.com/profile_images/1270502326537723906/VHwFQqLY_normal.jpg,,2020-06-09 23:39:59,,,False,1,39,1,0,8,False,
+5,3188152335,DIONICIO MILK,todo_lo_nuetro,"Me Gusta El Intercambio De Fotos MR. PARTE CULO  Me Encanta Conocer Amigas,Soy Cachondo .Me Gusta Hablar De Sexo DM.. Tengo El Pene Gordo,Cabezon y Lechero",http://pbs.twimg.com/profile_images/1183975969608130560/STzJJAtV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-20 20:12:59,"Barranquilla, Colombia",,False,409,2024,1039,0,616,False,
+6,1495991886,Elisair,elisair_p,Me enseñó mi mamá que uno debe querer.😊😉,http://pbs.twimg.com/profile_images/1194435910202527744/jg3fn9Zi_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2013-06-09 16:28:16,RIOHACHA-GUAJIRA,,True,112,695,427,0,1002,False,
+7,1487963058,Ebrith Yiseth,eyisseth28,𝓞𝓷 𝓜𝓮𝓵𝓪𝓷𝓬𝓱𝓸𝓵𝔂 𝓗𝓲𝓵𝓵,http://pbs.twimg.com/profile_images/1260420833635418112/iUKALuRV_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2013-06-06 15:13:35,,,False,862,240,3929,1,12753,False,
+8,164097191,Jose Miguel,Andhren,,http://pbs.twimg.com/profile_images/802344168181944321/IOlSDObA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-08 01:29:35,,,False,151,1394,307,1,1285,False,
+9,1860821976,maysuato,maysuator,,http://pbs.twimg.com/profile_images/967858527376150528/ToKA8aW__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-09-13 14:56:42,Valledupar,,True,30,300,20,0,58,False,
+10,919297713644228608,Jaime,libroadictojg,"Lectómano. 
+Librópata. 
+Magus.
+Escritor aficionado 24/7
+francobesil@hotmail.com",http://pbs.twimg.com/profile_images/1256269535268741120/AoOqk-eT_normal.jpg,,2017-10-14 20:23:49,Colombia,,True,679,1863,10011,2,10203,False,
+11,922758529429180416,Jose Luis Palacio,AyChepe,,http://pbs.twimg.com/profile_images/1278013734817062914/P9prjH6l_normal.jpg,,2017-10-24 09:35:52,,,False,13,57,10,0,17,False,
+12,727223320911958016,el perro pipo,SergioForer_o,"Diseñador visual.....Estudiante de bellas artes.
+No me aguanto los mamerticos que no saben que es trabajar...Libertario.",http://pbs.twimg.com/profile_images/875114422368436226/GtxuIM9M_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-05-02 19:48:45,,,False,13,307,1357,0,5765,False,
+13,1315391647,Fernando Caicedo,DonKaicedo,"Diseñador Industrial, bloguero, Ilustrador editorial, escritor de suspenso por vocación y libertario por convicción.",http://pbs.twimg.com/profile_images/1195384123180945410/AWopYbrz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-29 23:00:06,Colombia,,True,1023,385,5543,7,4236,False,
+14,1241905393338585091,Centro Libertad,centrolibertad1,"Centro de  Libertad
+centro de disfucion,investigacion,pensamiento liberal/libertario en defensa de las libertades del individuo",http://pbs.twimg.com/profile_images/1241919488443940865/ToCbQ2CG_normal.png,,2020-03-23 01:51:56,colombia,,False,298,824,91,0,148,False,
+15,1097692556660482049,Alianza Liberal,alianzalib,"Oficial Mov Alianza Liberal. 
+ Ideologia: liberalismo,libre mercado,capitalismo,antisistema. LAISSEZ FAIRE",http://pbs.twimg.com/profile_images/1245185243675529227/HZBjJcKA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-02-19 03:01:14,bogota,,False,862,2788,1058,4,1430,False,
+16,1271357628,Miguel.,miguel_2821,ME ENCANTA LA LIBERTAD ABORREZCO EL COMUNISMO O EL SOCIALISMO.,http://pbs.twimg.com/profile_images/1280413664584118277/oHTHSHcB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-16 04:09:29,,,False,5839,5936,5223,1,8175,False,
+17,574847847,CATALAUDA,CATALAUDA,ESTUDIANTE DE SALUD OCUPACIONAL,http://pbs.twimg.com/profile_images/2863284011/93a274ceb44632399187cb1f96e6c07b_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-05-08 20:26:13,BOGOTA COLOMBIA,,False,14,83,27,0,11,False,
+18,61090073,César Mondragón,Cesarhmondragon,"Millonarios,  Real Madrid,  River Plate,  Juventus,",http://pbs.twimg.com/profile_images/1277448863507517441/jdPxD9P6_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2009-07-29 02:32:09,Bogotá,,True,629,2445,3823,1,13009,False,
+19,1244480304125038604,Solo soy un gato,SoyElCat,Maulló lo que se me pega la regalada gana..,http://pbs.twimg.com/profile_images/1244481236174848000/rcuVZSoj_normal.jpg,,2020-03-30 04:25:19,,,False,51,172,732,0,1169,False,
+20,1232992266379235329,🇨🇴Germán Valencia Castro | #LibertadyOrden 🗽,German_valen_CT,"📜Lic. Humanidades @UNALOficial. Esp.Alta Gerencia @Areandina.
+Ingeniero, @UCatolicaCol.Fundador @Change_WorldT Full @CeDemocratico
+#UribistasigueUribista 💯",http://pbs.twimg.com/profile_images/1268076017928765440/5o1AfzDi_normal.jpg,,2020-02-27 11:34:31,"Medellín, Colombia",,False,4136,4496,1415,0,1309,False,
+21,1188850031954157568,El Mamerte Indignade.,ElMamerte,"líder social, alto comisionado para la paz. PhD en putear mamertos. Seguidor y admirador de Carlos Castaño Gil.",http://pbs.twimg.com/profile_images/1279095320450936833/z3JNN481_normal.jpg,,2019-10-28 16:08:35,,,True,1263,1298,9841,0,22451,False,
+22,1036705635709186048,EdwinGutierrez,EdwinGu61371910,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2018-09-03 20:00:59,,,False,2,220,2,0,872,False,
+23,715009395097251840,Ismaclop,ismaclop,Nuse si mexplicu.,http://pbs.twimg.com/profile_images/1252893211984527360/MZWcPYf0_normal.jpg,,2016-03-30 02:54:58,"Madrid, Comunidad de Madrid",,False,2665,2523,346,0,845,False,
+24,1270105664237588480,UnLiberalCasual🐍,UnLiberalCasual,🐍Simplemente un liberal casual🐍,http://pbs.twimg.com/profile_images/1270279719079096321/7RNYcu-m_normal.jpg,,2020-06-08 21:29:42,,,False,316,511,70,1,69,False,
+25,2380936678,Julio Mejía,juliomej49,"Liberal, ateo y pro libre elección. Defensor de la suprema soberanía del individuo sobre su propia vida.",http://pbs.twimg.com/profile_images/1253163517370347520/M8BB9ShM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-04 01:20:15,"Toronto, Ontario",,False,5197,3200,26240,26,33752,False,
+26,181817867,Cristian David Gil Toro,cdgilt,"Disidente, docente y andrófilo | Columnista @AlPoniente | Miembro de #HillsongChurch, @AntSoberana, @jeffersonameri, #LibertasPhyle y más | Anticolectivismo 🗽",http://pbs.twimg.com/profile_images/1272572360105832451/U95ov8Io_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-23 03:37:55,"Envigado, Colombia",,True,1206,4099,12492,10,29145,False,
+27,234122459,Juanes Ortiz G,juanesOrtizG,"Abogado.
+candidato al concejo de Pereira
+2020-2024",http://pbs.twimg.com/profile_images/1267555773300736000/pyHM0q2s_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-04 22:17:45,"Risaralda, Colombia",,False,354,1105,8471,5,1286,False,
+28,152782326,John Galt,donjuanzeuz,"Administrador de Empresas, #CervezArtesanal, #Libertario, #Anarcocapitalista; Creo en la responsabilidad de cada individuo, 
+(0) estado.",http://pbs.twimg.com/profile_images/1262224919162691584/CENBMp0-_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-06-06 21:36:45,"Barranquilla, Colombia",,False,455,404,8251,2,370,False,
+29,1266408045715820544,Colombia Capitalista,ColCapitalista,Visión internacional de Colombia. #DefendTheSecond #Legalización #FreeMarket #SíguemeYTeSigo,http://pbs.twimg.com/profile_images/1266408591424196608/OMH2o8PL_normal.jpg,,2020-05-29 16:36:36,,,False,42,66,54,0,80,False,
+30,1144088051129434113,Lau_AA,LauAA9,"Dios bueno , bueno es Dios",http://pbs.twimg.com/profile_images/1145513877431562241/oYKT5UMR_normal.jpg,,2019-06-27 03:40:22,,,False,6,25,2,0,313,False,
+31,1217455725343055872,arturocabrales8,cabrales_ospino,"colombiano, me gusta la política y putear mamertos. #UribistaSigueUribista",http://pbs.twimg.com/profile_images/1242890343839907842/zLPUIZ3Q_normal.jpg,,2020-01-15 14:37:33,algún lugar de colombia,,False,1487,1923,1591,0,13501,False,
+32,1245762359072825344,Natalia 💛🖤🐍🇨🇴,Natalia88810806,🇨🇴🐍💛🖤,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-04-02 17:17:59,,,False,5,29,65,0,215,False,
+33,735996841,URIBENDITO,uribendito,URIBISTA desde un día antes de nacer @AlvaroUribeVel 🇨🇴 Saludos e insultos bienvenidos.,http://pbs.twimg.com/profile_images/1268075408131530752/BoKkB3Lx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-04 03:20:42,"Bogotá, DC, Colombia",,False,3911,5001,2385,0,8354,False,
+34,202486418,Joany González Wilch,JoanyGonzalezW,¡Generando Resultados!,http://pbs.twimg.com/profile_images/884032423784218624/ASJHEQET_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2010-10-14 04:08:59,"Boyacá, Colombia 🇨🇴",,True,134554,34385,3171,56,874,False,
+35,309980607,Camilo Enrique Diaz,grankike_182,"Abogado
+Psicólogo 
+Especialista en derecho constitucional. Catolicoy liberal, pero no uribista.",http://pbs.twimg.com/profile_images/1119019368644476929/Jd8gynO-_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-03 00:32:57,,,False,146,1061,1179,0,2640,False,
+36,900905533,edwin lopez,edwin4526,,http://pbs.twimg.com/profile_images/3301445436/9ee57cf60570f75e3efb1c694cf0a0a2_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-24 00:56:40,San andres islas,,False,3,16,6,0,2,False,
+37,48573939,Jose 🥚,dcfreak,"Vida, Libertad y Propiedad 😎 Mg. en Educación, Docente, Pedagogía Conceptual y Libertaria",http://pbs.twimg.com/profile_images/1236778556845436930/lbdmKioq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-19 02:03:53,,,True,603,1494,8578,1,9247,False,
+38,1614014101,𝕹𝖊𝖑𝖘𝖔𝖓 𝕵𝕽 𝕽𝖚𝖊𝖉𝖆 🐍,NelsonJrRueda,"𒂼𒅈𒄄 
+son muy anhelados los fines, pero son más importantes los medios🖒👌😉",http://pbs.twimg.com/profile_images/1263826113974984706/NCmL482i_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2013-07-23 00:40:38,,,False,201,1473,778,1,10895,False,
+39,4798808621,Camilo Gallardo,camilogallardoa,Los comentarios son personales no pertenecen a ninguna entidad a las que pertenezco,http://pbs.twimg.com/profile_images/1194283177096990720/BSfNeEf2_normal.jpg,,2016-01-13 23:46:45,,,True,1269,4973,20445,2,4398,False,
+40,181679670,Camilo Gallardo,jgallardo_sdm,Gracias por seguirme los comentarios que vas a encontrar son personales y no son de ninguna entidad a las que pertenezco,http://pbs.twimg.com/profile_images/1194283053360844800/ljGNPEl9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-08-22 20:15:27,"Bogotá, D.C., Colombia",,True,1937,4039,24584,7,4086,False,
+41,1184126440683520002,Sebastian G🐍,SebastianG_B,,http://pbs.twimg.com/profile_images/1232339760577941512/ryf2_AZh_normal.jpg,,2019-10-15 15:18:45,,,False,36,522,848,0,2720,False,
+42,500745577,Jeniffer Z Tovar Q,JenifferTQ,,http://pbs.twimg.com/profile_images/1170161777222574080/m19ZHKqG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-02-23 12:34:17,Colombia,,False,168,172,2543,0,445,False,
+43,222126637,José Luis,pishauko,,http://pbs.twimg.com/profile_images/1181090621936869377/gtPHpi46_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-12-02 14:52:22,,,False,124,271,2998,0,9222,False,
+44,155609955,David Cardona 😷,DavidCardonaS,"Software Developer. Hincha del Verde y de la Selección Colombia. Libertario, geek y aspirante a viajero.",http://pbs.twimg.com/profile_images/1197243129587478528/iq-S4nxV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-14 16:25:56,"Medellín, Colombia",,True,301,587,6605,4,2960,False,
+45,63159031,Cacique irreverente,apostol010,Diseñador Industrial Es Mi Estilo de Vida :Veo positivamente el comportamiento social Del entorno y lo cotidiano lo veo y lo percibo distinto desde mi ángulo...,http://pbs.twimg.com/profile_images/441265727254040576/bOGqV-m7_normal.jpeg,http://abs.twimg.com/images/themes/theme19/bg.gif,2009-08-05 15:16:10,Entre el cielo y el asfalto,,True,279,1263,1760,1,522,False,
+46,870129499635159043,Ramos Janeth,RamosJaneth1,,http://pbs.twimg.com/profile_images/1215593905137299456/VIRZGfbl_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-06-01 04:06:53,,,False,252,1119,205,0,174,False,
+47,2596328884,Neo Castro,nelsoncastro010,,http://pbs.twimg.com/profile_images/551048314003947520/A7liL5pv_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-06-09 23:38:41,,,True,50,221,67,0,54,False,
+48,1252366009555656704,elbastioncya,elbastiocya,"Somos un resguardo para la crítica, el análisis y la libertad",http://pbs.twimg.com/profile_images/1252411016459083778/298TyMWS_normal.jpg,,2020-04-20 22:38:43,"Barranquilla, Colombia",,False,24,58,82,0,373,False,
+49,297758115,Ideas libertarias,fabioavanegasb,"Soy administrador de empresas. Manejo varios blog en Internet sobre ciencia, política informática y religión.",http://pbs.twimg.com/profile_images/1163204098860158986/p6zaDB1B_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-13 02:05:46,"Armenia, Quindio, Colombia",,True,263,623,4531,7,590,False,
+50,1196669982651932672,Bektor More🇨🇴🇨🇱Héroe Patriota Liberal Colombia,BektorMore,"Ciudad Natal: Barranquilla, Colombia - La ContraRevolucionario - Apartidario - Nacional Libertario Conservador - AntiSistema de Verdad - Contestatario Barbaro",http://pbs.twimg.com/profile_images/1265399470616915969/Qp-qWEV2_normal.jpg,,2019-11-19 06:03:08,,,False,117,327,2697,0,4131,False,

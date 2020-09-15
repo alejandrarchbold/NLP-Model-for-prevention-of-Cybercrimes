@@ -1,0 +1,13 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,02:27
+,>>> Analyzed user:,JuanCTorres14
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,760123262571515904,SecretPeople,,4033,69,/BeLuckyBolaki/lists/secretpeople,BeLuckyBolaki,Fri Mar 20 08:11:44 +0000 2009,#BeLucky,For international sales please use Amazon  https://t.co/QmiC7GHWIA,24436,27742
+2,81720354,ClubSanderoColombia,sandero,6,0,/juano0616/lists/clubsanderocolombia,juano0616,Mon Dec 14 17:46:25 +0000 2009,Juan Moreno Téllez,Ingeniero mecánico!,114,121

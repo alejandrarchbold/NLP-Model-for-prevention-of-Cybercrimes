@@ -1,0 +1,70 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,15:05
+,>>> Analyzed user:,RealSaleemJuma
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1257744758786740225,RCTN,,127,0,/FrancisAaronUK/lists/rctn,FrancisAaronUK,Sat Sep 22 22:34:51 +0000 2018,FRANCIS AARON,"Individualist. Opponent of: woke drivel, social constructivist codswallop, anti-scientific nonsense, postmodern hogwash, and all other crackpot moral fashions",46,439
+2,15779337,Politics,Political schlubs,191,0,/DontDoubtDavid/lists/politics,DontDoubtDavid,Mon Jun 28 15:39:25 +0000 2010,David Barlow,"Christian. Huntington University alum. University of St. Francis alum. MBA, MHA.",235,486
+3,1153411830255149070,Fox,,62,0,/davidpenick/lists/fox,davidpenick,Sun Aug 29 22:43:05 +0000 2010,David A Penick,,39,1359
+4,1246768665246261249,members,,31,1,/LHAxelrod1/lists/members2,LHAxelrod1,Thu Dec 13 19:02:43 +0000 2018,L.H.Axelrod,"California escapee, Married, Trump Republican.",697,1148
+5,1283878906534273024,World Right Wing,Subject: world right wing messages,45,0,/PrSamChilders/lists/world-right-wing,PrSamChilders,Mon Jul 13 17:51:19 +0000 2020,Pr. Sam Childers,"Homem extremamente revoltado ao ver os maus se dando bem e/ou os bons se dando mal.
+
+Soldado do Exército do Senhor contra as hostes globalistas do Anticristo.",19,60
+6,1089387972540022784,Awesome,,672,0,/OdysseusPx888/lists/awesome,OdysseusPx888,Sat May 20 01:15:39 +0000 2017,P888,We have always been at war with Oceania,532,3700
+7,1257068045006245889,News I Care About,,124,0,/WatchingYou2020/lists/news-i-care-about,WatchingYou2020,Sun Jan 26 12:53:13 +0000 2020,WatchingYou,"Practico el TwitteoCombativo© NO LA VIOLENCIA. Podré no estar de acuerdo contigo, pero defiendo tu derecho a opinar hasta la muerte.",590,706
+8,1257068489304662018,WeStandTogether,,274,5,/WatchingYou2020/lists/westandtogether,WatchingYou2020,Sun Jan 26 12:53:13 +0000 2020,WatchingYou,"Practico el TwitteoCombativo© NO LA VIOLENCIA. Podré no estar de acuerdo contigo, pero defiendo tu derecho a opinar hasta la muerte.",590,706
+9,1257513007602524165,2020 election,,5,0,/Gaidheal_Alaska/lists/2020-election,Gaidheal_Alaska,Mon Nov 12 05:16:12 +0000 2012,Gaidheal Alascanach,#2A #AR15 1/2 MOA #μολὼνλαβέ #ΙΧΘΥΣ #francais #gàidhlig Concealed Carrier. 38 Super snob. People who offer insult for an argument will be blocked,1623,2362
+10,1281245283087605760,英語圏,,8,0,/rougee32/lists/list1,rougee32,Mon Jun 15 01:10:55 +0000 2020,るーじrougee,ごく普通な一般人 (im your average guy)ここ最近の世界情報で一言言いたい (i just want to say something because of everything thats happening this days)日本語力をなるべく気にしないでプリーズ(  ´•ω•`  ),758,1096
+11,962046510228631558,BOB,,298,1,/KevinAvellino82/lists/bob,KevinAvellino82,Fri Feb 09 02:41:52 +0000 2018,Kevin Avellino,,32,1648
+12,88791691,HC politics,,116,0,/ByroniusMaximus/lists/hc-politics,ByroniusMaximus,Tue Dec 16 20:23:35 +0000 2008,ByroniusMaximus,"Evidence-based policy depends on HONEST science. Disdain conventional wisdom - because once it becomes conventional, it's not wisdom for very long.",212,392
+13,1270836374623707137,Antifa,Portland,8,0,/floridakitty/lists/antifa,floridakitty,Sun Mar 08 13:13:37 +0000 2009,Rebel,,52,454
+14,1277911754937454593,USA Red,,27,0,/jmakingmoneyo/lists/usa-red,jmakingmoneyo,Tue Mar 10 16:18:45 +0000 2015,Working Online,"#remoteworking - online #marketing, #SEO, #PPC, #socialmedia, #digitalmarketing #contentmarketing #freelancer #wfh London UK",3898,3685
+15,1275050653308444675,News,,210,0,/glarencez/lists/news,glarencez,Sat May 15 13:15:26 +0000 2010,Glarence Zhao,shalom,90,2538
+16,41183130,News,,432,10,/elainesz/lists/news,elainesz,Tue Dec 30 05:06:14 +0000 2008,✝️♥️🗽🇺🇸elainesz🇺🇸🗽❤✝️,"🇺🇸Patriot 🇺🇸 ✝️Jesus, I trust in you✝️📖Classic literature🎨Art📺News👟Health🥗🍷Food and Wine🍹💜Flamingoes 💜#LiberalismIsAMentalDisorder",458,1934
+17,7092727,🥇,Gold,293,5,/Acidsmooth/lists/list,Acidsmooth,Sun Nov 16 02:53:50 +0000 2008,J.😷Austin🧻Graham🧼,Comedian | Photographer | Free speech advocate | race-nonconforming | Always Anti-Bad Guy!,1195,2176
+18,995409711787859968,My Favorites,,420,0,/mn_stan/lists/my-favorites,mn_stan,Sat May 12 20:23:20 +0000 2018,Patrick Who Teaches,Choose Again,535,1415
+19,1272666068356444160,Chaz,Seattle autonomous zone,15,0,/rickydtemple/lists/chaz,rickydtemple,Thu Aug 25 14:47:16 +0000 2011,Rick Sanchez from Earth Dimension C-137,"Grumpy, emotionally unstable, rude ill-tempered, dismissive, cynical, narcissistic, self-centered, destructive, incredibly intelligent, alcoholic, self-loathing",41,656
+20,947365286046519296,News,,52,0,/ageaios/lists/news,ageaios,Thu Apr 23 02:19:43 +0000 2009,Ageaios,,176,795
+21,1029730562817318912,News Commentators,,17,0,/pandora1002/lists/news-commentators,pandora1002,Sun May 17 18:19:06 +0000 2009,Pandora 1002,,136,723
+22,17505456,world,world,324,3,/mir0_/lists/world,mir0_,Sat Sep 19 22:29:08 +0000 2009,ミロ,"🐶と🐱が大好物♪という以外、コレといった思想・信仰・信条・信念・観念…支持政党がナイ、元サヨクかぶれの一般ピーポーのミロが、超個人的主観に基づき勝手気儘につぶやいています♪ 基本ＤＭはみません。持論がある方は誰でもフォローバックするつもりです。
+🍎ブロックしない主義🍎",4807,4708
+23,1179582319318974464,Blexit,,65,0,/ToadonaWire/lists/blexit,ToadonaWire,Fri Jan 02 23:08:52 +0000 2009,Linda,Go toad go!,3765,974
+24,953909791696543744,news,,131,0,/Red_Nec/lists/news,Red_Nec,Wed Mar 12 16:05:43 +0000 2014,"George, animal préhistorique de droite","Amateur de Winchester, de cigares et de Stetson.",570,1342
+25,92715438,News - National,,69,0,/KelvinSchipper/lists/news-national,KelvinSchipper,Sun Dec 07 21:12:57 +0000 2008,Kelvin Schipper,☕️🍷🥃Drinks • 💪🏽Fitness • 🌱Growing Back to Eden • 🐶🐶 • 🎅🏽 🏝 🛳 Traveling the World 🛩🌎 w/ my best friend @ShaySchipper 💍 📍WA’s rainy side,476,578
+26,1272340557772263426,Seattle,,17,0,/cookiemagic/lists/seattle,cookiemagic,Sat Mar 14 13:41:39 +0000 2009,Kel S,,22,2023
+27,951889690147176448,Hate Speech,"Accounts spreading racist, violent, eliminationist hate speech on Twitter",676,3,/abroshar/lists/hate-speech,abroshar,Thu Apr 10 01:11:16 +0000 2008,Anne “Arrest The Murderers of Breonna Taylor” B,"electric word, life. she/her. #BlackLivesMatter",1620,1314
+28,1272003708973232131,On-Site CHAZ Reporters,Reporters on the ground at CHAZ,11,2,/be_the_press/lists/on-site-chaz-reporters,be_the_press,Fri Apr 24 06:01:57 +0000 2020,α betty,"If we can't free the press, then we must be the press.",39,246
+29,93484636,People List2,,302,0,/johnrvw/lists/people-list2,johnrvw,Fri Jul 17 01:34:51 +0000 2009,JVW,The greatest pleasure in life is doing what people say you cannot do,839,3051
+30,1260001508629770240,WA State,,48,5,/WalkInVerse/lists/wa-state,WalkInVerse,Wed Oct 29 05:15:55 +0000 2014,WIV (parler : WalkInVerse),"Ex-Journalist back in the game. Fighting & exposing tyranny through action, #podcast, #politics, and prose | #book is here! Get your copy at the link below ✍",5271,3616
+31,631306,my faves,,989,11,/donbFedUp/lists/my-faves,donbFedUp,Fri Apr 03 22:29:23 +0000 2009,dude ex machina - Liberate Washington:EVICT INSLEE,Computer/Data Geek.Semi-autodidact. Lover of Bill of Rights:NRA Patron Life. Woman-ogling fiend trapped in the body of a gentleman.,3166,3353
+32,1234678013494624262,Great Awakening,great awakening,125,0,/from_thestars/lists/great-awakening,from_thestars,Thu Mar 12 14:50:59 +0000 2009,From the stars,#truth #FullDisclosure #MAGA #GreatAwakening #IStandWithTrump #WWG1WGA #DrainTheSwamp  #DarkToLight #TakeTheOath 17 Parler: https://t.co/7s3HUaAAlC…,2625,1170
+33,46001674,DeetzFaves,Teachable News & Punditry,1267,24,/tahDeetz/lists/deetzfaves,tahDeetz,Wed Apr 01 02:36:49 +0000 2009,Generic Football Team Deetz,"Epstein didn't kill himself. China Is Asshoe! Not an Asshoe, can't refollow. At Parler, same name.",8256,8958
+34,1267024916693389312,🚔# G e o r g e F l o y d,,164,0,/jlabliss/lists/g-e-o-r-g-e-f-l-o-y-d,jlabliss,Thu May 26 02:52:04 +0000 2016,jlabliss,• earth activist • medical worker • student of herbs • collage art • podcast geek • intuitive reader • community integrator • permacultural designer •,80,776
+35,1186284920018214912,Primary Sources,,773,0,/Zip_It_Hippie/lists/primary-sources,Zip_It_Hippie,Tue Mar 07 20:44:02 +0000 2017,Flavius Josephus,"Scale of the number 'trillion':
+1 million seconds = 11.57 days
+1 billion seconds = 31.7 years
+1 trillion seconds = 31,710 years",491,3807
+36,1177266968405188608,Cbc,Cbc Sasa Carolyn Leo Spielberg Cbc location search,321,0,/power21rocks/lists/cbc1,power21rocks,Mon Apr 20 01:18:23 +0000 2015,Power21rocks,tweeting...,213,5001
+37,812131631792345090,Politics,,349,3,/notJ_McKee/lists/politics,notJ_McKee,Tue May 01 22:44:36 +0000 2012,Jeff,everything is dumb,1573,2519
+38,1228620049654538240,A,,16,0,/Hawksea24/lists/a3,Hawksea24,Wed Jan 29 06:37:03 +0000 2014,The What,,157,294
+39,1229818418930634753,List,accounts,849,0,/fatbuckelV2/lists/list,fatbuckelV2,Mon Apr 02 16:45:13 +0000 2018,Fatbuckel,Every breath I take without your permission raises my self esteem. @fatbuckelV3 when they ‘accidentally’ suspend this account again.,141,145
+40,850558536555692036,USA,,171,2,/JaphyRyder32/lists/usa,JaphyRyder32,Fri Oct 30 10:51:32 +0000 2015,Japhy Ryder,"""To the HORIZONS and BEYOND!""
+https://t.co/XbVMIQHfwB",1648,2494
+41,233310433,Social Media,,84,2,/JaphyRyder32/lists/social-media,JaphyRyder32,Fri Oct 30 10:51:32 +0000 2015,Japhy Ryder,"""To the HORIZONS and BEYOND!""
+https://t.co/XbVMIQHfwB",1648,2494
+42,1191382956662648832,Politics,,48,0,/NikolasByDesign/lists/politics,NikolasByDesign,Wed Sep 14 08:02:18 +0000 2011,Nɪᴄʜᴏʟᴀs Bʏ Dᴇsɪɢɴ,Senior Software Engineer • Startup Bro • Infantry OIF Combat Vet • Friendly Neighborhood Sparring Partner • @mylinkzio • #PDX,463,258
+43,9387833,🥈,Silver,693,6,/Acidsmooth/lists/list1,Acidsmooth,Sun Nov 16 02:53:50 +0000 2008,J.😷Austin🧻Graham🧼,Comedian | Photographer | Free speech advocate | race-nonconforming | Always Anti-Bad Guy!,1195,2176
+44,2056200,🥉,Bronze,1045,11,/Acidsmooth/lists/list2,Acidsmooth,Sun Nov 16 02:53:50 +0000 2008,J.😷Austin🧻Graham🧼,Comedian | Photographer | Free speech advocate | race-nonconforming | Always Anti-Bad Guy!,1195,2176
+45,7092911,Political,meh,283,1,/Acidsmooth/lists/political,Acidsmooth,Sun Nov 16 02:53:50 +0000 2008,J.😷Austin🧻Graham🧼,Comedian | Photographer | Free speech advocate | race-nonconforming | Always Anti-Bad Guy!,1195,2176
+46,1178927503110332416,US News and Commentary,,180,1,/realDeputyJones/lists/us-news-and-commentary1,realDeputyJones,Thu Jul 12 13:03:15 +0000 2018,(Parler: DeputyJones),"capitalist, liberal, antifa is a terrorist organization",1496,42
+47,1078300404402798592,lifestyle,,95,0,/vxtrade/lists/lifestyle,vxtrade,Thu Aug 28 07:05:09 +0000 2008,DVV💎,"Psychologist, psychotherapist & trading aficionado. ☦ Romanian based in the Land of Leprechauns . Immune to the infection of neomarxism & political correctness.",703,11
+48,1191234921018224642,Scary Seattle People,,4,0,/deger/lists/scary-seattle-people,deger,Sun Nov 30 22:56:31 +0000 2008,deger,designer.,25,193
+49,1080650402146570240,Dumber than a brick,Instead of critical thinking faculties they have a steaming turd,17,0,/__Scott_Free__/lists/dumber-than-a-brick,__Scott_Free__,Thu Nov 15 05:34:15 +0000 2018,"If I wasn’t Antifa before, I sure as shit am now","It’s madness to have a traitor, a nihilist, a criminal, or a fool as your leader. Trump is all four.    
+Warren Harris 2024 🏳️‍🌈",193,713
+50,216906831,Politics,Everything politics from a mostly conservative slant,819,3,/bpjauburn/lists/politics,bpjauburn,Mon Jun 15 18:03:43 +0000 2009,BPJ,"Finance guy, Markets, Economics, Technology, #Auburn Sports, Music,  Politics, Snark, Sarcasm, US Taido Black Belt.   Matt 11:28-30   RT ≠ endorsement",1240,1714

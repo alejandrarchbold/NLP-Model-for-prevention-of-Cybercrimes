@@ -1,0 +1,102 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,16:25
+,>>> Analyzed user:,Tlal52424124
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,2830718157,Margaret Casely-Hayford CBE,MCaselyHayford,Chair Shakespeare'sGlobe/Chancellor Coventry University/Co-op Group MNDirector./Progressive Centrist -if it's a thing! Views my own.,http://pbs.twimg.com/profile_images/789628858697936897/cbQZedIz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-15 00:10:12,,,False,2746,1761,11786,12,66297,False,
+2,1286049309730000902,Windrush Lives,WindrushLives,Justice and fair compensation for Windrush victims persecuted by the ‘hostile environment’. Currently campaigning for ex-serviceman Anthony Williams.,http://pbs.twimg.com/profile_images/1286050413788176387/fwvWjOcm_normal.jpg,,2020-07-22 21:24:18,"London, England",,False,165,377,86,1,78,False,
+3,722731813,Merlot #Blacklivesmatter #proEU,sharonwllms48,"Blocked by Julia Hartley-Brewer & David Vance. A people that elect corrupt politicians, impostors, thieves, & traitors are not victims but accomplices.",http://pbs.twimg.com/profile_images/1279376054508011521/hdG1Nztd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-28 19:52:20,🇪🇺 🇯🇲🇺🇸🌹🌈,,True,11909,11971,32276,14,69324,False,
+4,28882275,David Olusoga,DavidOlusoga,British-Nigerian Historian - BAFTA winning TV Presenter/Producer - Professor of Public History at University of Manchester.     AGENT cwalker@unitedagents.co.uk,http://pbs.twimg.com/profile_images/816310985338322944/ILi-TlMG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-04-04 22:15:33,UK,,False,142004,1043,7302,536,521,False,
+5,1248320221561192448,Princess 🌹,0by0keke,"𝐼𝒻 𝓎𝑜𝓊 𝒹𝑜𝓃’𝓉 𝒽𝒶𝓋𝑒 𝑔𝑜𝑜𝒹 𝒾𝓃𝓉𝑒𝓃𝓉𝒾𝑜𝓃𝓈, 𝓁𝑒𝒶𝓋𝑒 𝓂𝑒 𝒶𝓁𝑜𝓃𝑒 ✨🌻",http://pbs.twimg.com/profile_images/1280991116792397824/BKsUTk0m_normal.jpg,,2020-04-09 18:41:59,,,False,517,508,1159,0,1289,False,
+6,1045110787,Mary L Trump,MaryLTrump,"#blacklivesmatter, 🏳️‍🌈,she/her/hers",http://pbs.twimg.com/profile_images/3037615597/d4fd27be95cc3f4cbe6da12a333e8a5f_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-29 14:59:10,New York,,True,343062,755,597,548,1337,False,
+7,297406321,Tony Green#RTRR🇬🇧😻🇪🇺UltraRejoiner#FBPE,NoIAmTonyGreen,"The Angel wants to go back to fix the things
+To repair the things that have been broken.
+But there is a storm blowing from Paradise ...",http://pbs.twimg.com/profile_images/1240304195435184128/r-k9RjBW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-12 13:24:15,European Union (London),,False,7271,7919,52805,23,67362,False,
+8,1282034222715285505,Corruption UK,corruptionukorg,Citizens’ fight against corruption. Fearless and transparent. Submit your stories. Funded by/for citizens. We only follow persons of interest. @nw_nicholas,http://pbs.twimg.com/profile_images/1282036080401960961/68kdFT_Y_normal.jpg,,2020-07-11 19:29:22,Everywhere ,,False,16064,104,794,25,513,False,
+9,289377954,Black Boris,Angelo3000k,"Black Guy in a Box 
+https://t.co/MYoTNXE7l5
+https://t.co/YbGJ23R7p3
+Writer
+Theatre Critic @ hotpotatohull
+Coach
+Researcher
+Curator",http://pbs.twimg.com/profile_images/1280749670399172608/tTDGjgKw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-28 14:57:24,A man without a country,,False,8199,548,5161,20,3496,False,
+10,1181684004266954760,Maud_dib,Mauddib8,"#WindrushAction #windrushvictim #Housing4all 
+#Justice4TheWindrushvictims #LongLiveTheFighters #MRM #WG #N22 #BS5
+The sleeper Has awakened",http://pbs.twimg.com/profile_images/1286366813715079179/PHhqwblA_normal.jpg,,2019-10-08 21:33:30,Dune aka Arakis ,,False,125,394,3695,0,5161,False,
+11,1225487032899788806,jamesfineartofficial,jamesogambafin3,"visual art
+contemporary hyperrealism artist..
+for commissions an sales enquiries...
+follow IG jamesfineartofficial
+
+
+
+call...+2347065139736",http://pbs.twimg.com/profile_images/1288087600297848833/_gH66myv_normal.jpg,,2020-02-06 18:31:06,Nigeria,,False,197,298,116,0,211,False,
+12,14716726,jimmytheking,jimmytheking,"I got forty red, white and blue shoestrings
+And a thousand telephones that don’t ring
+Do you know where I can get rid of these things?",http://pbs.twimg.com/profile_images/1585002703/peterstorey_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2008-05-09 19:00:03,London,,False,99,880,2267,1,1600,False,
+13,155286024,Kelvin Okafor,KOkaforart,"Official Twitter Page for London based pencil artist, Kelvin Okafor",http://pbs.twimg.com/profile_images/479774924567891972/kIYJ9pUr_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-13 18:06:48,"London, UK",,False,15569,197,2917,111,184,False,
+14,226218713,George C Linton-Salmon,PREACHEROO7,"Oral Historian, Social Expounder, Fighter, Friend. British By Accident, Jamaican By Force, African By God. My signature betrays my character & at times my name.",http://pbs.twimg.com/profile_images/1151395456708218881/D5_d1cqw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-12-13 16:38:44,London,,False,1646,4999,10214,16,6317,False,
+15,1272076433993510912,Learn Something,Iearnsomethlng,"Discover amazing photos while expanding your mind. Learn something new every day with us.
+
+*parody* contact- manish001verma@gmail.com",http://pbs.twimg.com/profile_images/1275831755610587136/d7LCvLlq_normal.jpg,,2020-06-14 08:00:42,,,False,470229,0,206,571,456,False,
+16,1118423440581591040,"ΉΣᄂIᄃӨП,",__Helicon__,,http://pbs.twimg.com/profile_images/1257943539268419585/twWazqHb_normal.jpg,,2019-04-17 07:58:22,Ἑλικών,,False,5021,4344,8004,18,12821,False,
+17,19720381,Alexandra Burke,alexandramusic,Contact: info@alexandraburkeofficial.com,http://pbs.twimg.com/profile_images/1010428709675962368/hnPmkoWZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-01-29 17:03:00,🌙,,True,614208,2041,22591,2162,8730,True,
+18,2518668701,I'm A B B I E 🐝🌹🌈,liebeeinebiene,"✌️ h i p p i e v i b e s. hater of social injustices. anxious. socialist. environmentalist. feminist. dog loving. plant mum. friendly, say hi 🌵",http://pbs.twimg.com/profile_images/1286295632517435394/Woyqn4hv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-30 09:20:12,"North East, England",,False,580,484,1552,3,17134,False,
+19,2296533746,Synraven,Synraven,"Campaigning against the cruel and unjust minimum income requirement for the uk spouse visa.
+Supporter of CANZUK and all that it stands for 🇨🇦🇦🇺🇳🇿🇬🇧",http://pbs.twimg.com/profile_images/1286484622931419136/eyBzukjH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-17 18:02:03,Exiled #HostileEnvironment ,,False,84,204,611,1,406,False,
+20,317946371,charlesTdale,charlesTdale,"Official Charles Dale, actor.Casualty+Coronation St. among others. ”The Laureate Of Lockdown”-@mrjamesob Sweary words ! Charles https://t.co/7htpZ1MeOe https://t.co/I3uKCLm5O8",http://pbs.twimg.com/profile_images/1268059465468776448/ZO_CJoOZ_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-06-15 18:35:14,Cardiff,,True,30239,1362,13531,77,1843,False,
+21,761558787119575040,"Justin Wilson, II",babyboydrummer,Adorable 5yo drummer and lover of music,http://pbs.twimg.com/profile_images/1272710747886243842/MJoTm187_normal.jpg,,2016-08-05 13:45:38,"Los Angeles, CA",,False,7811,0,9,4,7,False,
+22,1155693291066646528,johninrosc,johninrosc,For the many not the few,http://pbs.twimg.com/profile_images/1270137157785714693/gYsJ3Id__normal.jpg,,2019-07-29 04:15:27,,,False,177,269,2241,0,5347,False,
+23,18939894,Damien Irving,IrvingIT,"Media Managing, verbal haggling, propriety violator.",http://pbs.twimg.com/profile_images/1219924392471420929/cqkQkFUZ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-01-13 14:54:45,Laan-don,,True,148,359,2401,0,9293,False,
+24,14542977,Tom Joseph,TomJChicago,"Technology, finance, science, history, geopolitical chess. Exposing the propaganda machine. Link has dementia info.
+https://t.co/VOvS4yquUz",http://pbs.twimg.com/profile_images/1164525382198018048/eDpgXewW_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2008-04-26 12:12:37,"Chicago, IL",,False,146498,9885,15876,670,130848,False,
+25,1247292557048066051,Have You Heard George's Podcast?,HYHGP,"Official page for the multi-award winning #HaveYouHeardGeorgesPodcast?
+Written by @georgethepoet. Produced by @thisisbenbrick. Exclusively on @bbcsounds.",http://pbs.twimg.com/profile_images/1247293248483311622/hNk88JNq_normal.jpg,,2020-04-06 22:38:24,,,False,333,18,67,3,64,False,
+26,20240087,BENBRICK,thisisbenbrick,Making the Peabody Award winning @HYHGP with @georgethepoet for @BBCSounds.  Composer & multi-million selling songwriter.,http://pbs.twimg.com/profile_images/1049369119471128576/978kR5Dn_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-02-06 14:29:23,"London, England",,False,3732,929,2066,30,8698,False,
+27,46335511,Trevor Noah,Trevornoah,"Comedian from South Africa. I was in the crowd when Rafiki held Simba over the edge of the cliff, like an African Michael Jackson.",http://pbs.twimg.com/profile_images/1069797760696750080/Xtk6U_2R_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-11 07:03:48,"New York, NY",,True,10829014,327,11188,11118,1715,True,
+28,2846503595,Susan hopeful 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿⭐️ 🇪🇺🌼🔶🕊🐝🏘,SusanPickin,"Be gentle. A compassionate world; responsible caring government; pro skills, creativity, tech & business, IP, avoid Brexit damage; BLM, zero Covid19.",http://pbs.twimg.com/profile_images/1283074926707171328/mnySdUhl_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2014-10-27 10:24:12,United Kingdom,,False,3682,4999,76101,44,70675,False,
+29,60059126,Jamelia.com 💫,Jamelia,Let The Rebellion Begin... For All Bookings/Enquiries Contact 👉🏾 enquiries@jamelia.com 👈🏾,http://pbs.twimg.com/profile_images/1272542687217037313/vro-SjBV_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-07-25 13:40:13,Deh Yah,,True,44895,803,4928,288,5277,True,
+30,22851927,Mo Gilligan,MoTheComedian,[Comedian/Actor] Mo Gilligan Bookings:polly@utcartistmanagement.co.uk Snapchat & Insta: MoTheComedian,http://pbs.twimg.com/profile_images/1179083642053779456/vqcabrNK_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-05 00:18:37,"London, England",,True,186119,1226,52859,198,10384,True,
+31,132029493,T. Greg Doucette,greg_doucette,"Ex-computer scientist, now criminal defense & 1A attorney in NC+TX. Host of @fsckemall. Dog lover. #NeverTrump conservative. Proud alum of @NCCU and @NCState.",http://pbs.twimg.com/profile_images/1273443817425903616/3PATsxSh_normal.jpg,http://abs.twimg.com/images/themes/theme7/bg.gif,2010-04-12 02:41:44,Durham NC,,True,134720,980,190569,1024,134490,True,
+32,2527004532,We The Woke,wethewoke,"FIRST go manifesto in 2001 (see website 👇)
+Parliamentary candidate vs. Jeremy Hunt in 2005. Came LAST.
+President of the SDP in 2015
+Clean sweep with @NewBrume",http://pbs.twimg.com/profile_images/1285497280234217472/CtfmwGCR_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2014-05-27 09:21:55,Garbage Patch Mid-Atlantic,,True,1281,161,12402,19,6354,False,
+33,1256530446646751232,Belinda J,bukkyalabigmai1,Campaigning against the harsh uk immigration rules separating me from my non EU husband. #hostileenviroment #ukspousevisa #scrapmir #priceonlove,http://pbs.twimg.com/profile_images/1259872106793381890/yThqf614_normal.jpg,,2020-05-02 10:26:36,"London, England",,False,97,317,1759,1,2762,False,
+34,69398044,Clean Willy,ike_aramba,Bodacious Cowbuoy.,http://pbs.twimg.com/profile_images/1259482800669024256/s1_bMf5H_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-08-27 20:40:12,,,False,82,303,3598,1,2703,False,
+35,19902709,Beth Rigby,BethRigby,"Political Editor, Sky News",http://pbs.twimg.com/profile_images/1134183365802901504/o2e-pkAB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-02-02 11:39:52,,,True,311074,1852,40077,2540,6289,True,
+36,1046816993524023303,Mkuu Amani,Mkuu_Amani,"UK Reporter : @tocaribnews @midlandsboxing - covers stage, screen, sports & community | ✌🏿 | Guest Contributor : @BritBlacklist @JamaicaGleaner  | 👉🏿 Views Mine",http://pbs.twimg.com/profile_images/1287348703607640064/WxaW90z8_normal.jpg,,2018-10-01 17:39:54,,,False,250,195,8110,2,8755,False,
+37,4244517197,Stefs animal rescue 🌱🐾🌍❤️,Gr3ffi,"Very small home based #vegan animal rescue.  Facebook link @stefsrescue rescue hen page @Gr3ffi rescue, rehabilitate and rehome ❤️ https://t.co/BDMuBzwvXE",http://pbs.twimg.com/profile_images/1283642462007889921/hz4SPA3T_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-11-21 20:14:26,"Durham, England",,False,2431,1963,95618,85,81336,False,
+38,64452472,Tez,tezilyas,,http://pbs.twimg.com/profile_images/1265661886667816965/aJtS58-K_normal.jpg,http://abs.twimg.com/images/themes/theme18/bg.gif,2009-08-10 17:02:17,"Blackburn, England",,False,54136,951,10278,190,87057,True,
+39,46427981,Meggie Foster,meggiefoster,"I can't believe I can't believe it's not butter, is not butter. Actress and voice artist. Subscribe to my YT below! insta: @meggiefoster Agent: @dawnsedgwickmgt",http://pbs.twimg.com/profile_images/1276065379660500992/WFj8Lr0w_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-11 16:42:02,"London, England",,True,113635,866,2868,160,56,False,
+40,391158484,Angelique Richardson,ProfARichardson,"Prof. BME. BLM. Expertise in class, anti-racism & eugenics. Decolonise. Justice. 🌹 Views own. PI: https://t.co/aXMiU2WUlv
+🏳️‍🌈🇪🇺 🇱🇰🕊",http://pbs.twimg.com/profile_images/869163721419096064/M9QFENyg_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-15 04:18:57,Exeter,,False,6901,7586,19793,15,26231,False,
+41,92620045,Proenca P,brownythefirst,Portuguese 🇵🇹 girl 🙋🏽‍♀️ living in the UK 🇬🇧 . #nhsworker 🏥 £brownythefirst #blacklivesmatter,http://pbs.twimg.com/profile_images/662805125916925952/PulfXRhA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-11-25 21:51:13,,,False,188,803,4522,2,30037,False,
+42,1164367076972277760,HUSKY HEAVEN 🇺🇸,HUSKYLOVERSUSA1,"Welcome to best #husky lovers community 🔥
+Follow  us,If you love #husky.
+This page is dedicated #huskys owners and lovers!🔥
+🔜Click here to my shop...",http://pbs.twimg.com/profile_images/1275803399900917760/Y23P89RV_normal.jpg,,2019-08-22 02:43:19,"New York,USA",,False,12746,0,1146,26,5685,False,
+43,4892168259,Pomanda,PomandaCo,"Big Data on Small Business. Pomanda allows you to screen ALL UK companies by 100s of metrics, delivering 1 billion unique data points",http://pbs.twimg.com/profile_images/854995353581518848/q9JQm7CK_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-02-09 15:33:49,"London, England",,False,4671,615,854,26,97,False,
+44,1244268621033017344,Yorkshire Bylines,YorksBylines,"Independent citizen journalism, based in Yorkshire. Progressive, internationalist, speaking truth to power. Email us at editor@yorkshirebylines.co.uk",http://pbs.twimg.com/profile_images/1270408891881467906/TnP57Ov4_normal.jpg,,2020-03-29 14:22:48,"Yorkshire, England",,False,8662,6524,1994,32,1891,False,
+45,1175796905542111233,According to the Nature,ScienceNature6,Unique perspective of science and nature.,http://pbs.twimg.com/profile_images/1260887510604972033/wIz49wm2_normal.jpg,,2019-09-22 15:41:07,London,,False,14229,12718,774,64,1226,False,
+46,3391702329,chris,Chrisjf1984,Eat the rich. Vive la révolution,http://pbs.twimg.com/profile_images/1271900519137673218/LF79yuAB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-28 09:40:21,,,True,379,827,7444,0,11062,False,
+47,948473670996983808,𝖆𝖑𝖎𝖈𝖎𝖆 🦇,WoodIandWitch,"""The biggest asshole on twitter""
+
+Bookworm 📓🕯Nature Lover 🍂🐞Spooky Mum 🕸🕷 
+
+845.
+
+@AviSipsTea🖤
+
+
+Toss a coin to your witch(er):£AliciaShadowmoon",http://pbs.twimg.com/profile_images/1287431610116308994/2LLaTxsz_normal.jpg,,2018-01-03 08:38:39,"West Midlands, England",,False,3485,2305,28914,0,65700,False,
+48,333309608,Ian Ford,ij_ford,"Production editor at the Guardian, screenwriter, occasional game reviewer and full-time cynic. The Guardian wishes it had my views",http://pbs.twimg.com/profile_images/1286605075591438337/WM5EqgPz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-11 10:09:01,London,,True,11924,3459,23763,37,64201,False,
+49,1177293450988986369,Mixed Race Marriage Pride 🇬🇧🇹🇭,MRMarriagePride,A Campaign by @jasonunsworthAA & @Shongchompu for the @ukhomeoffice to drop the discriminatory UK spouse family visas required for all 🇬🇧 & foreign couples.,http://pbs.twimg.com/profile_images/1177299541671993344/RObNvv3y_normal.jpg,,2019-09-26 18:47:04,United Kingdom & Thailand,,True,175,997,4046,1,4721,False,
+50,3938173949,Kay 🌎,KayKosmos,Global Citizen. Healthcare For All. Medicine. Science. Humanitarian Action. Justice. Education. Animal and Human Rights. Progressive Policies. Compassion. Peace,http://pbs.twimg.com/profile_images/1279502436906893312/HH1B7mdV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-12 15:21:38,USA,,True,156781,141511,1130,537,9754,False,

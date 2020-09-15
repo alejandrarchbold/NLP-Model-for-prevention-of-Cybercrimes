@@ -1,0 +1,13 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,21:33
+,>>> Analyzed user:,BLACKLI40384326
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1321157120,AlixAnarchic,alixanarchic,No,http://pbs.twimg.com/profile_images/1269640862188920839/fAXOIyiT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-01 20:58:56,,,False,579,1437,11365,6,8593,False,
+2,1254964432402333698,El :),ElStevens04,learning and improving,http://pbs.twimg.com/profile_images/1286745592203489280/K4hk80QZ_normal.jpg,,2020-04-28 02:43:44,,,False,48,74,235,0,579,False,

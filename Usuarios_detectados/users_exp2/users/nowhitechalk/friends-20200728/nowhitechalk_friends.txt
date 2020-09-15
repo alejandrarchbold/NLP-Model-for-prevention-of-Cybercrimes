@@ -1,0 +1,93 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,23:45
+,>>> Analyzed user:,nowhitechalk
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1067768676865241091,Hamilton Lincoln Law Institute,HamLincLaw,"Free-market public-interest litigation firm, led by Melissa Holyoak and @tedfrank. New home of @CCAF. Free speech, separation of powers, class action fairness.",http://pbs.twimg.com/profile_images/1074700794862149637/6xMZ4v0F_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-11-28 13:14:25,"Washington, DC",,False,494,113,186,7,17,False,
+2,1005846500583321601,Alexander S. Vindman,AVindman,Husband. Father. Brother. Son. Soldier. Diplomat. Immigrant. NATSEC warrior. Eurasia Specialist. Patriot. Defender of the Constitution... Useful Public Servant!,http://pbs.twimg.com/profile_images/1259494381788282883/RH3Dho7l_normal.jpg,,2018-06-10 16:17:48,,,False,340096,433,44,403,143,True,
+3,988642091675734017,Garrison Davis (Teargas Proof),hungrybowtie,"Portland based journalist, vids in @abcnews @nbcnews @reuters @newshour, they/he Cashapp- $hungrybowtie PayPal https://t.co/e0KK4Jmm7W",http://pbs.twimg.com/profile_images/1286540244007804928/r6MkR4Hb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-04-24 04:53:37,"Portland, OR",,False,41130,196,2510,453,119,False,
+4,25974425,Paul van der Meer,Paul_VanDerMeer,"Psychologist/researcher/writer
+Desperately looking for the truth",http://pbs.twimg.com/profile_images/1158124038574792706/a4IJyvLU_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-23 08:57:57,"Valencia (Valencia), Spain",,True,39792,41180,35938,60,130433,False,
+5,161563071,@jevinwest,jevinwest,"Assoc. Professor @UW_iSchool, Director of Center for an Informed Public @uwcip. I study misinformation in science & society. Book: https://t.co/37LBNmiuyI",http://pbs.twimg.com/profile_images/1097915566151557125/ZfZxxpzv_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-01 04:44:16,"Seattle, WA",,False,5711,129,301,165,42,True,
+6,763156668699975680,Calling Bullshit,callin_bull,Calling Bullshit: Examples and opinions from instructors @CT_Bergstrom and @JevinWest at the @UW. Book coming August 4th: https://t.co/XiU8wBbybO,http://pbs.twimg.com/profile_images/763207337972633603/-lM6MRvb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2016-08-09 23:35:03,"Seattle, WA",,True,18100,2859,2820,271,9410,False,
+7,3038389152,Beth🌊,justabadazz,When will media figure out they should ignore shiny objects trump throws at them & report on his 100s of conflicts of interest & his being owned by mob?#resist,http://pbs.twimg.com/profile_images/1249775527541370880/ChY3e5at_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-23 19:19:13,West coast elite😏,,False,2207,2118,90645,31,74190,False,
+8,2724597409,Peter Ellis,ellis2013nz,Chief Data Scientist @NousGroup. Wide-ranging interests.  Tweets represent my views and are most likely to be about data and #rstats. Australian.,http://pbs.twimg.com/profile_images/618224596798476288/n9IN8hcm_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-08-11 20:01:32,"Melbourne, Victoria",,True,2807,1994,5192,132,10718,False,
+9,1223054966379765762,Lisa Maxwell 🌊🌊,LisaMaxResist,"#TsunamiBlueWave2020 
+ The 3 p's! People, pets and personality.🚫racism☯️⚛♊
+Unapologetically myself! Citizen of the World 🌎💞🌈❄🌡⛅🌠NO LISTS, TY#TheResistance",http://pbs.twimg.com/profile_images/1264156233285750784/ziswYc_w_normal.jpg,,2020-01-31 01:26:57,"Texas, USA",,False,10550,6138,8392,13,23125,False,
+10,242537521,Medium Rare,MediumRareDC,"We specialize in one thing: simplicity.Our exclusive culotte steak,a very “secret” sauce, fresh cut fries, fun desserts & the best bottomless weekend brunches",http://pbs.twimg.com/profile_images/3298914508/20784a2d0ab72f3915bb784380989e6f_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-01-25 00:51:40,"Washington, DC, Bethesda, MD, Arlington, VA",,True,3927,4849,11764,82,7530,False,
+11,1187747527,Ken Unger,LungMD01,"Pulmonary, Critical Care, Hospice and Palliative Medicine. Passionate about affordable health care for all. 🌊 @Indivisible_SP 🌊#VetsResistSquadron",http://pbs.twimg.com/profile_images/3263797497/e2fd7b6d1745474d3ab781e03ed77856_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-16 23:10:30,"San Pedro, Los Angeles",,False,37273,39218,85759,20,127826,False,
+12,460549254,FondFarewellFlacco,FoxForceFlacco,Too much Baltimore sports for the political radicals and too much political radicalism for the Baltimore sports fans,http://pbs.twimg.com/profile_images/1267087814950359041/FTzaPFnI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-01-10 21:45:59,Baltimore,,False,699,989,10973,8,11438,False,
+13,21443697,Jay Rouse,JayRouseDC,"Husband, Father of three, Political Consultant, Lifelong Democrat, Friend of Bill since 1983, #CountryOverParty #LeaveItBetterThanYouFoundIt",http://pbs.twimg.com/profile_images/1018181671290589186/7eoWyIla_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-02-20 22:56:03,Washington DC,,False,15073,12046,31505,21,54387,False,
+14,815708250217840640,Leia🇨🇴,TheSWPrincess,"Latina, Dem, rescue dog mom, Rebel Scum, Trekkie, Whovian. Cursed by auto correct. Dissent is patriotic. Blocked by Roseanne & Roy Moore. Good trouble.",http://pbs.twimg.com/profile_images/1277086973484773376/vlBunNKS_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-01-01 23:56:16,"Maryland, USA",,False,71085,34841,170425,63,194318,False,
+15,926443087571931136,G. O. Forth,68eclipseg,"""There are many here among us, who feel life is but a joke, but you and I have been thru that and this is not our fate, Let us not speak harshly now""",http://pbs.twimg.com/profile_images/1287424538742075400/b91xUQLi_normal.jpg,,2017-11-03 13:36:59,,,False,1313,2095,10962,3,4928,False,
+16,46938373,SoFlaDon🐬🐊☄️🦂🥃,dparla,Love my wife and family. hopefully survive the pandemic. 🐬🐊☄️,http://pbs.twimg.com/profile_images/1282309917836300288/5wvXp1a9_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-13 18:39:21,West Palm Beach,,True,362,2280,18871,6,14231,False,
+17,1119995160241278977,Miami Heat UK 🇬🇧,TheMiamiHeatUK,💻 Web: https://t.co/XKVb2fddlX |🎙️Pod: Heating Up The UK | ▶️ YouTube: MiamiHeatUKTV | 👕 Merch: @ViceFits | Brand Ambassador for @Fanatics,http://pbs.twimg.com/profile_images/1220778171726999554/RXrSNGPH_normal.jpg,,2019-04-21 16:03:49,🇬🇧,,False,1523,1617,4849,7,3429,False,
+18,1314044580,𝘓𝘶𝘤𝘢𝘴,catchflames,Got a crown of thorns but it won’t fit around the horns. @MiamiHEAT fanatic. #HeatTwitter,http://pbs.twimg.com/profile_images/1276714656783052801/WrfcvRlg_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-29 14:44:58,"Miami, FL",,True,926,778,37891,11,78275,False,
+19,525718064,Michael Mellody,mgunnar45,"Proud Resister
+MAGA/TROLLS/LISTS/BLOCKED
+I BLOCK ALL MAGA PEOPLE
+
+WE HAVE A CRIMINAL AS A (so called) President & CORRUPT GOP CONGRESS OWNED BY RUSSIA.",http://pbs.twimg.com/profile_images/1219350869981810689/aDqubfkz_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-15 20:21:59,,,False,2640,3770,55539,3,59064,False,
+20,1045110787,Mary L Trump,MaryLTrump,"#blacklivesmatter, 🏳️‍🌈,she/her/hers",http://pbs.twimg.com/profile_images/3037615597/d4fd27be95cc3f4cbe6da12a333e8a5f_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-29 14:59:10,New York,,True,343752,755,598,554,1340,False,
+21,24825935,Mary Baldwin Collins,marylovesmaine,,http://pbs.twimg.com/profile_images/690310130869608448/5DiVFPhb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-03-17 02:46:06,,,False,349,219,14001,4,55617,False,
+22,540379337,I Like Legislators Who Like Us,wtime90,I’m tired of GOP corruption Destroy GOP vote suppression. #BlackLivesMatter #ProtectOurCare #ProtectOurVotes #HandMarkedPaperballots,http://pbs.twimg.com/profile_images/1086313705325973504/L5b6LQRM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-03-30 00:07:17,,,False,2569,3774,264602,19,78181,False,
+23,823552974253342721,Anthony Brown,RepAnthonyBrown,"Congressman proudly representing MD-04. Vice Chair of @HASCDemocrats. Member of @TransportDems, @NRDems. Father, husband & retired @USArmyReserve Colonel",http://pbs.twimg.com/profile_images/1116032857653358593/qCJwZpPp_normal.png,,2017-01-23 15:28:24,"Washington, DC",,False,18669,1106,3766,368,1688,True,
+24,767788995962998784,Really American 🇺🇸,ReallyAmerican1,"Defending Truth, Democracy, Social Justice and Environment. #EndTheNightmare https://t.co/2bglaWeuyS",http://pbs.twimg.com/profile_images/1118326373049933825/nN83E6O1_normal.jpg,,2016-08-22 18:22:16,,,False,116804,1383,12006,300,13889,False,
+25,44961877,Maryland Department of Health,MDHealthDept,"The Maryland Department of Health promotes the health and safety of all Marylanders through disease prevention, access to care and customer service.",http://pbs.twimg.com/profile_images/1172210926071754753/GB3rLG6l_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-06-05 18:42:15,"Baltimore, MD",,True,27833,912,10468,437,2957,True,
+26,1072670293603377152,Tim Murphy,Murp1953Tim,"Retired, husband (45 yrs), father, grandpa, Christian not Cult, Politics junkie. Golf is life. Former pilot. Politics: Indep. #Resist #TeamJustice #70days.",http://pbs.twimg.com/profile_images/1126826636157095936/gNW7qZ5i_normal.jpg,,2018-12-12 01:51:42,"Minnesota, USA",,True,4922,4928,37676,0,50703,False,
+27,858812613207015424,KatieDid 🌊 Vote.gov Check your registration.,OutlierShME,".   .🇺🇸 #SaveOurDemocracy💪🏽
+
+🌊❄️💦    #IAmAntifa       🇺🇸☮️🌹
+
+🌊🇺🇸#VoteBlueNoMatterWho  🌊🌎
+
+#RIPGOP🥀",http://pbs.twimg.com/profile_images/924358071643545601/WGh0VYMu_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-04-30 22:37:37,Troutdale🐳🐬🐟🐠,,True,8112,8373,130761,10,158757,False,
+28,149751818,#BLM Jillian Hurley,BeautyBind,#2Economies 🎥🎬 #Filming #MoreThanBroke Followed by: @WaltShaub @SoledadObrien Was: @ABC @CBS #FBR within reason nerdy doofus.,http://pbs.twimg.com/profile_images/1259155122862596104/cQY8KCkG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-30 03:55:54,On The Set ,,True,36600,15016,256080,344,152069,False,
+29,3237109164,The Mean Progressive ™,MeanProgress,"❤️ Writer ❤️ Severe Intolerance for Intolerance #FightLikeAMother
+❤️  Follow on FB: https://t.co/pr1R4AbGoc…
+ I live to make Good Trouble 🇺🇸",http://pbs.twimg.com/profile_images/1281682639066288128/GGy0lWRM_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-05 17:24:21,Estados Unidos,,True,7265,6996,68229,79,58978,False,
+30,2332245697,Richard Schwartz,RichardStk1,"🌊🇺🇸 40 yr stk mkt pro, columnist, editor, trader, $ manager. Now beach-goer, chasing summer, happily retired & trading. #SaveOurDemocracy #NoDictator #RESIST",http://pbs.twimg.com/profile_images/1094999031015763968/GOG9ma2R_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-02-07 18:25:40,Jamaica; Jersey Shore; Antigua,,False,9265,9543,14253,38,41517,False,
+31,914746291753832448,Ccnn,Ccnn35555922,#coronavirus #covid_19 #resist #handmarkedpaperballots #insectapocalypse #ourworldisburning #votebymail #animalrescue #thereisnoplanetB #HumanCapitalStock,http://pbs.twimg.com/profile_images/1208480606893625349/9ys8UzWd_normal.jpg,,2017-10-02 06:58:05,,,False,3314,4358,168454,2,61807,False,
+32,821741531212058624,JRS,Spockout1,"Telecom Specialist #TheResistance  #FBR, geek, gadget collector, 4k enthusiast, video, photography artist,  metal caster, Democrat.",http://pbs.twimg.com/profile_images/958191675343425536/M2TY0LUe_normal.jpg,,2017-01-18 15:30:23,"Scottsdale, AZ",,True,14757,14821,47012,6,37137,False,
+33,1120225908135219202,Lisa Noland,LisaDob47287055,"mother, grandmother, neverTrumper, obamaismypresident,no DMs please. vote blue no matter who!!! even a dead skunk’s better than Drumph! biden2020!",http://pbs.twimg.com/profile_images/1244420011063681024/4xIU8pW0_normal.jpg,,2019-04-22 07:20:44,"Lafayette, LA",,False,1739,3015,3395,0,35215,False,
+34,123545062,Hamilton Nolan,hamiltonnolan,"Labor reporter, @inthesetimesmag.
+Washington Post public editor, @CJR.
+RIP Gawker/ Splinter. 
+Email: Hamilton.nolan@gmail.com",http://pbs.twimg.com/profile_images/1103405519002365967/R1byyuOh_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-16 12:24:41,,,False,43881,164,7306,742,4601,False,
+35,49661993,C&O Canal,COcanalNPS,Welcome to the official Chesapeake & Ohio Canal National Historical Park page! View our behavior guidelines at https://t.co/vVN8pB2YKl,http://pbs.twimg.com/profile_images/1268243315251699712/jLfxknrk_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-06-22 15:31:03,"DC, MD, WV",,True,13325,601,3836,380,3678,True,
+36,71020008,Liddle’ Atom Split,waspokey,I will 99% follow you if you have animals in your profile pics and hate Trump. Political Realist. https://t.co/TiWAdOK2JF https://t.co/mbvt4lxBxV #votebluenomatterwho,http://pbs.twimg.com/profile_images/1239778013950234624/82mI4uKp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-02 17:22:12,United States,,True,3931,4994,52761,3,132073,False,
+37,1280585659699224576,Marked By Covid,MarkedByCovid,"Elevating the truth about #COVID19 in hopes of saving others. Led by advocate @kdurquiza & media maven @ckeeves.
+
+*Media contact: christine@markedbycovid.com*",http://pbs.twimg.com/profile_images/1280585804415299584/83u7wwf5_normal.jpg,,2020-07-07 19:33:23,"Phoenix, AZ",,False,13317,300,488,47,731,False,
+38,704282873231237121,Florian Krammer,florian_krammer,"Viruses, viruses, viruses and vaccines
+
+Professor at the Department of Microbiology
+Icahn School of Medicine at Mount Sinai",http://pbs.twimg.com/profile_images/954825681015369728/iGDAdDls_normal.jpg,,2016-02-29 12:31:36,"New York, NY",,False,125019,843,7687,2890,8915,True,
+39,838742964587352064,Whisky TF,TfWhisky,"Veteran, Country above Party, Principled Conservative, Constitutionalist, Independent, Free Thinker, CLIMB TO GLORY",http://pbs.twimg.com/profile_images/1278526458529566720/cRBpnWA3_normal.jpg,,2017-03-06 13:28:00,"Richmond, VA",,False,12056,10916,711,7,10371,False,
+40,868673067223887872,Badd Company,BaddCompani,"I get knocked down, I get back up again.  Butt hurt they are. 
+RISE!!!
+No Drama Zone https://t.co/I0J8aQKT6J…
+https://t.co/KWVFC09XAc",http://pbs.twimg.com/profile_images/1199782632009003008/npMfb22U_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-05-28 03:39:33,"Portland, OR",,False,24751,1803,144414,75,213894,False,
+41,408979359,Ryan Stauffer,ryans_wx,"NASA/GSFC research scientist studying air pollution and ozone (good up high, bad nearby™). Millersville and PSU alum. Amateur weather forecaster/record-watcher",http://pbs.twimg.com/profile_images/1097684704420085760/XEzLiqf8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-10 03:58:00,,,True,2207,1026,15907,113,18200,False,
+42,4364923707,u3Y4BDE,u3Y4BDE,"""...And when they came for me, there was no one left to object...""#Resist #Indivisible #Impeach #FlipItBlue2020",http://pbs.twimg.com/profile_images/1246893795570040832/9Po1je6O_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-12-03 20:51:38,,,False,51460,55049,248181,19,223979,False,
+43,79923701,Lin-Manuel Miranda,Lin_Manuel,https://t.co/03Lu5NoFkR he/him. In The Heights/Moana/Hamilton. Black lives matter. (profile pic by @amyvalhalla),http://pbs.twimg.com/profile_images/1272549131995791367/Cp8Ab2ee_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-10-05 04:59:07,"Washington Heights, Manhattan",,False,3425436,3578,66174,7297,53976,True,
+44,1248996730940448774,Room Rater,ratemyskyperoom,"We rate Skype rooms and Zoom rooms, too. Tweets by J & C.",http://pbs.twimg.com/profile_images/1256222966645493760/1oDWIu9p_normal.jpg,,2020-04-11 15:30:36,Canada and US,,False,276428,2,7268,610,4723,False,
+45,1264890456070139904,CLAUDIA CONWAY,claudiamconwayy,💅🏼 instagram: claudiamconway • tiktok: claudiamconway,http://pbs.twimg.com/profile_images/1278468351807930371/WcwKrzOC_normal.jpg,,2020-05-25 12:06:09,"Washington, DC",,False,128140,31,42,177,151,False,
+46,342226913,Greg Stohr,GregStohr,"Supreme Court reporter, Bloomberg News. Believer in facts, punctuation.",http://pbs.twimg.com/profile_images/525038539797307392/Uy_rPcnx_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-25 17:40:01,"Washington, DC",,True,22791,434,5568,629,1170,True,
+47,14761545,zmoneygrip,zmoneygrip,Sidesleeper #TheResistance,http://pbs.twimg.com/profile_images/989210382374850560/-Xyc-Z1S_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2008-05-13 17:15:50,Omnipresent but safer at home,,False,889,4354,10444,1,8965,False,
+48,198598902,Rose Fabia,Jayhawk81,"Activist, Mother, Wife, Pet Lover, and a Good Friend. I believe in decency and human kindness and in the end that’s what matters the most. #HateHasNoHomeHere",http://pbs.twimg.com/profile_images/1267982702432714754/NzvEhUaC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-04 19:08:51,,,True,3025,4994,17606,4,16473,False,
+49,1173602827,BgMac: Mask Up! trump OK w/ RU killing Soldiers,bgmacneill,"🐧 A Wish for Wings that Work
+¡176 Days Left! 98 Days to 11/03
+Life moves pretty fast 
+Never Give Up
+Never Surrender
+GU Alum  
+🏆Sounders🏆  Go 'Hawks! Go Zags",http://pbs.twimg.com/profile_images/800114014986473472/c2RkiJkY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-13 01:54:02,,,True,51794,55342,36826,22,15544,False,
+50,51923851,Diana Joseph,trinidiana,Celebrating the diversity of all life on this beautiful planet. Seeker of truth. Forging forward for lasting change. #Resistance #DerangedDonald #ImpeachNow,http://pbs.twimg.com/profile_images/954575366206689281/7H7kTZek_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2009-06-29 02:19:42,Longwood Florida,,True,822,866,34013,14,31550,False,

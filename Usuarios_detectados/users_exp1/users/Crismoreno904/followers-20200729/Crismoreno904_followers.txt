@@ -1,0 +1,68 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,13:27
+,>>> Analyzed user:,Crismoreno904
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,129309467,J. Armando Bonilla B,arbonilla151,,http://pbs.twimg.com/profile_images/1284907473841852417/4YWB_A9z_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-04-03 21:54:11,"Huila, Colombia",,False,980,1612,1341,1,1822,False,
+2,1191122229570002949,🇨🇴SGTO(RA)EJÉRCITO NACIONAL DE COLOMBIA🇨🇴,SARGENTOCHALA,"🇨🇴Si apoyar a un pueblo me hace bandido, prefiero serlo, antes que ser la ramera y el idiota util, de una clase política, elitista, corrupta y mafiosa🇨🇴",http://pbs.twimg.com/profile_images/1285337230593204230/OY4V0QlY_normal.png,,2019-11-03 22:38:06,"Bogotá, D.C., Colombiano",,False,41452,37636,5302,21,25108,False,
+3,963426047713796096,Tomas Mancuso 🐝🇨🇴🥑,ThommyMancuso,"🐝🇨🇴🥑 Entusiasta de la tecnología, de centro izquierda e historiador amateur de las injusticias de mi país. #AntiUribistaSigueAntiUribista",http://pbs.twimg.com/profile_images/1241623751180972032/nvXskbUi_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2018-02-13 14:54:04,"Bogotá, D.C., Colombia",,False,2543,5000,1582,2,663,False,
+4,128692895,Camila Prada,Skpradamarin,Ing. Industrial,http://pbs.twimg.com/profile_images/873365098626256897/O6k7Nx-G_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-04-01 22:40:32,Colombia,,True,395,621,843,0,185,False,
+5,2521554050,Sandra Castillo,SandraC1356,"Tutora en formación continua.
+Madre preocupada por el futuro.
+En estado continuo de reflexión frente a la situación política nacional.",http://pbs.twimg.com/profile_images/1286687148654170117/dCS2ELB2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-24 23:16:56,,,False,2885,3279,652,1,1369,False,
+6,328190095,victor reslen,victorreslen1,#&);),http://pbs.twimg.com/profile_images/1084992045134069760/FCxAI-XG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-02 22:24:52,"Bogotá, D.C., Colombia",,False,627,3526,4082,0,4732,False,
+7,1119770782203293698,Felipe Sánchez,FelipeSanchezfs,activista climático • #fridaysforfuture #vacunaparalacrisisclimática • fundador de @MOVECOGlobal y @MovEcoColombia,http://pbs.twimg.com/profile_images/1285061064133091334/irfTqPQm_normal.jpg,,2019-04-21 01:12:13,Bogotá Colombia,,False,12192,7598,2627,8,28019,False,
+8,1253513457569280001,Hector florez,Hectorf31997161,El mejor..,http://pbs.twimg.com/profile_images/1282695748023398400/KOuN-fyN_normal.jpg,,2020-04-24 02:38:06,,,False,2143,5000,11344,0,9386,False,
+9,854334446153216001,mareo 🍷,MateoRiv3ra,"Estudiante de Psicología, USCO | Amante del Blues, los óleos y la Club Colombia negra | Músico por casualidad y escritor por banalidad | Antifascista",http://pbs.twimg.com/profile_images/1095164419611545600/_GlEn8kc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-04-18 14:02:59,Donde sea que suene Bob Dylan,,False,5643,4291,7461,4,34718,False,
+10,141943866,JUANCA,JUANCAELBROKY,"Activista, investigador y defensor de la paz. PUJ.
+Colombia necesita paz. #DeZurdaTeam #AntiUribe
+Mi pasión @AmericaDeCali @BocaJrsOficial",http://pbs.twimg.com/profile_images/1287033755236958216/D1q2WdjA_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-09 13:40:08,Colombia,,True,99139,54188,127209,132,28684,True,
+11,146302347,Andrés R.,AndresRodV,Siempre en deconstrucción @Msambientalismo,http://pbs.twimg.com/profile_images/1162204580089933824/wlkmY7a7_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-05-21 03:06:14,Bogotá,,True,3527,3905,4030,4,1725,False,
+12,551498384,MAFALDA DENUNCIA,Johana8luna,"Líder Sindical del SIPRECOL-Sindicato de Profesionales de la Educación en Colombia 
+
+ANTI-URIBISTA de aquí al cielo!",http://pbs.twimg.com/profile_images/1283984200937414657/POtdAh40_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-04-12 02:23:25,Colombia,,False,1526,1964,5440,4,27018,False,
+13,1221038442991190016,Angélica Pinto,AnglicaPinto13,"#QuedateEnCasa 🏘️
+#CuidoAMiFamilia ♥️ #Agnostica #Mamerta #MamertoSigueMamerto",http://pbs.twimg.com/profile_images/1284498785717170177/x3QMFj9u_normal.jpg,,2020-01-25 11:53:57,"Bogotá, D.C., Colombia",,True,5209,5120,2434,3,6286,False,
+14,3935135956,Andrés Legacy,Legacy0214,"Músico Profesional 🎸
+Bucaramanga, Santander.",http://pbs.twimg.com/profile_images/779086021334069252/BWTSjEPJ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-10-12 07:25:21,"Floridablanca, Colombia",,True,767,1235,347,0,1344,False,
+15,2880295721,Eliberto Guerrero Saíz #SigámonosLosBuenos,MoniquPaintball,"Campesino. ""Feliz aquel, que alejado de los negocios, cultiva con sus propios bueyes, libre de la pasión del lucro, los campos heredados de sus padres"" Horacio",http://pbs.twimg.com/profile_images/1089873057668313090/PNxC0SLG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-11-17 01:11:45,"Moniquirá, Colombia",,False,4538,4641,3007,5,469,False,
+16,113197695,"Agudelo, de #Cartagena",bostico,#Cartagena - Comunicador / Gestor de Cambio organizacional / MA en Patrimonio Mundial y Proyectos Culturales para el Desarrollo.,http://pbs.twimg.com/profile_images/871982017109471232/_GvYpzeq_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-02-11 01:15:00,"Bolívar, Colombia",,True,1621,2327,29590,74,5800,False,
+17,273543405,Jose Luis,jluisroca,"Administrador de empresas.
+Gerente en Grupo inversionista Martinez Godoy Rodriguez S.A.S",http://pbs.twimg.com/profile_images/1281999795243167745/ZCwJWcob_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-28 17:59:59,Cartagena ,,False,893,1330,224,0,121,False,
+18,81392995,JOSE ARMANDO RUIZ DIAZ,JRUIZDIAZ,"Opino de todo, especialmente de política",http://pbs.twimg.com/profile_images/2468984073/mdm_doble_titulacion_internacional_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-10-10 16:45:10,Bogota,,True,2002,2592,15671,5,1065,False,
+19,1231431144442355712,Dayanna🧚🏼‍♂️,DayannaLen9,Amante a la danza 😻  No bad vibes•,http://pbs.twimg.com/profile_images/1242333756096155648/eDinQBta_normal.jpg,,2020-02-23 04:10:48,,,False,2435,1320,212,1,137,False,
+20,1048176392800755714,Angel Arenas,Angelarenase,"Administrador Público, especialista en Finanzas, tuitero político, amante del Fútbol, el Rock and Roll y el Metal",http://pbs.twimg.com/profile_images/1262526210791411712/8MT3641t_normal.jpg,,2018-10-05 11:41:40,"Bogotá, D.C., Colombia",,False,557,791,300,0,262,False,
+21,3062918099,Angel Eliam,angelsofia08,"Diseñadora Industrial con ganas de mejorar el pedacito de mundo que tengo, líder comunitaria en el sector cultural",http://pbs.twimg.com/profile_images/1280787808987332608/tJNkf9uy_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-25 18:40:27,muy cerquita del Urcunina🌋,,False,2360,3517,7586,2,32845,False,
+22,3394998171,Bur_Ja,burgos_zac,col,http://pbs.twimg.com/profile_images/1123351646715748353/rbyzxdnW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-07-30 05:25:50,Colombia,,False,1381,1740,2074,1,2373,False,
+23,2408164815,Emi G,luzemig,,http://pbs.twimg.com/profile_images/828795143956357120/j6MXhlOn_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-03-13 18:32:03,,,False,1377,1639,3452,10,8344,False,
+24,1244328897048707075,❇🇬 🇪 🇴 🇷 🇬 🇪 ❇,Jorge56464105,"QUEDATE EN CASA🏠
+POR EL BIEN DE TU FAMILIA👪 
+NO POR EL TUYO.👤",http://pbs.twimg.com/profile_images/1283921473372131329/FpPXGhYg_normal.jpg,,2020-03-29 18:21:54,,,False,264,335,945,0,1604,False,
+25,794725169705156612,Mateo Loaiza,Mateoloa16,#AntiUribistaSigueAntiUribista,http://pbs.twimg.com/profile_images/1277351724643160064/j5Pc6rjL_normal.jpg,,2016-11-05 02:17:00,"Medellín, Colombia",,False,1542,1594,1073,1,4409,False,
+26,1096100476838428674,German,German98615318,Sígueme y te sigo. Amante de las letras y otras obras literarias.,http://pbs.twimg.com/profile_images/1096103625137491968/smPna5gC_normal.jpg,,2019-02-14 17:34:53,"Cali, Colombia",,False,964,2233,1864,0,2287,False,
+27,1273491333492211714,Homólogo,Homlogo1,"gato mamerto
+Antiuribista.",http://pbs.twimg.com/profile_images/1273492087527354368/Vz_ag7Kd_normal.jpg,,2020-06-18 05:43:05,,,False,2761,3574,81,0,215,False,
+28,401039987,kmilo,uribehpta,"Coordinador Logístico Operaciones Cryogenicas Admin Logístico en Proceso 💻👷🏻‍♂️ Amante de la poesía, la música y la política !! trompetista 🎺 #Antiuribista",http://pbs.twimg.com/profile_images/1280189065929920512/1ty8ZL3I_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-29 23:32:24,Localizando...,,True,792,1005,6653,3,3348,False,
+29,957023390224801797,Lean 😎😎,Lean_Oro28,De Fundación para el mundo.,http://pbs.twimg.com/profile_images/1193579704147689472/mXJsn661_normal.jpg,,2018-01-26 22:52:11,"Cali, Colombia",,False,885,1221,21902,1,38549,False,
+30,2996384170,Sebastian Mora,sbstnmm,"Ingeniero Agroindustrial - Universidad Nacional de Colombia 🇨🇴
+Estudiante de Maestría en ingeniería Agroindustrial",http://pbs.twimg.com/profile_images/1279658473127579649/bg-510DW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-01-24 19:08:45,,,False,1223,1270,1025,1,944,False,
+31,1275125996333793282,Cerveza Artesanal Santo Remedio,SantoRemedioCA,Cerveza artesanal,http://pbs.twimg.com/profile_images/1275126302350217220/b2Br3ohn_normal.jpg,,2020-06-22 17:58:53,,,False,63,279,15,0,5,False,
+32,406577601,*,jennijoint,🌚,http://pbs.twimg.com/profile_images/1274735496661516289/F68A6pnR_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-11-06 22:09:46,,,False,653,188,18176,0,27722,False,
+33,2544079091,Pedro R,peter090588,,http://pbs.twimg.com/profile_images/1261685716976877571/R-zjSala_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-13 00:19:20,,,False,1875,2708,7604,2,18675,False,
+34,165238117,ay :(,ncockd,Suicida de clóset.,http://pbs.twimg.com/profile_images/1244109932733104131/mkVnL_BG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-07-11 01:01:57,,,True,406,172,12485,1,9219,False,
+35,1128373142404194304,Juan carlos posada,redentor2126,reclamante de tierras Buscando justicia en colombia donde se niegan a investigar mi caso    https://t.co/LTtpoDcsPO,http://pbs.twimg.com/profile_images/1287729360930316290/ulP-sf0Q_normal.jpg,,2019-05-14 18:54:56,Un lugar de colombia ,,False,7168,7154,45563,4,34143,False,
+36,1258980225972604935,Cabildo Indígena Muisca De Suba⭐,GobiernoMuisca,"☀️Cabildo Indígena Muisca de Suba🌕
+
+Entidad Pública de Carácter Especial.
+
+Gobierno Indígena de la comunidad Muisca de Suba, Resguardo en 1888.",http://pbs.twimg.com/profile_images/1258986711192764416/IAse6tcg_normal.jpg,,2020-05-09 04:43:14,"Suba, Bogotá., Colombia",,False,145,377,129,0,203,False,
+37,1106888893062766592,Ahgd,Ahgd55424520,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-03-16 12:04:11,,,False,11,300,303,0,18,False,
+38,739127489616850944,Gif sexual,gifssexuaal,follow for sexual gifs and more😉mature content. *18+advised**,http://pbs.twimg.com/profile_images/1104949143984893952/dMst3kcU_normal.jpg,,2016-06-04 16:11:40,*Turn on notifications*,,False,1501,4316,1470,8,1,False,
+39,330505265,Plan de Compra,plandecompra,El 2020 tiene #Descuentos para que tu dinero rinda más. ¡ Qué no se acabe el año sin #Ahorrar! 😊http://www.plandecompra.comhDd,http://pbs.twimg.com/profile_images/1255343565502324736/gIHMudmG_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-06 18:32:23,Colombia,,False,288995,234247,142937,277,1754,False,
+40,971044966473531392,Madison Kylie,MadisonKylie1,,http://pbs.twimg.com/profile_images/971045190696828928/ZD0o7IdS_normal.jpg,,2018-03-06 15:28:55,,,False,2,20,1,0,0,False,

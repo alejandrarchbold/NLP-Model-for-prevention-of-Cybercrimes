@@ -1,0 +1,32 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-27
+,>>> Time:,23:37
+,>>> Analyzed user:,ty24112
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1248493831445549058,Trump is a Rapist,,95,0,/PatsTwoCents/lists/trump-is-a-rapist,PatsTwoCents,Fri Jul 19 07:18:10 +0000 2019,Bigg Pat Ⓥ☆,"Politics & Sports 🏈 love 👉 #Cowboys #Lakers 🏀 #Orioles ⚾️ #Terps 👉#Resist #VoteBlue  #CowboysNation ☆
+
+ #DMV 
+
+ #BlackLivesMatter",439,3005
+2,1246616683432771584,Trump RAPED kids n women,,706,1,/PatsTwoCents/lists/trump-raped-kids-n-women,PatsTwoCents,Fri Jul 19 07:18:10 +0000 2019,Bigg Pat Ⓥ☆,"Politics & Sports 🏈 love 👉 #Cowboys #Lakers 🏀 #Orioles ⚾️ #Terps 👉#Resist #VoteBlue  #CowboysNation ☆
+
+ #DMV 
+
+ #BlackLivesMatter",439,3005
+3,868896830779686912,chat partner,,3835,10,/chatonlinegirl/lists/chat-partner,chatonlinegirl,Sun Sep 25 18:19:00 +0000 2016,Gwen,I like to #CHAT How to #chatonline. Tips and Tricks to get in contact and to #flirt with girls on #omegle or #chatroulette. https://t.co/9vf1617BDz,720,184
+4,706187953169502208,Accounting13,A list of lists.,4546,7,/Muzaffar1969/lists/accounting13,Muzaffar1969,Mon Oct 18 14:56:54 +0000 2010,Muzaffaruddin Alvi,"Dedicated, conscientious, ambitious with Corporate Secretaries qualification Freelancer @Upwork  @Guru_com @GLG @Guidepoint Open to opportunities https://t.co/VYR03fVfWe",3225,3975
+5,232163087,Stocks,,3939,15,/foolopal/lists/stocks,foolopal,Tue Jan 31 18:17:51 +0000 2012,Abhishek Kumar,CoFounder Foranje. IIM Ahmedabad. Digital Marketer.,1080,105
+6,215406370,InvestTeeters,,4456,8,/Pariti_finance/lists/investteeters,Pariti_finance,Mon Jun 16 15:41:03 +0000 2014,Pariti,Now part of Tandem Bank!  https://t.co/tKHgGsaiOS,2217,1016
+7,214691806,finance,,4467,4,/S2Bentzmann/lists/finance,S2Bentzmann,Fri Oct 12 16:16:05 +0000 2012,Stan de Bentzmann,Co-président et fondateur de Devoteam : We deliver innovative technology consulting for business. We are digital transformakers !,11489,6275
+8,211652261,Investor Community ,List of people tweeting about investment and related topics ,4479,17,/S2Bentzmann/lists/investor-community,S2Bentzmann,Fri Oct 12 16:16:05 +0000 2012,Stan de Bentzmann,Co-président et fondateur de Devoteam : We deliver innovative technology consulting for business. We are digital transformakers !,11489,6275
+9,209508476,People in finance ,,4480,5,/Pariti_finance/lists/people-in-finance,Pariti_finance,Mon Jun 16 15:41:03 +0000 2014,Pariti,Now part of Tandem Bank!  https://t.co/tKHgGsaiOS,2217,1016
+10,209365774,Investors ,"Investors, Day Traders, and other financial wizards. ",4481,8,/S2Bentzmann/lists/investors,S2Bentzmann,Fri Oct 12 16:16:05 +0000 2012,Stan de Bentzmann,Co-président et fondateur de Devoteam : We deliver innovative technology consulting for business. We are digital transformakers !,11489,6275
+11,209067945,People in finance ,"Money Minds, Traders, Investors, and more!",4481,6,/S2Bentzmann/lists/people-in-finance,S2Bentzmann,Fri Oct 12 16:16:05 +0000 2012,Stan de Bentzmann,Co-président et fondateur de Devoteam : We deliver innovative technology consulting for business. We are digital transformakers !,11489,6275
+12,175191320,Finance Stock Invest,"Money Minds, Traders, Investors, and more!",4493,21,/chicagodesign/lists/finance-stock-invest,chicagodesign,Wed Feb 18 04:50:31 +0000 2009,Michael Sim,"Superhero Dad - Sr. Product Designer @PluralSight - #FPV Drone Pilot - Fan of #GoT, #MTG, #StarWars - Vindicated lifelong @Cubs fan - Doritos connoisseur.",73063,103
+13,98245264,Creativity takes courage ,,4189,31,/lifewithoutart/lists/creativity-takes-courage,lifewithoutart,Sun Jan 30 09:56:21 +0000 2011,Timothy Malloy,"Starred on Bravo's Work of Art: The Next Great Artist. School of Fine Art in Cape Town in 2006. Solo shows in Cape Town at Blank Projects, Bell-Rober Gallery.",88225,135

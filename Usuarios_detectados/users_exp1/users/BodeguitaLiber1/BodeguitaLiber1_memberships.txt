@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,01:48
+,>>> Analyzed user:,BodeguitaLiber1
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1277775508361613317,Libertarian,,5,0,/_Oraculo666/lists/libertarian,_Oraculo666,Thu Jun 18 11:10:27 +0000 2020,🧙‍♂️El_Oráculo🔮,🌬️🔥🌟,341,171

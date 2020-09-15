@@ -1,0 +1,18 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,14:07
+,>>> Analyzed user:,iliketwatcrabs
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,3314243165,Paul K.,Paulsome86,Liberal-konservativ. Deutscher mit polnischen Wurzeln :),http://pbs.twimg.com/profile_images/1150798492119515137/Ux7v6ZV8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-09 00:56:50,,,False,456,725,5383,1,33310,False,
+2,1188857980105773088,Syn,Meyer1Syn,"Es ist die Aufgabe der Opposition, die Regierung abzuschminken, während die Vorstellung noch läuft. 💙                 ( Jacques Chirac )",http://pbs.twimg.com/profile_images/1254902700292128768/g6tjaZVX_normal.jpg,,2019-10-28 16:40:37,"Heidelberg, Deutschland",,True,2124,4715,5825,1,27693,False,
+3,826875689185976322,franz,jungundknackig,"Für ein freies, demokratisches und unabhängiges Europa einschließlich Russland. NATO darf keine Lobbyisten-Truppe der US- Finanz- und Rüstungsindustrie sein.",http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2017-02-01 19:31:41,,,False,89,263,99,4,3107,False,
+4,862691820,Martin Grabis,Dead_Man_79,"Neu-Rechter Verschwörungstheoretiker, noch dazu weiß, männlich, deutsch (länger hier lebend), heterosexuell und den Islam verachtend.",http://pbs.twimg.com/profile_images/1006298502928961538/uYHBCnOf_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-05 08:04:50,"Berlín, Alemania",,False,220,349,2351,0,4335,False,
+5,75512936,Watson,Coombs66,"24/7 Blood Banker & immunohaematologist, hopeful nationalist, reluctant atheist, Darwinian.",http://pbs.twimg.com/profile_images/1191982821222449152/PFIrFDt8_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-19 09:18:55,Sydney ,,False,28,113,2447,0,386,False,
+6,876216907166236672,ThinQing Anon,ThinQingAnon,Critical thinker. Dynamic mind. Realist. Objective. Creative. Sarcastic. Techie. Audiophile. Animal lover. #DigitalSoldier #MAGA #KAG  #DroppingTheHammer,http://pbs.twimg.com/profile_images/1251275171018575872/DKefLppB_normal.jpg,,2017-06-17 23:16:04,,,False,13138,12268,3070,19,10172,False,
+7,1125559252985294849,sajar sanneh,SajarSanneh,"humanity, anti racism 🙇‍♂️",http://pbs.twimg.com/profile_images/1250640576678150144/xAzTLtpo_normal.jpg,,2019-05-07 00:33:32,The Gambia ,,False,157,3601,33,1,734,False,

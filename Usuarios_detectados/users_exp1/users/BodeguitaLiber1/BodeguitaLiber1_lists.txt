@@ -1,0 +1,12 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-09
+,>>> Time:,01:49
+,>>> Analyzed user:,BodeguitaLiber1
+,>>> Information:,Subscribed to Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1261143649347387392,Libertarios,Grupo de libertarios,4,0,/BodeguitaLiber1/lists/libertarios,BodeguitaLiber1,Fri May 15 02:12:26 +0000 2020,Bodeguita Libertaria,Amor por la Libertad.,68,75

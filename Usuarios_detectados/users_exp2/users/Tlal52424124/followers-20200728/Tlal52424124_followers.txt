@@ -1,0 +1,101 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,16:16
+,>>> Analyzed user:,Tlal52424124
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1234473645873008641,Hackney Account,HackneyAccount,"Hackney's youth led police monitoring group. 
+
+We hold the police and government to account for their actions. Come join us make some change.
+
+Based @hackneycvs",http://pbs.twimg.com/profile_images/1252592145560674305/6D1w9E7q_normal.jpg,,2020-03-02 13:40:37,"Hackney, London",,False,824,1034,202,2,316,False,
+2,1263145684427067399,Lamin Wally,LaminWally7,young black boy .. really proud of my self,http://pbs.twimg.com/profile_images/1263145797400526849/qpJSua3e_normal.jpg,,2020-05-20 16:33:02,,,False,326,3494,19,0,38,False,
+3,48903,Aral Balkan 🕷 (@aral@mastodon.ar.al),aral,"Here under protest.
+
+Small Technology Foundation
+https://t.co/tbNC61jYna
+
+RSS: https://t.co/P4oRD4rKOD
+Mastodon: https://t.co/C6XykeV5vi",http://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2006-12-07 19:55:38,Would rather be elsewhere,,False,44325,25177,162309,2494,132529,False,
+4,488561271,"She not He, Never a Tory Be! #BLM",DagmarNoble,🌹Will always be grateful to Jeremy Corbyn for giving us hope. For humanity #FreePalestine.#BDS #HandsoffalAqsa.🌞🇵🇸🇵🇸 🗝️#BLM,http://pbs.twimg.com/profile_images/1203470720673681411/XFPn96-E_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2012-02-10 15:51:37,North Somerset UK,,False,3473,4887,124379,103,34481,False,
+5,223471018,Tim Goodwin,timothygoodwin,Born & bred South Londoner. Barrister (employment and personal injury). Pink Floyd fanatic. F1 fan-boy. Former wet break prefect (1997-1999).,http://pbs.twimg.com/profile_images/1196712297164619777/0qw0PBRM_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2010-12-06 13:50:18,,,True,691,2065,4947,11,2857,False,
+6,884374464,Ian Speed,IanSpeed2,,http://pbs.twimg.com/profile_images/629022635997802496/OZI8FKWN_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-10-16 12:51:06,,,False,995,1228,82338,4,150766,False,
+7,722731813,Merlot #Blacklivesmatter #proEU,sharonwllms48,"Blocked by Julia Hartley-Brewer & David Vance. A people that elect corrupt politicians, impostors, thieves, & traitors are not victims but accomplices.",http://pbs.twimg.com/profile_images/1279376054508011521/hdG1Nztd_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-07-28 19:52:20,🇪🇺 🇯🇲🇺🇸🌹🌈,,True,11909,11971,32276,14,69324,False,
+8,2851579674,Sweetie Dog,sweetiemydog,"Need a new funny t-shirt? You've come to the right place! Each of our designs is screen printed right here in house. Let us help you🔥
+🔜Click here to my shop..",http://pbs.twimg.com/profile_images/1279346158838538240/CTkHJO___normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-11 07:05:20,Reino Unido,,False,8640,746,265,29,304,False,
+9,37462816,Daniel William Diaz,dwdiaz,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-03 17:53:40,,,False,4,209,12,0,2516,False,
+10,1091056932742459393,Cazz,Cazz08539776,"Runner, Yorkshire, big dreams, tiny budget. Latest chocolate obsession: Jameson’s Raspberry Ruffles",http://pbs.twimg.com/profile_images/1262115146111090688/y7QXirxl_normal.jpg,,2019-01-31 19:33:38,"England, United Kingdom",,False,49,1165,162,0,3156,False,
+11,3302264374,Theatre-News.com,TheatreNewsWeb,"https://t.co/r5Y6XuvWEQ features #theatre #news, the latest #reviews, #cast #interviews and #competitions 24/7. #TheatreReviews https://t.co/IEYFMfoTV1",http://pbs.twimg.com/profile_images/676335219151151104/bSbmi8lh_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-05-28 21:53:44,"London, England",,False,13021,12094,12304,32,7523,False,
+12,3157991459,Chris (Windrush Justice Still Waiting),Chrisviews43,"Tweets my own view.Set your soul free start your journey. Love N Light. Laugh more and stay positive need 50,000 Follows to start army of Angels",http://pbs.twimg.com/profile_images/1272933810548756481/0dJ6Cpch_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-04-11 23:45:52,"London, England",,False,971,2809,3809,2,8414,False,
+13,782769168,Michael Daab,MichaelDaab,Husband. 🏳️‍🌈. US Army Veteran. Hotelier. BLM.,http://pbs.twimg.com/profile_images/3627358412/c40f191f0aacb84cb2249f5662ec8d89_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-08-26 16:41:36,Orlando FL,,True,131,764,1300,0,2412,False,
+14,3419480873,Dr Richard Norris,drmusicstands,Long time business person turned composer. PhD in composition at sixty. Retired and wanting to make the world a better place.....,http://pbs.twimg.com/profile_images/1213517982850322433/k3zxrVwI_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-08-13 04:57:02,,,False,74,120,1962,1,273,False,
+15,1109211367989563392,ana townley,AnaTownley,💛💙🇪🇺🇬🇧🇪🇸🇪🇺💛💙🕷,http://pbs.twimg.com/profile_images/1109211497169862662/lcEbEyLg_normal.jpg,,2019-03-22 21:52:53,"London, England",,False,1762,4125,22038,1,37814,False,
+16,1224022124,🧢oliver - what happened to Truth,laughingginge,#sackDominicCummings Professor & FATHER of Jo & Be - dual national 🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿+🇺🇸 MD Virology & Phd Environmental Psychology #IncredibleTogether ✊🏾,http://pbs.twimg.com/profile_images/1268571745700675584/5KCcdztv_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-27 08:59:11,,,False,7464,6871,26143,15,14959,False,
+17,1248320221561192448,Princess 🌹,0by0keke,"𝐼𝒻 𝓎𝑜𝓊 𝒹𝑜𝓃’𝓉 𝒽𝒶𝓋𝑒 𝑔𝑜𝑜𝒹 𝒾𝓃𝓉𝑒𝓃𝓉𝒾𝑜𝓃𝓈, 𝓁𝑒𝒶𝓋𝑒 𝓂𝑒 𝒶𝓁𝑜𝓃𝑒 ✨🌻",http://pbs.twimg.com/profile_images/1280991116792397824/BKsUTk0m_normal.jpg,,2020-04-09 18:41:59,,,False,517,508,1158,0,1288,False,
+18,1260772378788990976,kindness,kindnes19266350,There is a big difference between a human being and being human only A few really understand it 😎,http://pbs.twimg.com/profile_images/1260772632120758274/HmcPrp7E_normal.jpg,,2020-05-14 03:22:24,,,False,491,2540,6,0,30,False,
+19,21246218,🌸 G E E 🌸,Lil_Manc_Gee,"MCR, UK 🐝 KF 👫💙💍 
+
+Anti-Racism Activist, Intersectional feminist & LGBTQIA+ Ally. I love cats and enjoy dance, pole and aerial fitness.",http://pbs.twimg.com/profile_images/1279433599155163141/_gPeswCB_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2009-02-18 22:00:40,"Manchester, England",,True,936,1451,38100,47,14737,False,
+20,202990047,Grundistled 🌞🌍🇪🇺🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿Yorkshire,Grundistled,"""If you can be bought, you can be sold"" Durable and easy to install. Very popular among the Electronic lovers. Advocate of cannabis legalisation.",http://pbs.twimg.com/profile_images/1282430466604359680/8xWGOzMT_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-15 08:23:23,"Hull, England",,False,541,1885,10022,0,9966,False,
+21,297406321,Tony Green#RTRR🇬🇧😻🇪🇺UltraRejoiner#FBPE,NoIAmTonyGreen,"The Angel wants to go back to fix the things
+To repair the things that have been broken.
+But there is a storm blowing from Paradise ...",http://pbs.twimg.com/profile_images/1240304195435184128/r-k9RjBW_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-12 13:24:15,European Union (London),,False,7271,7919,52805,23,67362,False,
+22,1171763121079406593,TDoyle@Carasol 🌄 🇬🇧🇪🇺#FBPE#RejoinEU,TDoyleCarasol,"Passionate Remainer, Compassionate Human. Prepared to man the barricades against those who would destroy our liberal democracies in the UK, EU and even the USA.",http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-09-11 12:31:45,"London, United Kingdom",,True,970,2447,74375,1,72721,False,
+23,246476871,Chubs,CobiWobi,I’m just here for the sarcasm and dog tweets... and Utd!,http://pbs.twimg.com/profile_images/650796900044656640/Gu7lOwvw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-02 21:23:17,,,False,289,1169,3827,0,56476,False,
+24,189201702,ohdearbritain,Ohdearbritain,"Socialist, republican, pro-EU 🇪🇺
+NFFC ❤",http://pbs.twimg.com/profile_images/1189205562845741058/6SWSRg4P_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-10 16:59:09,"Nottingham, England",,True,11498,12021,16416,15,43257,False,
+25,1266630449436266498,Maria Power,MariaPo92466530,,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2020-05-30 07:22:30,,,False,40,288,2935,0,4709,False,
+26,1184584897689722883,Pet Lover ⛑🐅🐕‍🦺🐈,CrazyEyee,#AnimalLover #payitforward  #HelpOthers #HelpAnimals #TwitchTVFan #FeelLuckyBeLucky £HelpPetLover https://t.co/IEl0XKqNbG,http://pbs.twimg.com/profile_images/1192832502513197056/Od8g5YWW_normal.jpg,,2019-10-16 21:40:31,United Kingdom,,False,1640,2301,2699,4,2384,False,
+27,1085918253074055168,hashtagLUFC,PremiershipL,"#LUFC  #MOT Devoted Leeds United fan for 44 years.
+
+Decent bloke.
+Optimistic supporter of #goalinetechnology and #VAR when used fairly.",http://pbs.twimg.com/profile_images/1086001894861037568/HJRGa9LL_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2019-01-17 15:14:21,Channelling Positivity,,False,1400,4009,2841,0,4188,False,
+28,943882904,JerryBurn,JerryBurn,"""For all of our languages, we can't communicate. For all of our native tongues, we're all natives here..""  #YNWA #JFT96 #GTTO",http://pbs.twimg.com/profile_images/378800000058279691/c8dd88664ba8d391db7db3c716272eea_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-11-12 16:03:34,"In a bloody fantasy world, lad",,False,1776,4564,22196,7,71875,False,
+29,1208687750238609408,Dogs Blog,DogsBlog90,Blog about Dogs #dogs #doggy #doglover #ilovedog #dogtraining,http://pbs.twimg.com/profile_images/1208688411420311553/DmYzcSqJ_normal.jpg,,2019-12-22 09:56:36,,,False,415,2602,59,1,2760,False,
+30,956476142147522561,.,abdu201058,,http://pbs.twimg.com/profile_images/1113464890977607687/Wh0vo07K_normal.jpg,,2018-01-25 10:37:37,.,,False,19,271,445,0,416,False,
+31,1181684004266954760,Maud_dib,Mauddib8,"#WindrushAction #windrushvictim #Housing4all 
+#Justice4TheWindrushvictims #LongLiveTheFighters #MRM #WG #N22 #BS5
+The sleeper Has awakened",http://pbs.twimg.com/profile_images/1286366813715079179/PHhqwblA_normal.jpg,,2019-10-08 21:33:30,Dune aka Arakis ,,False,125,394,3695,0,5161,False,
+32,111708694,Martin O'Lowery,martin_lowe,Part of Yorks diaspora (#MOT). Body’s natural thermostat broken ‘cos of Op TELIC. Loves fried egg sandwiches. Came here for ammo? You’ve lost already.,http://pbs.twimg.com/profile_images/1232567517522153478/CXmTifez_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2010-02-05 22:13:29,United Kingdom,,False,1374,991,36044,7,161236,False,
+33,1249390807603449857,Laila Omar,LailaOma4,"Justice for Palestine, this is my wish
+#Gaza
+#Palestine
+#BDS",http://pbs.twimg.com/profile_images/1249391709018099713/167_wTwR_normal.jpg,,2020-04-12 17:36:09,,,False,854,3416,253,4,73,False,
+34,2309797073,Laura,orilladelcaribe,"🇪🇺Spanish Londoner - with ‘allowed to stay’ Cummings status, waiting for the fall of the Tory vulture empire. A devoted Sir Keir Starmer fan, just for fun🇪🇺",http://pbs.twimg.com/profile_images/1257697052315844612/mJcSSy-z_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-28 13:17:05,"London, England",,False,14,100,442,0,625,False,
+35,20940520,helena 🌹,helena68,"Keep moving 🏃‍♀️ , keep grooving 💃🏽 keep going 😅 keep growing 🌈",http://pbs.twimg.com/profile_images/1121467698930749440/vXEjaaaV_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2009-02-15 21:49:51,"East, England",,True,338,1294,13238,3,18173,False,
+36,1225487032899788806,jamesfineartofficial,jamesogambafin3,"visual art
+contemporary hyperrealism artist..
+for commissions an sales enquiries...
+follow IG jamesfineartofficial
+
+
+
+call...+2347065139736",http://pbs.twimg.com/profile_images/1288087600297848833/_gH66myv_normal.jpg,,2020-02-06 18:31:06,Nigeria,,False,197,298,116,0,211,False,
+37,3674961268,Refugees at Home,RefugeesAtHome,Charity connecting those with a spare room in their home with asylum seekers and refugees who need accommodation. https://t.co/3R2S7AmOk3,http://pbs.twimg.com/profile_images/698130517548400644/QiN9_2xz_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2015-09-16 12:52:53,UK,,True,9008,5253,16226,70,17491,False,
+38,14716726,jimmytheking,jimmytheking,"I got forty red, white and blue shoestrings
+And a thousand telephones that don’t ring
+Do you know where I can get rid of these things?",http://pbs.twimg.com/profile_images/1585002703/peterstorey_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2008-05-09 19:00:03,London,,False,99,880,2267,1,1600,False,
+39,226218713,George C Linton-Salmon,PREACHEROO7,"Oral Historian, Social Expounder, Fighter, Friend. British By Accident, Jamaican By Force, African By God. My signature betrays my character & at times my name.",http://pbs.twimg.com/profile_images/1151395456708218881/D5_d1cqw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-12-13 16:38:44,London,,False,1646,4999,10214,16,6317,False,
+40,1228195933734789120,Aunty Faa,AuntyFaa,"Wise old Aunty Faa here, keeping an eye on those right wing naughty boys and girls. Will always engage politely.",http://pbs.twimg.com/profile_images/1228196792325402624/ZqTz-vKA_normal.jpg,,2020-02-14 05:55:21,,,False,143,295,585,0,199,False,
+41,1255328215196930049,Yougle Post,YouglePost,After @YougleFact suspension.,http://pbs.twimg.com/profile_images/1255332027261497345/sW46D5Ll_normal.jpg,,2020-04-29 02:49:20,Worldwide,,False,1774,3510,469,10,16,False,
+42,2853706558,Mary Eligu,maryw00ly,"Born in UK - Married in UG
+.
+Reunite Families UK",http://pbs.twimg.com/profile_images/1252543101861867520/gMrx6XFb_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-10-31 19:37:45,Uganda,,False,21,129,42,0,49,False,
+43,1271805151569903616,Ollie for NEC 🌹,olivertucker01,"Candidate for Labour NEC Youth Rep. Email: otlabour@outlook.com
+
+#NoSpaceForJewHate - Offline until 9am 29th July.",http://pbs.twimg.com/profile_images/1287006122088464384/l8Zg8Ule_normal.jpg,,2020-06-13 14:02:42,"South West, England",,False,1320,1497,722,2,806,False,
+44,1118423440581591040,"ΉΣᄂIᄃӨП,",__Helicon__,,http://pbs.twimg.com/profile_images/1257943539268419585/twWazqHb_normal.jpg,,2019-04-17 07:58:22,Ἑλικών,,False,5021,4344,8004,18,12821,False,
+45,1199795249394200576,Damage,Damage15218139,looking for some justice,http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png,,2019-11-27 21:01:16,,,False,10,33,148,0,1616,False,
+46,1121513641562472451,VeganTroll,TrollVegan,,http://pbs.twimg.com/profile_images/1121516225534754822/52jEV2OL_normal.jpg,,2019-04-25 20:37:43,,,False,190,814,255,0,2843,False,
+47,2296533746,Synraven,Synraven,"Campaigning against the cruel and unjust minimum income requirement for the uk spouse visa.
+Supporter of CANZUK and all that it stands for 🇨🇦🇦🇺🇳🇿🇬🇧",http://pbs.twimg.com/profile_images/1286484622931419136/eyBzukjH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-01-17 18:02:03,Exiled #HostileEnvironment ,,False,84,204,611,1,406,False,
+48,518067189,Joshua Sargeant,JSargeantmusic,Never good at these things.. so I'll let the music do the talking.     YOUTUBE// https://t.co/iSdWKlJIpM DOWNLOAD// https://t.co/sGzbQdT2qD,http://pbs.twimg.com/profile_images/1197302465051471874/Ps6WDlZP_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-03-08 00:41:45,Exeter/southwest,,True,433,453,2288,15,933,False,
+49,1155693291066646528,johninrosc,johninrosc,For the many not the few,http://pbs.twimg.com/profile_images/1270137157785714693/gYsJ3Id__normal.jpg,,2019-07-29 04:15:27,,,False,177,269,2241,0,5347,False,
+50,1184712979524308993,Pleaseleavemytown,Pleaseleavemyt1,"50, 2 great kids, socialist, love the bones of JC. Former Labour Party and GMB.
+Hope is truly gold dust. 
+let us all build a better world.",http://pbs.twimg.com/profile_images/1184713459730173952/EbIMz-Bw_normal.jpg,,2019-10-17 06:10:14,,,False,889,1932,4790,2,21948,False,

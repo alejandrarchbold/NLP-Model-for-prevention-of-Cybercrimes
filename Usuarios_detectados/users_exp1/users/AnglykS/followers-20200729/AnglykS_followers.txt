@@ -1,0 +1,93 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-29
+,>>> Time:,14:55
+,>>> Analyzed user:,AnglykS
+,>>> Information:,Followers
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1248766869437284354,ED el apocalíptico,Venus74375582,"un lunático retuiteando eventos del fin
+y
+espectador de la caída del uribismo",http://pbs.twimg.com/profile_images/1251556252351713280/Rmxm3UE-_normal.jpg,,2020-04-11 00:17:10,"Itagui, Colombia",,False,1414,1740,860,0,1096,False,
+2,724787369065484288,Alejandro Giraldo,alejomail71,,http://pbs.twimg.com/profile_images/1274821379330846720/pHZM8hFR_normal.jpg,,2016-04-26 02:29:09,Manizales - Colombia,,False,2224,3305,2494,0,7217,False,
+3,152087827,Samuel GZC,Saguzcai13,Fé en la Ciencia - Capitalista - Muerte a los corruptos- Basketball Lover 🏀,http://pbs.twimg.com/profile_images/1284300357951160326/mmSLlZKR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-06-05 01:48:55,,,False,715,678,358,0,2500,False,
+4,1330173408,JAVIER ECHAVARRIA,jhoncito_javier,"Estudiante de trabajo social 
+
+
+Tecnologico de Antioquia",http://pbs.twimg.com/profile_images/1280638846120734720/mflNkscX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-05 22:23:57,Medellin ,,False,201,554,1427,0,701,False,
+5,981915156,Sandy,vezkuf,Ingeniera Industrial UDFJC ♡,http://pbs.twimg.com/profile_images/802935204360945668/wVI-VVsz_normal.jpg,http://abs.twimg.com/images/themes/theme11/bg.gif,2012-12-01 05:58:22,,,False,4138,4286,4856,1,3448,False,
+6,196618753,ALEJANDRO ZAPATA,ALEJOZAPATAP,Pereira Colombia.,http://pbs.twimg.com/profile_images/3031896698/ceb06bb6290e4b3ff2d6428cd087a2d3_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-29 14:47:43,Pereira,,True,1298,1468,483,1,9562,False,
+7,1274942291652861958,Presidente Gorgory,PdenteGorgory,El fin del uribismo está cerca #AntiUribistaSigueAntiUribista,http://pbs.twimg.com/profile_images/1274942890503004160/GB3uWufD_normal.jpg,,2020-06-22 05:48:47,,,False,1772,1825,631,0,148,False,
+8,801533978,Demontes,debermogollon,Orgulloso Papá de una hija y padrastro de tres mas...Detesto a los cobardes que no lo asumen.,http://pbs.twimg.com/profile_images/1194824839137247234/QkRUEIuR_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-09-04 00:51:28,"Bogotá, D.C., Colombia",,False,683,830,854,0,1398,False,
+9,933912384720265216,Alejandro,Alejandro_17rr,"#AntiUribista
+Futuro médico veterinario zootecnista ⚕
+
+Volleyball player🏐
+Love for animals and veterinary medicine🐾
+
+Se me da bien la escritura y redacción.",http://pbs.twimg.com/profile_images/1231033836357603329/YrDQd6zC_normal.jpg,,2017-11-24 04:17:18,Colombia,,False,2989,2969,682,0,4194,False,
+10,1155880427153973253,Paul. 🇨🇴,EL__POL,En nuestro voto está el cambio. No hay más que decir.#soyDeLaResistencia✊#QueVivaElRock🤟,http://pbs.twimg.com/profile_images/1284966725784604672/Te3EO36F_normal.jpg,,2019-07-29 16:39:03,"Bogotá, D.C., Colombia",,False,3880,3979,2036,1,13897,False,
+11,269897917,RAULCORTES,RACM4444,,http://pbs.twimg.com/profile_images/378800000552822280/b0c1a90bb3f50a5ccddac2f06cd10327_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-03-21 17:06:35,"Bogotá, D.C., Colombia",,False,285,563,1823,0,246,False,
+12,394802613,jorge  ortiz,jorge_iortiz,"adm. turistica y hoteleria , organizador de eventos Sena, amante del rock.",http://pbs.twimg.com/profile_images/615518644819349504/CsQ24CEB_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-20 17:05:48,"bogota, colombia",,True,746,1258,1560,2,1486,False,
+13,350041799,Guerrero Potes,daguepo,,http://pbs.twimg.com/profile_images/1647946934/Foto-0005_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2011-08-07 03:31:27,,,False,654,873,4698,0,4035,False,
+14,1033770955,Mauricio Piza,mauro_piza,En aprendizaje Constante. #AntiuribistasigueAntiuribista,http://pbs.twimg.com/profile_images/839507456623591425/6ghBrH2j_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-25 00:48:54,Bogota,,True,1188,1515,1444,1,3301,False,
+15,1144030603,زيومارا,xiomy20013,"Cuando la dictadura es un hecho, la revolución se vuelve un derecho. (Victor Hugo) #AntiUribista...
+#SigámonosLosBuenos2020.🔦🍳🍳🕊🕊",http://pbs.twimg.com/profile_images/1282859998268227585/dATDEEfL_normal.jpg,http://abs.twimg.com/images/themes/theme6/bg.gif,2013-02-03 02:55:00,Colombia,,True,3187,3144,16902,1,26552,False,
+16,343556196,PedroGCar,olimpogilcarvaj,"encontrando la manera de ser feliz después de 50 años, nunca es tarde para viajar 🏊🌊🛫",http://pbs.twimg.com/profile_images/1286108141789351937/V6y2UkRQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-07-27 19:05:43,norcasia caldas colombia,,False,1368,1550,814,0,809,False,
+17,706667920726822915,Carolina Carabali,Carolin72659607,"Simpática y Empática
+Sanguínea/Flematica
+DIVERSIÓN/PAZ",http://pbs.twimg.com/profile_images/1276269619561578498/hJuya5Cg_normal.jpg,,2016-03-07 02:28:56,,,False,990,1320,318,0,3563,False,
+18,86812266,Jesús R ❓,mvndoalreves,🛠 Estudiante de Derecho 🛠 🇨🇴 Ciudadano Colombiano 🇨🇴 Politología🌎Economía💵🛢Democracia Distópica🛢💡Inalienado💡 #ColombiaProgresa No están ni Tibios!,http://pbs.twimg.com/profile_images/1200082688075542528/QaXYBFpa_normal.jpg,http://abs.twimg.com/images/themes/theme19/bg.gif,2009-11-01 22:00:21,Colombia,,False,1405,1242,2464,2,5622,False,
+19,354019901,MariaM,mariamerh94,"Mi misión es matar el tiempo y la de este matarme a mi, se esta bien entre asesinos... #Antiuribista",http://pbs.twimg.com/profile_images/1279634240460783616/x1-MfNtp_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-13 00:49:55,,,False,1952,2295,801,2,18808,False,
+20,301698721,Julian Rozo,rozojulian,"Gestor de PAZ, Orientador y Concientizador Político.
+Hagamos Pedagogía Política en una Colombia golpeada por la siembra de Odio y Miedo.#AntiUribista",http://pbs.twimg.com/profile_images/1276855720139534340/7jza3uYV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-05-19 22:19:37,"Bogotá, Colombia",,True,2628,3444,9211,1,14768,False,
+21,1345332260,Luis,luisgualdronf,"*Administrador De Empresas*  !!
+Sueño con ver a mi país colombia algun dia con mejores oportunidades de  vida e inclusión social. Verdadera justicia moral.",http://pbs.twimg.com/profile_images/1241907832368267264/qQlir8eY_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-11 21:26:53,,,True,1604,1799,1492,2,4024,False,
+22,413557344,JAVIER URIBE RUIZ,JavierUribe11,En reflexión de lo que soy y somos. Todo es cambio. Todo es un sueño,http://pbs.twimg.com/profile_images/1082855672021168134/98NEQx-e_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-16 01:05:05,Cali - Valle - Colombia,,True,902,1798,5231,4,7417,False,
+23,1020287312,Carlos AndrRodríguez,carlos_lfe,Ing.Industrial amante de la democracia...,http://pbs.twimg.com/profile_images/894787421132406784/0yrETZZc_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2012-12-18 17:41:03,,,True,2738,2906,2611,1,1570,False,
+24,1270869835870875649,René,fernandezlrene,"libertad de expresión - 
+sociedad libre.
+
+
+somos la llave que abre cada amanecer.",http://pbs.twimg.com/profile_images/1287436910454071296/CWaDqGIg_normal.jpg,,2020-06-11 00:06:15,,,False,1045,1020,666,2,465,False,
+25,391581673,krlo Alexander,carlo_a_c_s,"#AntiUribistaSigueAntiUribista
+
+#AdministradorEnSalud
+
+Todo depende de la perspectiva, ¿que perspectiva tiene? Si no tiene perspectiva, yo coloco la perspectiva",http://pbs.twimg.com/profile_images/1114501778454863873/LTuid6Xg_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-15 20:06:52,,,True,1103,1368,2197,0,1225,False,
+26,1217892470534606848,Maloi Linderman,Maurici72000333,"Antiuribista, Marihuano sin barba ni tatuajes.",http://pbs.twimg.com/profile_images/1220416582242963463/SC3RrJ8H_normal.jpg,,2020-01-16 19:33:00,,,False,1724,1702,656,1,174,False,
+27,978304061933006850,fabro eme,fabriciomaya4,,http://pbs.twimg.com/profile_images/1273601624146161666/WuTDlhW2_normal.jpg,,2018-03-26 16:13:59,Platanalandia Sur America,,False,3335,4414,4524,0,944,False,
+28,317799596,Un mamerto más,D4rk_G4lford,"Nos hallamos apenas en el período inicial de toda revolución: la emoción. Por eso no somos revolucionarios sino simplemente rebeldes, es decir inconformes.",http://pbs.twimg.com/profile_images/1283390299281281025/vIpgXCrU_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-06-15 14:05:03,Bogotá,,False,7334,6964,2353,3,3178,False,
+29,3318188175,Carlos Villegas,Cjotavillegas,"administrador de empresas. Sí la libertad de expresión no es al 💯 %, entonces no existe.",http://pbs.twimg.com/profile_images/1287891302605037568/tsxuQ_v2_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-11 01:28:41,"Medellín, Colombia",,True,3419,4514,83415,1,61770,False,
+30,823238656022507520,JuanN,JuanNagles1,No más el  uberrimo! parásito asesino.  Cero Uribestias!,http://pbs.twimg.com/profile_images/823249630259453956/N9w3z9WP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-01-22 18:39:25,"Bogotá, Colombia",,False,1385,1472,283,0,1043,False,
+31,871119083722461184,Andrés Jiménez Alvarado,AndrsJimnezA2,,http://pbs.twimg.com/profile_images/1169374712771817477/UC65qxJ8_normal.jpg,,2017-06-03 21:39:08,"Bogotá, D.C., Colombia",,False,1239,2823,11032,0,20007,False,
+32,2475643903,Ramiro Rodríguez Gelvez ヅ,RamiroGelvez,"De pequeño quería salvar el mundo, por eso mi corazón late a la izquierda.✊🏻
+|Abogado |Santandereano |Activista social |Hincha Leopardo💚💛|
+#ColombiaProgresa",http://pbs.twimg.com/profile_images/1236268838557229057/1Ffxh--1_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-03 15:28:04,"Santander, Colombia",,False,5780,5307,1641,2,620,False,
+33,496377220,Mario Peña Freyle,Malpefre,"...a la merced de la malparidez cósmica
+MSc, vmd, ccdp, scp, yks",http://pbs.twimg.com/profile_images/1277046855789088770/jEnwBK7W_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-02-18 22:09:01,"Barranquilla, Colombia",,True,1500,1753,4316,0,10511,False,
+34,395640744,@Tec Hernando,Fabermic,Técnico en sistemas de información #Sigamonoslosbuenos #AntiUribista,http://pbs.twimg.com/profile_images/1253871406246514688/DtTNua9P_normal.jpg,http://abs.twimg.com/images/themes/theme2/bg.gif,2011-10-22 00:35:52,Ciudadano del mundo,,True,3487,4597,14219,2,31910,False,
+35,1020525530028834816,KRUEGER,iam_PabloARE12,"🤵Un chico humilde del barrio😏 GOD - MOM - RAP🎶 Estudiante de Ciencias Políticas✍️  Izquierdista, la derecha solo para bajarme del bus.",http://pbs.twimg.com/profile_images/1280996747112845312/W7_gwqYi_normal.jpg,,2018-07-21 04:27:01,Asiento 1A first class,,False,1595,1593,2594,0,6103,False,
+36,217264255,PAQUITO,roberth_barrios,"Políticamente incorrecto. Romántico, soñador, rencoroso y apasionado. #Antiuribista, sígueme y te sigo🔁❤️🥑🐝",http://pbs.twimg.com/profile_images/1281931793885728772/A5nKxgXd_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2010-11-19 01:17:10,"Sibundoy, Colombia🇨🇴",,True,2205,2694,4824,0,4085,False,
+37,1267061625108025349,MLcolombiaQ,LcolombiaM,La mejor revolución es la REVOLUCIÓN de CONCIENCIA 🇨🇴❤️🌏 sígueme y te sigo,http://pbs.twimg.com/profile_images/1267062524479930368/8GXMqNfw_normal.jpg,,2020-05-31 11:53:56,"Barranquilla, Colombia",,False,574,632,463,0,692,False,
+38,3040000703,Zulm826,zulmaroquera,,http://pbs.twimg.com/profile_images/1281930986993913860/qzh4EfW6_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-02-16 01:06:03,,,False,3255,3859,81424,5,59229,False,
+39,126990913,MisterBlister 🥑🐝,MisterBlister13,"Estrato 3, Ochentero, fan del jugo de tomate de árbol, paisa antiuribista, nieto de arrieros, hijo de artesanos, andariego. 
+#AntiUribistaSigueAntiUribista",http://pbs.twimg.com/profile_images/1232702547921686531/-Tb0CYOt_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-27 17:30:03,,,True,1273,2179,3453,4,1784,False,
+40,1259878711945564164,Cesar Andres Rodriguez.,AndresRo2408,"Rela/Internacionales Utadeo, Sociología. Bogotá 
+Aguante mijito porque quien lo manda (decía mi abuela)
+opiniones personales.",http://pbs.twimg.com/profile_images/1272369115018285058/DAGANNmu_normal.jpg,,2020-05-11 16:11:22,"Bogotá, D.C., Colombia",,False,1217,1328,4671,0,1186,False,
+41,414495383,⛧Eissen Bathory⛧,EissenBathory,"Si es para compartir ideas, estoy dispuesto, si me va a atacar, vaya y coma mierda, BLOQUEO. #AntiUribista - Diseñador Gráfico / Escultor en Formación.",http://pbs.twimg.com/profile_images/1287619938467876865/4hFlJG8n_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-17 03:42:09,"Bogotá, D.C., Colombia",,False,2117,2816,1911,1,744,False,
+42,201470080,Andre,AndreGG05,"Uribismo y Corrupción las peores enfermedades de este país!!
+Si justifica la muerte de líderes sociales o gente que protesta mejor no me siga...PUTO PSICÓPATA!!",http://pbs.twimg.com/profile_images/1199382348086890499/lxsRQZqQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-10-11 22:47:50,Locombia,,False,6440,5384,35666,3,16011,False,
+43,813060613689790465,Por La Paz,PorLaPaz2017,¡No te desanimes! Nunca te dejaré Mi Inmaculado Corazón será tu refugio y el Camino que te conducirá hacia Dios  -  Fátima 1917,http://pbs.twimg.com/profile_images/830928227984097280/qzOcO4k5_normal.jpg,,2016-12-25 16:35:31,,,False,369,481,1122,0,275,False,
+44,1278484428952567808,Withoutmemories,AngelicMontaa1,XXXXXXXXXXXXXXX DELETE XXXXXXXXXXXXXXXX,http://pbs.twimg.com/profile_images/1283269285163433984/c-mBOQtb_normal.jpg,,2020-07-02 00:23:44,,,False,1,105,15,0,31,False,
+45,717148478082822144,Pineda#SigámonosLosBuenos,olafocamionero,"Quien esta acostumbrado a viajar, sabe que siempre es necesario partir un dia",http://pbs.twimg.com/profile_images/1232507201115303939/f-Q6-rku_normal.jpg,,2016-04-05 00:34:55,Colombia,,False,3274,4739,61631,2,61162,False,
+46,1247647418633588737,TolimaOnline,TolimaOnline,Tolima Online es un medio de comunicación virtual independiente que se enfoca en dar a conocer las noticias positivas que se generan en nuestra región.,http://pbs.twimg.com/profile_images/1249077603912355847/F1l0GlTe_normal.jpg,,2020-04-07 22:08:47,"Ibagué, Tolima",,False,253,1334,953,0,187,False,
+47,1133833752814194688,Jesús Mosquera Murillo,JessMosqueraMu1,"SOCIÓLOGO.Trabajador Comunitario,Amante de la Buena Política",http://pbs.twimg.com/profile_images/1136264441975181312/qDJANql1_normal.jpg,,2019-05-29 20:33:27,"Barranquilla, Colombia",,False,454,825,56,0,16294,False,
+48,73742146,Johanna Moreno,johannamz,Politóloga (political scientist) Universidad Nacional de Colombia. Love without limits. International Student #Utah home.  #rola now #Utahn,http://pbs.twimg.com/profile_images/1275923620452163585/Z2UR8sKQ_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-09-12 21:47:18,🇨🇴❤️🇺🇸📚,,True,2511,4348,2424,15,4568,False,
+49,1270382226224689152,PENSANDO POR Mi,andresburbano03,*el impedimento a la acción avanza la accion. lo que se interpone en el camino se combierte en el camino* #AntiUribista,http://pbs.twimg.com/profile_images/1283466356877398016/fPnRt1oP_normal.jpg,,2020-06-09 15:48:30,"Valle del Cauca, Colombia",,False,2134,2267,232,1,674,False,
+50,123123687,Andres Alans,ALANS007,"Sigueme y Te Sigo
+#Sigamoslosbuenos2020",http://pbs.twimg.com/profile_images/1137557600944447489/Q5q-zR-y_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-03-15 02:35:17,"Bogotá, D.C., Colombia",,False,3125,3108,19466,2,31782,False,

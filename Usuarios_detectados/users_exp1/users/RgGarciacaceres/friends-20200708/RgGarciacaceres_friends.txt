@@ -1,0 +1,73 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-08
+,>>> Time:,14:12
+,>>> Analyzed user:,RgGarciacaceres
+,>>> Information:,Friends
+""
+#,ID,USERNAME,SCREEN NAME,DESCRIPTION,PROFILE IMAGE URL,PROFILE BANNER URL,CREATED AT,LOCATION,TIME_ZONE,GEO ENABLED,FOLLOWERS COUNT,FRIENDS COUNT,STATUSES COUNT,LISTED COUNT,FAVOURITES COUNT,USER VERIFIED,USER LANG
+1,1145031551174041606,Contra Injusticias y Corrupción,JusticiaeIgual1,Justicia e Igualdad,http://pbs.twimg.com/profile_images/1145044330954051584/6H5VzlgN_normal.jpg,,2019-06-29 18:09:30,Colombia,,False,274,690,1685,0,2183,False,
+2,1121445824339349505,Zander 729,729Zander,Que la paz no nos mate.,http://pbs.twimg.com/profile_images/1243973461401309185/QMzP7Msd_normal.jpg,,2019-04-25 16:08:14,Mata puercos Col.,,False,208,275,19171,0,20093,False,
+3,1254314454122184710,OpinoPolitica,OpinoPoliticaCO,Opiniones sobre la política Colombiana. En ocasiones debato diferentes opiniones. Todo lo escrito acá es personal. AntiUribista. 🇨🇴,http://pbs.twimg.com/profile_images/1275947756918636544/Sr_XNYB6_normal.jpg,,2020-04-26 07:40:54,,,False,531,245,1427,2,22748,False,
+4,253183101,Luis Ángel Cano,lugicas,"Los vejámenes sexuales de los narcoterroristas farc a menores, se convertirán en un auténtico Caballo de Troya para el miserable Juan Manuel Santos.",http://pbs.twimg.com/profile_images/1250002069408407552/yqft6e0t_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-16 18:38:49,"Medellín, Antioquia",,True,4284,2324,405353,13,601,False,
+5,1190806450056126465,JUPITARIANO,JuanchoSoy2,Mano Derecha.#NoALaIdeologiaDeGenero. Antisocialista. Rojo como mi sangre. #AmericadeCali. #Salsa,http://pbs.twimg.com/profile_images/1214765506487603201/Xwve_IWr_normal.jpg,,2019-11-03 01:42:49,,,False,513,454,2636,0,2950,False,
+6,832271982024601600,𝔈𝔰𝔱𝔢𝔩𝔞 𝔊𝔬𝔪𝔢𝔷 𝔊𝔬𝔪𝔢𝔷 🇨🇴❤🇹🇷,EstelaGomezGom2,"Estambul, la ciudad más hermosa del mundo. 
+Entre más conozco al humano más quiero a mi perro 🐶. El amor de mi vida es un turco❤🇹🇷.",http://pbs.twimg.com/profile_images/1004196498454740992/AI4Rc0TP_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2017-02-16 16:54:38,,,False,3051,3272,198809,1,190523,False,
+7,413466629,luis,LUISKA347,,http://pbs.twimg.com/profile_images/753335873232637953/ZwbsuMnC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-11-15 22:40:30,,,True,246,509,11514,0,6054,False,
+8,353645561,Reynaldo Martínez,reymaranz,Gerente de Ventas y Marketing,http://pbs.twimg.com/profile_images/378800000211500677/8a9a156daa5949cd9830c62e0b48a1c1_normal.jpeg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-08-12 12:17:53,"Bogotá, Colombia",,False,632,936,2747,0,11331,False,
+9,1268259945549627392,🇨🇴UribistaPorSiempre,UribistaSiempr,"Cuenta creada en apoyo y defensa al Presidente Álvaro Uribe Vélez.
+#UribistaSigueUribista",http://pbs.twimg.com/profile_images/1268262331894697993/thw_1rwf_normal.jpg,,2020-06-03 19:15:35,Colombia,,False,1094,1464,204,0,979,False,
+10,1194406751971528711,olimpo1980lopez@gmail.com,olimpo1980lopez,,http://pbs.twimg.com/profile_images/1266730437151506432/dJjHD2zY_normal.jpg,,2019-11-13 00:09:44,istmina choco,,False,389,876,164,0,1208,False,
+11,617491645,Cnel Plazas Vega,LAPlazasVega,"Coronel (r), académico, catedrático, admin de empresas, ex Director Estupefacientes, graduado con honores en Ft Leavenworth USA y Escuela del Ejército Español.",http://pbs.twimg.com/profile_images/1256586350020775941/dVJ-3v2t_normal.jpg,http://abs.twimg.com/images/themes/theme9/bg.gif,2012-06-24 21:25:56,,,True,31912,669,6146,44,1195,False,
+12,1278903505886027777,Juliana Vallejo,JulianaVallej,Paisa de pura cepa y montañera,http://pbs.twimg.com/profile_images/1279773264315891714/m8RXH2Rr_normal.jpg,,2020-07-03 04:09:12,,,False,1938,178,18,2,20,False,
+13,1621478474,Infante de Marina (RA),nandophc,"Que mis enemigos sean fuertes y bravos, para que yo no sienta remordimiento al derrotarlos. #uribistasigueuribista",http://pbs.twimg.com/profile_images/1276886744286322689/EUKxuqoC_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-07-25 22:56:19,"Villavicencio, Colombia",,True,5767,5717,36313,1,42576,False,
+14,287516934,Harry Truman,San_Esteban_,#UribistaSigueUribista,http://pbs.twimg.com/profile_images/1198789849588916225/6Omi3-d5_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-04-25 04:29:41,Colombia,,True,2501,2699,25449,0,1080,False,
+15,247327369,Luz C. Grajales,lucecita1979,"Uribista de corazón 💪 amo mi familia, mi  pais ❤ afortunada de trabajar en lo que me apasiona el recurso humano!! 🤗",http://pbs.twimg.com/profile_images/922877841691246592/yLkhfIMV_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-04 15:33:24,Cartagena -Colombia,,True,1064,3217,4720,2,4043,False,
+16,1092272558827864064,Gustavo🇨🇴🇨🇴Oe!,Gustavo60195928,🇨🇴🇨🇴Oe!,http://pbs.twimg.com/profile_images/1092274651147968512/oTQTXAE1_normal.jpg,,2019-02-04 04:04:06,Armenia Quindío Colombia,,True,224,4291,5409,0,5278,False,
+17,1271155642905001984,LuciaPardo1970,LPardo1970,,http://pbs.twimg.com/profile_images/1271496075992600576/bIunzkwt_normal.jpg,,2020-06-11 19:01:43,,,False,1582,1272,727,0,974,False,
+18,99799827,Racso Osnofla,oscar_gallego,Siempre por la derecha!!! #UribistaSigueUribista 🇨🇴,http://pbs.twimg.com/profile_images/1121933506324701184/fCY8UM4o_normal.jpg,http://abs.twimg.com/images/themes/theme14/bg.gif,2009-12-27 22:44:40,Colombia,,True,1924,3894,2277,1,4597,False,
+19,115834454,César Castrillón,cesarcastricord,"Abogado. 
+Gestor de acciones en pro del desarrollo social.= 100% URIBISMO",http://pbs.twimg.com/profile_images/1276682292279291906/jhLGw5RE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-02-20 03:47:49,"Cali, Colombia",,False,3468,3437,5809,1,1829,False,
+20,1253389735885770753,Siete Estrellas,SieteEstrellas6,¡DIÓS por encima de TODO! ¡URIBISTA/HISPANISTA! ¡Pa'lante SIEMPRE por la DERECHA! ¡Patriota! #UribistaSigueUribista #MuroDeOccidente #2daEnmiendaLATAM #ProTrump,http://pbs.twimg.com/profile_images/1279789609107492864/6S6PNbwz_normal.jpg,,2020-04-23 18:26:29,"Barcelona, España",,False,677,880,1630,0,3240,False,
+21,41292729,Juan Pablo Echeverry Nicolella,JPEcheverry4,Politólogo rehabilitado. Foodie no certificado. Musicólogo amateur. Emprendedor millennial.,http://pbs.twimg.com/profile_images/1188987730849685507/MhLdQJCX_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-05-20 04:05:50,"Bogotá, D.C., Colombia",,True,28886,8642,27841,91,68394,True,
+22,1247567729256796161,criticadura5,criticadura5,La izquierda es otra pandemia que hay que acabar,http://pbs.twimg.com/profile_images/1252053242579693579/YAC4lPre_normal.jpg,,2020-04-07 16:51:50,,,False,151,325,48,0,7,False,
+23,969399752902225920,Sergio Rosalez,JuanRosal2103,,http://pbs.twimg.com/profile_images/1129071234719916033/L3YWQsuI_normal.jpg,,2018-03-02 02:31:26,"Bogotá, D.C., Colombia",,False,1299,609,90,0,47,False,
+24,1276061213932150784,Natalia Jaramillo,NatysJaram,#UribistasigueUribista,http://pbs.twimg.com/profile_images/1276577174254792704/KMUbqrTE_normal.jpg,,2020-06-25 07:56:32,North Vancouver,,False,717,978,85,1,86,False,
+25,36042554,The Royal Family,RoyalFamily,"Updates, pictures and videos from Buckingham Palace about the work and activities of The Queen and members of The Royal Family.",http://pbs.twimg.com/profile_images/1194195825838174208/IqIyECgx_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2009-04-28 11:31:02,Reino Unido,,True,4264243,536,33822,9277,697,True,
+26,1275737222495588352,Francisco Ortiz,Francis49524834,SIEMPRE POR LA DERECHA...URIBISTA DE CORAZÓN.,http://pbs.twimg.com/profile_images/1275742076420993024/0UrNt_e2_normal.jpg,,2020-06-24 10:27:40,,,False,791,1206,410,0,687,False,
+27,2531692643,julio mulford,juliomulford62,,http://pbs.twimg.com/profile_images/1070029796145537024/Pm1a8Qgw_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2014-05-05 20:10:42,Santa Marta ,,True,106,966,102,0,9091,False,
+28,386722949,Oscar Ivan,osclau2010,"Respeto, 
+Educación, 
+Amor a la Patria, 
+Justicia
+Felizmente abuelo de Jeronimo",http://pbs.twimg.com/profile_images/1279092981539241985/gFYyoF0g_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-10-07 19:42:15,"Bogotá, DC, Colombia",,False,1162,1366,1762,1,214,False,
+29,1026979845690019840,Alexander Moya León,SoyAlexander25,"Estudiante de Contaduría pública 📓 / 10 semestre 📊 Colombia 🇨🇴 Instagram  soyalexander14
+👋firme ❤️ grande.",http://pbs.twimg.com/profile_images/1206804120344104960/EMe52byY_normal.jpg,,2018-08-07 23:54:10,"Agua de Dios, Colombia",,True,2138,4795,776,1,1550,False,
+30,37677102,Daniel Jiménez,danielcjz,"Republicano -
+Ciudades Sostenibles",http://pbs.twimg.com/profile_images/1271081667365609472/0bezXRBL_normal.jpg,http://abs.twimg.com/images/themes/theme5/bg.gif,2009-05-04 15:02:54,Bogotá,,True,5515,4983,38799,17,17010,False,
+31,1123435043924381697,Marco Herrera,MarcoHe32551018,"Conservador, parte de un equipo que ama la ciudad de  Medellín, 
+abogado de profesión , especialista en Derecho empresarial  ,   U De M
+De la mano de Dios🙏",http://pbs.twimg.com/profile_images/1129365463815905280/K0m5Im-1_normal.jpg,,2019-05-01 03:52:41,"Medellin, eterna Primavera",,False,34,64,9,0,289,False,
+32,1152277434689085440,Mariuxi Cevallos,MariuxiCevall18,,http://pbs.twimg.com/profile_images/1152278290763309056/IjtXld5x_normal.jpg,,2019-07-19 18:02:03,,,False,9,5,0,0,2,False,
+33,950216689630752768,Harold M,Haroldmonroyca1,"la mechita mi pasión,uribista al 100%",http://pbs.twimg.com/profile_images/1214034574990286851/WavzC_0A_normal.jpg,,2018-01-08 04:04:47,"Girardot, Colombia",,False,2414,2736,1168,0,8776,False,
+34,1151306803919171584,Carolina Campo Rincon,CarolinaCampoR6,Abogada Universidad de Medellin con énfasis en derecho laboral y seguridad social.,http://pbs.twimg.com/profile_images/1152372461259956225/SkobVmJe_normal.jpg,,2019-07-17 01:45:07,"Medellín, Colombia",,False,48,139,31,0,40,False,
+35,253374856,rafael uribe,rafa_uribe,A mi derecha no hay nadie. Uribista 100%,http://pbs.twimg.com/profile_images/1242661877391536139/IhBNtQ3P_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2011-02-17 03:22:35,Colombia,,False,2165,2068,1081,0,751,False,
+36,1119814626101944321,Daniela,Daniela08158090,"Soy Administradora de Negocios con una visión clara, me gusta divertirme siempre con las personas que amo❤️😘😍",http://pbs.twimg.com/profile_images/1238585335329718272/1cI5Vm7z_normal.jpg,,2019-04-21 04:06:26,,,False,68,100,308,0,933,False,
+37,1179581891994902529,Erika Macías,erika_paolamc,,http://pbs.twimg.com/profile_images/1179583108942848000/z22NO9ry_normal.jpg,,2019-10-03 02:20:24,,,False,47,83,102,0,203,False,
+38,1186651422659612673,gabriel Cadavid,gabrielCadavi14,Nadie... Solo Uribista 100%,http://pbs.twimg.com/profile_images/1187380092139462656/zsO6mpwb_normal.jpg,,2019-10-22 14:32:13,,,True,2280,2122,149,0,716,False,
+39,1212814058065285120,Uribista 100%,NaranjoHebert,Por mi Pais y Uribe hasta el Final de los Tiempos,http://pbs.twimg.com/profile_images/1219270252145586176/4W_BN9u6_normal.jpg,,2020-01-02 19:13:15,,,False,1900,614,20,0,1431,False,
+40,1027038144032591875,PARQ1230,Parq1230,"Álvaro URIBE Vélez..💪
+100% Uribista 💞",http://pbs.twimg.com/profile_images/1269205109327704066/bwIS1dJC_normal.jpg,,2018-08-08 03:45:49,"Medellín, Colombia",,False,2097,1080,389,0,1135,False,
+41,1199853354106728449,Andres Ocampo,AndresO98293784,coherencia y sensatez ante todo URIBISTA,http://pbs.twimg.com/profile_images/1199869806612242432/1XkQ7IWb_normal.jpg,,2019-11-28 00:52:05,,,False,1993,820,207,0,548,False,
+42,143458227,Charles X,DoctorXCongreso,"Abogado, especialista en derecho administrativo, crítico del comunismo, socialismo y todo lo huele a izquierda y que deje crecer al país. 💯% uribista",http://pbs.twimg.com/profile_images/1197874164100718593/SX10Awm__normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-05-13 14:30:07,,,False,1214,1004,264,0,258,False,
+43,1349759454,ol@!,lucafanador,"Mama, Colombiana, y creyente a Dios🍃🌹🇨🇴, ah y: Bodeguera!",http://pbs.twimg.com/profile_images/1227191127062798336/o0Utg8LH_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-04-13 17:20:04,,,False,1272,1296,5622,0,12203,False,
+44,1199160330,Luz Adriana Orozco,nanita0130,💯 💛💙❤,http://pbs.twimg.com/profile_images/1195347708757913600/mIqhCPPE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-02-20 01:11:58,"Florianópolis, Brasil",,False,1136,1459,37,0,144,False,
+45,195145910,Hay esperanza...,charliecaliche,"#Dios, #Familia #Patria, #RCA, por mi derecha. NO mamerto, NO corrupto. #SoyUribistaSigoAUribistas #Trading #forex #Binarias Conductor con plataformas Tucson",http://pbs.twimg.com/profile_images/902606476123881472/_S2R6ctE_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2010-09-25 23:03:40,BOGOTA,,True,1508,2142,10532,0,6972,False,
+46,3308549704,LUIS EDUARDO URBINA,LUISEDUARDOURB,URIBISTA 100%x100%.mi deportivo Pasto.,http://pbs.twimg.com/profile_images/1099338734334631940/k1DYdzzD_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2015-06-04 18:03:50,,,False,1410,1619,6606,0,851,False,
+47,1292679762,carlos jonnys,pastorcarlosjon,,http://pbs.twimg.com/profile_images/1096633354257088512/kXjVy_AM_normal.jpg,http://abs.twimg.com/images/themes/theme1/bg.png,2013-03-23 22:35:08,,,False,882,1279,33490,0,66470,False,
+48,2518169207,Aura Castillo,aura2707,,http://pbs.twimg.com/profile_images/463699841298620417/g1OGw-zq_normal.png,http://abs.twimg.com/images/themes/theme1/bg.png,2014-04-30 03:12:54,,,False,43,70,1222,1,1019,False,
+49,809117235944030209,Laura Gomez Gomez.,luluwex8877,,http://pbs.twimg.com/profile_images/1204486926125981700/ZJViob7p_normal.jpg,,2016-12-14 19:25:56,,,False,374,677,6978,0,11590,False,
+50,1183868234665201665,Nancy Arboleda,NancyArboleda16,,http://pbs.twimg.com/profile_images/1196915436417429505/wNb2lwAA_normal.jpg,,2019-10-14 22:13:03,,,False,37,212,115,0,473,False,

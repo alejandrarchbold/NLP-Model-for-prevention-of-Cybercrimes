@@ -1,0 +1,30 @@
+,TINFOLEAK Report
+,Vicente Aguilera Díaz
+,@VAguileraDiaz
+,www.isecauditors.com
+""
+,>>> Date:,2020-07-28
+,>>> Time:,18:56
+,>>> Analyzed user:,FESIRA
+,>>> Information:,Membership Lists
+""
+#,ID,LIST NAME,LIST DESCRIPTION,LIST MEMBER COUNT,LIST SUBSCRIBER COUNT,LIST URI,USER SCREEN NAME,USER CREATED AT,USER NAME,USER DESCRIPTION,USER FOLLOWERS,USER FRIENDS
+1,1098122565195890690,legal & economic equality,,89,1,/equalitynow/lists/legal-economic-equality,equalitynow,Fri May 16 16:19:49 +0000 2008,equalitynow,An international human rights organization using the law to protect & promote the rights of women & girls since 1992. Int'l Gender Equality Prize 2019 winner.,49399,2459
+2,1191701390458019845,EuropCom 2019,,69,19,/ktowens/lists/europcom-2019,ktowens,Tue Apr 28 22:51:44 +0000 2009,Katie Owens,"#EUComms on health and food safety (@EU_Health and @Food_EU), 🍀 & proud 🇪🇺, views expressed here are my own and not those of my employer",7950,5172
+3,870403212322459648,Belgium_D&I Active orgs,Orgs on a Diversity & Inclusion journey,240,0,/cvs_congo/lists/belgium-d-i-active-orgs,cvs_congo,Thu Aug 26 21:36:32 +0000 2010,CVS D-I,Advising CEOs on making #racialequity part of their corporate agenda | Diversifying corporate Brussels | #RaceTalk #Ethnostratification,2682,4985
+4,857331143968010241,Music List ,,3053,19,/monvelyno/lists/music-list,monvelyno,Wed Oct 14 14:56:22 +0000 2009,Monvelyno Alexis,I am a Painter/Guitarist/Singer born in Haiti.,1326,2951
+5,812264248382550016,DigitizeAfrica,,398,2,/DigitizeAfrica/lists/digitizeafrica,DigitizeAfrica,Fri Feb 26 15:14:29 +0000 2016,Digitize Africa,"Africa's Premier Digital Gathering providing leadership in digital transformation standards, education, access, and policy. #DigitizeAfrica",530,432
+6,795666719616462848,Genderequity,,4459,56,/girl_circus/lists/genderequity,girl_circus,Thu Jul 10 15:25:19 +0000 2014,GirlCircus,"https://t.co/UpRhd2x2je all Female circus since 2001, bringing Girl Power to the NW, community, creativity and mentorship.",645,1338
+7,218330412,Ixelles area,,4674,29,/RacinesBxl/lists/ixelles-area,RacinesBxl,Mon Sep 15 12:05:36 +0000 2014,Racines Bruxelles,,168,4
+8,743064240114827264,EDD16,,3333,26,/uclg_org/lists/edd16,uclg_org,Thu Mar 24 10:54:12 +0000 2011,United Cities,"United Cities and Local Governments is the global network representing the interests of #LocalGov&regions on the world stage
+#CitiesAreListening #Local4Action",34324,4770
+9,734915649533837312,Gaming and YouTube - V2,,4050,40,/Lets_Play_Twitr/lists/gaming-and-youtube-v2,Lets_Play_Twitr,Sun May 22 13:09:33 +0000 2016,AutomatedInfo,I Follow Too Many People. Run by @ReconPlaysGames . This account is strictly to test out SMM ideas before implementing them.,60,483
+10,232495684,Digital Leaders,,4376,58,/harrywestUK/lists/digital-leaders,harrywestUK,Mon Feb 16 17:29:37 +0000 2009,Harry West,Technical Leader | Speaker | Technologist. Passionate about #Cyber #Security #Infosec #Privacy #AI,2634,2138
+11,217419351,Record Setters,,4342,14,/HealthyBeacon/lists/record-setters,HealthyBeacon,Sat Sep 13 05:37:05 +0000 2014,Healthy Beacon,"Canadian #family #running toward better #health, and #fitness and sharing our journey. Visit our blog or like us at http://t.co/PKOGn5bDVe.",1830,1901
+12,206913025,Energieunion,,4657,75,/RafaKA83/lists/energieunion,RafaKA83,Wed Nov 16 16:53:15 +0000 2011,Rafael Schmidt,Consultant RE - Rödl & Partner,30,19
+13,211759658,Pharma Tweeters,,2289,23,/ChasePeople/lists/pharma-tweeters,ChasePeople,Tue Nov 24 17:13:07 +0000 2009,CHASE,"Chase People for Medical #Sales and Marketing Roles. Pf's CSO of the Year 2017/18. #Graduate Programme, and new vacancies daily. 
+
+0131 553 6644",1489,1323
+14,196759520,VotreJob,,3407,24,/datasama/lists/votrejob,datasama,Wed Aug 06 09:27:44 +0000 2014,Datasama,Datasama est un service de recrutement développé par des Data Scientists qui connecte les Data Scientists aux meilleures opportunités. Compte géré par @jhondel,331,484
+15,135307268,Try DocResponse,We would love for you to beta test the Doc Response App and give us feedback. (IOS & Android),4077,82,/DocResponse/lists/try-docresponse,DocResponse,Tue Oct 16 18:56:33 +0000 2012,DocResponse,"#DocResponse is the only all-in-one solution that provides scheduling and digital check-in, along with documentation and clinical assessment #athenahealth",6537,7319
+16,117604273,Earth Day 2014 Thank You,Earth Day 2014 Thank You From Wind Storm Cloud Media,3371,0,/WSCMedia/lists/earth-day-2014-thank-you-2,WSCMedia,Thu Apr 19 17:58:36 +0000 2012,Wind Storm Cloud,We Are Renewable Energy Inventors. 2030 Zero Emissions #ClimateChange #EarthDay #ClimateAction #Peace https://t.co/anseVfrnBP,30171,229
