@@ -20,4 +20,4 @@ Additionally, the following methods are employed to determine the performance of
 
 ### Clusters and Analysis
 
-- Run the procesamiento_final code and change the location of the folder and have the relevant files in the same folder.
+- Run the procesamiento_clusters.py and change the location of the folder and have the relevant files in the same folder.
