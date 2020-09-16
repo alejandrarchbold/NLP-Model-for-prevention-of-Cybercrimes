@@ -20,4 +20,24 @@ Additionally, the following methods are employed to determine the performance of
 
 ### Clusters and Analysis
 
-- Run the procesamiento_clusters.py and change the location of the folder and have the relevant files in the same folder.
+First in the data folder we have 4 excel files:
+- usuarios: Is a database composed by two columns, users and tweets for the experiment 1
+- resultados: Is a database that has the cosine distances matrix between the tweets from the experiment 1, also has a final column with the cluster of each tweet
+- usuarios2: Is a database composed by two columns, users and tweets for the experiment 2
+- resultados2: Is a database that has the cosine distances matrix between the tweets from the experiment 2, also has a final column with the cluster of each tweet
+
+
+Into the project folder exists a python code called: procesamiento_final.py. The code run the experiment 2 so if you want to change to verify the experiment 1 results, change the database read and continue with the steps commented into the code.
+
+"procesamiento_final.py" has three sections:
+- Start
+- Plot cluster results
+- Sentimental Analysis
+
+In the first section, you can obtain the "resultados" file depending which is the experiment that you analize.
+
+In the second section, you plot the clusters of the cosine distances matrix of an experiment, the results that you obtain are show into the images folder in the data folder.
+
+Finally, in the third section, you plot the sentimental analysis plots that you can compare with the images in the images folder.
+
+
