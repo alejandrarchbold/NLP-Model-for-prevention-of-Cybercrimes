@@ -129,7 +129,7 @@ def medida_coseno(lista):
     return(lista_total)
 
 def getAnalysis(score):
-    if score < 0.2 and score !=0:
+    if score < 0:
         return "Negative"
     elif score == 0:
         return "Neutral"
