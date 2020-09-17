@@ -43,5 +43,9 @@ In the third section, you plot the sentimental analysis plots that you can compa
 
 Finally in the aggresive users section we select a set of potential aggresive users.
 
+### Results in Gephi
+
+To analyze the most aggressive users, the files that are in the folder called "Detected _users" we used it in the Gephi program. Each experiment is in that folder. In each experiment there is a "users" folder. In that folder, you can find the excel of users where it is attached in Gephi to identify the relationships.
+To see the experiments in detail, it is necessary to have downloaded the Gephi program and open the projects found in the "Gephi" folder.
 
 
