@@ -10,7 +10,7 @@ https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 https://drive.google.com/drive/folders/1sRGbLqDEGDoOVlayHdgSqRWhdbjpDMTs?usp=sharing
 
 
-### Preprocessing is located in the project folder in the NLP_similarity_models.ipynb file.
+### Preprocessing is located in the project folder in the preprocesamiento_hits_dcg.ipynb file.
 
 - Download the repository and save it somewhere on your computer. Then get the location and write it inside the os.chdir and os.environ.
 
