@@ -168,14 +168,8 @@ tabla.replace("", nan_value, inplace=True)
 
 tabla.dropna()
 
-# Delete repeat tweets
-
-num=eliminar_tweets_repetidos(tabla)
 
 tabla_temp=tabla
-
-for i in num:
-    tabla_temp=tabla_temp.drop(i)
 
 tabla_temp=tabla_temp.dropna()
 
@@ -186,7 +180,7 @@ wv_embeddings = gensim.models.KeyedVectors.load_word2vec_format('GoogleNews-vect
 
 
 # transform the column of tweets in dataframe to list
-text=tabla_temp['primero'].tolist()
+text=tabla_temp['tweets'].tolist()
 
 
 # Delete retweets
@@ -206,7 +200,7 @@ for tweet in lista_v1:
 
 
 # Make cosine distance
-
+# While the algorithm is creating the cosines distances, the programm shows the tweets that in the moment the programm is analyzing
 cosenos=medida_coseno(tweet_vec)
 
 # Make a matrix of cosines distance
@@ -216,21 +210,9 @@ cosenos_final=lista_good(cosenos)
 matriz_cosenos=np.stack(cosenos_final,axis=0)
 
 
-# Cluster graphics 
-
 
 from sklearn.cluster import SpectralClustering
 
-a=SpectralClustering(8).fit_predict(matriz_cosenos)
-
-import matplotlib.pyplot as plt  
-
-
-# plot cosine distances matrix
-
-#plt.imshow(matriz_cosenos)
-#plt.colorbar()
-#plt.show()
 
 # Create a data frame from the matrix
 
@@ -250,44 +232,56 @@ import seaborn as sns
 
 # Add into the data frame of the cosine distances another column of the cluster of each tweet
 
-clustering_kmeans = KMeans(n_clusters=8, precompute_distances="auto", n_jobs=-1)
+clustering_kmeans = KMeans(n_clusters=4, precompute_distances="auto", n_jobs=-1)
 vis['clusters'] = clustering_kmeans.fit_predict(vis)
 
 # Write an excel with the results
-escribir_excel(vis,"resultados")
+escribir_excel(vis,"resultados2")
 
-#results = pd.DataFrame(reduced_data,columns=['pca1','pca2'])
+
 
 # Plot k-means clustering
 
-# vis = vis.iloc[:, :-1]
-#from sklearn.decomposition import PCA
-#pca = PCA(n_components=2)
-#principalComponents = pca.fit_transform(vis)
-#principalDf = pd.DataFrame(data = principalComponents
-#             , columns = ['pca1', 'pca2'])
-#vis['clusters'] = clustering_kmeans.fit_predict(vis)
 
+##################################### PLOT cluster RESULTS ##########################
 
-#sns.scatterplot(x="pca1", y="pca2", hue=vis['clusters'], data=principalDf)
-#plt.title('K-means Clustering with 2 dimensions')
-#plt.show()
+vis=pd.read_excel("resultados.xlsx")
+
+clustering_kmeans = KMeans(n_clusters=4, precompute_distances="auto", n_jobs=-1)
+
+vis = vis.iloc[:, :-1]
+vis.drop(vis.columns[[0]], axis = 1, inplace = True)
+from sklearn.decomposition import PCA
+pca = PCA(n_components=2)
+principalComponents = pca.fit_transform(vis)
+principalDf = pd.DataFrame(data = principalComponents
+             , columns = ['pca1', 'pca2'])
+vis['clusters'] = clustering_kmeans.fit_predict(vis)
+
+sns.set_style("white")
+sns.scatterplot(x="pca1", y="pca2", hue=vis['clusters'], data=principalDf)
+plt.title('K-means Clustering with 2 dimensions')
+plt.show()
     
 
 ############################### Sentimental analysis #####################################
 
 
 # Read the previous results
-tabla=pd.read_excel("resultados.xlsx")
+tabla=pd.read_excel("resultados2.xlsx")
 
 # Read again the first table of users
 usu=pd.read_excel("usuarios2.xlsx")
 
 # Rename columns
 
-tab_revisada["usuarios"]=usu[["users"]]
 
-tab_revisada["tweets"]=usu[["tweets"]]
+
+#tab_revisada["usuarios"]=usu[["users"]]
+
+#tab_revisada["tweets"]=usu[["tweets"]]
+
+tabla_2=usu
 
 tabla_2["clusters"]=tabla["clusters"]
 
@@ -333,14 +327,15 @@ plt.show()
 
 # Only one plot with all clouds
 
-tab4=tab4.sort_values(by=['polaridad'])
-bu=tab4[0:100]
+#tab4=tab4.sort_values(by=['polaridad'])
+#bu=tab4[0:100]
 
 lista_cloud=[wordCloud1,wordCloud2,wordCloud3,wordCloud4]
 
 fig, ax = plt.subplots(2, 2)
+fig.set_facecolor("white")
 
-ax[0][0].imshow(lista_cloud[3], interpolation = "bilinear")
+ax[0][0].imshow(lista_cloud[0], interpolation = "bilinear")
 ax[0][0].set_title('Cluster 1')
 ax[0][0].set_yticklabels([])
 ax[0][0].set_xticklabels([])
@@ -352,14 +347,15 @@ ax[1][0].imshow(lista_cloud[2], interpolation = "bilinear")
 ax[1][0].title.set_text('Cluster 3')
 ax[1][0].set_yticklabels([])
 ax[1][0].set_xticklabels([])
-ax[1][1].imshow(lista_cloud[0], interpolation = "bilinear")   
+ax[1][1].imshow(lista_cloud[3], interpolation = "bilinear")   
 ax[1][1].title.set_text('Cluster 4')
 ax[1][1].set_yticklabels([])
 ax[1][1].set_xticklabels([])
+
 plt.show() 
 
 
-fig.savefig("exp1.pdf", bbox_inches='tight')
+fig.savefig("exp2.pdf", bbox_inches='tight')
 
     
 # Make plots of polarity
@@ -389,15 +385,13 @@ plt.show()
 
 labels=["neutral","negative","positive"]
 
-labels2=["negative","neutral","positive"]
-
 fig, ax = plt.subplots(2, 2)
-
+fig.set_facecolor("white")
 ax[0][0].pie(tab1['Analysis'].value_counts(),labels=labels,colors=["blue","green","orange"])
 ax[0][0].set_title('Cluster 1')
-ax[0][1].pie(tab2['Analysis'].value_counts(),labels=labels2,colors=["green","blue","orange"])
+ax[0][1].pie(tab2['Analysis'].value_counts(),labels=labels,colors=["blue","green","orange"])
 ax[0][1].title.set_text('Cluster 2')
-ax[1][0].pie(tab3['Analysis'].value_counts(),labels=labels2,colors=["green","blue","orange"])
+ax[1][0].pie(tab3['Analysis'].value_counts(),labels=labels,colors=["blue","green","orange"])
 ax[1][0].set_title('Cluster 3')
 ax[1][1].pie(tab4['Analysis'].value_counts(),labels=labels,colors=["blue","green","orange"])
 ax[1][1].set_title('Cluster 4')
@@ -411,7 +405,7 @@ escribir_excel(a, "polaridad")
 
 
 
-## Select aggresive users ##
+############################ Aggresive users ########################
 
 
 tabla_nodos=pd.read_excel("Nodos.xlsx")
@@ -424,7 +418,7 @@ for i in range(0,len(tabla_nodos)):
         
 # agrego al dato de los clusters+
 for i in range(0,32):
-    tabla_nodos["Cluster"][lista[i][0]]=3
+    tabla_nodos["Cluster"][lista[i][0]]=2
     tabla_nodos
     
     
