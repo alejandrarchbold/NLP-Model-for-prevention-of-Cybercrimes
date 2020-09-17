@@ -33,11 +33,15 @@ Into the project folder exists a python code called: procesamiento_final.py. The
 - Start
 - Plot cluster results
 - Sentimental Analysis
+- Aggresive users
 
 In the first section, you can obtain the "resultados" file depending which is the experiment that you analize.
 
 In the second section, you plot the clusters of the cosine distances matrix of an experiment, the results that you obtain are show into the images folder in the data folder.
 
-Finally, in the third section, you plot the sentimental analysis plots that you can compare with the images in the images folder.
+In the third section, you plot the sentimental analysis plots that you can compare with the images in the images folder.
+
+Finally in the aggresive users section we select a set of potential aggresive users.
+
 
 
